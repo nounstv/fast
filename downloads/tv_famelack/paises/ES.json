@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "JVUe7nnKCNgESR",
+    "name": "3Cat Cameres del temps",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "category": "Weather",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "3CA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "P0SviESIGjVMCR",
+    "name": "3Cat El bunquer",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "3CA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
+    ]
+  },
+  {
+    "id": "MsBPAtiznwuBpL",
+    "name": "3Cat Plats bruts",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+    "category": "Series",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "3CA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+    ]
+  },
+  {
+    "id": "SbKSg1Uc6JQCXF",
+    "name": "3CatInfo",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "3CA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "evUeZsCd7b98tf",
+    "name": "12tv",
+    "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "12T",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+    ]
+  },
+  {
+    "id": "cmUsBmwJXX5DLc",
+    "name": "24 Horas Canarias",
+    "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "24 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+    ]
+  },
+  {
+    "id": "74QjO5ht7iQnKv",
+    "name": "24 Horas Catalunya",
+    "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat, spa.",
+    "logoText": "24 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+    ]
+  },
+  {
+    "id": "0ql8ScPnCzsSJo",
+    "name": "28 kanala",
+    "url": "https://streaming.28kanala.eus/hls/z.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eus"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eus.",
+    "logoText": "28 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.28kanala.eus/hls/z.m3u8"
+    ]
+  },
+  {
+    "id": "h2QQauoc9yd3VL",
+    "name": "Activa TV",
+    "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ACT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+    ]
+  },
+  {
+    "id": "5OMRq0f5EVNrGL",
+    "name": "Actualidad 360",
+    "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ACT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UPwxwqMsILNzE5",
+    "name": "Alcarria TV",
+    "url": "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ALC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
+      "https://217.182.77.27/live/alcarriatv-livestream.m3u8"
+    ]
+  },
+  {
+    "id": "hkDzNHa7Mm4MEd",
+    "name": "Anime Vision",
+    "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+    "category": "Animation",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+    ]
+  },
+  {
+    "id": "Zue327U2SxgoQE",
+    "name": "Anime Vision Classics",
+    "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+    "category": "Animation",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+    ]
+  },
+  {
+    "id": "Saku7wzcVfuEzv",
+    "name": "Arabi TV",
+    "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ARA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
+    ]
+  },
+  {
+    "id": "Fv2fpsvbcUPHP8",
+    "name": "Aragon TV Internacional",
+    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ARA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+    ]
+  },
+  {
+    "id": "NZvHXProBuiKC4",
+    "name": "BabyTV Spain",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "BAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
+    ]
+  },
+  {
+    "id": "ByVhPHhbBMgsJX",
+    "name": "BBC Drama Spain",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Series",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "BBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gNHieigy6r2l2U",
+    "name": "BCN Gospel TV",
+    "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "BCN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8"
+    ]
+  },
+  {
+    "id": "MBJMQo3ahq3SeU",
+    "name": "Beyblade en Español",
+    "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "BEY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MkDG8x514T8qvl",
+    "name": "Bon Dia TV",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "BON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "nZxdZLBQ6KuYOb",
+    "name": "Cadena Elite",
+    "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    ]
+  },
+  {
+    "id": "YKXcBcU301g5xd",
+    "name": "Canal 1 Mar Menor Torre Pacheco",
+    "url": "https://directo.tuwebtv.es/canal1.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://directo.tuwebtv.es/canal1.m3u8"
+    ]
+  },
+  {
+    "id": "SjHQwsq7IlkAid",
+    "name": "Canal 3 TV Biar",
+    "url": "https://avantstreaming.es/hls/canal3.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://avantstreaming.es/hls/canal3.m3u8"
+    ]
+  },
+  {
+    "id": "TXUgKR5bcyBflc",
+    "name": "Canal 7 TeleValencia",
+    "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat, spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CnfcZWHdpy1vl5",
+    "name": "Canal 10 Emporda",
+    "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ventdelnord.tv:8080/escala/directe.m3u8"
+    ]
+  },
+  {
+    "id": "RXOTRvJYcdYU7o",
+    "name": "Canal 33 Madrid",
+    "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eu4hl3zkjGqEnK",
+    "name": "Canal 45",
+    "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
+    ]
+  },
+  {
+    "id": "ppVAYeEG6FqcRw",
+    "name": "Canal 2000",
+    "url": "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
+    ]
+  },
+  {
+    "id": "LtD5RiPuecwLxV",
+    "name": "Canal Coin TV",
+    "url": "https://canalcoin.garjim.es/hls/directo.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canalcoin.garjim.es/hls/directo.m3u8"
+    ]
+  },
+  {
+    "id": "miKfZBDz4Ia286",
+    "name": "Canal Donana",
+    "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://secure5.todostreaming.es/live/division-alm.m3u8"
+    ]
+  },
+  {
+    "id": "CTfUhDJ1psN0TH",
+    "name": "Canal Extremadura Satelite",
+    "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CTZYBRtAYF88Ky",
+    "name": "Canal Malaga RTV",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rNsPk0ZuXHne3A",
+    "name": "Canal Parlamento",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+    "category": "Legislative",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+    ]
+  },
+  {
+    "id": "CjjJWwnxdtJ1Na",
+    "name": "Canal San Roque",
+    "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9f6CAqeBSCM9vi",
+    "name": "Canal Sierra de Cadiz",
+    "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8"
+    ]
+  },
+  {
+    "id": "bz12XPJ3d34chR",
+    "name": "Canal Sur 2",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WsnjAbyAewcp2y",
+    "name": "Canal Sur Andalucia",
+    "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+      "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
+    ]
+  },
+  {
+    "id": "Pf3Zsb1GIIiXjl",
+    "name": "Canal Sur Noticias",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WVUXozdnskZ8q5",
+    "name": "Canal Taronja Comarques Centrals",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ugV1vg6i2vTvMX",
+    "name": "Canal Taronja Osona i Moianes",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vdzTQ3ekXElPjK",
+    "name": "Canal Terrassa",
+    "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IJ0S19qs2zsgF7",
+    "name": "Canal Terres de l'Ebre",
+    "url": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5al69Q4bUrZoo4",
+    "name": "Cine Friki",
+    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+    "category": "Movies",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CIN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+      "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7rliUvMeXLIrgh",
+    "name": "Cine Western",
+    "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
+    "category": "Movies",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
+    ]
+  },
+  {
+    "id": "Pckvfd0U1p60iP",
+    "name": "Ciudades del Ocio TV",
+    "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+    "category": "Entertainment",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CIU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
+    ]
+  },
+  {
+    "id": "Qfv5oZJyTVO7ql",
+    "name": "Clan Internacional",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8"
+    ]
+  },
+  {
+    "id": "HMkADRVzF88Xlb",
+    "name": "CMM TV",
+    "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CMM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
+    ]
+  },
+  {
+    "id": "dUunw6na7BVxaU",
+    "name": "Costa Noroeste TV",
+    "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "COS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+    ]
+  },
+  {
+    "id": "cXG1ys411JhMWW",
+    "name": "Crímenes Reales",
+    "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "CRÍ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cYGWjqo31Nlvlm",
+    "name": "Diez TV Las Villas",
+    "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "DIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+    ]
+  },
+  {
+    "id": "fdCqBOy89zJCPX",
+    "name": "Diez TV Ubeda",
+    "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "DIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+    ]
+  },
+  {
+    "id": "3PEdAjcPyYNLge",
+    "name": "Distrito TV",
+    "url": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "DIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+    ]
+  },
+  {
+    "id": "hgsplzEIrAMQff",
+    "name": "Durangaldeko Telebista",
+    "url": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eus"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eus.",
+    "logoText": "DUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+    ]
+  },
+  {
+    "id": "pILTgjKOONeKEW",
+    "name": "El 33 Originals",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "EL ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "hH4CoV8wpIpgVv",
+    "name": "El Toro TV",
+    "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+    ]
+  },
+  {
+    "id": "zUcAH8PhyR9Rfb",
+    "name": "Emporda TV",
+    "url": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "EMP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    ]
+  },
+  {
+    "id": "mCiVfIGYDaqE2r",
+    "name": "EsTuTele",
+    "url": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "EST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    ]
+  },
+  {
+    "id": "ry2G3plOdgjsxG",
+    "name": "ETB Events 1",
+    "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eus",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eus, spa.",
+    "logoText": "ETB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn1.etbon.eus/oc1/index.m3u8"
+    ]
+  },
+  {
+    "id": "3guFEOaTVKQVbo",
+    "name": "EWTN Espana",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "EWT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "uq3y8jHl6HMCfq",
+    "name": "EWTN Spain & Latin America",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "EWT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EGsBwKlWFjIivG",
+    "name": "France 24 Español",
+    "url": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "FRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8"
+    ]
+  },
+  {
+    "id": "Eo1vulLgYuXlO9",
+    "name": "Fuerteventura TV",
+    "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "FUE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8"
+    ]
+  },
+  {
+    "id": "VC0mpDqFEWjXwB",
+    "name": "Galicia TV Europa",
+    "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+    "category": "Public",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "glg"
+    ],
+    "description": "Canal de TV de Spain. Idioma: glg.",
+    "logoText": "GAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://crtvg-europa.flumotion.cloud/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pVAUDpY02IzoVj",
+    "name": "Goiena Eus",
+    "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "GOI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
+    ]
+  },
+  {
+    "id": "GZWR4WKfwfXc9w",
+    "name": "Gol Classics",
+    "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
+    "category": "Sports",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "GOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
+    ]
+  },
+  {
+    "id": "waVMWHYlkj0xMU",
+    "name": "Hamaika Telebista",
+    "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+    "category": "Culture",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "HAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RjKOHS1V7q1DJZ",
+    "name": "Historia",
+    "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+    "category": "Entertainment",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "HIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+    ]
+  },
+  {
+    "id": "c53RhFBvJqM5zG",
+    "name": "Ideas en 5 minutos",
+    "url": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "IDE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "d6sampxmKXCisS",
+    "name": "Interalmeria TV",
+    "url": "https://interalmeria.tv/directo/live.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "INT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://interalmeria.tv/directo/live.m3u8"
+    ]
+  },
+  {
+    "id": "GHi6V9VFxBsZxp",
+    "name": "Lancelot TV",
+    "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "LAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+    ]
+  },
+  {
+    "id": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Spain. Idioma: ron.",
+    "logoText": "LIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "url": "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "LOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+    ]
+  },
+  {
+    "id": "tTaC1IoTJHes6h",
+    "name": "M95 Television Marbella",
+    "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "M95",
+    "streamCount": 1,
+    "allStreams": [
+      "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+    ]
+  },
+  {
+    "id": "LAxDhZqtmdM26R",
+    "name": "Mijas 3.40TV",
+    "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MIJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming004.gestec-video.com/hls/MIJAS.m3u8"
+    ]
+  },
+  {
+    "id": "lMIWUh9FjBPLOx",
+    "name": "Molahits TV",
+    "url": "https://ventdelnord.tv:8080/mola/directe.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "MOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ventdelnord.tv:8080/mola/directe.m3u8"
+    ]
+  },
+  {
+    "id": "lRMrIEjwRowfq6",
+    "name": "Mr. Bean Anime Spain",
+    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MR.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Wrgjk0eyRotOl3",
+    "name": "Music TV Granada",
+    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+    ]
+  },
+  {
+    "id": "t7yU2xMXa6gSC9",
+    "name": "MyTime Movie Network",
+    "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Movies",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MYT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "AbcJxYxf3cyf3H",
+    "name": "Nature Time",
+    "url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "846V8NIrMo8bSl",
+    "name": "NatureTime",
+    "url": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+    "category": "Documentary",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NAT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+      "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rW8dm4MTBacJXv",
+    "name": "Negocios TV",
+    "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+    "category": "Business",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+    ]
+  },
+  {
+    "id": "j5aEA4hOVinh3j",
+    "name": "Nickelodeon",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
+    ]
+  },
+  {
+    "id": "q7nooMvVTTe0YZ",
+    "name": "Onda 15 TV",
+    "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+    ]
+  },
+  {
+    "id": "9dhga7gK9KijdY",
+    "name": "Onda Algeciras",
+    "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    ]
+  },
+  {
+    "id": "zLbwRa4421PyhS",
+    "name": "Onda Cadiz",
+    "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "w0BuuYkb1LM5NS",
+    "name": "Onda Valencia TV",
+    "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ]
+  },
+  {
+    "id": "I0DVGAmN7OWX0l",
+    "name": "Platzi TV",
+    "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+    "category": "Education",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "PLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+    ]
+  },
+  {
+    "id": "MBXc78WctcBqtJ",
+    "name": "POP World TV",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "POP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    ]
+  },
+  {
+    "id": "MUGH45wnKxFBS7",
+    "name": "Punt 3",
+    "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "PUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8"
+    ]
+  },
+  {
+    "id": "oKqDNWrQpZnryf",
+    "name": "Radio 3",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+    "category": "Culture",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
+    ]
+  },
+  {
+    "id": "OnJfjCJ00KqC5E",
+    "name": "Radio Bocairent TV",
+    "url": "https://185.81.77.4/BocairentTV/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat, spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://185.81.77.4/BocairentTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "79RGODupZW3p8n",
+    "name": "Radio Carnaval TV",
+    "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8116/index.m3u8"
+    ]
+  },
+  {
+    "id": "5yu8uNtNIpaTKc",
+    "name": "Radio Television Marbella",
+    "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    ]
+  },
+  {
+    "id": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies Spain",
+    "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
+    "category": "Movies",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+    ]
+  },
+  {
+    "id": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+    "category": "Movies",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+    ]
+  },
+  {
+    "id": "0LyDCyOi0Q8ryz",
+    "name": "Real Madrid TV",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "category": "Sports",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "REA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+    ]
+  },
+  {
+    "id": "MGZU6AQGCifgRA",
+    "name": "Red Bull TV ES",
+    "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+    "category": "Sports",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "42SWFNRsXHqWLV",
+    "name": "Ribera TV",
+    "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat, spa.",
+    "logoText": "RIB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
+    ]
+  },
+  {
+    "id": "Wy0OVy2KrslAqR",
+    "name": "RNE para todos",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RNE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
+    ]
+  },
+  {
+    "id": "yMTjCVwIgtqXb8",
+    "name": "ROTV Valencia",
+    "url": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+    "category": "Entertainment",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Spain. Idioma: ron.",
+    "logoText": "ROT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8"
+    ]
+  },
+  {
+    "id": "xyviT4pxyVKqDh",
+    "name": "RT en Espanol",
+    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+    "category": "News",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RT ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "69wABBZ5acLQs0",
+    "name": "RTV Vida",
+    "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
+    ]
+  },
+  {
+    "id": "a0iZb4tYbH9r9K",
+    "name": "Sol Musica",
+    "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
+    ]
+  },
+  {
+    "id": "8gMbLdx2TDpfvb",
+    "name": "Solidaria TV",
+    "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
+    ]
+  },
+  {
+    "id": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng, spa.",
+    "logoText": "SPE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+    ]
+  },
+  {
+    "id": "Gwo0Rl1MzhMfE6",
+    "name": "Taroteame",
+    "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "whwil7KthXJUyX",
+    "name": "TBN Espana",
+    "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TBN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8"
+    ]
+  },
+  {
+    "id": "npuSZcJKB3d3IY",
+    "name": "Tele 7",
+    "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9WgfAeppTstCFn",
+    "name": "Tele Safor",
+    "url": "https://video.telesafor.com/hls/video.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.telesafor.com/hls/video.m3u8"
+    ]
+  },
+  {
+    "id": "QXO7Ca6Qev84ww",
+    "name": "Teleganes",
+    "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
+    ]
+  },
+  {
+    "id": "TTsAtcrhqlVNNS",
+    "name": "Television Canaria",
+    "url": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8"
+    ]
+  },
+  {
+    "id": "bscWJz6fIdnFNN",
+    "name": "Television Consciente",
+    "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8"
+    ]
+  },
+  {
+    "id": "KtWdn3QueOpj9h",
+    "name": "Tito TV",
+    "url": "https://cloud.tvomix.com/TITOTV/index.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.tvomix.com/TITOTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "UIWLgTqTBtbo6l",
+    "name": "Todo Novelas",
+    "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+    "category": "Series",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TOD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
+    ]
+  },
+  {
+    "id": "QsRWuP3lWImATu",
+    "name": "TOP Barça Spain",
+    "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "TOP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tAsFFtQNNY2ssU",
+    "name": "Trece",
+    "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TRE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eHijSwcOOuzyYg",
+    "name": "TV BRICS Spanish",
+    "url": "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "41ap4CgxZB4KsE",
+    "name": "TVE Star",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "category": "Series",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TVE",
+    "streamCount": 3,
+    "allStreams": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+    ]
+  },
+  {
+    "id": "ofMevJFkJJi256",
+    "name": "TVO Jesus",
+    "url": "https://cloud.tvomix.com/TVOJESUS/index.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
+    ]
+  },
+  {
+    "id": "gyVcJ1bLnu4kuk",
+    "name": "TVOMIX",
+    "url": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.tvomix.com/TVOMIX/index.m3u8"
+    ]
+  },
+  {
+    "id": "P3ESPrzfdoSoj9",
+    "name": "TVReus",
+    "url": "https://eu1.servers10.com:8081/8166/index.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "TVR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8166/index.m3u8"
+    ]
+  },
+  {
+    "id": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "UNI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6lhNwfN4k1Lr3T",
+    "name": "Urola Telebista",
+    "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
+    "category": "General",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eus"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eus.",
+    "logoText": "URO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IKMYFInzhM8nN6",
+    "name": "Ventdelnord TV",
+    "url": "https://ventdelnord.tv:8080/hls/directe.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "VEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ventdelnord.tv:8080/hls/directe.m3u8"
+    ]
+  },
+  {
+    "id": "Hw4gcMWFqlE6Dv",
+    "name": "Vevo Pop Spain",
+    "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [],
+    "description": "Canal de TV de Spain. Idioma: N/A.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "f4MvB70GxNwe4i",
+    "name": "VOTV",
+    "url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+    "category": "Geral",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "VOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IQrnnNNldjOCl4",
+    "name": "XPTV US",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+    "category": "Series",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "XPT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+    ]
+  },
+  {
+    "id": "OyFemiSp7sx4JI",
+    "name": "XPTV1",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "XPT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+    ]
+  },
+  {
+    "id": "XhN7WumhsQidL3",
+    "name": "XPTV2",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
+    "category": "Entertainment",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "XPT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,2788 @@
+[
+  {
+    "id": "gF1dEuiCaJ0feG",
+    "name": "Adoram TV",
+    "url": "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ADO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "vYo4uv91cRkUMc",
+    "name": "Ahora TV",
+    "url": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "AHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
+    ]
+  },
+  {
+    "id": "yrqV3KVxkcyKHh",
+    "name": "AION TV",
+    "url": "https://edge.essastream.com/aiontelevision/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "AIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/aiontelevision/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2zR7LDBM0449Tp",
+    "name": "Alcarrizos TV",
+    "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ALC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4sLHF1UGyiajJm",
+    "name": "Alegre TV RD",
+    "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ALE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
+    ]
+  },
+  {
+    "id": "e2IOeh4rWLNiqn",
+    "name": "Altanto TV",
+    "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ALT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8"
+    ]
+  },
+  {
+    "id": "jRPu7z7YpFVL1Y",
+    "name": "Ame 47",
+    "url": "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "AME",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "X5A044gnV3ctUa",
+    "name": "Bani Vision",
+    "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "BAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8"
+    ]
+  },
+  {
+    "id": "hovo939geWj8nW",
+    "name": "Bonches Latinos TV",
+    "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "BON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5fPdHbPWBlhNGl",
+    "name": "Boreal",
+    "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
+    "category": "Movies",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "BOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "IpRxoQDxfg6HEe",
+    "name": "Cana TV Digital",
+    "url": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8"
+    ]
+  },
+  {
+    "id": "FQPqNpT09UuWx8",
+    "name": "Canal 4 RD",
+    "url": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QtyIEE9DZnKUAu",
+    "name": "Canal 17 RTVD",
+    "url": "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+    "category": "Culture",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rfwt8SujjryxiN",
+    "name": "Canal 56",
+    "url": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "n0wEm5oaNn2zqb",
+    "name": "Canal Catorce",
+    "url": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
+    ]
+  },
+  {
+    "id": "lGjT2jeXckVXEb",
+    "name": "Canal del Sol",
+    "url": "https://stream.canaldelsol.com/sol26/live_1080.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.canaldelsol.com/sol26/live_1080.m3u8"
+    ]
+  },
+  {
+    "id": "LSLRTmwWOHFIfa",
+    "name": "Canal DTV",
+    "url": "https://s.emisoras.tv:8081/dtv/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/dtv/index.m3u8"
+    ]
+  },
+  {
+    "id": "IHLYD7UF6TycXK",
+    "name": "Canal Multivision",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "exaauxafuWqNMx",
+    "name": "Canalda 26 HD",
+    "url": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canalda.rgradio.net:3084/live/canaldalive.m3u8"
+    ]
+  },
+  {
+    "id": "MkGEzKEwcl7N9I",
+    "name": "Cananga TV",
+    "url": "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8"
+    ]
+  },
+  {
+    "id": "46FPMfxuiIg9ch",
+    "name": "Caoba TV Radio",
+    "url": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://host.streamingnation.live:3940/live/caobatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "cdLRX69xN3XHLA",
+    "name": "Cascara TV",
+    "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pDNDZsLwV7Dddl",
+    "name": "Cenovision HD",
+    "url": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OrgQw5NnGfhd8H",
+    "name": "Chinola TV",
+    "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+    "category": "Kids",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "rxy70O0pPPqhdW",
+    "name": "Cibaena TV",
+    "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CIB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "MQOAY88EMuvtI2",
+    "name": "Cielo TV",
+    "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tZoxzmEFVhCCUN",
+    "name": "Cinevision Canal 19",
+    "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HPyQdirQrsN0iE",
+    "name": "Citrico TV",
+    "url": "https://edge.essastream.com/citricotv/playlist.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/citricotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VwX8RxAdpsnqBZ",
+    "name": "Claro Television Dominicana",
+    "url": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3960/live/claroteledomlive.m3u8"
+    ]
+  },
+  {
+    "id": "uvRyQ6IoXEUJJX",
+    "name": "Claro Vision TV",
+    "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
+    ]
+  },
+  {
+    "id": "xFpT3C40q0anDG",
+    "name": "CNT Mas TV",
+    "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CNT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "g9yLNPthmWR8vu",
+    "name": "COCO TV",
+    "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "COC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/canalcocotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BaH26ElmdOJtTE",
+    "name": "Codigo TV",
+    "url": "https://edge.essastream.com/codigotv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "COD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/codigotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8OBV4Vxmu7xHwm",
+    "name": "Colome TV",
+    "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "COL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eEBHI2P19xOhR6",
+    "name": "Cotubanama TV",
+    "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "COT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://host.streamingnation.live/p/3588/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "G263iqc8iNRvPU",
+    "name": "CV Vision TV",
+    "url": "https://eu1.servers10.com:8081/8128/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8128/index.m3u8"
+    ]
+  },
+  {
+    "id": "GPRph6cakYel7v",
+    "name": "De Ultimo Minuto TV",
+    "url": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "DE ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8"
+    ]
+  },
+  {
+    "id": "Wxf1OrLlT4Y7mE",
+    "name": "Del Pueblo TV",
+    "url": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "opeEpAIZHGZp9E",
+    "name": "Digital 15",
+    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "DIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ne8LS4D4PQ9vnz",
+    "name": "Digital Vision 63",
+    "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "DIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NBhlUgI43dCA88",
+    "name": "Digital809 TV",
+    "url": "https://stream.inliveserver.com:19360/8146/8146.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "DIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.inliveserver.com:19360/8146/8146.m3u8"
+    ]
+  },
+  {
+    "id": "vjmoS8iIr20Ouk",
+    "name": "Ecos Canal 57",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ECO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FOmh48Vhhwgsmx",
+    "name": "Ecovision",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+    "category": "Documentary",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ECO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ]
+  },
+  {
+    "id": "13Kg8AyngtvWeB",
+    "name": "El Pituco TV",
+    "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
+    ]
+  },
+  {
+    "id": "JgnInJPf8MJfJz",
+    "name": "El Puerto TV",
+    "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EXVopn5DnNJyW4",
+    "name": "El Seis 6",
+    "url": "https://stream.elseis.do/canal6/live_1080.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.elseis.do/canal6/live_1080.m3u8"
+    ]
+  },
+  {
+    "id": "UhCCBtTKG4zDpi",
+    "name": "Elias Pina TV",
+    "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ELI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eKupfaThSAa8YD",
+    "name": "Enntivision",
+    "url": "https://edge.essastream.com/enntivision/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ENN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/enntivision/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HthG1f5L2KKGYL",
+    "name": "entelevision",
+    "url": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ENT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
+    ]
+  },
+  {
+    "id": "2fPPM3f7yHGrfK",
+    "name": "Enterate RD",
+    "url": "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ENT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OFUPqXIKvtH9Ga",
+    "name": "Entuno TV",
+    "url": "https://soportedvb.click:3442/live/entunotvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ENT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3442/live/entunotvlive.m3u8"
+    ]
+  },
+  {
+    "id": "gtPfYBEIr9INvX",
+    "name": "Extra 86 TV",
+    "url": "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "EXT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "BIezpWOUIa6DOk",
+    "name": "Farovision",
+    "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "FAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "s6QIcWuMdB9mV3",
+    "name": "FRATA TV",
+    "url": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "FRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "hOb4zCEnF4IOQo",
+    "name": "Fuego TV",
+    "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "FUE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3553/live/cromtvlive.m3u8"
+    ]
+  },
+  {
+    "id": "1F1EdHBXQRaHrz",
+    "name": "GalaxiATeVe",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "GAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
+    ]
+  },
+  {
+    "id": "6oM3FaZc4Ra7DI",
+    "name": "Gi Television",
+    "url": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "GI ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8"
+    ]
+  },
+  {
+    "id": "fHEjBf1AWL1gsq",
+    "name": "Global TV",
+    "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "GLO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+    "category": "Culture",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "GUA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YABLcD0r2b1yge",
+    "name": "Haina Vision",
+    "url": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "HAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8"
+    ]
+  },
+  {
+    "id": "oHCT6QQtMNPllU",
+    "name": "Hilando Fino TV",
+    "url": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "HIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8"
+    ]
+  },
+  {
+    "id": "PCrKyhUELXpg6V",
+    "name": "Imagen Universal TV",
+    "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "IMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
+    ]
+  },
+  {
+    "id": "Da0BqYA1FUZOI7",
+    "name": "Informe TV",
+    "url": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "INF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "KYpbBZ8VkLSiFl",
+    "name": "JARABACOA TV",
+    "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "JAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LFRUQAeUZ4Y2Ew",
+    "name": "Jimani TV",
+    "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "JIM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yuq8lQ2J6PpfyF",
+    "name": "JPD TV",
+    "url": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "JPD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8"
+    ]
+  },
+  {
+    "id": "yFiClHHlH26XIk",
+    "name": "Junior Technologia TV",
+    "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "JUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8"
+    ]
+  },
+  {
+    "id": "qYlAH3M6IaAde9",
+    "name": "La Caleta TV",
+    "url": "https://edge.essastream.com/lacaletatv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/lacaletatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Nd71SI9toAAS97",
+    "name": "La Descarga TV",
+    "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8"
+    ]
+  },
+  {
+    "id": "awGvM1ZLKddCle",
+    "name": "La Hora TV",
+    "url": "https://edge.enhdtv.com/8206/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.enhdtv.com/8206/index.m3u8"
+    ]
+  },
+  {
+    "id": "kvhIgUHSS1yj0R",
+    "name": "LA MIA TV",
+    "url": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vrM0kWUYrr4qkq",
+    "name": "La Reina TV",
+    "url": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "lfHwV3Md8BFk2E",
+    "name": "La Ruta TV",
+    "url": "https://streamunoapp.com:3983/live/larutatvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3983/live/larutatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "VrEjjCopAu2TsV",
+    "name": "La Voz de Maria",
+    "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
+    ]
+  },
+  {
+    "id": "jkKIWp8tVeKWkO",
+    "name": "La Voz del Tropico",
+    "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mWic7BKGFi5alJ",
+    "name": "Larivision TV",
+    "url": "https://live.larimartv.net/livelan/stream.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.larimartv.net/livelan/stream.m3u8"
+    ]
+  },
+  {
+    "id": "OVV3xXUAUVDEzN",
+    "name": "Latina TV Internacional",
+    "url": "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "36w5f83euB9HCF",
+    "name": "Lena TV",
+    "url": "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "320S8yhqhPXOWr",
+    "name": "Linieros TV",
+    "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3017/live/linierostvlive.m3u8"
+    ]
+  },
+  {
+    "id": "feriVkMpSCqTiS",
+    "name": "Luna TV Canal 53",
+    "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
+    ]
+  },
+  {
+    "id": "fhq7eD47NWAp9D",
+    "name": "Luz Divina TV",
+    "url": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LUZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "RMbg1qFUrHD6uy",
+    "name": "Makao TV",
+    "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "n07Bqfiep3PYlV",
+    "name": "Manaclar Television",
+    "url": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "s6et7OTRECsPuf",
+    "name": "Marka TV",
+    "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CH0OBldtzqtjEK",
+    "name": "Mega Cine TV",
+    "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+    "category": "Movies",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e4kfijsQ6LLBlM",
+    "name": "MegaVision TV",
+    "url": "https://server2grupocam.com/megavision/MV/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://server2grupocam.com/megavision/MV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kecW4tkFMBSGg8",
+    "name": "MI Turno TV",
+    "url": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MI ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8"
+    ]
+  },
+  {
+    "id": "UBE33Aayku3IdM",
+    "name": "Miavision TV",
+    "url": "https://edge.essastream.com/miavisiontv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/miavisiontv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bhB9GPxDFN8EXk",
+    "name": "Microvision 10",
+    "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ncjyfC7Rn3qNy9",
+    "name": "Montecristi Digital 8",
+    "url": "https://soportedvb.click:3400/live/montecristitvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3400/live/montecristitvlive.m3u8"
+    ]
+  },
+  {
+    "id": "HtKfpBxWmWk97C",
+    "name": "Musavision",
+    "url": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "xtsjDTWQEDQzAF",
+    "name": "Naranja TV",
+    "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "NAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8"
+    ]
+  },
+  {
+    "id": "ZtlEGFCcA0ANO7",
+    "name": "Navarrete Television",
+    "url": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "NAV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8"
+    ]
+  },
+  {
+    "id": "af7t2JAvlHDGRB",
+    "name": "Nexxo TV",
+    "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "NEX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
+    ]
+  },
+  {
+    "id": "IG7KP9uOfXV0Z7",
+    "name": "OEPM TV",
+    "url": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+    "category": "Travel",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "OEP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "PW4ES8xH9eTBMZ",
+    "name": "ORBIT TV",
+    "url": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ORB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "GSLtzNCIyVPgcd",
+    "name": "OxiTV",
+    "url": "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "OXI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8"
+    ]
+  },
+  {
+    "id": "1mLecpEz5ZOFIk",
+    "name": "Palmar TV",
+    "url": "https://streamunoapp.com:3255/live/palmartvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "PAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3255/live/palmartvlive.m3u8"
+    ]
+  },
+  {
+    "id": "9rcLtXP84YPN4i",
+    "name": "Portal Digital TV",
+    "url": "https://edge.essastream.com/portaldigital/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "POR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/portaldigital/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gD8b6UqLHFJhPd",
+    "name": "Punto TV Digital 40",
+    "url": "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "PUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7UxnoH9jtRLEDR",
+    "name": "R Television",
+    "url": "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "R T",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "rZOVO8gCJIj632",
+    "name": "R&E TV",
+    "url": "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "R&E",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LWQDeEbz5IjZqR",
+    "name": "RDN",
+    "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "RDN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "kQtr8hWH7qS13a",
+    "name": "Ready TV Canal 6",
+    "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "REA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cT3tvdNSAy3ioO",
+    "name": "Red Social Codi TV",
+    "url": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "RED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rjjk7IPTypvxqP",
+    "name": "Reportero TV",
+    "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "REP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8"
+    ]
+  },
+  {
+    "id": "IIBvk5wvjgjgdc",
+    "name": "RNN",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "RNN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "joIz85ZUQyPkFz",
+    "name": "RNN DOS",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "RNN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3lIvXHDiZafxDS",
+    "name": "Rocavision TV",
+    "url": "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ROC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8"
+    ]
+  },
+  {
+    "id": "LH8gNIRkaTHoK9",
+    "name": "Romana TV Canal 42",
+    "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ROM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8"
+    ]
+  },
+  {
+    "id": "bgq91Sv8p4pP0P",
+    "name": "San Isidro TV",
+    "url": "https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "65fGvdVEtKCjaw",
+    "name": "Santa Cruz TV",
+    "url": "https://host.streamingnation.live/p/3345/hybrid/play.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://host.streamingnation.live/p/3345/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "XCgCcSEJV1BniG",
+    "name": "Santiago TV",
+    "url": "https://edge.essastream.com/telemilenio/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/telemilenio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ou96WQecpf45yL",
+    "name": "Senal Digital TV",
+    "url": "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8"
+    ]
+  },
+  {
+    "id": "V55Spleruc6ryB",
+    "name": "Siembra TV",
+    "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
+    ]
+  },
+  {
+    "id": "FX70iIgiDryPfy",
+    "name": "Simavision Canal 18",
+    "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SIM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
+    ]
+  },
+  {
+    "id": "9ZwTYSOQ94ewGa",
+    "name": "Sistesur Canal 49",
+    "url": "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e4PO6mOz6agpjV",
+    "name": "Super Canal",
+    "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8",
+    "category": "Geral",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "H9rNHYq7t3US6d",
+    "name": "Super Digital TV",
+    "url": "https://stream.inliveserver.com:19360/8006/8006.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.inliveserver.com:19360/8006/8006.m3u8"
+    ]
+  },
+  {
+    "id": "WPju2v0ENmM2u9",
+    "name": "Super TV 55",
+    "url": "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KulpGXiD7H6QWL",
+    "name": "Super7FM",
+    "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
+    ]
+  },
+  {
+    "id": "IYGyemoJPGZy5y",
+    "name": "Supremateve",
+    "url": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3KqnfFX9vnSDZo",
+    "name": "Sur TV",
+    "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0zItslKqlOckRv",
+    "name": "TDN Medios",
+    "url": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+    "category": "Geral",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TDN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8"
+    ]
+  },
+  {
+    "id": "8lg7qT7CxxMwKe",
+    "name": "Tele Dajabon TV",
+    "url": "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8"
+    ]
+  },
+  {
+    "id": "q3s8mH9XozYPSB",
+    "name": "Tele Dominicana TV",
+    "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "mGJ98RjUwsSmmv",
+    "name": "Tele Ola 44",
+    "url": "https://teleola.ddns.net/hls/stream.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://teleola.ddns.net/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "fDGMkRhycdaJef",
+    "name": "Tele Proyecto TV",
+    "url": "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CORwRAmNupjkQF",
+    "name": "TeleBendicion",
+    "url": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "84wuAfoM60dKOA",
+    "name": "Telecanal 12",
+    "url": "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "vIN4VYFqvL9G8F",
+    "name": "Telecentro",
+    "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "b0Jt7tq1ydDp20",
+    "name": "TeleCibaoHD",
+    "url": "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "B2htIcTwEhuHsx",
+    "name": "Telecomercio TV",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8"
+    ]
+  },
+  {
+    "id": "hfNTY4TAa4g2Tw",
+    "name": "Telecontacto",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8"
+    ]
+  },
+  {
+    "id": "KHvPrvdiH4PJdL",
+    "name": "Telemax",
+    "url": "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "A3zrWogew4PVE2",
+    "name": "Telemetro TV",
+    "url": "https://streamunoapp.com:3366/live/telemetrolive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3366/live/telemetrolive.m3u8"
+    ]
+  },
+  {
+    "id": "6TELvz3O0gHlCZ",
+    "name": "Telemicro",
+    "url": "https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "efVpH2VcbQIwgi",
+    "name": "Telenews TV",
+    "url": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8"
+    ]
+  },
+  {
+    "id": "FyAioBbUg1uN5k",
+    "name": "Telesantodomingo",
+    "url": "https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8"
+    ]
+  },
+  {
+    "id": "ybwqr9KL36gEdb",
+    "name": "TELESIGLO",
+    "url": "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [],
+    "description": "Canal de TV de Dominican Republic. Idioma: N/A.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "hVHCiZlLoCKH6i",
+    "name": "Teleuniverso",
+    "url": "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8"
+    ]
+  },
+  {
+    "id": "Rq6AkjwJCWvOOq",
+    "name": "Telever",
+    "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3413/live/televerlive.m3u8"
+    ]
+  },
+  {
+    "id": "lDzPoC5aKtmVl6",
+    "name": "Televida",
+    "url": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnn.hostlagarto.com/televida/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wou1ed2Dn3HMYz",
+    "name": "Television del Este",
+    "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
+    "category": "News",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "PIluhlMF5nMowT",
+    "name": "Tenarenses TV",
+    "url": "https://edge.essastream.com/tenarensestvrd/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/tenarensestvrd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7ou9OY1nQUGsSq",
+    "name": "Tiguerito TV",
+    "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+    "category": "Kids",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EE285n8RUw5BzL",
+    "name": "Topical Moon RD",
+    "url": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TOP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8"
+    ]
+  },
+  {
+    "id": "xCDrIWnNgtribb",
+    "name": "Turismo RDTV",
+    "url": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+    "category": "Travel",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
+    ]
+  },
+  {
+    "id": "fIuMEyeeVmQ8H8",
+    "name": "TV Cotui Canal 31",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PqhSs4QgiYSTPX",
+    "name": "TV Exitos",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
+    ]
+  },
+  {
+    "id": "6wFKcGUOOiV8aS",
+    "name": "TV Higuey Digital",
+    "url": "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8"
+    ]
+  },
+  {
+    "id": "vw8tDPCdVUihMK",
+    "name": "TV Luz",
+    "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+    "category": "Religious",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
+    ]
+  },
+  {
+    "id": "5mETthMYJTfyVc",
+    "name": "TV Montana Canal 10",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "frRdvTKPgo8QKO",
+    "name": "TV Plata",
+    "url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2U7Gx5lVw0ZY3m",
+    "name": "TVO",
+    "url": "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8"
+    ]
+  },
+  {
+    "id": "u1wWzgnSUs7Sl8",
+    "name": "TVS",
+    "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://imagenuniversaltv.net:3741/live/tvslive.m3u8"
+    ]
+  },
+  {
+    "id": "wzyqTurviL28JV",
+    "name": "Valle Nuevo TV",
+    "url": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "VAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mlgoSlhCaHQLXs",
+    "name": "Vallevision",
+    "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "VAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0nNmH4coN6Swi3",
+    "name": "Villa Altagracia TV",
+    "url": "https://stream.inliveserver.com:19360/8004/8004.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "VIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.inliveserver.com:19360/8004/8004.m3u8"
+    ]
+  },
+  {
+    "id": "4CplZeiORcJRcS",
+    "name": "Vision NDV",
+    "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
+    "category": "Entertainment",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "VIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://soportedvb.click:3891/live/visionndvlive.m3u8"
+    ]
+  },
+  {
+    "id": "qZaR37EtRhf6Wl",
+    "name": "Xtra Tv",
+    "url": "https://edge.essastream.com/xtratv/index.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "XTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.essastream.com/xtratv/index.m3u8"
+    ]
+  },
+  {
+    "id": "tvomcgN1r897Rz",
+    "name": "Xtremo Channel",
+    "url": "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "XTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GzdIp9yj4lSacQ",
+    "name": "Zinc Nombre TV",
+    "url": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ZIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ux7RRYtoNICWVL",
+    "name": "Zonavision TV",
+    "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+    "category": "General",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ZON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,6654 @@
+[
+  {
+    "id": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "url": "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
+    "category": "Music",
+    "country": "PL",
+    "countryName": "Poland",
+    "languages": [
+      "pol"
+    ],
+    "description": "Canal de TV de Poland. Idioma: pol.",
+    "logoText": "4 F",
+    "streamCount": 3,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+    ]
+  },
+  {
+    "id": "fggC9IDaIV7QIQ",
+    "name": "4 Music",
+    "url": "https://itthls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "4 M",
+    "streamCount": 2,
+    "allStreams": [
+      "https://itthls.wns.live/hls/stream.m3u8",
+      "https://musichls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "H6MgSXQWhc1xON",
+    "name": "4Kurd",
+    "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas",
+      "kur"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas, kur.",
+    "logoText": "4KU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://4kuhls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "yngiaKgtaE21WQ",
+    "name": "7 RadioVisione",
+    "url": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "7 R",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pro30kPCL5sW43",
+    "name": "7 YOU & ME",
+    "url": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "7 Y",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OlGSowZnWs82o6",
+    "name": "7S Music",
+    "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "7S ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
+    ]
+  },
+  {
+    "id": "YjfGvP98XO19wA",
+    "name": "9X Jhakaas",
+    "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "mar"
+    ],
+    "description": "Canal de TV de India. Idioma: mar.",
+    "logoText": "9X ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+      "https://cdn-3.pishow.tv/live/6/master.m3u8"
+    ]
+  },
+  {
+    "id": "PY1LqZ14oOr4j9",
+    "name": "9X Tashan",
+    "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "pan"
+    ],
+    "description": "Canal de TV de India. Idioma: pan.",
+    "logoText": "9X ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+      "https://cdn-2.pishow.tv/live/1613/master.m3u8"
+    ]
+  },
+  {
+    "id": "7CIRMQUnuxC7MK",
+    "name": "9XM",
+    "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "9XM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://epiconvh.akamaized.net/live/9XM/master.m3u8"
+    ]
+  },
+  {
+    "id": "pxjrbdjAUkD2To",
+    "name": "13 Festival",
+    "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "13 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+    ]
+  },
+  {
+    "id": "XwatyYfDCBPOZF",
+    "name": "51 Radio TV",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "51 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UnocQxyrv9YNqn",
+    "name": "70-80 TV",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "70-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3gZO8yQ0WOkQ8B",
+    "name": "88 Stereo",
+    "url": "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "88 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "aN8uGsIctN5GGv",
+    "name": "98.1 Pearl FM",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "category": "Music",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng.",
+    "logoText": "98.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+    ]
+  },
+  {
+    "id": "d5k9RHTOOkIzsq",
+    "name": "A2i Music",
+    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "category": "Music",
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "description": "Canal de TV de Senegal. Idioma: fra, wol.",
+    "logoText": "A2I",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "AkH8avUBkXTLm9",
+    "name": "Aaryaa TV",
+    "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "AAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ottlive.co.in/aryatvtamil/index.m3u8"
+    ]
+  },
+  {
+    "id": "eBbpgzBPw5kGpm",
+    "name": "Abdulmajeed Abdullah",
+    "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "ABD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8"
+    ]
+  },
+  {
+    "id": "h2QQauoc9yd3VL",
+    "name": "Activa TV",
+    "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ACT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+    ]
+  },
+  {
+    "id": "TmOaWV1T2skQNx",
+    "name": "AE Radio TV",
+    "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "AE ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8de166DRNsy84Z",
+    "name": "AFN TV",
+    "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "AFN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eJjlISOoTDWS4E",
+    "name": "Aghani Aghani TV",
+    "url": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
+    "category": "Music",
+    "country": "LB",
+    "countryName": "Lebanon",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Lebanon. Idioma: ara.",
+    "logoText": "AGH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8"
+    ]
+  },
+  {
+    "id": "a6UlcJ86l0A6vJ",
+    "name": "AlbKanale Music TV",
+    "url": "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8",
+    "category": "Music",
+    "country": "AL",
+    "countryName": "Albania",
+    "languages": [
+      "sqi"
+    ],
+    "description": "Canal de TV de Albania. Idioma: sqi.",
+    "logoText": "ALB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8"
+    ]
+  },
+  {
+    "id": "vntT3Mgu6X5cjh",
+    "name": "AMC",
+    "url": "https://amchls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [
+      "pus"
+    ],
+    "description": "Canal de TV de Afghanistan. Idioma: pus.",
+    "logoText": "AMC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amchls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "gZ1nRlS0xe1gmU",
+    "name": "AMusic Channel",
+    "url": "https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+    "category": "Music",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Nigeria. Idioma: eng.",
+    "logoText": "AMU",
+    "streamCount": 2,
+    "allStreams": [
+      "https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9Bj0YsaSRZpcr4",
+    "name": "Andy Haryana",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "AND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+    ]
+  },
+  {
+    "id": "hWjMAZLy3MK2aA",
+    "name": "Antenne Kaernten",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TQZrrVdCDAg8if",
+    "name": "Antenne Steiermark",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "c1gByRg7bGFR8Z",
+    "name": "Atomic Academy TV",
+    "url": "https://atomic.streamnet.ro/academia.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "ATO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://atomic.streamnet.ro/academia.m3u8"
+    ]
+  },
+  {
+    "id": "HHRin5dp3UTQFP",
+    "name": "Atomic TV",
+    "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: eng, ron.",
+    "logoText": "ATO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://atomic.streamnet.ro/atomictv.m3u8"
+    ]
+  },
+  {
+    "id": "Dylm8CBl1CT952",
+    "name": "Avang TV",
+    "url": "https://hls.avang.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de United States. Idioma: fas.",
+    "logoText": "AVA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.avang.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "8aOL80SsOYTuYe",
+    "name": "Azahares Radiovisual Multimedia",
+    "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "AZA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "llG3LZh10Mx22l",
+    "name": "Balle Balle",
+    "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "BAL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://mcncdndigital.com/balleballetv/index.m3u8",
+      "https://cdn-4.pishow.tv/live/987/master.m3u8"
+    ]
+  },
+  {
+    "id": "alnxPYvmVkicEU",
+    "name": "Baraza TV",
+    "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "SwsWDthUMBPn2q",
+    "name": "Baraza TV Deep House",
+    "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SHCgFbO79Hh4Z8",
+    "name": "Beats Radio",
+    "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "BEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+    ]
+  },
+  {
+    "id": "gxLdnwNNr7kDXq",
+    "name": "BEATTV",
+    "url": "https://tv.beatfm.nl/live.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: nld.",
+    "logoText": "BEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.beatfm.nl/live.m3u8"
+    ]
+  },
+  {
+    "id": "lsn2po0NoORfy7",
+    "name": "Bel RTL",
+    "url": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+    "category": "Music",
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Belgium. Idioma: fra.",
+    "logoText": "BEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+    ]
+  },
+  {
+    "id": "EFmTACsbdn5aM0",
+    "name": "Best of Dance TV",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "BES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
+    ]
+  },
+  {
+    "id": "yHOMIT6YTjFRD3",
+    "name": "Bibel TV Musik",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "BIB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Xmm3LX5dLU22wn",
+    "name": "BIZ Music",
+    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BIZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
+    ]
+  },
+  {
+    "id": "5KMnBymM7rZJoT",
+    "name": "BPX TV Radio",
+    "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de United States. Idioma: fra, hat.",
+    "logoText": "BPX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "category": "Music",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Venezuela. Idioma: spa.",
+    "logoText": "BTA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    ]
+  },
+  {
+    "id": "nZxdZLBQ6KuYOb",
+    "name": "Cadena Elite",
+    "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "CAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    ]
+  },
+  {
+    "id": "PQQXKouZscaQuL",
+    "name": "California Music Channel",
+    "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "CAL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "BN8UK0JlgAMrEm",
+    "name": "City Eden Birma Play",
+    "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ]
+  },
+  {
+    "id": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
+    "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ]
+  },
+  {
+    "id": "QICcmd6W79YgPC",
+    "name": "City Eden Meditation Music",
+    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47410/index.m3u8"
+    ]
+  },
+  {
+    "id": "9QIFKg7aQ0UqIc",
+    "name": "City Eden Play",
+    "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34100/index.m3u8"
+    ]
+  },
+  {
+    "id": "eLHDrGKZWgbc15",
+    "name": "City Eden Sirtaki TV",
+    "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/46421/index.m3u8"
+    ]
+  },
+  {
+    "id": "tfhLdJUxaIEPI8",
+    "name": "CKNO-FM",
+    "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "CKN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videostream.jpbgdigital.com/NOWTV.m3u8"
+    ]
+  },
+  {
+    "id": "2iFt0H3obXxR8a",
+    "name": "Clubbing TV France",
+    "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
+    "category": "Music",
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "description": "Canal de TV de Switzerland. Idioma: eng, fra.",
+    "logoText": "CLU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8"
+    ]
+  },
+  {
+    "id": "3l5doVjMXjwPIT",
+    "name": "CMC TV",
+    "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "category": "Music",
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [
+      "hrv"
+    ],
+    "description": "Canal de TV de Croatia. Idioma: hrv.",
+    "logoText": "CMC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+    ]
+  },
+  {
+    "id": "zY8UN9MRRHxEYy",
+    "name": "Company TV",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "COM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+    ]
+  },
+  {
+    "id": "npvsow7O979Ja1",
+    "name": "Conecta TV",
+    "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
+    ]
+  },
+  {
+    "id": "ynzFVHU7oaBdM1",
+    "name": "Cool FM 98.9",
+    "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "category": "Music",
+    "country": "AW",
+    "countryName": "Aruba",
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "description": "Canal de TV de Aruba. Idioma: eng, nld, pap.",
+    "logoText": "COO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "9kZgL2i3JTnTNn",
+    "name": "Cumbia Mix",
+    "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "CUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8"
+    ]
+  },
+  {
+    "id": "8OOs9QhQf490ir",
+    "name": "Dance FM",
+    "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0GurOYtRVIgtSZ",
+    "name": "Dance Television",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: nld.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
+    ]
+  },
+  {
+    "id": "lwaCdwVDn5DIof",
+    "name": "DanceTV Algorhythm",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
+    ]
+  },
+  {
+    "id": "iJEOwv6A3pLbpA",
+    "name": "DanceTV Deep House District",
+    "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
+    ]
+  },
+  {
+    "id": "cnFlZpQ0FKCBXe",
+    "name": "DanceTV EDM Mainstage",
+    "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
+    ]
+  },
+  {
+    "id": "Q5enIVFByh6WlU",
+    "name": "DanceTV House Floor",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
+    ]
+  },
+  {
+    "id": "dGqTIRUXI72pxD",
+    "name": "DanceTV Minimal Tech",
+    "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
+    ]
+  },
+  {
+    "id": "5Hkd3G2uCyMEyH",
+    "name": "DanceTV Techno Warehouse",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8"
+    ]
+  },
+  {
+    "id": "FM7JnUFlNQHUFD",
+    "name": "DASDING 90.8",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "DAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
+    ]
+  },
+  {
+    "id": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "DBM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Germany. Idioma: eng.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "hoEK50b8RIgSOh",
+    "name": "Deluxe Music",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu, eng.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "04DHM2NaCjakkb",
+    "name": "DMF",
+    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "DMF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bIFr11eWhnVDFr",
+    "name": "EBS Musika",
+    "url": "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "amh"
+    ],
+    "description": "Canal de TV de United States. Idioma: amh.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8"
+    ]
+  },
+  {
+    "id": "dSBCv9wMIeHZkP",
+    "name": "El Radio 9090 FM",
+    "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+    "category": "Music",
+    "country": "EG",
+    "countryName": "Egypt",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Egypt. Idioma: ara.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://9090video.mobtada.com/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "c6puAkcPu1cmVK",
+    "name": "El Sol Network TV",
+    "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8"
+    ]
+  },
+  {
+    "id": "HQxmczuRTCLJHk",
+    "name": "Ellinikos FM",
+    "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ELL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+    ]
+  },
+  {
+    "id": "ratiMYbPjlz1Pp",
+    "name": "EnerGeek Radio",
+    "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "ENE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+    ]
+  },
+  {
+    "id": "enIKIkknsZ9r2w",
+    "name": "Extra TV",
+    "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
+    "category": "Music",
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [
+      "hrv"
+    ],
+    "description": "Canal de TV de Croatia. Idioma: hrv.",
+    "logoText": "EXT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
+    ]
+  },
+  {
+    "id": "p2JDBtjTcLy9kg",
+    "name": "Fabulosa Estereo 100.5 FM",
+    "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "FAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8"
+    ]
+  },
+  {
+    "id": "foEVFoZwWIxidj",
+    "name": "Falastini TV",
+    "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+    "category": "Music",
+    "country": "PS",
+    "countryName": "Palestine",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Palestine. Idioma: ara.",
+    "logoText": "FAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FuiSRD0mYmX331",
+    "name": "Farra Play",
+    "url": "https://159.203.148.226/live/farra.m3u8",
+    "category": "Music",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "FAR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://159.203.148.226/live/farra.m3u8",
+      "https://stream.farra.com.py/live/farra_low.m3u8"
+    ]
+  },
+  {
+    "id": "3PQ0eIc5ACKlQF",
+    "name": "FM ITALIA",
+    "url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "FM ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XUbd7x9yt2DTFl",
+    "name": "FM Mundo",
+    "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "FM ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "D6bV62QbdgsCop",
+    "name": "FMTV",
+    "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "FMT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "fAUqob7LIqewI8",
+    "name": "Fon Music",
+    "url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "FON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Et7cnSonRNZOTr",
+    "name": "FTV",
+    "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "FTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1018/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hOb4zCEnF4IOQo",
+    "name": "Fuego TV",
+    "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "FUE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3553/live/cromtvlive.m3u8"
+    ]
+  },
+  {
+    "id": "97DWduUX5Hf0aj",
+    "name": "FUSION TV",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "FUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "kKremBL5h6Xu9h",
+    "name": "GEM Mifa",
+    "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202"
+    ]
+  },
+  {
+    "id": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: eng, spa.",
+    "logoText": "GEX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "A3vCuoFXBOegkR",
+    "name": "Gigant FM",
+    "url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: nld.",
+    "logoText": "GIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+    ]
+  },
+  {
+    "id": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "category": "Music",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "GO ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8vX1XPEH9jNBSM",
+    "name": "HEi Now",
+    "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+    "category": "Music",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "HEI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+    ]
+  },
+  {
+    "id": "7yxYsPp60h9tJw",
+    "name": "High Vision TV",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de United States. Idioma: fas.",
+    "logoText": "HIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
+    ]
+  },
+  {
+    "id": "ZcBdMXdtJIRBX4",
+    "name": "Hitradio O3",
+    "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "HIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+      "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
+    ]
+  },
+  {
+    "id": "qxePZA6EsUq3Nx",
+    "name": "HMI PROMZ NEWS",
+    "url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de United States. Idioma: fra.",
+    "logoText": "HMI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XeTMX0KNRpyXnL",
+    "name": "Hype Visual Radio",
+    "url": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: eng, nld.",
+    "logoText": "HYP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qcIhqbTEQbBGRN",
+    "name": "Identite Tele Caraibes",
+    "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "IDE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "9jeKM3aw6Paup0",
+    "name": "Imagen FM 105.1",
+    "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "IMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "nbZMDeOIAOPG4m",
+    "name": "Impact TV Dance",
+    "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "IMP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://online.tvimpact.live/hls/dancetv.m3u8"
+    ]
+  },
+  {
+    "id": "s2CfErSAqt8tzT",
+    "name": "Impact TV Manele",
+    "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "IMP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://online.tvimpact.live/hls/impact_tv.m3u8"
+    ]
+  },
+  {
+    "id": "2m0gEtXYdWeCIN",
+    "name": "Infinita TV",
+    "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "INF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
+    "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "IQ ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jaYrHvf25vIhgD",
+    "name": "Isai Aruvi",
+    "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "ISA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UtQIu21Wfg54RO",
+    "name": "Ivoire Channel",
+    "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+    "category": "Music",
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Ivory Coast. Idioma: fra.",
+    "logoText": "IVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "szTcH8uBBiqxys",
+    "name": "Jeddah Radio",
+    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "JED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "keDnMBwKoBk3De",
+    "name": "JooMusic",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "category": "Music",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "description": "Canal de TV de Pakistan. Idioma: eng, urd.",
+    "logoText": "JOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "u6ZkGLLqixazm2",
+    "name": "Jordan Songs",
+    "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+    "category": "Music",
+    "country": "JO",
+    "countryName": "Jordan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Jordan. Idioma: ara.",
+    "logoText": "JOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "khHjtS0a6tOj4o",
+    "name": "JRTV Jarviradio",
+    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "category": "Music",
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [
+      "fin"
+    ],
+    "description": "Canal de TV de Finland. Idioma: fin.",
+    "logoText": "JRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+    ]
+  },
+  {
+    "id": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+    "category": "Music",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Venezuela. Idioma: spa.",
+    "logoText": "KAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+    ]
+  },
+  {
+    "id": "PMA4oYVtGpr60x",
+    "name": "Kayhan TV",
+    "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+    "category": "Music",
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [
+      "pus"
+    ],
+    "description": "Canal de TV de Afghanistan. Idioma: pus.",
+    "logoText": "KAY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "j1Osxy010FfNXv",
+    "name": "Kiss Kiss Napoli TV",
+    "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "KIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ugdsT19rRUMRPJ",
+    "name": "Kiss Kiss TV",
+    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "KIS",
+    "streamCount": 3,
+    "allStreams": [
+      "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+      "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
+      "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3hq4NpWZFKw05F",
+    "name": "Kiss TV",
+    "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "KIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+    ]
+  },
+  {
+    "id": "A6l4ELIarmqL6n",
+    "name": "Klape i Tambure TV",
+    "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "category": "Music",
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [
+      "hrv"
+    ],
+    "description": "Canal de TV de Croatia. Idioma: hrv.",
+    "logoText": "KLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.cmctv.hr:49998/kit/live.m3u8"
+    ]
+  },
+  {
+    "id": "0U8AHRskM6eU3e",
+    "name": "Kronehit",
+    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GnCb5ceUbTkz25",
+    "name": "La Cantina Memorias",
+    "url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
+    ]
+  },
+  {
+    "id": "3hbUF3ouea162A",
+    "name": "La Fabulosa TV",
+    "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8004/index.m3u8"
+    ]
+  },
+  {
+    "id": "wzR0TNYEFfuhVq",
+    "name": "La Hermandad Salsera",
+    "url": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4Nl0um2MnZBZ5L",
+    "name": "La Kalle",
+    "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8"
+    ]
+  },
+  {
+    "id": "mN267fnV7X9Ww7",
+    "name": "La Mega Mundial",
+    "url": "https://server40.servistreaming.com:3477/stream/play.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://server40.servistreaming.com:3477/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "kvhIgUHSS1yj0R",
+    "name": "LA MIA TV",
+    "url": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HhsYUdKlXZRTuQ",
+    "name": "La Morada Radio TV",
+    "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+    ]
+  },
+  {
+    "id": "L7QnCoaelggBZN",
+    "name": "La Perla Radio TV",
+    "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8068/index.m3u8"
+    ]
+  },
+  {
+    "id": "9DogyLeIADAgPf",
+    "name": "La Que Buena Atlanta",
+    "url": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
+    ]
+  },
+  {
+    "id": "HAjT5lHheouJ3C",
+    "name": "La Top 102.9",
+    "url": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9RwFnJ12MgiGgP",
+    "name": "La Top 107.7",
+    "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jkKIWp8tVeKWkO",
+    "name": "La Voz del Tropico",
+    "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ESeEpgafREEMIe",
+    "name": "La-X",
+    "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
+    "category": "Music",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Puerto Rico. Idioma: spa.",
+    "logoText": "LA-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hlIFAGdwVFglWh",
+    "name": "Latin Zone",
+    "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "LAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
+    ]
+  },
+  {
+    "id": "Ztcv27i6GrEiFD",
+    "name": "Lausitzwelle",
+    "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "LAU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
+    ]
+  },
+  {
+    "id": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Spain. Idioma: ron.",
+    "logoText": "LIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "LIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ww7twEESZxWUIN",
+    "name": "Live99FM",
+    "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
+    "category": "Music",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "description": "Canal de TV de Bonaire. Idioma: eng, nld, pap.",
+    "logoText": "LIV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sGZGN77ULu3I6y",
+    "name": "Lobo TV",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "LOB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oMhYmCaf0w71Vh",
+    "name": "Look Thoong TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+    "category": "Music",
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [
+      "lao"
+    ],
+    "description": "Canal de TV de Laos. Idioma: lao.",
+    "logoText": "LOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "b9QdwOWvuoD0L1",
+    "name": "LRT Klasika",
+    "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
+    "category": "Music",
+    "country": "LT",
+    "countryName": "Lithuania",
+    "languages": [
+      "lit"
+    ],
+    "description": "Canal de TV de Lithuania. Idioma: lit.",
+    "logoText": "LRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream-live.lrt.lt/klasika/master.m3u8"
+    ]
+  },
+  {
+    "id": "n9ltANAvf9McB6",
+    "name": "LRT Opus",
+    "url": "https://stream-live.lrt.lt/opus/master.m3u8",
+    "category": "Music",
+    "country": "LT",
+    "countryName": "Lithuania",
+    "languages": [
+      "lit"
+    ],
+    "description": "Canal de TV de Lithuania. Idioma: lit.",
+    "logoText": "LRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream-live.lrt.lt/opus/master.m3u8"
+    ]
+  },
+  {
+    "id": "TD6r7rS9yoQWgK",
+    "name": "M-1",
+    "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "LT",
+    "countryName": "Lithuania",
+    "languages": [
+      "lit"
+    ],
+    "description": "Canal de TV de Lithuania. Idioma: lit.",
+    "logoText": "M-1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZF9e1n3GNe54qv",
+    "name": "m2o TV",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "M2O",
+    "streamCount": 1,
+    "allStreams": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QxPzLGnZPWA96s",
+    "name": "Madras FM TV",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "MAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "NodY8gBnmYHwO8",
+    "name": "Magic TV",
+    "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "MAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+    ]
+  },
+  {
+    "id": "rq3OJITyKdZXB9",
+    "name": "Magic TV",
+    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "MAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bss1.neterra.tv/magictv/magictv.m3u8"
+    ]
+  },
+  {
+    "id": "RMbg1qFUrHD6uy",
+    "name": "Makao TV",
+    "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "MAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e1v76QQ8jEJlyU",
+    "name": "Marina TV",
+    "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+    "category": "Music",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "MAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
+    ]
+  },
+  {
+    "id": "m722eugqEbFaw2",
+    "name": "Mas FM",
+    "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "MAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
+    ]
+  },
+  {
+    "id": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
+    "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "MAS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://movil.ejeserver.com/live/masmusica.m3u8",
+      "https://video.ejeserver.com/live/masmusica.m3u8"
+    ]
+  },
+  {
+    "id": "4GP05gaKgeZLke",
+    "name": "MBC America",
+    "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng",
+      "kor"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng, kor.",
+    "logoText": "MBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
+    ]
+  },
+  {
+    "id": "T411svN9rFZRYL",
+    "name": "MBC FM",
+    "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+    "category": "Music",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Arab Emirates. Idioma: eng.",
+    "logoText": "MBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
+    ]
+  },
+  {
+    "id": "DdiVuOolojZUS0",
+    "name": "MCN6 Music Channel",
+    "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "MCN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ov59yRWEbR7wGn",
+    "name": "Melodie TV",
+    "url": "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "MEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fT5wViIkqEBjJA",
+    "name": "Memorias del Corazon",
+    "url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "MEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8"
+    ]
+  },
+  {
+    "id": "B4gERaGxLZYSc7",
+    "name": "Memorias FM Pop Latino",
+    "url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "MEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
+    ]
+  },
+  {
+    "id": "CAgtc7uQTGoAtf",
+    "name": "Memorias TV Classic",
+    "url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: eng, spa.",
+    "logoText": "MEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8"
+    ]
+  },
+  {
+    "id": "v84rF2TjmPJMTT",
+    "name": "Memorias TV Tropical",
+    "url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "MEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
+    ]
+  },
+  {
+    "id": "nZf5oRgjRdisx5",
+    "name": "Metropoli Medios TV",
+    "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "MET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8214/index.m3u8"
+    ]
+  },
+  {
+    "id": "ZgK3gN33Rh7QOj",
+    "name": "Miel TV",
+    "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "MIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+    ]
+  },
+  {
+    "id": "VFUpcH6YEWSEUp",
+    "name": "Mohammed Abdo",
+    "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "MOH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+    ]
+  },
+  {
+    "id": "lMIWUh9FjBPLOx",
+    "name": "Molahits TV",
+    "url": "https://ventdelnord.tv:8080/mola/directe.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "cat"
+    ],
+    "description": "Canal de TV de Spain. Idioma: cat.",
+    "logoText": "MOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ventdelnord.tv:8080/mola/directe.m3u8"
+    ]
+  },
+  {
+    "id": "0vWRP5qYJXkBiC",
+    "name": "Mosaique FM",
+    "url": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
+    "category": "Music",
+    "country": "TN",
+    "countryName": "Tunisia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Tunisia. Idioma: ara.",
+    "logoText": "MOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR"
+    ]
+  },
+  {
+    "id": "odYgNVQEJD4IEa",
+    "name": "Music India",
+    "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "MUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-2.pishow.tv/live/226/master.m3u8"
+    ]
+  },
+  {
+    "id": "L5BvWuf8rlqBr4",
+    "name": "Music Information Channel",
+    "url": "https://mic.siar.us/mic/live/mic.m3u8",
+    "category": "Music",
+    "country": "ID",
+    "countryName": "Indonesia",
+    "languages": [
+      "ind"
+    ],
+    "description": "Canal de TV de Indonesia. Idioma: ind.",
+    "logoText": "MUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mic.siar.us/mic/live/mic.m3u8"
+    ]
+  },
+  {
+    "id": "Wrgjk0eyRotOl3",
+    "name": "Music TV Granada",
+    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
+    ]
+  },
+  {
+    "id": "VuIxmH07laWpCU",
+    "name": "Muz-TV",
+    "url": "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUZ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "HvYJs4nihzTmh7",
+    "name": "Muzangala TV",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+    "category": "Music",
+    "country": "AO",
+    "countryName": "Angola",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Angola. Idioma: por.",
+    "logoText": "MUZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KiwbZFxfIOXSsb",
+    "name": "Nande Portetepe TV",
+    "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+    "category": "Music",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "NAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
+    ]
+  },
+  {
+    "id": "DSxOBANqbGCYcT",
+    "name": "Navahang TV",
+    "url": "https://hls.navahang.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Finland. Idioma: fas.",
+    "logoText": "NAV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://hls.navahang.live/hls/stream.m3u8",
+      "https://simahls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "LPJDqWkJ3mRR4C",
+    "name": "Nidae AlIslam Radio",
+    "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "NID",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jayXIuE2ZTPuwx",
+    "name": "Now 70s",
+    "url": "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "NOW",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XZczg4azCqaOYB",
+    "name": "NOW 70s",
+    "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [],
+    "description": "Canal de TV de United Kingdom. Idioma: N/A.",
+    "logoText": "NOW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FScdOzHjKziX4k",
+    "name": "Now 80s",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "NOW",
+    "streamCount": 3,
+    "allStreams": [
+      "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
+      "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tZAzacl9CIrPEy",
+    "name": "NOW 80s",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [],
+    "description": "Canal de TV de United Kingdom. Idioma: N/A.",
+    "logoText": "NOW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9fqsOnS7piqaUr",
+    "name": "Now 90s & 00s",
+    "url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "PL",
+    "countryName": "Poland",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Poland. Idioma: eng.",
+    "logoText": "NOW",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+      "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb513f19657460909bce2167d0d334dd844c3bdd0b61cb3071aa448f049f4b1bdae5a5d3ec4ae47821c04d873d5f66411f21c118dc7c1fc7c76adf046727486b9b9ab265d9896450f08d597562ac7b1c51e00e07c47100238ebb4e5dd670e7295243a5583f5063c0bf5fab704fc1d50bd8767dd8a9d963317c383ea57e657305d692dfd07777ae0eb3876a0ac47116b2a063f3e669dea0488f5371ac408451dfcdb0def92098b6937091938145c78e2062208d51b3b0e4ebc3a2a1ecfe51622a3b40f4ac83fb010c87554a4fc219aad541d21cd480298d6178ee4ec80fcc11846fb806aee50ef1fce09f6f4e3badc85e3a67b2f3fadba9657ded2fbb85ecde7873d6a7462809992dfe2b393d96f2d35bd59145d8e651e8de0e3c36c4834a9299c0e1bee1f705f642ffc9ff963255401972258353a78864d869fc76acdc1c28580d69a2985cc8839b321d6d4d8f8c5b942313b6d58e89bd566e2a01dfdb52cdbf8ef6cea6a54bcf99790ab8c7b3a23d0c/85/1920x1080_4716800/index.m3u8"
+    ]
+  },
+  {
+    "id": "0tIHesuXZ4Kajr",
+    "name": "NOW Rock",
+    "url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [],
+    "description": "Canal de TV de United Kingdom. Idioma: N/A.",
+    "logoText": "NOW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oBJ9pdj1O58kzY",
+    "name": "NOW Rock",
+    "url": "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "NOW",
+    "streamCount": 3,
+    "allStreams": [
+      "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+      "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IowNjd0p51Ov4o",
+    "name": "NPC Radio e TV",
+    "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+    "category": "Music",
+    "country": "PT",
+    "countryName": "Portugal",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Portugal. Idioma: por.",
+    "logoText": "NPC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "NUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Qe2ak6SCt98R2p",
+    "name": "Number 1 Damar",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "NUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yWrfqyUbeSLDpm",
+    "name": "Number 1 Dance",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "NUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pJj7CtCAurdOs8",
+    "name": "Number 1 TV",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "NUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RMA5KISMMWs8DS",
+    "name": "Ocko",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 2,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qZ8UlvNha5FQaM",
+    "name": "Ocko Expres",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Gx4G2UXYb5Pmbf",
+    "name": "Ocko Gold",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oGBDTLuvXcCKsV",
+    "name": "ON FM",
+    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "PT",
+    "countryName": "Portugal",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Portugal. Idioma: por.",
+    "logoText": "ON ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CB542USEKKwSaw",
+    "name": "Ondambiental TV",
+    "url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RoX5xBQ3r0IcEF",
+    "name": "Orange Bangla TV",
+    "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "ben"
+    ],
+    "description": "Canal de TV de India. Idioma: ben.",
+    "logoText": "ORA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-4.pishow.tv/live/1499/master.m3u8"
+    ]
+  },
+  {
+    "id": "UV2K3Inr6FlKvf",
+    "name": "P2M TV",
+    "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "P2M",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "L3j1vKGF6lnpfD",
+    "name": "Panik TV",
+    "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "PAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3tweZkdXXLPOu1",
+    "name": "Panorama FM",
+    "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "PAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8"
+    ]
+  },
+  {
+    "id": "uhLgXXhXSYkGEa",
+    "name": "Parranda Vallenata",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "PAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
+    ]
+  },
+  {
+    "id": "JbHPtLWtt2xU3p",
+    "name": "Peppers TV",
+    "url": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "PEP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-2.pishow.tv/live/1383/master.m3u8"
+    ]
+  },
+  {
+    "id": "BKwwWetfO9R72v",
+    "name": "Persiana Folk",
+    "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sonhls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "eCX0RwFfFIFc73",
+    "name": "Persiana Nostalgia",
+    "url": "https://noshls.persiana.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://noshls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "NrKrfT28f0zHMn",
+    "name": "Planet 100.9 FM",
+    "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "PLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9BNETtZqVeBnGA",
+    "name": "PMC",
+    "url": "https://pmchls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de United Arab Emirates. Idioma: fas.",
+    "logoText": "PMC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pmchls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "dwZ9cyjkWtVGIa",
+    "name": "PMC Royale",
+    "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de United Arab Emirates. Idioma: fas.",
+    "logoText": "PMC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pmcrohls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "MBXc78WctcBqtJ",
+    "name": "POP World TV",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "POP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    ]
+  },
+  {
+    "id": "tadaKAwuktrkov",
+    "name": "Power 101.7 FM",
+    "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+    "category": "Music",
+    "country": "AW",
+    "countryName": "Aruba",
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "description": "Canal de TV de Aruba. Idioma: eng, nld, pap.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fEdPdOM5VlxlUw",
+    "name": "Power Dance",
+    "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UytszlnTgHpVar",
+    "name": "Power Hit Radio",
+    "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
+    "category": "Music",
+    "country": "LT",
+    "countryName": "Lithuania",
+    "languages": [
+      "lit"
+    ],
+    "description": "Canal de TV de Lithuania. Idioma: lit.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
+    ]
+  },
+  {
+    "id": "XNTHGJZeFfDgvw",
+    "name": "Power Love",
+    "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0dpxRMyEdoEj6k",
+    "name": "PowerTurk Akustik",
+    "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZJBNWGiPmC8D7J",
+    "name": "PowerTurk Slow",
+    "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7rycRdywaNyoH1",
+    "name": "PowerTurk Taptaze",
+    "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "POW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3FPl5RIfISFiTh",
+    "name": "PRIDEtv LATAM",
+    "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: eng, spa.",
+    "logoText": "PRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+    ]
+  },
+  {
+    "id": "VCaW6pzuF6jtxo",
+    "name": "PTC Chakde",
+    "url": "https://cdn-1.pishow.tv/live/449/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "pan"
+    ],
+    "description": "Canal de TV de India. Idioma: pan.",
+    "logoText": "PTC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-1.pishow.tv/live/449/master.m3u8"
+    ]
+  },
+  {
+    "id": "BSRC0L5LCijtzM",
+    "name": "PTC Music",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "pan"
+    ],
+    "description": "Canal de TV de India. Idioma: pan.",
+    "logoText": "PTC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
+      "https://cdn-3.pishow.tv/live/1501/master.m3u8"
+    ]
+  },
+  {
+    "id": "M9aU0MbuAj43LW",
+    "name": "Public Music",
+    "url": "https://cdn-3.pishow.tv/live/441/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "kan"
+    ],
+    "description": "Canal de TV de India. Idioma: kan.",
+    "logoText": "PUB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-3.pishow.tv/live/441/master.m3u8"
+    ]
+  },
+  {
+    "id": "QUftSDxya2fWl7",
+    "name": "Punjabi Hits",
+    "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "pan"
+    ],
+    "description": "Canal de TV de India. Idioma: pan.",
+    "logoText": "PUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ottlive.co.in/punjabihits/index.m3u8"
+    ]
+  },
+  {
+    "id": "VMIbt20f2NiiTt",
+    "name": "Qello Concerts by Stingray",
+    "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "QEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "z9orLEtumAwQoS",
+    "name": "Qello Concerts by Stingray",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Canal de TV de Canada. Idioma: N/A.",
+    "logoText": "QEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
+    ]
+  },
+  {
+    "id": "W8ZhdZg3k4GfrH",
+    "name": "Qwest TV",
+    "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "QWE",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+      "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+    ]
+  },
+  {
+    "id": "PGDjufEBywGkq1",
+    "name": "Qwest TV Jazz & Beyond",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "QWE",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+      "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "zXlX9cxqgTkhd2",
+    "name": "Radio Bonita 106.7",
+    "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8154/index.m3u8"
+    ]
+  },
+  {
+    "id": "79RGODupZW3p8n",
+    "name": "Radio Carnaval TV",
+    "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8116/index.m3u8"
+    ]
+  },
+  {
+    "id": "Xt24rqtDs7DtGk",
+    "name": "Radio Conexion Web TV",
+    "url": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
+    ]
+  },
+  {
+    "id": "ZBGk2hfKslTEiC",
+    "name": "Radio Contact",
+    "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+    "category": "Music",
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Belgium. Idioma: fra.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8"
+    ]
+  },
+  {
+    "id": "2b995oga1yYqLK",
+    "name": "Radio Cuenca Estereo",
+    "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8074/index.m3u8"
+    ]
+  },
+  {
+    "id": "Xd3CFrHmzj9MdH",
+    "name": "RADIO DISCOunt TV",
+    "url": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
+    "category": "Music",
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Switzerland. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "V2O33fBcF0imvd",
+    "name": "Radio Fx Net",
+    "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: eng, ron.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "80i8NgFWX25XdT",
+    "name": "Radio Hit FM TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8"
+    ]
+  },
+  {
+    "id": "nsgQYKfhfBKpgj",
+    "name": "Radio Ideal",
+    "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.idealfm104-7.com/hls/0/stream.m3u8"
+    ]
+  },
+  {
+    "id": "DDTD9YdlPl6Ady",
+    "name": "Radio Italia Trend TV",
+    "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "RAD",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+      "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Yy1gqgg3H5Fb73",
+    "name": "Radio JND",
+    "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: nld.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "M9AApHHMkGVBYu",
+    "name": "Radio Karolina TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8"
+    ]
+  },
+  {
+    "id": "5VZhUUCzs2KhoI",
+    "name": "Radio Lola TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+    ]
+  },
+  {
+    "id": "rIUi7QauvvK3mU",
+    "name": "Radio Master",
+    "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
+    ]
+  },
+  {
+    "id": "QpaipzMOWMjyyR",
+    "name": "Radio Monumental TV",
+    "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "Qw8OveH5NJ4HC0",
+    "name": "Radio Piter Pan TV",
+    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oNpOE0EguTlVfK",
+    "name": "Radio RAM",
+    "url": "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8",
+    "category": "Music",
+    "country": "PL",
+    "countryName": "Poland",
+    "languages": [
+      "pol"
+    ],
+    "description": "Canal de TV de Poland. Idioma: pol.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YZNJQxNPpbe4vn",
+    "name": "Radio Realpolitik",
+    "url": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+    "category": "Music",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8"
+    ]
+  },
+  {
+    "id": "Oy0RzzLMHXV3WJ",
+    "name": "Radio San Cristobal 88.7 FM",
+    "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+    "category": "Music",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
+    ]
+  },
+  {
+    "id": "LHzrqD9sr7EPlw",
+    "name": "Radio SWH TV",
+    "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [
+      "lav"
+    ],
+    "description": "Canal de TV de Latvia. Idioma: lav.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "DKvBoloLNtwxw9",
+    "name": "Radio Tele Hit",
+    "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+    "category": "Music",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uyFy17QwvWeu6p",
+    "name": "Rádio Temas de Novelas",
+    "url": "https://eu1.servers10.com:8081/8126/index.m3u8",
+    "category": "Music",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "RÁD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8126/index.m3u8"
+    ]
+  },
+  {
+    "id": "b7ZeRZC6NDPLni",
+    "name": "Radio Tropical",
+    "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+    ]
+  },
+  {
+    "id": "e9kOBIAu1B0cCj",
+    "name": "Radio TV Sal One",
+    "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
+    "category": "Music",
+    "country": "CV",
+    "countryName": "Cape Verde",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Cape Verde. Idioma: por.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
+    ]
+  },
+  {
+    "id": "FfKKaHEk2MpmA6",
+    "name": "Radio Weser TV Bremen",
+    "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "RAD",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9DDi3kD1NL1jD0",
+    "name": "Radio Zeta",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "3tbbEhSNSIuttq",
+    "name": "Radiofreccia",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "O8NYQl6XZSN5KI",
+    "name": "Raj Musix Tamil",
+    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "RAJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8"
+    ]
+  },
+  {
+    "id": "63hGISr8CwvRME",
+    "name": "Raj Musix Telugu",
+    "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tel"
+    ],
+    "description": "Canal de TV de India. Idioma: tel.",
+    "logoText": "RAJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-1.pishow.tv/live/1213/master.m3u8"
+    ]
+  },
+  {
+    "id": "W9VS8SRmkQmeJR",
+    "name": "Rararadio",
+    "url": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: eng, nld.",
+    "logoText": "RAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tVmAicsgKyc425",
+    "name": "Rashid AlMajed",
+    "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "RAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8"
+    ]
+  },
+  {
+    "id": "3TUlEoB2wOW9de",
+    "name": "RC Music",
+    "url": "https://view.rcserver.in/tmp_hls1/stream/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "RC ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://view.rcserver.in/tmp_hls1/stream/index.m3u8",
+      "https://view.rcserver.in/tmp_hls2/stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "2MBpmC0kG7TZ8G",
+    "name": "Retro Music TV",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EWWfUf457LGzph",
+    "name": "Retro Plus 2",
+    "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "JcWgUdRfwM6UkT",
+    "name": "Reyali",
+    "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "REY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8090/index.m3u8"
+    ]
+  },
+  {
+    "id": "PUdpiv6E36htAt",
+    "name": "RFPtv",
+    "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+    "category": "Music",
+    "country": "PT",
+    "countryName": "Portugal",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Portugal. Idioma: por.",
+    "logoText": "RFP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "d9hZfLvD7LqKMb",
+    "name": "RHT Guadeloupe",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "RHT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "UxlWXKU576oMex",
+    "name": "RJTV",
+    "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "RJT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rjtvhls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "ANI4hASUhHAk6D",
+    "name": "Rock TV",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "ROC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+    ]
+  },
+  {
+    "id": "yUKu0stbQA0AEl",
+    "name": "RTL 102.5 Napule",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "9uExsMfMV1KdZ8",
+    "name": "RTL 102.5 Traffic",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "5TAuaLJFHkC7G5",
+    "name": "RTL 102.5 TV",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "uOiBx0AcUgb3bN",
+    "name": "RTL Gold",
+    "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
+    "category": "Music",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "69wABBZ5acLQs0",
+    "name": "RTV Vida",
+    "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "RTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
+    ]
+  },
+  {
+    "id": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "SAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pfMWY9QNez7wE8",
+    "name": "Sangeet Bangla",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "ben"
+    ],
+    "description": "Canal de TV de India. Idioma: ben.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    ]
+  },
+  {
+    "id": "IzValI1YwAraNb",
+    "name": "Sangeet Bhojpuri",
+    "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "bho"
+    ],
+    "description": "Canal de TV de India. Idioma: bho.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-4.pishow.tv/live/1293/master.m3u8"
+    ]
+  },
+  {
+    "id": "0NacWIR4w00KtK",
+    "name": "Sangeet Marathi",
+    "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "mar"
+    ],
+    "description": "Canal de TV de India. Idioma: mar.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-3.pishow.tv/live/1229/master.m3u8"
+    ]
+  },
+  {
+    "id": "Xmq0ko3zys05Tb",
+    "name": "Shanson TV",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SHA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+      "https://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IZigrkz0uCABmQ",
+    "name": "Shemaroo Filmi Gaane",
+    "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "SHE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "V55Spleruc6ryB",
+    "name": "Siembra TV",
+    "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "SIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
+    ]
+  },
+  {
+    "id": "6jTUHlY33vUmQu",
+    "name": "Sky Folk TV",
+    "url": "https://eu.live.skyfolk.mk/live.m3u8",
+    "category": "Music",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [
+      "mkd"
+    ],
+    "description": "Canal de TV de North Macedonia. Idioma: mkd.",
+    "logoText": "SKY",
+    "streamCount": 2,
+    "allStreams": [
+      "https://eu.live.skyfolk.mk/live.m3u8",
+      "https://skyfolk.mk/live.m3u8"
+    ]
+  },
+  {
+    "id": "a0iZb4tYbH9r9K",
+    "name": "Sol Musica",
+    "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
+    ]
+  },
+  {
+    "id": "RtV9rPOW8b3zIG",
+    "name": "Solo Bailalo",
+    "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+    "category": "Music",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "SOL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "utV4367IngaBGu",
+    "name": "Songdew TV",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "SON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    ]
+  },
+  {
+    "id": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "SOY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng, spa.",
+    "logoText": "SPE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+    ]
+  },
+  {
+    "id": "GhPgMfQiSel48D",
+    "name": "Star 101 FM",
+    "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+    "category": "Music",
+    "country": "GU",
+    "countryName": "Guam",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Guam. Idioma: eng.",
+    "logoText": "STA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "bKTLwagx7cet1q",
+    "name": "Steelbird Music",
+    "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "STE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8"
+    ]
+  },
+  {
+    "id": "sMtLcZJ0VSsWq6",
+    "name": "Stingray Classic Rock",
+    "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "5t53vL5oPCm3CM",
+    "name": "Stingray Classica",
+    "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
+      "spa"
+    ],
+    "description": "Canal de TV de Canada. Idioma: deu, eng, fra, spa.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "xfRnghclKAVK1r",
+    "name": "Stingray CMusic",
+    "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "tGCcprlVTCHu3P",
+    "name": "Stingray DJAZZ",
+    "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "VPFun0juaZjIN3",
+    "name": "Stingray Easy Listening",
+    "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "8qLFxbuQRNnGX0",
+    "name": "Stingray Euro Hits",
+    "url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "pvJhcGmeEkVjBx",
+    "name": "Stingray Everything '80s",
+    "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "NHOjcsTXpu7xp8",
+    "name": "Stingray Flashback 70's",
+    "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "PLyzg7bEbVaYeq",
+    "name": "Stingray Greatest Hits",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Canal de TV de Canada. Idioma: N/A.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
+    ]
+  },
+  {
+    "id": "QSoZbXF71jW6x6",
+    "name": "Stingray Greatest Hits",
+    "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "yKYSBx7TqUhPFA",
+    "name": "Stingray Greatest Holiday Hits",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8"
+    ]
+  },
+  {
+    "id": "pYy3yuvkXW9VTm",
+    "name": "Stingray Hit List",
+    "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "VyYM4FyimdIPD4",
+    "name": "Stingray Hitlist",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Canal de TV de Canada. Idioma: N/A.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
+    ]
+  },
+  {
+    "id": "bGBVYmklyH3Rjz",
+    "name": "Stingray Holidayscapes",
+    "url": "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8",
+      "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8"
+    ]
+  },
+  {
+    "id": "J1T4cNu5RBkAKP",
+    "name": "Stingray Hot Country",
+    "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "JEGxm42oQErOhy",
+    "name": "Stingray Jukebox Oldies",
+    "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "apMu1i3Pub5wzT",
+    "name": "Stingray Karaoke",
+    "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "A1T3tixQdrLLm1",
+    "name": "Stingray Naturescape",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Canal de TV de Canada. Idioma: N/A.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
+    ]
+  },
+  {
+    "id": "CPmWhvF9GttjNW",
+    "name": "Stingray Naturescape",
+    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng",
+      "tur"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng, tur.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "kRY39mIs1mv9Fd",
+    "name": "Stingray Nothin' But 90s",
+    "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "bZP0GZceldYWok",
+    "name": "Stingray Pop Adult",
+    "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "HAqpZorYfDzctU",
+    "name": "Stingray Remember the 80s",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Canal de TV de Canada. Idioma: N/A.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
+    ]
+  },
+  {
+    "id": "s9cbqCrX4IcCvh",
+    "name": "Stingray Remember the 80s",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
+    ]
+  },
+  {
+    "id": "25ZNUn4YbArAJM",
+    "name": "Stingray Rock Alternative",
+    "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "bUJfCS9FEheI15",
+    "name": "Stingray Romance Latino",
+    "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "aMQGaf9VQTtBOz",
+    "name": "Stingray Smooth Jazz",
+    "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "sNGGurE66w6NWe",
+    "name": "Stingray Soul Storm",
+    "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "eOtQMHFA0jA6gs",
+    "name": "Stingray The Spa",
+    "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "wrMyyZ5wXg4rn0",
+    "name": "Stingray Today's K-Pop",
+    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "2traBrKxK805Yl",
+    "name": "Stingray Today's Latin Pop",
+    "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "p0SZrz0oHIGKvz",
+    "name": "Stingray Urban Beat",
+    "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+    "category": "Music",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
+    ]
+  },
+  {
+    "id": "4fSWekqVzO4BQS",
+    "name": "Strana FM",
+    "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+      "https://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YpJP1lJg00OdSW",
+    "name": "Stryk TV",
+    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "STR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8"
+    ]
+  },
+  {
+    "id": "wPlSUCmwkpBR6B",
+    "name": "Super Q Panama",
+    "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RvB0FuQSbeJDr5",
+    "name": "Supermusica TV",
+    "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+    "category": "Music",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
+    ]
+  },
+  {
+    "id": "cu7YGaPAVwkgGg",
+    "name": "T2 TV",
+    "url": "https://t2hls.wns.live/hls/stream.m3u8",
+    "category": "Music",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "T2 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://t2hls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "MIaqKXd3JITgYF",
+    "name": "Tabbar Hits",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "pan"
+    ],
+    "description": "Canal de TV de India. Idioma: pan.",
+    "logoText": "TAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8"
+    ]
+  },
+  {
+    "id": "bLrhTddKmX53C8",
+    "name": "Tarab",
+    "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+    "category": "Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "TAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9igTbA8qhtc7eq",
+    "name": "TDI Radio TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "TDI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
+    ]
+  },
+  {
+    "id": "q3s8mH9XozYPSB",
+    "name": "Tele Dominicana TV",
+    "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "MBKYOzxWLTlns1",
+    "name": "Tele Zoukla",
+    "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo.pro-fhi.net:3228/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "Njn8bJGKqOkI3F",
+    "name": "Tele7music",
+    "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.tele7music.ro/hls/stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "Vz912DM7zVlEgp",
+    "name": "Tezaur TV",
+    "url": "https://tezaurtv.md/stream/index.m3u8",
+    "category": "Music",
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Moldova. Idioma: ron.",
+    "logoText": "TEZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tezaurtv.md/stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "bLqTjYrLiOzgkY",
+    "name": "The Country Network",
+    "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "THE",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rCOmwF4pnlWlvg",
+    "name": "The Voice",
+    "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+    ]
+  },
+  {
+    "id": "XlXPtDjBoCbxvd",
+    "name": "Tiankov Folk",
+    "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "TIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+    ]
+  },
+  {
+    "id": "SByzYuSnvckWM0",
+    "name": "Tiankov Orient Folk",
+    "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "TIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+    ]
+  },
+  {
+    "id": "AobTBdQ6p1JxiG",
+    "name": "TikTok Radio Brasil",
+    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+    "category": "Music",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "TIK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
+    ]
+  },
+  {
+    "id": "oimpG8sQBrTcUM",
+    "name": "TMA",
+    "url": "https://hls.tmacaraibes.com/live/index.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "TMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.tmacaraibes.com/live/index.m3u8"
+    ]
+  },
+  {
+    "id": "4HFk1EIyyY3Rms",
+    "name": "Today Radio",
+    "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+    "category": "Music",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: eng.",
+    "logoText": "TOD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EE285n8RUw5BzL",
+    "name": "Topical Moon RD",
+    "url": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TOP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8"
+    ]
+  },
+  {
+    "id": "pzt1PSqplgKD2y",
+    "name": "Totalmusic",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
+    ]
+  },
+  {
+    "id": "9Rw1P5d6hpRKjY",
+    "name": "Totalmusic 80s",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
+    ]
+  },
+  {
+    "id": "MG5xhJnyQvgB5s",
+    "name": "Totalmusic 2000s",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
+    ]
+  },
+  {
+    "id": "l5T7DFgOiQyz89",
+    "name": "Totalmusic Concerts",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
+    ]
+  },
+  {
+    "id": "qht3DL9A3RRTRh",
+    "name": "Totalmusic Dance",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: spa.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
+    ]
+  },
+  {
+    "id": "URBHUsZAHdGmEN",
+    "name": "Trace Brazuca",
+    "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de France. Idioma: por.",
+    "logoText": "TRA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RcxxzdMu6ZS2Ab",
+    "name": "Trace Latina",
+    "url": "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QMKR1Xfs0rC7EV",
+    "name": "Trace UK",
+    "url": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "TRA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+      "https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8"
+    ]
+  },
+  {
+    "id": "wIUeNDlNNSx9pm",
+    "name": "Trace Urban",
+    "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng",
+      "fra",
+      "por"
+    ],
+    "description": "Canal de TV de France. Idioma: eng, fra, por.",
+    "logoText": "TRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+      "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SUR27YVxiEVQoo",
+    "name": "Tropi Q 99.7 FM",
+    "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "TRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
+    ]
+  },
+  {
+    "id": "hUIt6diRlUntb4",
+    "name": "Tropical Music TV",
+    "url": "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "TRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "C9IVKYDQo5BjBO",
+    "name": "TRT Muzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "category": "Music",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "TRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+    ]
+  },
+  {
+    "id": "4nGnB92iVbS8Jl",
+    "name": "Tunes 6",
+    "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "TUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
+    ]
+  },
+  {
+    "id": "gh6WHvpQmXShdI",
+    "name": "Turbo Mix Radio TV",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "TUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
+    ]
+  },
+  {
+    "id": "PqhSs4QgiYSTPX",
+    "name": "TV Exitos",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+    "category": "Music",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
+    ]
+  },
+  {
+    "id": "gyVcJ1bLnu4kuk",
+    "name": "TVOMIX",
+    "url": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "TVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud.tvomix.com/TVOMIX/index.m3u8"
+    ]
+  },
+  {
+    "id": "pZ7DVIEngrRQGF",
+    "name": "TVR Folclor",
+    "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "TVR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FzUnMv3h7JFnnS",
+    "name": "TVS Music Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8"
+    ]
+  },
+  {
+    "id": "ghJvcjvVzHFJJM",
+    "name": "TVUNO",
+    "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+    "category": "Music",
+    "country": "PE",
+    "countryName": "Peru",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Peru. Idioma: spa.",
+    "logoText": "TVU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "URB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pdGlkzuQkXlPIE",
+    "name": "V2BEAT TV",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "V2B",
+    "streamCount": 1,
+    "allStreams": [
+      "https://abr.de1se01.v2beat.live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "AxMmLSJkEr50An",
+    "name": "Vaanavil TV",
+    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "VAA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Agpaf3T79hzFYc",
+    "name": "Vallenato Internacional",
+    "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "VAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "r2gF8oZvggcaZG",
+    "name": "Vantage Dance",
+    "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
+    ]
+  },
+  {
+    "id": "i3qkHtWdmsIqE8",
+    "name": "Vantage Music",
+    "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
+    ]
+  },
+  {
+    "id": "ayJ81MgKRadKk0",
+    "name": "Vantage Rock",
+    "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vrock_stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "5x4W6LuBAy9tMn",
+    "name": "Vevo '70s",
+    "url": "https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8",
+      "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
+      "https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GNypqwghVYqN0j",
+    "name": "Vevo '80s",
+    "url": "https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8",
+      "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8",
+      "https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "J9gYOzMLOczpbY",
+    "name": "Vevo '90s",
+    "url": "https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8",
+      "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
+      "https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6PfdgXuVP74n1d",
+    "name": "Vevo 2K",
+    "url": "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8",
+      "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+      "https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8"
+    ]
+  },
+  {
+    "id": "HQEaDgEkG58pdP",
+    "name": "Vevo Country",
+    "url": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+      "https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8",
+      "https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8"
+    ]
+  },
+  {
+    "id": "rgO4fPz9mf3oVC",
+    "name": "Vevo Hip Hop",
+    "url": "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8"
+    ]
+  },
+  {
+    "id": "bXjRuRGczJcqIy",
+    "name": "Vevo Latino",
+    "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8"
+    ]
+  },
+  {
+    "id": "0RxuFLgkbqzGRf",
+    "name": "Vevo Pop",
+    "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
+      "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UmmlCkipoWg77Q",
+    "name": "Vevo R&B",
+    "url": "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8"
+    ]
+  },
+  {
+    "id": "F93PpIhuqVm8X4",
+    "name": "Vevo Retro Rock",
+    "url": "https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "VEV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8",
+      "https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8",
+      "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "url": "https://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "VID",
+    "streamCount": 1,
+    "allStreams": [
+      "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "VIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bmK9McortbPFr4",
+    "name": "Vision Television",
+    "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "VIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
+    ]
+  },
+  {
+    "id": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VIV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "category": "Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "VM ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WAshLHkYNk3KeX",
+    "name": "Volksmusik TV",
+    "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "VOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+    "category": "Music",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Ecuador. Idioma: spa.",
+    "logoText": "VOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "NhTCqVJfwNwg9R",
+    "name": "WOX TV",
+    "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "WOX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
+    ]
+  },
+  {
+    "id": "0JcLmPgiPRNsh2",
+    "name": "X Level Media",
+    "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+    "category": "Music",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Puerto Rico. Idioma: spa.",
+    "logoText": "X L",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
+    ]
+  },
+  {
+    "id": "WuVh2mfRifOUP1",
+    "name": "XITE 90's Throwback",
+    "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8"
+    ]
+  },
+  {
+    "id": "F9Ox1CfaRW0T4t",
+    "name": "XITE Celebrates",
+    "url": "https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [],
+    "description": "Canal de TV de United States. Idioma: N/A.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8"
+    ]
+  },
+  {
+    "id": "JNcgbpuMgresxr",
+    "name": "XITE Classic Country",
+    "url": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8"
+    ]
+  },
+  {
+    "id": "MTSj2olhZiM1t9",
+    "name": "XITE Hits Germany",
+    "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
+    "category": "Music",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu, eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
+    ]
+  },
+  {
+    "id": "4N4Er0dTF4NsBL",
+    "name": "XITE Hits Netherlands",
+    "url": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: eng, nld.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8"
+    ]
+  },
+  {
+    "id": "AzDpyeeds0QWRB",
+    "name": "XITE Hits UK",
+    "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "category": "Music",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mIIU3o2J8gN8UL",
+    "name": "XITE Just Chill",
+    "url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8"
+    ]
+  },
+  {
+    "id": "2qfIZHWq1X2El7",
+    "name": "XITE Nuevo Latino",
+    "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: por, spa.",
+    "logoText": "XIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+      "https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8"
+    ]
+  },
+  {
+    "id": "SEl1ifpNBzGggm",
+    "name": "XITE Reggae Vibes",
+    "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8"
+    ]
+  },
+  {
+    "id": "OGd71LsRIctQtK",
+    "name": "XITE Rock x Metal US",
+    "url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "XIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8"
+    ]
+  },
+  {
+    "id": "kxIDxj1bfR8Ii1",
+    "name": "XITE Siempre Latino",
+    "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+    "category": "Music",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: por, spa.",
+    "logoText": "XIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+      "https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8"
+    ]
+  },
+  {
+    "id": "OyFemiSp7sx4JI",
+    "name": "XPTV1",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+    "category": "Music",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Spain. Idioma: eng.",
+    "logoText": "XPT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+    ]
+  },
+  {
+    "id": "yr33MgQq5gUR8N",
+    "name": "YRF Music",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "YRF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UGOn3j007AWKXK",
+    "name": "ZB Music",
+    "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "ben"
+    ],
+    "description": "Canal de TV de India. Idioma: ben.",
+    "logoText": "ZB ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://server.zillarbarta.com/zbmusic/index.m3u8"
+    ]
+  },
+  {
+    "id": "T6K1OzxVu2js0L",
+    "name": "ZFM Zoetermeer TV",
+    "url": "https://zfmzoetermeer.nl/live/master.m3u8",
+    "category": "Music",
+    "country": "NL",
+    "countryName": "Netherlands",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Netherlands. Idioma: nld.",
+    "logoText": "ZFM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zfmzoetermeer.nl/live/master.m3u8"
+    ]
+  },
+  {
+    "id": "Y67heKltErviMJ",
+    "name": "Zo'r TV",
+    "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "ZO'",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "jQAh0Rr7Y5ZiVV",
+    "name": "Zoom",
+    "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "category": "Music",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "ZOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+    ]
+  },
+  {
+    "id": "UptrzheOmTQwWu",
+    "name": "Музыка 1 International",
+    "url": "https://kino-1.catcast.tv/content/37742/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "МУЗ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://kino-1.catcast.tv/content/37742/index.m3u8",
+      "https://kino-1.catcast.tv/content/37745/index.m3u8"
+    ]
+  },
+  {
+    "id": "UCMJJw8ybEUxDH",
+    "name": "Музыка Кино International",
+    "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "МУЗ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kino-1.catcast.tv/content/37739/index.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "FUSIONTV.mq",
+    "name": "FUSION TV",
+    "logo": "https://i.imgur.com/WMrYEgH.png",
+    "logoText": "FUS",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Martinique. Language: N/A. Website: https://fusiontv.fr/"
+  },
+  {
+    "id": "IdentiteTeleCaraibes.mq",
+    "name": "Identite Tele Caraibes",
+    "logo": "https://i.imgur.com/Atsf6Cd.png",
+    "logoText": "IDE",
+    "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Martinique. Language: N/A. Website: https://identiteradio.com/tv/"
+  },
+  {
+    "id": "TeleZoukla.mq",
+    "name": "Tele Zoukla",
+    "logo": "https://i.imgur.com/lWYKgPC.png",
+    "logoText": "TEL",
+    "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Martinique. Language: N/A. Website: https://www.telezoukla.com/"
+  },
+  {
+    "id": "TVFamille.mq",
+    "name": "TV Famille",
+    "logo": "https://i.imgur.com/Kbfihk5.png",
+    "logoText": "TV ",
+    "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Family",
+    "categories": [
+      "family",
+      "religious"
+    ],
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Martinique. Language: N/A. Website: https://tvfamille.org/"
+  },
+  {
+    "id": "ViaATV.mq",
+    "name": "ViaATV",
+    "logo": "https://i.imgur.com/Ua6rOXo.png",
+    "logoText": "VIA",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Martinique. Language: N/A. Website: https://viaatv.tv/"
+  }
+]

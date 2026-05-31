@@ -1,0 +1,50 @@
+[
+  {
+    "id": "J6JRjdzh7tzAiL",
+    "name": "Beach Bar Radio",
+    "url": "https://streaming.radio.co/s23d2a636c/listen",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=streaming.co",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "VI",
+    "countryName": "U.S. Virgin Islands",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "dN80BA3ynoEyrZ",
+    "name": "DaVybe 107.9 FM",
+    "url": "https://ice3.securenetsystems.net/WLDV",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=securenetsystems.net",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "VI",
+    "countryName": "U.S. Virgin Islands",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "77C2BAZgctFC2s",
+    "name": "WTJX-FM",
+    "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=streamguys1.com",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "VI",
+    "countryName": "U.S. Virgin Islands",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  }
+]

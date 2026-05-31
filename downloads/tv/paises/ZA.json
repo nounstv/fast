@@ -1,0 +1,722 @@
+[
+  {
+    "id": "1KZNTV.za",
+    "name": "1KZN TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+    "logoText": "1KZ",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "family",
+      "general"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.1kzntv.co.za/"
+  },
+  {
+    "id": "AfriwoodBlockbuster.za",
+    "name": "Afriwood Blockbuster",
+    "logo": "https://i.imgur.com/aESdqiB.png",
+    "logoText": "AFR",
+    "url": "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.africaxp.com/"
+  },
+  {
+    "id": "BOKTV.za",
+    "name": "BOKTV",
+    "logo": "https://i.imgur.com/mcNjuuO.png",
+    "logoText": "BOK",
+    "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.bokradio.co.za/"
+  },
+  {
+    "id": "CapeTownTV.za",
+    "name": "Cape Town TV",
+    "logo": "https://i.imgur.com/Y8FK1Kk.png",
+    "logoText": "CAP",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.capetowntv.org/"
+  },
+  {
+    "id": "CinemaHausa.za",
+    "name": "Cinema Hausa",
+    "logo": "https://i.imgur.com/uV5cHDW.png",
+    "logoText": "CIN",
+    "url": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://video.premiumfree.tv/linear/cinema-hausa"
+  },
+  {
+    "id": "CrimeandEvidence.za",
+    "name": "Crime and Evidence",
+    "logo": "https://i.imgur.com/xwGquEb.png",
+    "logoText": "CRI",
+    "url": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://video.premiumfree.tv/"
+  },
+  {
+    "id": "etvNewsSport.za",
+    "name": "e.tv News & Sport",
+    "logo": "https://i.imgur.com/lXMzsNM.png",
+    "logoText": "E.T",
+    "url": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.openview.co.za/channel/open-news"
+  },
+  {
+    "id": "FaithTV.za",
+    "name": "Faith TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
+    "logoText": "FAI",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://myfaith.tv/"
+  },
+  {
+    "id": "GNFTV.za",
+    "name": "GNF TV",
+    "logo": "https://i.imgur.com/vCB7u0e.png",
+    "logoText": "GNF",
+    "url": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.gnftv.com/"
+  },
+  {
+    "id": "HomebaseTV.za",
+    "name": "Homebase TV",
+    "logo": "https://i.imgur.com/MaLNfJG.png",
+    "logoText": "HOM",
+    "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.homebasetv.org/"
+  },
+  {
+    "id": "HopeChannelAfrica.za",
+    "name": "Hope Channel Africa",
+    "logo": "https://i.imgur.com/SFacyYO.png",
+    "logoText": "HOP",
+    "url": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.hopeafrica.tv/"
+  },
+  {
+    "id": "LN24SA.za",
+    "name": "LN24SA",
+    "logo": "https://i.imgur.com/Hg5YTwu.png",
+    "logoText": "LN2",
+    "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://ln24sa.com/"
+  },
+  {
+    "id": "NuViewTV.za",
+    "name": "NuView TV",
+    "logo": "https://i.imgur.com/dYRJ7F0.png",
+    "logoText": "NUV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://nuviewtv.co.za/"
+  },
+  {
+    "id": "RedemptionTelevisionMinistry.za",
+    "name": "Redemption Television Ministry",
+    "logo": "https://i.imgur.com/63SmAby.png",
+    "logoText": "RED",
+    "url": "https://live.nixsat.com/play/rtm/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.nixsat.com/play/rtm/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.redemptiontm.tv/"
+  },
+  {
+    "id": "RLWTV.za",
+    "name": "RLW TV",
+    "logo": "https://i.imgur.com/VcwqoEF.png",
+    "logoText": "RLW",
+    "url": "https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://rlw.org.za/"
+  },
+  {
+    "id": "ROVTV.za",
+    "name": "ROV TV",
+    "logo": "https://i.imgur.com/sbeuEYY.png",
+    "logoText": "ROV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.rockofvictoryministries.org/"
+  },
+  {
+    "id": "SABC1.za",
+    "name": "SABC 1",
+    "logo": "https://i.imgur.com/G8OXWe4.png",
+    "logoText": "SAB",
+    "url": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.sabc1.co.za/"
+  },
+  {
+    "id": "SABC2.za",
+    "name": "SABC 2",
+    "logo": "https://i.imgur.com/rj6i9sn.png",
+    "logoText": "SAB",
+    "url": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.sabc2.co.za/"
+  },
+  {
+    "id": "SABC3.za",
+    "name": "SABC 3",
+    "logo": "https://i.imgur.com/eEhLk1D.png",
+    "logoText": "SAB",
+    "url": "https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.sabc3.co.za/"
+  },
+  {
+    "id": "SABCLehae.za",
+    "name": "SABC Lehae",
+    "logo": "https://i.imgur.com/YhdnZHH.png",
+    "logoText": "SAB",
+    "url": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://sabc-plus.com/"
+  },
+  {
+    "id": "SABCNews.za",
+    "name": "SABC News",
+    "logo": "https://i.imgur.com/liLta8j.png",
+    "logoText": "SAB",
+    "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.sabc.co.za/"
+  },
+  {
+    "id": "SeraphimTV.za",
+    "name": "Seraphim TV",
+    "logo": "https://i.imgur.com/MfeKk07.png",
+    "logoText": "SER",
+    "url": "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://seraphimtv.org/"
+  },
+  {
+    "id": "SowetoTV.za",
+    "name": "Soweto TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",
+    "logoText": "SOW",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "family"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.sowetotv.co.za/"
+  },
+  {
+    "id": "SportsConnect.za",
+    "name": "Sports Connect",
+    "logo": "https://i.imgur.com/0sNWg54.png",
+    "logoText": "SPO",
+    "url": "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.africaxp.com/"
+  },
+  {
+    "id": "Trigger.za",
+    "name": "Trigger",
+    "logo": "https://i.imgur.com/TrlrcWf.png",
+    "logoText": "TRI",
+    "url": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://www.africaxp.com/"
+  },
+  {
+    "id": "TrueAfrican.za",
+    "name": "True African",
+    "logo": "https://i.imgur.com/nDi2br7.png",
+    "logoText": "TRU",
+    "url": "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A."
+  },
+  {
+    "id": "TshwaneTV.za",
+    "name": "Tshwane TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
+    "logoText": "TSH",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "family",
+      "general"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: http://www.tshwane.tv/"
+  },
+  {
+    "id": "TVBRICSAfrica.za",
+    "name": "TV BRICS Africa",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg",
+    "logoText": "TV ",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A."
+  },
+  {
+    "id": "WildEarth.za",
+    "name": "WildEarth",
+    "logo": "https://i.imgur.com/Vhv5gjN.png",
+    "logoText": "WIL",
+    "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor",
+      "relax",
+      "documentary",
+      "education"
+    ],
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [],
+    "description": "Global IPTV stream. Country: South Africa. Language: N/A. Website: https://wildearth.tv/"
+  }
+]

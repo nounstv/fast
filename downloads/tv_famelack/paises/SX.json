@@ -1,0 +1,120 @@
+[
+  {
+    "id": "aN8uGsIctN5GGv",
+    "name": "98.1 Pearl FM",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "category": "Music",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng.",
+    "logoText": "98.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
+    ]
+  },
+  {
+    "id": "pvP7Er0o72Q8Z2",
+    "name": "Nolan Nanton Productions",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8",
+    "category": "Geral",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Canal de TV de Sint Maarten. Idioma: N/A.",
+    "logoText": "NOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8"
+    ]
+  },
+  {
+    "id": "q642f1lR53cD10",
+    "name": "TVCARiB Cinema",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+    "category": "Movies",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng, nld.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
+    ]
+  },
+  {
+    "id": "2rNqvS3cyFL1gx",
+    "name": "TVCARiB Gospel",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+    "category": "Religious",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng, fra.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+    ]
+  },
+  {
+    "id": "G5MvNhKDTwrAEa",
+    "name": "TVCARiB Kids & Teens",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "category": "Kids",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng, nld.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+    ]
+  },
+  {
+    "id": "6rzlGn5vI0TLE3",
+    "name": "TVCARiB Latino",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+    "category": "Entertainment",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: spa.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8"
+    ]
+  },
+  {
+    "id": "E0JH3B3Z6Nseer",
+    "name": "TVCARiB Radio",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8",
+    "category": "Geral",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Canal de TV de Sint Maarten. Idioma: N/A.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,4330 @@
+[
+  {
+    "id": "3ABNCanada.ca",
+    "name": "3ABN Canada",
+    "logo": "https://i.imgur.com/U99CsEc.png",
+    "logoText": "3AB",
+    "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://3abn.ca/"
+  },
+  {
+    "id": "5AABTV.ca",
+    "name": "5AAB TV",
+    "logo": "https://i.imgur.com/jrGrfof.png",
+    "logoText": "5AA",
+    "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.5aabtv.ca/"
+  },
+  {
+    "id": "AfghanNobelMovies.ca",
+    "name": "Afghan Nobel Movies",
+    "logo": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "logoText": "AFG",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.afghannobel.com/"
+  },
+  {
+    "id": "AfghanNobelTV.ca",
+    "name": "Afghan Nobel TV",
+    "logo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+    "logoText": "AFG",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.afghannobel.com"
+  },
+  {
+    "id": "AmazingDiscoveriesTV.ca",
+    "name": "Amazing Discoveries TV",
+    "logo": "https://i.imgur.com/I0oPFTj.png",
+    "logoText": "AMA",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://adtv.watch/"
+  },
+  {
+    "id": "ApnaPunjabTV.ca",
+    "name": "Apna Punjab TV",
+    "logo": "https://i.imgur.com/IM4D8Wz.png",
+    "logoText": "APN",
+    "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.apnapunjab.tv/"
+  },
+  {
+    "id": "AzStarTV.ca",
+    "name": "Az Star TV",
+    "logo": "https://i.imgur.com/di3XX5L.png",
+    "logoText": "AZ ",
+    "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.azstartv.com/"
+  },
+  {
+    "id": "BNNBloomberg.ca",
+    "name": "BNN Bloomberg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",
+    "logoText": "BNN",
+    "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.bnnbloomberg.ca/"
+  },
+  {
+    "id": "CMalayalamTV.ca",
+    "name": "C Malayalam TV",
+    "logo": "https://i.imgur.com/rpg0bQA.png",
+    "logoText": "C M",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.canadianmalayalamtv.com/"
+  },
+  {
+    "id": "Cable14Hamilton.ca",
+    "name": "Cable 14 Hamilton",
+    "logo": "https://i.imgur.com/bJ7ygTq.png",
+    "logoText": "CAB",
+    "url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "CanadaOne.ca",
+    "name": "Canada One",
+    "logo": "",
+    "logoText": "CAN",
+    "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "CBAFTDT.ca",
+    "name": "CBAFT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png",
+    "logoText": "CBA",
+    "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/acadie/"
+  },
+  {
+    "id": "CBATDT.ca",
+    "name": "CBAT-DT",
+    "logo": "https://i.imgur.com/xflShTG.png",
+    "logoText": "CBA",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/new-brunswick"
+  },
+  {
+    "id": "CBCNewsNetwork.ca",
+    "name": "CBC News Network",
+    "logo": "https://i.imgur.com/SjTdhvJ.png",
+    "logoText": "CBC",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/programguide/daily/today/cbc_news_network/"
+  },
+  {
+    "id": "CBCTDT.ca",
+    "name": "CBCT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/960px-CBCT-DT_2017.svg.png",
+    "logoText": "CBC",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/prince-edward-island"
+  },
+  {
+    "id": "CBETDT.ca",
+    "name": "CBET-DT",
+    "logo": "https://i.imgur.com/NFts1uU.png",
+    "logoText": "CBE",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.cbc.ca/news/canada/windsor"
+  },
+  {
+    "id": "CBFTDT.ca",
+    "name": "CBFT-DT",
+    "logo": "https://i.imgur.com/pFCJGj4.png",
+    "logoText": "CBF",
+    "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/grandmontreal"
+  },
+  {
+    "id": "CBHTDT.ca",
+    "name": "CBHT-DT",
+    "logo": "https://i.imgur.com/jdlYY4t.png",
+    "logoText": "CBH",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/nova-scotia"
+  },
+  {
+    "id": "CBKFTDT.ca",
+    "name": "CBKFT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/960px-ICI_Saskatchewan_logo_2018.svg.png",
+    "logoText": "CBK",
+    "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/saskatchewan/"
+  },
+  {
+    "id": "CBKTDT.ca",
+    "name": "CBKT-DT",
+    "logo": "https://i.imgur.com/PWGVjsg.png",
+    "logoText": "CBK",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/saskatchewan"
+  },
+  {
+    "id": "CBLFTDT.ca",
+    "name": "CBLFT-DT",
+    "logo": "https://i.imgur.com/1f798e8.png",
+    "logoText": "CBL",
+    "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/ontario/toronto"
+  },
+  {
+    "id": "CBLTDT.ca",
+    "name": "CBLT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+    "logoText": "CBL",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/toronto"
+  },
+  {
+    "id": "CBMTDT.ca",
+    "name": "CBMT-DT",
+    "logo": "https://i.imgur.com/OiiM6Mz.png",
+    "logoText": "CBM",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/montreal"
+  },
+  {
+    "id": "CBNTDT.ca",
+    "name": "CBNT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/960px-CBNT-DT_2017.svg.png",
+    "logoText": "CBN",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/newfoundland-labrador"
+  },
+  {
+    "id": "CBOFTDT.ca",
+    "name": "CBOFT-DT",
+    "logo": "https://i.imgur.com/373Y8Py.png",
+    "logoText": "CBO",
+    "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/ottawa-gatineau/"
+  },
+  {
+    "id": "CBOTDT.ca",
+    "name": "CBOT-DT",
+    "logo": "https://i.imgur.com/v3DJUa8.png",
+    "logoText": "CBO",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/ottawa"
+  },
+  {
+    "id": "CBRTDT.ca",
+    "name": "CBRT-DT",
+    "logo": "https://i.imgur.com/ocq1x2B.png",
+    "logoText": "CBR",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/calgary"
+  },
+  {
+    "id": "CBUFTDT.ca",
+    "name": "CBUFT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+    "logoText": "CBU",
+    "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/colombie-britannique-et-yukon/"
+  },
+  {
+    "id": "CBUTDT.ca",
+    "name": "CBUT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png",
+    "logoText": "CBU",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/british-columbia"
+  },
+  {
+    "id": "CBVTDT.ca",
+    "name": "CBVT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+    "logoText": "CBV",
+    "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/quebec/"
+  },
+  {
+    "id": "CBWFTDT.ca",
+    "name": "CBWFT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/960px-ICI_Manitoba_logo_2018.svg.png",
+    "logoText": "CBW",
+    "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/manitoba/"
+  },
+  {
+    "id": "CBWTDT.ca",
+    "name": "CBWT-DT",
+    "logo": "https://i.imgur.com/aWNHg5z.png",
+    "logoText": "CBW",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/manitoba"
+  },
+  {
+    "id": "CBXFTDT.ca",
+    "name": "CBXFT-DT",
+    "logo": "https://i.imgur.com/xN4Valg.png",
+    "logoText": "CBX",
+    "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/alberta/"
+  },
+  {
+    "id": "CBXTDT.ca",
+    "name": "CBXT-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+    "logoText": "CBX",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.cbc.ca/news/canada/edmonton"
+  },
+  {
+    "id": "CFHDDT.ca",
+    "name": "CFHD-DT",
+    "logo": "https://i.imgur.com/x0vLIWr.png",
+    "logoText": "CFH",
+    "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://icitelevision.ca/"
+  },
+  {
+    "id": "CFTMDT.ca",
+    "name": "CFTM-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png",
+    "logoText": "CFT",
+    "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.qub.ca/tvaplus/tva"
+  },
+  {
+    "id": "CFTUDT.ca",
+    "name": "CFTU-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+    "logoText": "CFT",
+    "url": "https://hls.savoir.media/live/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.savoir.media/live/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://savoir.tv/"
+  },
+  {
+    "id": "CFYKDT.ca",
+    "name": "CFYK-DT",
+    "logo": "https://i.imgur.com/EHGOQhj.png",
+    "logoText": "CFY",
+    "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.cbc.ca/news/canada/north"
+  },
+  {
+    "id": "ChannelY.ca",
+    "name": "Channel Y",
+    "logo": "https://i.imgur.com/OqSl2Qf.png",
+    "logoText": "CHA",
+    "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://southasiandaily.com/"
+  },
+  {
+    "id": "CHCOTV.ca",
+    "name": "CHCO-TV",
+    "logo": "https://i.imgur.com/EpMawIy.png",
+    "logoText": "CHC",
+    "url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.chco.tv/"
+  },
+  {
+    "id": "CityNewsCalgary.ca",
+    "name": "CityNews Calgary",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "logoText": "CIT",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://calgary.citynews.ca/video/"
+  },
+  {
+    "id": "CityNewsEdmonton.ca",
+    "name": "CityNews Edmonton",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "logoText": "CIT",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://edmonton.citynews.ca/video/"
+  },
+  {
+    "id": "CityNewsToronto.ca",
+    "name": "CityNews Toronto",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "logoText": "CIT",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://toronto.citynews.ca/video/"
+  },
+  {
+    "id": "CityNewsVancouver.ca",
+    "name": "CityNews Vancouver",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "logoText": "CIT",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://vancouver.citynews.ca/video/"
+  },
+  {
+    "id": "CJBRDT.ca",
+    "name": "CJBR-DT",
+    "logo": "https://i.imgur.com/1B3d8Jc.png",
+    "logoText": "CJB",
+    "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/bas-saint-laurent/"
+  },
+  {
+    "id": "CJONDT.ca",
+    "name": "CJON-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+    "logoText": "CJO",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ntv.ca/"
+  },
+  {
+    "id": "CKNOFM.ca",
+    "name": "CKNO-FM",
+    "logo": "https://i.imgur.com/sF2g7KE.png",
+    "logoText": "CKN",
+    "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.1023nowradio.com/now-tv/"
+  },
+  {
+    "id": "CKSHDT.ca",
+    "name": "CKSH-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png",
+    "logoText": "CKS",
+    "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/estrie/"
+  },
+  {
+    "id": "CKTMDT.ca",
+    "name": "CKTM-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png",
+    "logoText": "CKT",
+    "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/mauricie/"
+  },
+  {
+    "id": "CKTVDT.ca",
+    "name": "CKTV-DT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png",
+    "logoText": "CKT",
+    "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ici.radio-canada.ca/saguenay-lac-saint-jean/"
+  },
+  {
+    "id": "CPACEnglish.ca",
+    "name": "CPAC English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png",
+    "logoText": "CPA",
+    "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.cpac.ca/"
+  },
+  {
+    "id": "Declassified.ca",
+    "name": "Declassified",
+    "logo": "https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png",
+    "logoText": "DEC",
+    "url": "https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://declassified-tv.com/"
+  },
+  {
+    "id": "DeshiTV.ca",
+    "name": "Deshi TV",
+    "logo": "https://i.imgur.com/PzqzgMm.png",
+    "logoText": "DES",
+    "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.deshitv.com/"
+  },
+  {
+    "id": "DukhNivaran.ca",
+    "name": "Dukh Nivaran",
+    "logo": "https://i.imgur.com/Zh60l1x.png",
+    "logoText": "DUK",
+    "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://dukhnivaran.ca/"
+  },
+  {
+    "id": "EawazTV.ca",
+    "name": "Eawaz TV",
+    "logo": "https://i.imgur.com/vB4yzen.png",
+    "logoText": "EAW",
+    "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "EETTV.ca",
+    "name": "EET TV",
+    "logo": "https://i.imgur.com/rntSEDZ.png",
+    "logoText": "EET",
+    "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://tethd.tv/"
+  },
+  {
+    "id": "EMCITVAmerica.ca",
+    "name": "EMCI TV America",
+    "logo": "",
+    "logoText": "EMC",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://emcitv.com/direct/montreal/"
+  },
+  {
+    "id": "ErfanHalghehTV.ca",
+    "name": "Erfan Halgheh TV",
+    "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+    "logoText": "ERF",
+    "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "FEVATV.ca",
+    "name": "FEVA TV",
+    "logo": "https://i.imgur.com/QSi0YTS.png",
+    "logoText": "FEV",
+    "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.fevatv.com/"
+  },
+  {
+    "id": "FightNetwork.ca",
+    "name": "Fight Network",
+    "logo": "https://i.imgur.com/vlKPZHR.png",
+    "logoText": "FIG",
+    "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.fightnetwork.com/"
+  },
+  {
+    "id": "GamePlus.ca",
+    "name": "Game+",
+    "logo": "https://i.imgur.com/Lj69WbR.png",
+    "logoText": "GAM",
+    "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.gameplusnetwork.com/"
+  },
+  {
+    "id": "GaundaPunjabTV.ca",
+    "name": "Gaunda Punjab TV",
+    "logo": "https://i.imgur.com/ArRZRM3.png",
+    "logoText": "GAU",
+    "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://gaundapunjablive.com/"
+  },
+  {
+    "id": "GHCanadaTV.ca",
+    "name": "GH Canada TV",
+    "logo": "",
+    "logoText": "GH ",
+    "url": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ghcanada.tv/"
+  },
+  {
+    "id": "GTNCanada.ca",
+    "name": "GTN Canada",
+    "logo": "https://i.imgur.com/7bQPJOd.png",
+    "logoText": "GTN",
+    "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GurSikhSabhaTV.ca",
+    "name": "GurSikh Sabha TV",
+    "logo": "https://i.imgur.com/2EKCtQm.png",
+    "logoText": "GUR",
+    "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.gsabha.com/"
+  },
+  {
+    "id": "GustoTV.ca",
+    "name": "Gusto TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png",
+    "logoText": "GUS",
+    "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.vf=kWp29zpXm1y",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Cooking",
+    "categories": [
+      "cooking"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://gustotv.com/"
+  },
+  {
+    "id": "HamdardTV.ca",
+    "name": "Hamdard TV",
+    "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+    "logoText": "HAM",
+    "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.hamdardtv.com/"
+  },
+  {
+    "id": "HardKnocks.ca",
+    "name": "Hard Knocks",
+    "logo": "https://i.imgur.com/nt9B6jx.png",
+    "logoText": "HAR",
+    "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "HauntTV.ca",
+    "name": "HauntTV",
+    "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
+    "logoText": "HAU",
+    "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://haunt-tv.com/"
+  },
+  {
+    "id": "Homeful.ca",
+    "name": "Homeful",
+    "logo": "https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png",
+    "logoText": "HOM",
+    "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-67603668f433320008760af1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.homefultv.com/"
+  },
+  {
+    "id": "HyderTV.ca",
+    "name": "Hyder TV",
+    "logo": "https://i.imgur.com/reHjjRZ.png",
+    "logoText": "HYD",
+    "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.hyder.tv/"
+  },
+  {
+    "id": "IciRDI.ca",
+    "name": "Ici RDI",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png",
+    "logoText": "ICI",
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://ici.radio-canada.ca/rdi"
+  },
+  {
+    "id": "ICnet1.ca",
+    "name": "ICnet 1",
+    "logo": "https://i.imgur.com/aeS4Sjv.png",
+    "logoText": "ICN",
+    "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://icnet.tv/"
+  },
+  {
+    "id": "ICnet2.ca",
+    "name": "ICnet 2",
+    "logo": "https://i.imgur.com/Ke5xn4E.png",
+    "logoText": "ICN",
+    "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://icnet.tv/"
+  },
+  {
+    "id": "icnet3.ca",
+    "name": "icnet 3",
+    "logo": "",
+    "logoText": "ICN",
+    "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://icnet.tv/"
+  },
+  {
+    "id": "IIPCTV.ca",
+    "name": "IIPC TV",
+    "logo": "https://i.imgur.com/mIih39Y.png",
+    "logoText": "IIP",
+    "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iipccanada.com/contacts/"
+  },
+  {
+    "id": "iTVAfrobeatsMusic.ca",
+    "name": "iTV Afrobeats Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "iTVArabicMusic.ca",
+    "name": "iTV Arabic Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "iTVIndianMusic.ca",
+    "name": "iTV Indian Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "iTVLatinMusic.ca",
+    "name": "iTV Latin Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "iTVTurkishMusic.ca",
+    "name": "iTV Turkish Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "iTVUrbanMusic.ca",
+    "name": "iTV Urban Music",
+    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "logoText": "ITV",
+    "url": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.iradios.ca/itv"
+  },
+  {
+    "id": "KidoodleTV.ca",
+    "name": "Kidoodle.TV",
+    "logo": "https://i.imgur.com/MaFtbM5.png",
+    "logoText": "KID",
+    "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.kidoodle.tv/"
+  },
+  {
+    "id": "KnowledgeNetwork.ca",
+    "name": "Knowledge Network",
+    "logo": "https://i.imgur.com/VfofmZZ.png",
+    "logoText": "KNO",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education",
+      "kids"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.knowledge.ca/"
+  },
+  {
+    "id": "LCN.ca",
+    "name": "LCN",
+    "logo": "https://i.imgur.com/iKDLgOG.png",
+    "logoText": "LCN",
+    "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tvanouvelles.ca/"
+  },
+  {
+    "id": "LegislativeAssemblyofBritishColumbia.ca",
+    "name": "Legislative Assembly of British Columbia",
+    "logo": "https://i.imgur.com/5QGxHhh.png",
+    "logoText": "LEG",
+    "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.leg.bc.ca/"
+  },
+  {
+    "id": "LegislativeAssemblyofBritishColumbiaCommitteeA.ca",
+    "name": "Legislative Assembly of British Columbia Committee A",
+    "logo": "",
+    "logoText": "LEG",
+    "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://video.leg.bc.ca/live/play.aspx?Video=dougfir&Title=Committee%20A&Description=Legislative%20Assembly%20of%20British%20Columbia&Mode=live&Popout=Yes&Mute=False"
+  },
+  {
+    "id": "LegislativeAssemblyofOntario.ca",
+    "name": "Legislative Assembly of Ontario",
+    "logo": "https://i.imgur.com/n24MrsX.png",
+    "logoText": "LEG",
+    "url": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.ola.org/"
+  },
+  {
+    "id": "LegislativeAssemblyTVNunavut.ca",
+    "name": "Legislative Assembly TV Nunavut",
+    "logo": "https://i.imgur.com/wY9WhYS.png",
+    "logoText": "LEG",
+    "url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.assembly.nu.ca/"
+  },
+  {
+    "id": "LoveNature.ca",
+    "name": "Love Nature",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "logoText": "LOV",
+    "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://tv.lovenature.com/"
+  },
+  {
+    "id": "LovePets.ca",
+    "name": "Love Pets",
+    "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+    "logoText": "LOV",
+    "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://lovepetstv.com/"
+  },
+  {
+    "id": "MelodyHits.ca",
+    "name": "Melody Hits",
+    "logo": "https://i.imgur.com/OOMkVrU.png",
+    "logoText": "MEL",
+    "url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.melody.net/"
+  },
+  {
+    "id": "MHZ.ca",
+    "name": "MHZ",
+    "logo": "https://i.imgur.com/a5fw83n.jpg",
+    "logoText": "MHZ",
+    "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://mhznetworks.com/"
+  },
+  {
+    "id": "MontrealGreekTV.ca",
+    "name": "Montreal Greek TV",
+    "logo": "https://i.imgur.com/Y5YnUit.png",
+    "logoText": "MON",
+    "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://greektimes.ca/greektv/"
+  },
+  {
+    "id": "NACTV.ca",
+    "name": "NACTV",
+    "logo": "https://i.imgur.com/FzM95rH.png",
+    "logoText": "NAC",
+    "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://nactv.tv/"
+  },
+  {
+    "id": "NatureTime.ca",
+    "name": "NatureTime",
+    "logo": "https://i.imgur.com/72JmyjM.png",
+    "logoText": "NAT",
+    "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-63d91c9c8795f30008678e62.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://naturetimetv.com/"
+  },
+  {
+    "id": "NBATVCanada.ca",
+    "name": "NBA TV Canada",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",
+    "logoText": "NBA",
+    "url": "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.nba.com/raptors/nbatvcanada/schedule"
+  },
+  {
+    "id": "NETVToronto.ca",
+    "name": "NETV Toronto",
+    "logo": "https://i.imgur.com/WXRBuOW.png",
+    "logoText": "NET",
+    "url": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.netvtoronto.com/"
+  },
+  {
+    "id": "NTVPlus.ca",
+    "name": "NTV+",
+    "logo": "https://i.imgur.com/YEUhPBv.png",
+    "logoText": "NTV",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://ntvplus.ca/"
+  },
+  {
+    "id": "OntarioParliamentaryNetwork.ca",
+    "name": "Ontario Parliamentary Network",
+    "logo": "https://i.imgur.com/xKXs6ER.png",
+    "logoText": "ONT",
+    "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "PamirTV.ca",
+    "name": "Pamir TV",
+    "logo": "https://i.imgur.com/sCBbBOj.png",
+    "logoText": "PAM",
+    "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture",
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.pamirtv.com/"
+  },
+  {
+    "id": "PardesiTV.ca",
+    "name": "Pardesi TV",
+    "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+    "logoText": "PAR",
+    "url": "http://stream.pardesitv.online/pardesi/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://stream.pardesitv.online/pardesi/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "PrimeAsiaTV.ca",
+    "name": "Prime Asia TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
+    "logoText": "PRI",
+    "url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=VB6jQQgalOa",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://primeasiatv.com/"
+  },
+  {
+    "id": "PrimeCanadaTV.ca",
+    "name": "Prime Canada TV",
+    "logo": "https://i.imgur.com/Vji81jB.png",
+    "logoText": "PRI",
+    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.primecanada.tv/"
+  },
+  {
+    "id": "ProbashiTVNews.ca",
+    "name": "Probashi TV News",
+    "logo": "https://i.imgur.com/7oTsfQ4.png",
+    "logoText": "PRO",
+    "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://probashinews24.tv/"
+  },
+  {
+    "id": "PTCPunjabiCanada.ca",
+    "name": "PTC Punjabi Canada",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",
+    "logoText": "PTC",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.ptcnetwork.ca/"
+  },
+  {
+    "id": "QelloConcertsbyStingray.ca",
+    "name": "Qello Concerts by Stingray",
+    "logo": "https://i.imgur.com/IRyFTWq.png",
+    "logoText": "QEL",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.vf=u2vmdOuxEbe",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://qello.com/en/"
+  },
+  {
+    "id": "QuoVadisTV.ca",
+    "name": "Quo Vadis TV",
+    "logo": "https://i.imgur.com/pEqDDHl.png",
+    "logoText": "QUO",
+    "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://quovadisministry.org/"
+  },
+  {
+    "id": "RadioTeleEvangileSansLimite.ca",
+    "name": "Radio Tele Evangile Sans Limite",
+    "logo": "https://i.imgur.com/CL32kFA.png",
+    "logoText": "RAD",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://radiotelevangilesanslimite.com/"
+  },
+  {
+    "id": "SardariTV.ca",
+    "name": "Sardari TV",
+    "logo": "",
+    "logoText": "SAR",
+    "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "SikhSpiritualCentreRexdale.ca",
+    "name": "Sikh Spiritual Centre Rexdale",
+    "logo": "https://i.imgur.com/YKXoIsr.png",
+    "logoText": "SIK",
+    "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "SohailTV.ca",
+    "name": "Sohail TV",
+    "logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+    "logoText": "SOH",
+    "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://sohailtv.com/"
+  },
+  {
+    "id": "SooriyanTV.ca",
+    "name": "Sooriyan TV",
+    "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+    "logoText": "SOO",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.sooriyantv.ca/"
+  },
+  {
+    "id": "StingrayClassicRock.ca",
+    "name": "Stingray Classic Rock",
+    "logo": "https://i.imgur.com/FBgu8yB.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8?ads.vf=VvT2jJevYaK",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayClassica.ca",
+    "name": "Stingray Classica",
+    "logo": "https://i.imgur.com/nh1k5RC.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.vf=GGD_2svUCi4",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://classica.stingray.com/"
+  },
+  {
+    "id": "StingrayCMusic.ca",
+    "name": "Stingray CMusic",
+    "logo": "https://i.imgur.com/3UppN5P.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://cmusic.stingray.com/"
+  },
+  {
+    "id": "StingrayDJAZZ.ca",
+    "name": "Stingray DJAZZ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.vf=W8pF-VwP190",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://djazz.stingray.com/"
+  },
+  {
+    "id": "StingrayEasyListening.ca",
+    "name": "Stingray Easy Listening",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayEuroHits.ca",
+    "name": "Stingray Euro Hits",
+    "logo": "https://i.imgur.com/FyhO9U5.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/US/channels/214/euro-hits"
+  },
+  {
+    "id": "StingrayEverything80s.ca",
+    "name": "Stingray Everything '80s",
+    "logo": "https://i.imgur.com/6E3wYrb.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/BS/channels/128/everything-80s"
+  },
+  {
+    "id": "StingrayExitosdelMomento.ca",
+    "name": "Stingray Exitos del Momento",
+    "logo": "https://i.imgur.com/wiasHUR.png",
+    "logoText": "STI",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/es/US/channels/190/exitos-del-momento"
+  },
+  {
+    "id": "StingrayFlashback70s.ca",
+    "name": "Stingray Flashback 70's",
+    "logo": "https://i.imgur.com/jf5C9QF.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8?ads.vf=2HRE0twQFKq",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayGreatestHits.ca",
+    "name": "Stingray Greatest Hits",
+    "logo": "",
+    "logoText": "STI",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayHitList.ca",
+    "name": "Stingray Hit List",
+    "logo": "https://i.imgur.com/lgpIwId.png",
+    "logoText": "STI",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/master.m3u8?ads.vf=oP0urGQi1pG",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/CA/channels/007/hit-list"
+  },
+  {
+    "id": "StingrayHolidayscapes.ca",
+    "name": "Stingray Holidayscapes",
+    "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+    "logoText": "STI",
+    "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.stingray.com/consumer/products/stingray-holidayscapes/"
+  },
+  {
+    "id": "StingrayHotCountry.ca",
+    "name": "Stingray Hot Country",
+    "logo": "https://i.imgur.com/PZhxyIT.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hot-country/master.m3u8?ads.vf=DTIq7zJ8g9i",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/008/hot-country"
+  },
+  {
+    "id": "StingrayJukeboxOldies.ca",
+    "name": "Stingray Jukebox Oldies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayKaraoke.ca",
+    "name": "Stingray Karaoke",
+    "logo": "https://i.imgur.com/9TLTLS3.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/karaoke-kar000-montreal/distrotv/master.m3u8?ads.vf=RTfUlT1fC1i",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://karaoke.stingray.com/en/"
+  },
+  {
+    "id": "StingrayNaturescape.ca",
+    "name": "Stingray Naturescape",
+    "logo": "https://i.imgur.com/882kd90.png",
+    "logoText": "STI",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.stingray.com/stingray-naturescape"
+  },
+  {
+    "id": "StingrayNothinBut90s.ca",
+    "name": "Stingray Nothin' But 90s",
+    "logo": "https://i.imgur.com/Tq3I0po.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/042/nothin-but-90s"
+  },
+  {
+    "id": "StingrayPopAdult.ca",
+    "name": "Stingray Pop Adult",
+    "logo": "https://i.imgur.com/H2ugC9L.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-pop-adult/master.m3u8?ads.vf=empRbzeG6BW",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/CA/channels/004/pop-adult"
+  },
+  {
+    "id": "StingrayRememberthe80s.ca",
+    "name": "Stingray Remember the 80s",
+    "logo": "https://i.imgur.com/duwc8E8.png",
+    "logoText": "STI",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayRockAlternative.ca",
+    "name": "Stingray Rock Alternative",
+    "logo": "https://i.imgur.com/mt8ulVX.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8?ads.vf=aOA9FlpE9HG",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayRomanceLatino.ca",
+    "name": "Stingray Romance Latino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingraySmoothJazz.ca",
+    "name": "Stingray Smooth Jazz",
+    "logo": "https://i.imgur.com/h1DsOzH.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/040/smooth-jazz"
+  },
+  {
+    "id": "StingraySoulStorm.ca",
+    "name": "Stingray Soul Storm",
+    "logo": "https://i.imgur.com/dU1KC3f.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/134/soul-storm"
+  },
+  {
+    "id": "StingrayTheSpa.ca",
+    "name": "Stingray The Spa",
+    "logo": "https://i.imgur.com/ywAN923.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/022/the-spa"
+  },
+  {
+    "id": "StingrayTodaysKPop.ca",
+    "name": "Stingray Today's K-Pop",
+    "logo": "https://i.imgur.com/mMbntB5.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://music.stingray.com/en/channels/317/todays-k-pop"
+  },
+  {
+    "id": "StingrayTodaysLatinPop.ca",
+    "name": "Stingray Today's Latin Pop",
+    "logo": "https://i.imgur.com/Os3kRRP.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "StingrayUrbanBeat.ca",
+    "name": "Stingray Urban Beat",
+    "logo": "https://i.imgur.com/Os3kRRP.png",
+    "logoText": "STI",
+    "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "TAGTV.ca",
+    "name": "TAG TV",
+    "logo": "https://i.imgur.com/4PA2adF.png",
+    "logoText": "TAG",
+    "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "TamilEntertainmentTelevision.ca",
+    "name": "Tamil Entertainment Television",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png",
+    "logoText": "TAM",
+    "url": "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://tethd.tv/"
+  },
+  {
+    "id": "TamilVisionTV.ca",
+    "name": "TamilVision-TV",
+    "logo": "https://i.imgur.com/DodsLuW.png",
+    "logoText": "TAM",
+    "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "TCFTV.ca",
+    "name": "TCFTV",
+    "logo": "https://i.imgur.com/lHsS6Lj.png",
+    "logoText": "TCF",
+    "url": "http://66.11.33.44:8081/live/TCF/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://66.11.33.44:8081/live/TCF/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "culture"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://tcftv.ca/"
+  },
+  {
+    "id": "TheCowboyChannelCanada.ca",
+    "name": "The Cowboy Channel Canada",
+    "logo": "https://i.imgur.com/xwntWOP.png",
+    "logoText": "THE",
+    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://thecowboychannelcanada.ca/"
+  },
+  {
+    "id": "TheNewsForum.ca",
+    "name": "The News Forum",
+    "logo": "https://i.imgur.com/hhqqiqg.png",
+    "logoText": "THE",
+    "url": "http://name-port.to/live/Gregory123/Gregory321/2420047.ts",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://name-port.to/live/Gregory123/Gregory321/2420047.ts",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "Toronto360TV.ca",
+    "name": "Toronto 360 TV",
+    "logo": "https://i.imgur.com/YJYdHKO.png",
+    "logoText": "TOR",
+    "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "TotalCrime.ca",
+    "name": "Total Crime",
+    "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
+    "logoText": "TOT",
+    "url": "https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.totalcrimetv.com/"
+  },
+  {
+    "id": "TSC.ca",
+    "name": "TSC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png",
+    "logoText": "TSC",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsc.ca/"
+  },
+  {
+    "id": "TSNTheOcho.ca",
+    "name": "TSN The Ocho",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+    "logoText": "TSN",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.samsung.com/ca/tvs/tvplus/"
+  },
+  {
+    "id": "TSN1.ca",
+    "name": "TSN1",
+    "logo": "https://i.imgur.com/eRFE0jZ.png",
+    "logoText": "TSN",
+    "url": "https://tvpass.org/live/tsn1/hd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tsn1/hd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvpass.org/live/tsn1/sd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsn.ca/"
+  },
+  {
+    "id": "TSN2.ca",
+    "name": "TSN2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png",
+    "logoText": "TSN",
+    "url": "https://tvpass.org/live/tsn2/hd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tsn2/hd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvpass.org/live/tsn2/sd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsn.ca/"
+  },
+  {
+    "id": "TSN3.ca",
+    "name": "TSN3",
+    "logo": "https://i.imgur.com/AYza8KO.png",
+    "logoText": "TSN",
+    "url": "https://tvpass.org/live/tsn3/hd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tsn3/hd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvpass.org/live/tsn3/sd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsn.ca/"
+  },
+  {
+    "id": "TSN4.ca",
+    "name": "TSN4",
+    "logo": "https://i.imgur.com/qJyAWU8.png",
+    "logoText": "TSN",
+    "url": "https://tvpass.org/live/tsn4/hd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tsn4/hd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvpass.org/live/tsn4/sd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsn.ca/"
+  },
+  {
+    "id": "TSN5.ca",
+    "name": "TSN5",
+    "logo": "https://i.imgur.com/HEzHpzz.png",
+    "logoText": "TSN",
+    "url": "https://tvpass.org/live/tsn5/hd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tsn5/hd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvpass.org/live/tsn5/sd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.tsn.ca/"
+  },
+  {
+    "id": "TV16Toronto.ca",
+    "name": "TV 16 Toronto",
+    "logo": "https://i.imgur.com/c4lLchb.png",
+    "logoText": "TV ",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "TVPunjab.ca",
+    "name": "TV Punjab",
+    "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+    "logoText": "TV ",
+    "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://tvpunjab.com/"
+  },
+  {
+    "id": "TV5QuebecCanada.ca",
+    "name": "TV5 Quebec Canada",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png",
+    "logoText": "TV5",
+    "url": "http://23.133.220.149/TV5/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://23.133.220.149/TV5/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://tv5unis.ca/"
+  },
+  {
+    "id": "TVOKids.ca",
+    "name": "TVOKids",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
+    "logoText": "TVO",
+    "url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A."
+  },
+  {
+    "id": "UvagutTV.ca",
+    "name": "Uvagut TV",
+    "logo": "https://i.imgur.com/RR7ATr2.png",
+    "logoText": "UVA",
+    "url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://uvagut.tv/"
+  },
+  {
+    "id": "WataneMaaTV.ca",
+    "name": "Watan-e-Maa TV",
+    "logo": "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
+    "logoText": "WAT",
+    "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.watanemaatv.com/"
+  },
+  {
+    "id": "WCGtv.ca",
+    "name": "WCGtv",
+    "logo": "https://i.imgur.com/q7UPbEG.png",
+    "logoText": "WCG",
+    "url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://www.wcgtv.ca/"
+  },
+  {
+    "id": "WildTV.ca",
+    "name": "Wild TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
+    "logoText": "WIL",
+    "url": "https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8?ads.vf=Q6fDmijf_hK",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8?ads.vf=Q6fDmijf_hK",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: https://wildtv.ca/"
+  },
+  {
+    "id": "ZeeTVCanada.ca",
+    "name": "Zee TV Canada",
+    "logo": "https://i.imgur.com/mARKUZ9.png",
+    "logoText": "ZEE",
+    "url": "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Canada. Language: N/A. Website: http://www.zeetvcanada.ca/"
+  }
+]

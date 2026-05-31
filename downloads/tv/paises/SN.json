@@ -1,0 +1,476 @@
+[
+  {
+    "id": "2STV.sn",
+    "name": "2STV",
+    "logo": "https://i.imgur.com/WByVBZf.png",
+    "logoText": "2ST",
+    "url": "http://69.64.57.208/2stv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://2stv.net/"
+  },
+  {
+    "id": "A2iMusic.sn",
+    "name": "A2i Music",
+    "logo": "https://i.imgur.com/Fykhzxh.jpg",
+    "logoText": "A2I",
+    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.a2itv.net/"
+  },
+  {
+    "id": "A2iNaija.sn",
+    "name": "A2i Naija",
+    "logo": "https://i.imgur.com/yq7ghPE.jpg",
+    "logoText": "A2I",
+    "url": "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.a2itv.net/"
+  },
+  {
+    "id": "A2iReligion.sn",
+    "name": "A2i Religion",
+    "logo": "https://i.imgur.com/54WrwyN.jpg",
+    "logoText": "A2I",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.a2itv.net/"
+  },
+  {
+    "id": "AmaniTV.sn",
+    "name": "Amani TV",
+    "logo": "https://i.imgur.com/0cY4K7G.png",
+    "logoText": "AMA",
+    "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://amanitv.media/"
+  },
+  {
+    "id": "ChabibaTV.sn",
+    "name": "Chabiba TV",
+    "logo": "https://i.imgur.com/qVTOklV.png",
+    "logoText": "CHA",
+    "url": "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://alkhayria.net/"
+  },
+  {
+    "id": "CNMTV.sn",
+    "name": "CNM TV",
+    "logo": "https://i.ibb.co/0cfdGKv/1630802325205.jpg",
+    "logoText": "CNM",
+    "url": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://cnm.sn/"
+  },
+  {
+    "id": "Diaspora24.sn",
+    "name": "Diaspora 24",
+    "logo": "https://i.imgur.com/4devfx1.png",
+    "logoText": "DIA",
+    "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A."
+  },
+  {
+    "id": "LougaTV.sn",
+    "name": "Louga TV",
+    "logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "logoText": "LOU",
+    "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://lougatv.net/"
+  },
+  {
+    "id": "OneNationTV.sn",
+    "name": "One Nation TV",
+    "logo": "https://i.imgur.com/RGHbkZU.png",
+    "logoText": "ONE",
+    "url": "https://endour.net/hls/One_nationtv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://endour.net/hls/One_nationtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://onenationtv.sn/"
+  },
+  {
+    "id": "RTS1.sn",
+    "name": "RTS 1",
+    "logo": "https://i.imgur.com/HHGktpF.png",
+    "logoText": "RTS",
+    "url": "http://69.64.57.208/rts1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/rts1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/RTS1-DVR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.rts.sn/tv/rts-1"
+  },
+  {
+    "id": "RTS2.sn",
+    "name": "RTS 2",
+    "logo": "https://i.imgur.com/YypHsF4.png",
+    "logoText": "RTS",
+    "url": "http://69.64.57.208/rts2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/rts2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/RTS2-DVR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.rts.sn/tv/rts-2"
+  },
+  {
+    "id": "SenTV.sn",
+    "name": "Sen TV",
+    "logo": "https://i.imgur.com/beVCugh.png",
+    "logoText": "SEN",
+    "url": "http://69.64.57.208/sentv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/sentv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://sentv.sn/"
+  },
+  {
+    "id": "SenewebTV.sn",
+    "name": "Seneweb TV",
+    "logo": "https://i.imgur.com/i9P2qjs.png",
+    "logoText": "SEN",
+    "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.seneweb.com/"
+  },
+  {
+    "id": "SenJeunesTV.sn",
+    "name": "SenJeunes TV",
+    "logo": "https://i.imgur.com/MeCSPsI.jpg",
+    "logoText": "SEN",
+    "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://senjeunes.net/"
+  },
+  {
+    "id": "SunuLabelTV.sn",
+    "name": "SunuLabel TV",
+    "logo": "https://i.imgur.com/Ibp7IBk.jpeg",
+    "logoText": "SUN",
+    "url": "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.labeltelevision.com/direct-sunulabel-tv"
+  },
+  {
+    "id": "TeleMusikSenegal.sn",
+    "name": "TeleMusik Senegal",
+    "logo": "https://i.imgur.com/dPAPLsd.png",
+    "logoText": "TEL",
+    "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.telemusik.tv/"
+  },
+  {
+    "id": "TFM.sn",
+    "name": "TFM",
+    "logo": "https://i.imgur.com/TQWBlXn.png",
+    "logoText": "TFM",
+    "url": "http://69.64.57.208/tfm/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tfm/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://trn03.bozztv.com/gin-tfmtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: https://www.igfm.sn/"
+  },
+  {
+    "id": "WalfTV.sn",
+    "name": "Walf TV",
+    "logo": "https://i.imgur.com/IrBAqIJ.png",
+    "logoText": "WAL",
+    "url": "http://69.64.57.208/walftv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/walftv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SN",
+    "countryName": "Senegal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Senegal. Language: N/A. Website: http://www.walf-groupe.com/"
+  }
+]

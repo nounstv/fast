@@ -1,0 +1,792 @@
+[
+  {
+    "id": "3StonesTV.ke",
+    "name": "3 Stones TV",
+    "logo": "https://i.imgur.com/im3g7T2.png",
+    "logoText": "3 S",
+    "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://threestones.tv/"
+  },
+  {
+    "id": "AviationTV.ke",
+    "name": "Aviation TV",
+    "logo": "https://i.imgur.com/WOU9z5G.png",
+    "logoText": "AVI",
+    "url": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "BTLTV.ke",
+    "name": "BTL TV",
+    "logo": "https://i.imgur.com/4r09woD.jpg",
+    "logoText": "BTL",
+    "url": "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "ClergyTV.ke",
+    "name": "Clergy TV",
+    "logo": "https://i.imgur.com/RcxBEUo.jpg",
+    "logoText": "CLE",
+    "url": "https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.clergytv.co.ke/"
+  },
+  {
+    "id": "CMTvKenya.ke",
+    "name": "CMTv Kenya",
+    "logo": "https://i.imgur.com/ewHBokK.jpg",
+    "logoText": "CMT",
+    "url": "https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://cmtvkenya.co.ke/"
+  },
+  {
+    "id": "DacwaTV.ke",
+    "name": "Dacwa TV",
+    "logo": "https://i.imgur.com/rMqrLzV.png",
+    "logoText": "DAC",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.dacwa.tv/"
+  },
+  {
+    "id": "EBNTV.ke",
+    "name": "EBN TV",
+    "logo": "https://i.imgur.com/NvxqoEn.png",
+    "logoText": "EBN",
+    "url": "https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://ebntv.co.ke/"
+  },
+  {
+    "id": "ElevateTV.ke",
+    "name": "Elevate TV",
+    "logo": "https://i.imgur.com/M7xaQ7o.jpg",
+    "logoText": "ELE",
+    "url": "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://elevatetv.co.ke/"
+  },
+  {
+    "id": "GBSTV.ke",
+    "name": "GBS TV",
+    "logo": "https://i.imgur.com/2AP1xVg.png",
+    "logoText": "GBS",
+    "url": "https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: http://www.gbskenya.com/"
+  },
+  {
+    "id": "GTNTV.ke",
+    "name": "GTN TV",
+    "logo": "https://i.imgur.com/CSCZW6L.png",
+    "logoText": "GTN",
+    "url": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://gtntv.co.ke/"
+  },
+  {
+    "id": "HeavenBoundTV.ke",
+    "name": "Heaven Bound TV",
+    "logo": "https://i.imgur.com/pwnesmW.jpg",
+    "logoText": "HEA",
+    "url": "https://goliveafrica.media:9998/live/62580b337c021/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/62580b337c021/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "HisGraceTV.ke",
+    "name": "His Grace TV",
+    "logo": "https://i.imgur.com/uIlU5im.jpg",
+    "logoText": "HIS",
+    "url": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "HLCTV.ke",
+    "name": "HLC TV",
+    "logo": "https://i.imgur.com/TPZoSXM.jpg",
+    "logoText": "HLC",
+    "url": "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://hlctv.co.ke/"
+  },
+  {
+    "id": "ICTV.ke",
+    "name": "ICTV",
+    "logo": "https://i.imgur.com/0kMhqK3.png",
+    "logoText": "ICT",
+    "url": "https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.faithembassymedia.com/"
+  },
+  {
+    "id": "JCMTV.ke",
+    "name": "JCM TV",
+    "logo": "https://i.imgur.com/28YB7dD.jpg",
+    "logoText": "JCM",
+    "url": "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "KassTV.ke",
+    "name": "Kass TV",
+    "logo": "https://i.imgur.com/MW8wZ5v.png",
+    "logoText": "KAS",
+    "url": "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: http://www.kasstv.co.ke/"
+  },
+  {
+    "id": "LolweTV.ke",
+    "name": "Lolwe TV",
+    "logo": "https://i.imgur.com/tjZ1cOP.png",
+    "logoText": "LOL",
+    "url": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.lolwe.tv/"
+  },
+  {
+    "id": "LuyaaTV.ke",
+    "name": "Luyaa TV",
+    "logo": "https://i.imgur.com/bnq7DNt.jpg",
+    "logoText": "LUY",
+    "url": "https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.luyaatv.co.ke/"
+  },
+  {
+    "id": "MasharikiTV.ke",
+    "name": "Mashariki TV",
+    "logo": "https://i.imgur.com/5Qcwpg5.jpg",
+    "logoText": "MAS",
+    "url": "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "MERUTV.ke",
+    "name": "MERU TV",
+    "logo": "https://i.imgur.com/EPmWNfz.jpg",
+    "logoText": "MER",
+    "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: http://merudigital.co.ke/"
+  },
+  {
+    "id": "MorningCloudTV.ke",
+    "name": "Morning Cloud TV",
+    "logo": "https://i.imgur.com/Lxfd2ip.png",
+    "logoText": "MOR",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "MuugiTV.ke",
+    "name": "Muugi TV",
+    "logo": "https://i.imgur.com/7XCR2Wi.jpg",
+    "logoText": "MUU",
+    "url": "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "MwangazaTV.ke",
+    "name": "Mwangaza TV",
+    "logo": "https://i.imgur.com/GjXfuSh.png",
+    "logoText": "MWA",
+    "url": "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "NdurumeniTV.ke",
+    "name": "Ndurumeni TV",
+    "logo": "https://i.imgur.com/OvmySNw.jpg",
+    "logoText": "NDU",
+    "url": "https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "NiceTVKenya.ke",
+    "name": "Nice TV Kenya",
+    "logo": "https://i.imgur.com/UawxLTW.jpg",
+    "logoText": "NIC",
+    "url": "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://nicetvkenya.com/"
+  },
+  {
+    "id": "NjataTV.ke",
+    "name": "Njata TV",
+    "logo": "https://i.imgur.com/246CBAW.png",
+    "logoText": "NJA",
+    "url": "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://njatatv.co.ke/"
+  },
+  {
+    "id": "PillarTV.ke",
+    "name": "Pillar TV",
+    "logo": "https://i.imgur.com/9kCxFqj.png",
+    "logoText": "PIL",
+    "url": "https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.pillartv.co.ke/"
+  },
+  {
+    "id": "RaiaTV.ke",
+    "name": "Raia TV",
+    "logo": "https://i.imgur.com/IyFULjw.png",
+    "logoText": "RAI",
+    "url": "https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://raiatv.com/"
+  },
+  {
+    "id": "RamogiTV.ke",
+    "name": "Ramogi TV",
+    "logo": "https://i.imgur.com/N2Uz9mc.jpg",
+    "logoText": "RAM",
+    "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.citizen.digital/tv/ramogi-tv-19"
+  },
+  {
+    "id": "SayareTV.ke",
+    "name": "Sayare TV",
+    "logo": "https://i.imgur.com/M2Fnxj7.png",
+    "logoText": "SAY",
+    "url": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://www.sayare.co.ke/"
+  },
+  {
+    "id": "UrejeshoTVAfrica.ke",
+    "name": "Urejesho TV Africa",
+    "logo": "https://i.imgur.com/u7xDXEt.jpg",
+    "logoText": "URE",
+    "url": "https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  },
+  {
+    "id": "UTV.ke",
+    "name": "UTV",
+    "logo": "https://i.imgur.com/yN4e2up.png",
+    "logoText": "UTV",
+    "url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A. Website: https://utv.co.ke/"
+  },
+  {
+    "id": "YOUNIBMediaTV.ke",
+    "name": "YOUNIB Media TV",
+    "logo": "https://i.imgur.com/LtiPOYG.jpg",
+    "logoText": "YOU",
+    "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kenya. Language: N/A."
+  }
+]

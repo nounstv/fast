@@ -1,0 +1,132 @@
+[
+  {
+    "id": "AlMasarTV.ly",
+    "name": "Al Masar TV",
+    "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "logoText": "AL ",
+    "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "LY",
+    "countryName": "Libya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Libya. Language: N/A. Website: https://almasartv.ly/"
+  },
+  {
+    "id": "FebruaryChannel.ly",
+    "name": "February Channel",
+    "logo": "https://i.imgur.com/WdMIpsA.png",
+    "logoText": "FEB",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "LY",
+    "countryName": "Libya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Libya. Language: N/A. Website: https://www.februarychannel.com/"
+  },
+  {
+    "id": "LibyaAlWataniya.ly",
+    "name": "Libya Al Wataniya",
+    "logo": "https://i.imgur.com/KSUny9D.jpeg",
+    "logoText": "LIB",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LY",
+    "countryName": "Libya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Libya. Language: N/A. Website: http://www.ltv.ly/"
+  },
+  {
+    "id": "TanasuhTV.ly",
+    "name": "Tanasuh TV",
+    "logo": "https://i.imgur.com/iBAhM2v.png",
+    "logoText": "TAN",
+    "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LY",
+    "countryName": "Libya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Libya. Language: N/A. Website: https://tanasuh.tv/"
+  },
+  {
+    "id": "WasatTV.ly",
+    "name": "Wasat TV",
+    "logo": "https://i.imgur.com/f9pL2NE.png",
+    "logoText": "WAS",
+    "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LY",
+    "countryName": "Libya",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Libya. Language: N/A. Website: http://wasat.tv/"
+  }
+]

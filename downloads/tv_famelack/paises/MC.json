@@ -1,0 +1,53 @@
+[
+  {
+    "id": "zcBNgPqzVnllFb",
+    "name": "Monaco Info",
+    "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+    "category": "News",
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Monaco. Idioma: fra.",
+    "logoText": "MON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webtv.monacoinfo.com/live/prod/index.m3u8"
+    ]
+  },
+  {
+    "id": "Cyu7cH1sFWg5HQ",
+    "name": "Superyacht TV",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "category": "Lifestyle",
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Monaco. Idioma: eng.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sy.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "p8lqoCpCTuFiPS",
+    "name": "TV Monaco",
+    "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "category": "General",
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Monaco. Idioma: fra.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "WDzjIuhXXr63X1",
+    "name": "RTB",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+    "category": "Geral",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Burkina Faso. Idioma: fra.",
+    "logoText": "RTB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+    "category": "Culture",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "languages": [
+      "bbo",
+      "bib",
+      "box",
+      "dgi",
+      "dyu",
+      "ful",
+      "gux",
+      "lee",
+      "lob",
+      "mos",
+      "rkm",
+      "sbd",
+      "stj",
+      "sym"
+    ],
+    "description": "Canal de TV de Burkina Faso. Idioma: bbo, bib, box, dgi, dyu, ful, gux, lee, lob, mos, rkm, sbd, stj, sym.",
+    "logoText": "RTB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+    ]
+  }
+]

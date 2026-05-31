@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FastPlay - Premium FAST TV & Radio Hub</title>
+  <meta name="description" content="Assista a canais FAST TV e ouça rádios ao vivo gratuitamente com um player de alta performance.">
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <!-- HLS.js Library -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo-container">
+      <div class="logo-icon">F</div>
+      <div class="logo-text">FastPlay</div>
+      <span class="logo-tag" id="logo-tag-label">FAST TV</span>
+    </div>
+    
+    <!-- Mode Switcher -->
+    <div class="mode-switcher">
+      <button class="mode-btn active" data-mode="tv" id="mode-tv-btn">
+        <i data-lucide="tv"></i>
+        <span>TV</span>
+      </button>
+      <button class="mode-btn" data-mode="radio" id="mode-radio-btn">
+        <i data-lucide="radio"></i>
+        <span>Rádio</span>
+      </button>
+    </div>
+
+    <div class="header-actions">
+      <button class="btn btn-secondary" id="btn-add-custom">
+        <i data-lucide="plus-circle"></i>
+        <span>Adicionar Canal</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============================== -->
+  <!-- TV MODE CONTAINER              -->
+  <!-- ============================== -->
+  <main class="app-container" id="tv-container">
+    
+    <!-- Left: Video Player Section -->
+    <section class="player-section">
+      
+      <!-- Video Frame Wrapper -->
+      <div class="video-player-wrapper" id="player-wrapper">
+        <video id="video-player" class="video-element" playsinline></video>
+        
+        <!-- Loader / Spinner -->
+        <div class="player-loader" id="player-loader">
+          <div class="spinner"></div>
+          <span class="loader-text">Carregando canal...</span>
+        </div>
+        
+        <!-- Error Display -->
+        <div class="player-error" id="player-error">
+          <i data-lucide="alert-triangle" class="player-error-icon"></i>
+          <h3 id="error-title">Erro de Transmissão</h3>
+          <p id="error-desc">Não foi possível carregar este canal. O link de transmissão pode estar offline ou bloqueado temporariamente.</p>
+          <button class="btn" id="btn-retry-stream">
+            <i data-lucide="refresh-cw"></i>
+            Tentar Novamente
+          </button>
+        </div>
+
+        <!-- Custom Controls Overlay -->
+        <div class="player-overlay">
+          <div class="player-header">
+            <div class="player-status-badge">
+              <span class="status-dot"></span>
+              <span>AO VIVO</span>
+            </div>
+            
+            <div class="channel-info-display" style="display: flex; align-items: center; gap: 12px;">
+              <div class="player-logo-wrapper" id="player-channel-logo-container" style="width: 40px; height: 40px; border-radius: var(--border-radius-sm); background: rgba(30, 41, 71, 0.6); display: flex; align-items: center; justify-content: center; overflow: hidden; border: 1px solid rgba(255, 255, 255, 0.1); flex-shrink: 0;">
+                <span id="player-channel-logo-text" style="font-weight: 700; font-size: 14px; color: white;">TV</span>
+                <img id="player-channel-logo-img" style="display: none; width: 100%; height: 100%; object-fit: cover;" alt="Channel Logo">
+              </div>
+              <div>
+                <h2 id="overlay-channel-title">Carregando...</h2>
+                <p id="overlay-channel-category">Categoria</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="custom-controls">
+            <button class="control-btn" id="btn-play-pause" title="Play/Pause">
+              <i data-lucide="play" id="icon-play-pause"></i>
+            </button>
+            
+            <div class="volume-container">
+              <button class="control-btn" id="btn-mute" title="Mute/Unmute">
+                <i data-lucide="volume-2" id="icon-mute"></i>
+              </button>
+              <input type="range" min="0" max="1" step="0.05" value="1" class="volume-slider" id="volume-slider">
+            </div>
+
+            <div style="flex-grow: 1;"></div>
+
+            <button class="control-btn" id="btn-fullscreen" title="Tela Cheia">
+              <i data-lucide="maximize"></i>
+            </button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Channel Description Details -->
+      <div class="channel-meta-card">
+        <div class="channel-meta-header">
+          <div class="channel-meta-info-wrapper" style="display: flex; align-items: center; gap: 16px;">
+            <div class="channel-meta-logo-wrapper" id="meta-channel-logo-container" style="width: 64px; height: 64px; border-radius: var(--border-radius-md); background: #1e293b; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 1px solid var(--glass-border); flex-shrink: 0;">
+              <span id="meta-channel-logo-text" style="font-weight: 700; font-size: 20px; color: white;">TV</span>
+              <img id="meta-channel-logo-img" style="display: none; width: 100%; height: 100%; object-fit: cover;" alt="Channel Logo">
+            </div>
+            <div>
+              <h1 class="channel-meta-title" id="meta-channel-title">Carregando Canal</h1>
+              <div class="channel-meta-tags" id="meta-channel-tags">
+                <span class="meta-tag category-tag" id="meta-tag-category">Geral</span>
+                <span class="meta-tag" id="meta-tag-type">HLS Stream</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p class="channel-description" id="meta-channel-description">
+          Carregando informações da transmissão atual...
+        </p>
+      </div>
+
+    </section>
+
+    <!-- Right: Catalogue & Channels List -->
+    <section class="sidebar-section">
+      <div class="catalogue-card">
+        <div class="catalogue-header">
+          <h2 class="catalogue-title">Canais Disponíveis</h2>
+          
+          <div class="search-wrapper">
+            <i data-lucide="search" class="search-icon"></i>
+            <input type="text" class="search-input" id="search-input" placeholder="Buscar canais ou categorias...">
+          </div>
+        </div>
+
+        <!-- Categories Filter -->
+        <div class="categories-filter" id="categories-filter">
+          <button class="category-btn active" data-category="all">Todos</button>
+          <button class="category-btn" data-category="Notícias">Notícias</button>
+          <button class="category-btn" data-category="Entretenimento">Entretenimento</button>
+          <button class="category-btn" data-category="Religioso">Religioso</button>
+          <button class="category-btn" data-category="custom">Adicionados</button>
+        </div>
+
+        <!-- Channels Render List -->
+        <div class="channels-list" id="channels-list">
+          <!-- Dynamic insertion here -->
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================== -->
+  <!-- RADIO MODE CONTAINER           -->
+  <!-- ============================== -->
+  <main class="app-container radio-mode" id="radio-container" style="display: none;">
+    
+    <!-- Left: Radio Player Section -->
+    <section class="player-section">
+      
+      <!-- Radio Player Visual -->
+      <div class="radio-player-wrapper" id="radio-player-wrapper">
+        
+        <!-- Audio element (hidden) -->
+        <audio id="radio-audio-player" preload="none"></audio>
+
+        <!-- Radio Visual Display -->
+        <div class="radio-visual-display">
+          
+          <!-- Animated Background Rings -->
+          <div class="radio-rings">
+            <div class="radio-ring ring-1"></div>
+            <div class="radio-ring ring-2"></div>
+            <div class="radio-ring ring-3"></div>
+          </div>
+          
+          <!-- Station Logo / Art -->
+          <div class="radio-station-art" id="radio-station-art">
+            <div class="radio-station-art-text" id="radio-art-text">FM</div>
+            <img id="radio-art-img" class="radio-art-img" style="display:none;" alt="Station logo">
+          </div>
+          
+          <!-- Station Info -->
+          <div class="radio-station-info">
+            <h2 class="radio-station-name" id="radio-station-name">Selecione uma rádio</h2>
+            <p class="radio-station-tagline" id="radio-station-tagline">Escolha uma estação na lista ao lado</p>
+          </div>
+
+          <!-- Equalizer Bars -->
+          <div class="radio-equalizer" id="radio-equalizer">
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+            <div class="eq-bar"></div>
+          </div>
+          
+          <!-- Radio Controls -->
+          <div class="radio-controls">
+            <div class="volume-container radio-volume">
+              <button class="control-btn radio-control-btn" id="radio-btn-mute" title="Mute/Unmute">
+                <i data-lucide="volume-2" id="radio-icon-mute"></i>
+              </button>
+              <input type="range" min="0" max="1" step="0.05" value="1" class="volume-slider radio-volume-slider" id="radio-volume-slider">
+            </div>
+
+            <button class="radio-play-btn" id="radio-btn-play-pause" title="Play/Pause">
+              <i data-lucide="play" id="radio-icon-play"></i>
+            </button>
+
+            <button class="control-btn radio-control-btn" id="radio-btn-stop" title="Parar">
+              <i data-lucide="square"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Radio Loader -->
+        <div class="player-loader" id="radio-loader" style="display: none;">
+          <div class="spinner radio-spinner"></div>
+          <span class="loader-text">Sintonizando rádio...</span>
+        </div>
+
+        <!-- Radio Error -->
+        <div class="player-error" id="radio-error">
+          <i data-lucide="alert-triangle" class="player-error-icon"></i>
+          <h3>Erro de Transmissão</h3>
+          <p id="radio-error-desc">Não foi possível sintonizar esta estação.</p>
+          <button class="btn radio-btn-accent" id="radio-btn-retry">
+            <i data-lucide="refresh-cw"></i>
+            Tentar Novamente
+          </button>
+        </div>
+      </div>
+
+      <!-- Radio Station Details -->
+      <div class="channel-meta-card radio-meta-card">
+        <div class="channel-meta-header">
+          <div>
+            <h1 class="channel-meta-title" id="radio-meta-title">Selecione uma Estação</h1>
+            <div class="channel-meta-tags">
+              <span class="meta-tag radio-category-tag" id="radio-meta-tag">Rádio</span>
+              <span class="meta-tag" id="radio-meta-codec">Audio Stream</span>
+              <span class="meta-tag" id="radio-meta-bitrate"></span>
+            </div>
+          </div>
+        </div>
+        <p class="channel-description" id="radio-meta-description">
+          Explore centenas de estações de rádio ao vivo de todo o Brasil.
+        </p>
+      </div>
+
+    </section>
+
+    <!-- Right: Radio Stations List -->
+    <section class="sidebar-section">
+      <div class="catalogue-card radio-catalogue">
+        <div class="catalogue-header">
+          <h2 class="catalogue-title">Estações de Rádio</h2>
+          
+          <div class="search-wrapper">
+            <i data-lucide="search" class="search-icon"></i>
+            <input type="text" class="search-input" id="radio-search-input" placeholder="Buscar rádios, gêneros ou estados...">
+          </div>
+        </div>
+
+        <!-- Radio Categories Filter -->
+        <div class="categories-filter" id="radio-categories-filter">
+          <button class="category-btn radio-cat-btn active" data-category="all">Todas</button>
+          <button class="category-btn radio-cat-btn" data-category="pop">Pop</button>
+          <button class="category-btn radio-cat-btn" data-category="rock">Rock</button>
+          <button class="category-btn radio-cat-btn" data-category="sertanejo">Sertanejo</button>
+          <button class="category-btn radio-cat-btn" data-category="gospel">Gospel</button>
+          <button class="category-btn radio-cat-btn" data-category="mpb">MPB</button>
+          <button class="category-btn radio-cat-btn" data-category="pagode">Pagode</button>
+          <button class="category-btn radio-cat-btn" data-category="news">Notícias</button>
+        </div>
+
+        <!-- Radio Stations Loading -->
+        <div class="radio-stations-loading" id="radio-stations-loading">
+          <div class="spinner radio-spinner"></div>
+          <p>Carregando estações...</p>
+        </div>
+
+        <!-- Radio Stations Render List -->
+        <div class="channels-list" id="radio-stations-list" style="display: none;">
+          <!-- Dynamic insertion here -->
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Add Channel Modal -->
+  <div class="modal" id="add-channel-modal">
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close-btn">&times;</button>
+      <h3 class="modal-title">Adicionar Canal Personalizado</h3>
+      
+      <form id="add-channel-form">
+        <div class="form-group">
+          <label class="form-label" for="channel-name">Nome do Canal</label>
+          <input type="text" id="channel-name" class="form-input" placeholder="Ex: TV Local Ao Vivo" required>
+        </div>
+        
+        <div class="form-group">
+          <label class="form-label" for="channel-url">URL da Transmissão (.m3u8)</label>
+          <input type="url" id="channel-url" class="form-input" placeholder="https://exemplo.com/transmissao.m3u8" required>
+        </div>
+        
+        <div class="form-group">
+          <label class="form-label" for="channel-logo">URL do Logo (Opcional)</label>
+          <input type="url" id="channel-logo" class="form-input" placeholder="https://exemplo.com/logo.png">
+        </div>
+        
+        <div class="form-group">
+          <label class="form-label" for="channel-category">Categoria</label>
+          <select id="channel-category" class="form-input" style="background-color: #1f2937;" required>
+            <option value="Entretenimento">Entretenimento</option>
+            <option value="Notícias">Notícias</option>
+            <option value="Religioso">Religioso</option>
+            <option value="Outros">Outros</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="channel-description">Descrição (Opcional)</label>
+          <textarea id="channel-description" class="form-input" style="height: 80px; resize: none;" placeholder="Breve descrição da programação do canal..."></textarea>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" id="modal-cancel-btn">Cancelar</button>
+          <button type="submit" class="btn">Adicionar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

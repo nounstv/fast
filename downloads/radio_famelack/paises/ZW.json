@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Y8qwNpxFPgXDlv",
+    "name": "Capitalk FM",
+    "url": "https://edge.iono.fm/xice/162_medium.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=iono.fm",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "ZW",
+    "countryName": "Zimbabwe",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "TnXy9qbCc34tgg",
+    "name": "Central Radio 98.5",
+    "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=co.zw",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "ZW",
+    "countryName": "Zimbabwe",
+    "state": "",
+    "tags": "",
+    "language": "",
+    "homepage": ""
+  },
+  {
+    "id": "cWAe6kwPSk7cmY",
+    "name": "Star FM Zimbabwe",
+    "url": "https://edge.iono.fm/xice/159_medium.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=iono.fm",
+    "category": "Hip hop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "ZW",
+    "countryName": "Zimbabwe",
+    "state": "",
+    "tags": "hip hop",
+    "language": "eng, sna",
+    "homepage": ""
+  }
+]

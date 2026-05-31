@@ -1,0 +1,4847 @@
+[
+  {
+    "id": "20MinutesTV.fr",
+    "name": "20 Minutes TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "logoText": "20 ",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://20minutes.tv"
+  },
+  {
+    "id": "4Afghanistan.fr",
+    "name": "4 Afghanistan",
+    "logo": "",
+    "logoText": "4 A",
+    "url": "https://4afghls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://4afghls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://4afghls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "4Music.fr",
+    "name": "4 Music",
+    "logo": "",
+    "logoText": "4 M",
+    "url": "https://musichls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://musichls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://itthls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://4music.persiana.live/"
+  },
+  {
+    "id": "4Kurd.fr",
+    "name": "4Kurd",
+    "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+    "logoText": "4KU",
+    "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://4kurd.persiana.live/"
+  },
+  {
+    "id": "6ter.fr",
+    "name": "6ter",
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "logoText": "6TE",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.6play.fr/6ter"
+  },
+  {
+    "id": "AB1.fr",
+    "name": "AB1",
+    "logo": "https://i.imgur.com/9C7UsOe.png",
+    "logoText": "AB1",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.ab1.tv/"
+  },
+  {
+    "id": "ADNTVPlus.fr",
+    "name": "ADN TV+",
+    "logo": "https://i.imgur.com/HQZQyWt.png",
+    "logoText": "ADN",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://animationdigitalnetwork.fr/live"
+  },
+  {
+    "id": "Africa24.fr",
+    "name": "Africa 24",
+    "logo": "https://africa24tv.com/wp-content/uploads/2021/09/logo.png",
+    "logoText": "AFR",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://africa24tv.com/"
+  },
+  {
+    "id": "Africa24English.fr",
+    "name": "Africa 24 English",
+    "logo": "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png",
+    "logoText": "AFR",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://africa24tv.com/english"
+  },
+  {
+    "id": "Africa24Sport.fr",
+    "name": "Africa 24 Sport",
+    "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1",
+    "logoText": "AFR",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://africa24tv.com/sport"
+  },
+  {
+    "id": "AfricanewsEnglish.fr",
+    "name": "Africanews English",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "logoText": "AFR",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=Cxy9froLXMW",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.africanews.com/"
+  },
+  {
+    "id": "AfricanewsFrench.fr",
+    "name": "Africanews French",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "logoText": "AFR",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://fr.africanews.com"
+  },
+  {
+    "id": "AlpedHuezTV.fr",
+    "name": "Alpe d'Huez TV",
+    "logo": "https://i.imgur.com/090tCQ5.png",
+    "logoText": "ALP",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.alpe.tv/a-propos"
+  },
+  {
+    "id": "AngersTele.fr",
+    "name": "Angers Tele",
+    "logo": "https://i.imgur.com/CMKKbaP.png",
+    "logoText": "ANG",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://angerstele.fr/"
+  },
+  {
+    "id": "Animaux.fr",
+    "name": "Animaux",
+    "logo": "https://i.imgur.com/FM9FVAG.png",
+    "logoText": "ANI",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.animauxtv.fr/"
+  },
+  {
+    "id": "AntenneReunion.fr",
+    "name": "Antenne Reunion",
+    "logo": "https://i.imgur.com/EPIMMaB.png",
+    "logoText": "ANT",
+    "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.antennereunion.fr/"
+  },
+  {
+    "id": "AraBel.fr",
+    "name": "AraBel",
+    "logo": "https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png",
+    "logoText": "ARA",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.arabel.fm/"
+  },
+  {
+    "id": "arte.fr",
+    "name": "arte",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "logoText": "ART",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.arte.tv/"
+  },
+  {
+    "id": "BSmartTV.fr",
+    "name": "B Smart TV",
+    "logo": "https://i.imgur.com/RyVEFcG.png",
+    "logoText": "B S",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bsmart.fr/"
+  },
+  {
+    "id": "BFMAlsace.fr",
+    "name": "BFM Alsace",
+    "logo": "https://i.imgur.com/iRsbEpg.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/alsace/"
+  },
+  {
+    "id": "BFMBusiness.fr",
+    "name": "BFM Business",
+    "logo": "https://i.imgur.com/psqIHn4.png",
+    "logoText": "BFM",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business",
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/economie/"
+  },
+  {
+    "id": "BFMCotedAzur.fr",
+    "name": "BFM Cote d'Azur",
+    "logo": "https://i.imgur.com/iiVFvIw.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/cote-d-azur/"
+  },
+  {
+    "id": "BFMDICIAlpesduSud.fr",
+    "name": "BFM DICI Alpes du Sud",
+    "logo": "https://i.imgur.com/bV77l68.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/bfm-dici/alpes-du-sud/"
+  },
+  {
+    "id": "BFMDICIHauteProvence.fr",
+    "name": "BFM DICI Haute-Provence",
+    "logo": "https://i.imgur.com/bV77l68.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/bfm-dici/haute-provence/"
+  },
+  {
+    "id": "BFMGrandLille.fr",
+    "name": "BFM Grand Lille",
+    "logo": "https://i.imgur.com/HE5xP0r.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/grand-lille/"
+  },
+  {
+    "id": "BFMGrandLittoral.fr",
+    "name": "BFM Grand Littoral",
+    "logo": "https://i.imgur.com/j7F9MwH.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/grand-littoral/"
+  },
+  {
+    "id": "BFMLyon.fr",
+    "name": "BFM Lyon",
+    "logo": "https://i.imgur.com/0uiiZRo.png",
+    "logoText": "BFM",
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/lyon/"
+  },
+  {
+    "id": "BFMMarseille.fr",
+    "name": "BFM Marseille",
+    "logo": "https://i.imgur.com/h7t0l6q.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/marseille/"
+  },
+  {
+    "id": "BFMNormandie.fr",
+    "name": "BFM Normandie",
+    "logo": "https://i.imgur.com/WWWQ44G.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/normandie/"
+  },
+  {
+    "id": "BFMTechCo.fr",
+    "name": "BFM Tech & Co",
+    "logo": "https://i.imgur.com/FQ0FpXV.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "Science",
+    "categories": [
+      "science",
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/tech/"
+  },
+  {
+    "id": "BFMTV.fr",
+    "name": "BFM TV",
+    "logo": "https://i.imgur.com/YJCcczD.png",
+    "logoText": "BFM",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/"
+  },
+  {
+    "id": "BFMVar.fr",
+    "name": "BFM Var",
+    "logo": "https://i.imgur.com/vp1oVj3.png",
+    "logoText": "BFM",
+    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/var/"
+  },
+  {
+    "id": "BFM2.fr",
+    "name": "BFM2",
+    "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
+    "logoText": "BFM",
+    "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.bfmtv.com/en-direct/bfm2/"
+  },
+  {
+    "id": "BrionnaisTV.fr",
+    "name": "Brionnais TV",
+    "logo": "https://i.imgur.com/y94bhqX.jpg",
+    "logoText": "BRI",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://brionnais.tv/"
+  },
+  {
+    "id": "CStar.fr",
+    "name": "C Star",
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "logoText": "C S",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.canalplus.com/chaines/cstar"
+  },
+  {
+    "id": "Caillou.fr",
+    "name": "Caillou",
+    "logo": "https://i.imgur.com/RgKaoe4.png",
+    "logoText": "CAI",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "Canal32.fr",
+    "name": "Canal 32",
+    "logo": "https://i.imgur.com/lAsE6kN.png",
+    "logoText": "CAN",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.canal32.fr/"
+  },
+  {
+    "id": "CanalJ.fr",
+    "name": "Canal J",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+    "logoText": "CAN",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.canalj.fr/"
+  },
+  {
+    "id": "CanalPlus.fr",
+    "name": "Canal+",
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "logoText": "CAN",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.canalplus.com/"
+  },
+  {
+    "id": "CanalPlusFoot.fr",
+    "name": "Canal+ Foot",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",
+    "logoText": "CAN",
+    "url": "https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.canalplus.com/sport/"
+  },
+  {
+    "id": "CannesLerinsTV.fr",
+    "name": "Cannes Lerins TV",
+    "logo": "https://i.imgur.com/atlgnum.png",
+    "logoText": "CAN",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://lerins-radio.fr/"
+  },
+  {
+    "id": "CineNanar.fr",
+    "name": "Cine Nanar",
+    "logo": "https://i.imgur.com/YnUZd3W.png",
+    "logoText": "CIN",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/cine-nanar"
+  },
+  {
+    "id": "CineWestern.fr",
+    "name": "Cine Western",
+    "logo": "https://i.imgur.com/tteOFkL.png",
+    "logoText": "CIN",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/cine-western-fr"
+  },
+  {
+    "id": "CNews.fr",
+    "name": "CNews",
+    "logo": "https://i.imgur.com/sSNhk2g.png",
+    "logoText": "CNE",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.cnews.fr/"
+  },
+  {
+    "id": "DBMTV.fr",
+    "name": "DBM TV",
+    "logo": "https://i.imgur.com/ab6p2SW.png",
+    "logoText": "DBM",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.dbmtv.fr/"
+  },
+  {
+    "id": "DisneyJr.fr",
+    "name": "Disney Jr.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+    "logoText": "DIS",
+    "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.disney.fr/disney-junior/"
+  },
+  {
+    "id": "EMCITV.fr",
+    "name": "EMCI TV",
+    "logo": "",
+    "logoText": "EMC",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://emcitv.com/direct/"
+  },
+  {
+    "id": "EMCITVEurope.fr",
+    "name": "EMCI TV Europe",
+    "logo": "https://i.imgur.com/KagDKKB.png",
+    "logoText": "EMC",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://emcitv.com/direct/paris/"
+  },
+  {
+    "id": "EmotionL.fr",
+    "name": "Emotion L",
+    "logo": "https://i.imgur.com/MP34aaj.png",
+    "logoText": "EMO",
+    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/emotionl"
+  },
+  {
+    "id": "Equidia.fr",
+    "name": "Equidia",
+    "logo": "https://i.imgur.com/QPpbRcZ.png",
+    "logoText": "EQU",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.equidia.fr/"
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
+    "logoText": "EUR",
+    "url": "https://dash4.antik.sk/live/test_euronews/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_euronews/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=OUBOiYANcV0",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.euronews.com/"
+  },
+  {
+    "id": "EuronewsFrench.fr",
+    "name": "Euronews French",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "logoText": "EUR",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://fr.euronews.com/"
+  },
+  {
+    "id": "EuronewsGerman.fr",
+    "name": "Euronews German",
+    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png",
+    "logoText": "EUR",
+    "url": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://de.euronews.com/"
+  },
+  {
+    "id": "EuronewsItalian.fr",
+    "name": "Euronews Italian",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "logoText": "EUR",
+    "url": "https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://it.euronews.com/"
+  },
+  {
+    "id": "EuronewsPortuguese.fr",
+    "name": "Euronews Portuguese",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "logoText": "EUR",
+    "url": "https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://pt.euronews.com/"
+  },
+  {
+    "id": "EuronewsRussian.fr",
+    "name": "Euronews Russian",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "logoText": "EUR",
+    "url": "http://tmptv.sunduk.tv/CH31/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tmptv.sunduk.tv/CH31/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://ru.euronews.com/"
+  },
+  {
+    "id": "EuronewsSpanish.fr",
+    "name": "Euronews Spanish",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "logoText": "EUR",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://es.euronews.com/"
+  },
+  {
+    "id": "FashionTVEurope.fr",
+    "name": "FashionTV Europe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
+    "logoText": "FAS",
+    "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.fashiontv.com/"
+  },
+  {
+    "id": "FashionTVParisLOriginal.fr",
+    "name": "FashionTV Paris L'Original",
+    "logo": "https://i.imgur.com/GFTAN5Q.png",
+    "logoText": "FAS",
+    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.fashiontv.com/"
+  },
+  {
+    "id": "FashionTVSecrets.fr",
+    "name": "FashionTV Secrets",
+    "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
+    "logoText": "FAS",
+    "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.fashiontv.com/"
+  },
+  {
+    "id": "France2.fr",
+    "name": "France 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
+    "logoText": "FRA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://69.64.57.208/france2/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.france.tv/france-2/"
+  },
+  {
+    "id": "France24.fr",
+    "name": "France 24",
+    "logo": "https://i.imgur.com/u8N6uoj.png",
+    "logoText": "FRA",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.france24.com/"
+  },
+  {
+    "id": "France3.fr",
+    "name": "France 3",
+    "logo": "",
+    "logoText": "FRA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.france.tv/france-3/"
+  },
+  {
+    "id": "France4.fr",
+    "name": "France 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "logoText": "FRA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.france.tv/france-4/"
+  },
+  {
+    "id": "France5.fr",
+    "name": "France 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "logoText": "FRA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://69.64.57.208/france5/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.france.tv/france-5/"
+  },
+  {
+    "id": "FranceInter.fr",
+    "name": "France Inter",
+    "logo": "https://i.imgur.com/MgBeU52.png",
+    "logoText": "FRA",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.radiofrance.fr/franceinter"
+  },
+  {
+    "id": "Franceinfo.fr",
+    "name": "Franceinfo",
+    "logo": "https://i.imgur.com/eITXz6A.png",
+    "logoText": "FRA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.francetvinfo.fr/"
+  },
+  {
+    "id": "Francophonie24.fr",
+    "name": "Francophonie24",
+    "logo": "https://i.imgur.com/uM1v1sd.png",
+    "logoText": "FRA",
+    "url": "http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://tvfrancophonie.org/"
+  },
+  {
+    "id": "FrequenceNovelas.fr",
+    "name": "Frequence Novelas",
+    "logo": "https://i.imgur.com/fEjNAps.png",
+    "logoText": "FRE",
+    "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/frequence-novelas"
+  },
+  {
+    "id": "FunRadio.fr",
+    "name": "Fun Radio",
+    "logo": "https://i.imgur.com/wgxuYsQ.png",
+    "logoText": "FUN",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.funradio.fr/"
+  },
+  {
+    "id": "GenerationsTV.fr",
+    "name": "Generations TV",
+    "logo": "https://i.imgur.com/NgBrDMe.png",
+    "logoText": "GEN",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "Gong.fr",
+    "name": "Gong",
+    "logo": "https://i.imgur.com/lA9UFMG.png",
+    "logoText": "GON",
+    "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.gongnetworks.com/"
+  },
+  {
+    "id": "Gulli.fr",
+    "name": "Gulli",
+    "logo": "https://i.imgur.com/kqYssbW.png",
+    "logoText": "GUL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.gulli.fr/"
+  },
+  {
+    "id": "HANDICAPTV.fr",
+    "name": "HANDICAP TV",
+    "logo": "https://i.imgur.com/vXbAeD0.png",
+    "logoText": "HAN",
+    "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.handicaptv.tv/"
+  },
+  {
+    "id": "iciElsass.fr",
+    "name": "ici Elsass",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg",
+    "logoText": "ICI",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.francebleu.fr/elsass"
+  },
+  {
+    "id": "ILTV.fr",
+    "name": "ILTV",
+    "logo": "https://i.imgur.com/fVhrJHK.png",
+    "logoText": "ILT",
+    "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "IntoCrime.fr",
+    "name": "Into Crime",
+    "logo": "https://i.imgur.com/43at4M2.png",
+    "logoText": "INT",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/intocrime"
+  },
+  {
+    "id": "IranNama.fr",
+    "name": "Iran Nama",
+    "logo": "",
+    "logoText": "IRA",
+    "url": "https://iran613hls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://iran613hls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "KozoomTV.fr",
+    "name": "Kozoom TV",
+    "logo": "https://i.imgur.com/M1Ee79b.png",
+    "logoText": "KOZ",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://tv.kozoom.com/"
+  },
+  {
+    "id": "KTO.fr",
+    "name": "KTO",
+    "logo": "https://i.imgur.com/EY6TsdV.png",
+    "logoText": "KTO",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.ktotv.com/"
+  },
+  {
+    "id": "LEquipe.fr",
+    "name": "L'Equipe",
+    "logo": "https://i.imgur.com/t35zhM9.png",
+    "logoText": "L'E",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.lequipe.fr/lachainelequipe/"
+  },
+  {
+    "id": "LCI.fr",
+    "name": "LCI",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "logoText": "LCI",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.lci.fr/"
+  },
+  {
+    "id": "LCP.fr",
+    "name": "LCP",
+    "logo": "https://i.imgur.com/k7UImOJ.png",
+    "logoText": "LCP",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.lcp.fr/"
+  },
+  {
+    "id": "LeFigaroTVIledeFrance.fr",
+    "name": "Le Figaro TV Ile-de-France",
+    "logo": "https://i.imgur.com/a8RuRUQ.png",
+    "logoText": "LE ",
+    "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://static.lefigaro.fr/secom/tnt.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://video.lefigaro.fr/"
+  },
+  {
+    "id": "LeMediaTV.fr",
+    "name": "Le Media TV",
+    "logo": "https://i.imgur.com/OK20oyl.png",
+    "logoText": "LE ",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.lemediatv.fr/"
+  },
+  {
+    "id": "LittoralFMTV.fr",
+    "name": "Littoral FM TV",
+    "logo": "https://i.imgur.com/DCZKAQ1.png",
+    "logoText": "LIT",
+    "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://littoral.fm/"
+  },
+  {
+    "id": "LyonCapitaleTV.fr",
+    "name": "Lyon Capitale TV",
+    "logo": "https://i.imgur.com/4WfnEaj.png",
+    "logoText": "LYO",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct"
+  },
+  {
+    "id": "M6.fr",
+    "name": "M6",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
+    "logoText": "M6",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.6play.fr/m6"
+  },
+  {
+    "id": "MaisonTravauxTV.fr",
+    "name": "Maison & Travaux TV",
+    "logo": "https://i.imgur.com/uYpc6nE.png",
+    "logoText": "MAI",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.maison-travaux.fr/"
+  },
+  {
+    "id": "MDL.fr",
+    "name": "MDL",
+    "logo": "https://i.imgur.com/REN30bx.png",
+    "logoText": "MDL",
+    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "Melody.fr",
+    "name": "Melody",
+    "logo": "https://i.imgur.com/9GVyQ6x.png",
+    "logoText": "MEL",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.melody.tv/"
+  },
+  {
+    "id": "MensUPTV.fr",
+    "name": "Men's UP TV",
+    "logo": "https://i.imgur.com/5BZwRFs.png",
+    "logoText": "MEN",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.mensup.fr/"
+  },
+  {
+    "id": "Mezzo.fr",
+    "name": "Mezzo",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "logoText": "MEZ",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.mezzo.tv/"
+  },
+  {
+    "id": "MonteCarloDigitalTelevision.fr",
+    "name": "Monte Carlo Digital Television",
+    "logo": "https://i.imgur.com/99h8F1y.jpeg",
+    "logoText": "MON",
+    "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "MoselleTV.fr",
+    "name": "Moselle TV",
+    "logo": "https://i.imgur.com/hrm5QnU.png",
+    "logoText": "MOS",
+    "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://moselle.tv/"
+  },
+  {
+    "id": "MouvTV.fr",
+    "name": "Mouv' TV",
+    "logo": "https://i.imgur.com/64nzKEu.jpg",
+    "logoText": "MOU",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.mouv.fr/"
+  },
+  {
+    "id": "MTV.fr",
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "logoText": "MTV",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.mtv.fr/"
+  },
+  {
+    "id": "MuseumTVFrench.fr",
+    "name": "Museum TV French",
+    "logo": "https://i.imgur.com/WbjURLo.png",
+    "logoText": "MUS",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.museumtv.art/"
+  },
+  {
+    "id": "MyGospelTV.fr",
+    "name": "My Gospel TV",
+    "logo": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png",
+    "logoText": "MY ",
+    "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music",
+      "religious"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://mygospeltv.fr/"
+  },
+  {
+    "id": "MyZenTV.fr",
+    "name": "MyZen TV",
+    "logo": "https://i.imgur.com/fIi8o0C.png",
+    "logoText": "MYZ",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Relax",
+    "categories": [
+      "relax"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.myzen.tv/"
+  },
+  {
+    "id": "Nickelodeon.fr",
+    "name": "Nickelodeon",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "logoText": "NIC",
+    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.nickelodeon.fr/"
+  },
+  {
+    "id": "NickelodeonJunior.fr",
+    "name": "Nickelodeon Junior",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+    "logoText": "NIC",
+    "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.nickelodeonjunior.fr/"
+  },
+  {
+    "id": "NickelodeonTeen.fr",
+    "name": "Nickelodeon Teen",
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "logoText": "NIC",
+    "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.nickelodeon.fr/"
+  },
+  {
+    "id": "NOVO19.fr",
+    "name": "NOVO19",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png",
+    "logoText": "NOV",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "Novocomedy.fr",
+    "name": "Novocomedy",
+    "logo": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png",
+    "logoText": "NOV",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "streams": [
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://novocomedy.com/channel/"
+  },
+  {
+    "id": "P2MTV.fr",
+    "name": "P2M TV",
+    "logo": "https://i.imgur.com/TrecSeG.png",
+    "logoText": "P2M",
+    "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://p2mtv.com/"
+  },
+  {
+    "id": "PersianaCinema.fr",
+    "name": "Persiana Cinema",
+    "logo": "https://i.imgur.com/hgIro9r.png",
+    "logoText": "PER",
+    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://todayhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaComedy.fr",
+    "name": "Persiana Comedy",
+    "logo": "https://i.imgur.com/DBZ3Pi5.png",
+    "logoText": "PER",
+    "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaDocs.fr",
+    "name": "Persiana Docs",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://scihls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://scihls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaFamily.fr",
+    "name": "Persiana Family",
+    "logo": "https://i.imgur.com/lMZsuWi.png",
+    "logoText": "PER",
+    "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaFight.fr",
+    "name": "Persiana Fight",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaFolk.fr",
+    "name": "Persiana Folk",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaIranian.fr",
+    "name": "Persiana Iranian",
+    "logo": "https://i.imgur.com/vqrrpBi.png",
+    "logoText": "PER",
+    "url": "https://irhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://irhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaJunior.fr",
+    "name": "Persiana Junior",
+    "logo": "https://i.imgur.com/zeKHZYG.png",
+    "logoText": "PER",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://junhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaKorea.fr",
+    "name": "Persiana Korea",
+    "logo": "https://i.imgur.com/si2ZnIA.png",
+    "logoText": "PER",
+    "url": "https://korhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://korhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaLatino.fr",
+    "name": "Persiana Latino",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaMedical.fr",
+    "name": "Persiana Medical",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tfnhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaNostalgia.fr",
+    "name": "Persiana Nostalgia",
+    "logo": "https://i.imgur.com/SWO9CKA.png",
+    "logoText": "PER",
+    "url": "https://noshls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://noshls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music",
+      "classic"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaPlus.fr",
+    "name": "Persiana Plus",
+    "logo": "https://i.imgur.com/0xttibX.png",
+    "logoText": "PER",
+    "url": "https://euhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://euhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://persianagroup.tv/"
+  },
+  {
+    "id": "PersianaReality.fr",
+    "name": "Persiana Reality",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://twohls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://twohls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaSeries.fr",
+    "name": "Persiana Series",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://onehls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://onehls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaTeen.fr",
+    "name": "Persiana Teen",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://kphls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://kphls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaTravel.fr",
+    "name": "Persiana Travel",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mardomhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PersianaTurkiye.fr",
+    "name": "Persiana Turkiye",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/live/persiana-turkiye"
+  },
+  {
+    "id": "PersianaVibe.fr",
+    "name": "Persiana Vibe",
+    "logo": "",
+    "logoText": "PER",
+    "url": "https://raphls.persiana.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raphls.persiana.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.persianagroup.tv/"
+  },
+  {
+    "id": "PlanetePlus.fr",
+    "name": "Planete+",
+    "logo": "https://i.imgur.com/RMbMGMg.png",
+    "logoText": "PLA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://planeteplus.com/"
+  },
+  {
+    "id": "PublicSenat2424.fr",
+    "name": "Public Senat 24/24",
+    "logo": "https://i.imgur.com/nHWWLBP.png",
+    "logoText": "PUB",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.publicsenat.fr/"
+  },
+  {
+    "id": "PuissanceTV.fr",
+    "name": "Puissance TV",
+    "logo": "https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg",
+    "logoText": "PUI",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.puissancetelevision.fr/play/direct"
+  },
+  {
+    "id": "QwestTV.fr",
+    "name": "Qwest TV",
+    "logo": "https://i.imgur.com/DjgNNHK.png",
+    "logoText": "QWE",
+    "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      },
+      {
+        "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.qwest.tv/"
+  },
+  {
+    "id": "QwestTVJazzBeyond.fr",
+    "name": "Qwest TV Jazz & Beyond",
+    "logo": "https://i.imgur.com/89yWH5L.png",
+    "logoText": "QWE",
+    "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://qwest.tv/"
+  },
+  {
+    "id": "RadioFrontieres.fr",
+    "name": "Radio Frontieres",
+    "logo": "https://www.frontieresmedia.fr/img/logo.svg",
+    "logoText": "RAD",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.frontieresmedia.fr/"
+  },
+  {
+    "id": "RadioKaraoke.fr",
+    "name": "Radio Karaoke",
+    "logo": "https://i.imgur.com/9uRggjD.png",
+    "logoText": "RAD",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.radio-karaoke.com/"
+  },
+  {
+    "id": "RMCDecouverte.fr",
+    "name": "RMC Decouverte",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+    "logoText": "RMC",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://rmcdecouverte.bfmtv.com/"
+  },
+  {
+    "id": "RMCLife.fr",
+    "name": "RMC Life",
+    "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
+    "logoText": "RMC",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "interactive"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.rmcbfmplay.com/chaine/rmc-life"
+  },
+  {
+    "id": "RMCStory.fr",
+    "name": "RMC Story",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png",
+    "logoText": "RMC",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.numero23.fr/"
+  },
+  {
+    "id": "RTFrance.fr",
+    "name": "RT France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+    "logoText": "RT ",
+    "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://francais.rt.com/"
+  },
+  {
+    "id": "RTL2.fr",
+    "name": "RTL2",
+    "logo": "https://i.imgur.com/deC4z34.png",
+    "logoText": "RTL",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.rtl2.fr/"
+  },
+  {
+    "id": "ScreamIN.fr",
+    "name": "ScreamIN",
+    "logo": "https://i.imgur.com/tGmKbil.png",
+    "logoText": "SCR",
+    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://communityzylo7.wixsite.com/screamin"
+  },
+  {
+    "id": "SonyOneBlacklist.fr",
+    "name": "Sony One Blacklist",
+    "logo": "https://i.imgur.com/uJC8rXr.png",
+    "logoText": "SON",
+    "url": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SonyOneFavoris.fr",
+    "name": "Sony One Favoris",
+    "logo": "https://i.imgur.com/RO4AM4b.png",
+    "logoText": "SON",
+    "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SonyOneHitsAction.fr",
+    "name": "Sony One Hits Action",
+    "logo": "https://i.imgur.com/pXsZEsR.png",
+    "logoText": "SON",
+    "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SonyOneHitsComedie.fr",
+    "name": "Sony One Hits Comedie",
+    "logo": "https://i.imgur.com/8sHuxxS.png",
+    "logoText": "SON",
+    "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SonyOneSeriesComedie.fr",
+    "name": "Sony One Series Comedie",
+    "logo": "https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png",
+    "logoText": "SON",
+    "url": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SonyOneSeriesThriller.fr",
+    "name": "Sony One Series Thriller",
+    "logo": "https://i.imgur.com/RVS8LDj.png",
+    "logoText": "SON",
+    "url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "SudRadio.fr",
+    "name": "Sud Radio",
+    "logo": "https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png",
+    "logoText": "SUD",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.sudradio.fr/"
+  },
+  {
+    "id": "T18.fr",
+    "name": "T18",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png",
+    "logoText": "T18",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "TeleGohelle.fr",
+    "name": "TeleGohelle",
+    "logo": "https://i.imgur.com/Oa3Pwbf.png",
+    "logoText": "TEL",
+    "url": "https://videas.agglo-lenslievin.fr/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://videas.agglo-lenslievin.fr/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://telegohelle.agglo-lenslievin.fr/"
+  },
+  {
+    "id": "Telenantes.fr",
+    "name": "Telenantes",
+    "logo": "https://i.imgur.com/G1SCqNI.png",
+    "logoText": "TEL",
+    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://telenantes.ouest-france.fr/"
+  },
+  {
+    "id": "TF1.fr",
+    "name": "TF1",
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "logoText": "TF1",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tf1.fr"
+  },
+  {
+    "id": "TF1SeriesFilms.fr",
+    "name": "TF1 Series Films",
+    "logo": "https://i.imgur.com/4CJIDKQ.png",
+    "logoText": "TF1",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tf1.fr/tf1-series-films"
+  },
+  {
+    "id": "TFX.fr",
+    "name": "TFX",
+    "logo": "https://i.imgur.com/d91GcVf.png",
+    "logoText": "TFX",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tf1.fr/tfx"
+  },
+  {
+    "id": "TiVi5Monde.fr",
+    "name": "TiVi5 Monde",
+    "logo": "https://i.imgur.com/fVVKpmk.png",
+    "logoText": "TIV",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "TraceBrazuca.fr",
+    "name": "Trace Brazuca",
+    "logo": "https://i.imgur.com/DFBocPu.png",
+    "logoText": "TRA",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://trace.company/activities/television/trace-brazuca/"
+  },
+  {
+    "id": "TraceGospel.fr",
+    "name": "Trace Gospel",
+    "logo": "https://i.imgur.com/X0UmU3K.png",
+    "logoText": "TRA",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music",
+      "religious"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://tracegospel.tv/"
+  },
+  {
+    "id": "TraceLatina.fr",
+    "name": "Trace Latina",
+    "logo": "https://i.imgur.com/CUVAi4u.png",
+    "logoText": "TRA",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://trace.company/television/trace-latina"
+  },
+  {
+    "id": "TraceSportStars.fr",
+    "name": "Trace Sport Stars",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "logoText": "TRA",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.trace.tv/fr/tv/sport"
+  },
+  {
+    "id": "TraceUrban.fr",
+    "name": "Trace Urban",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "logoText": "TRA",
+    "url": "http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.vf=TBE_v7iuzNi",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      },
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://fr.trace.tv/trace-urban/"
+  },
+  {
+    "id": "Trek.fr",
+    "name": "Trek",
+    "logo": "https://i.imgur.com/TcF53W4.png",
+    "logoText": "TRE",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: http://www.trekhd.tv/"
+  },
+  {
+    "id": "TV3V.fr",
+    "name": "TV3V",
+    "logo": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg",
+    "logoText": "TV3",
+    "url": "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tv3v.fr/"
+  },
+  {
+    "id": "TV5MondeAsia.fr",
+    "name": "TV5Monde Asia",
+    "logo": "https://i.imgur.com/FRsRXRR.png",
+    "logoText": "TV5",
+    "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://apac.tv5monde.com/"
+  },
+  {
+    "id": "TV5MondeEurope.fr",
+    "name": "TV5Monde Europe",
+    "logo": "https://i.imgur.com/rPAbMSu.png",
+    "logoText": "TV5",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://europe.tv5monde.com/"
+  },
+  {
+    "id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
+    "name": "TV5Monde France Belgium Switzerland Monaco",
+    "logo": "https://i.imgur.com/WmRbudc.png",
+    "logoText": "TV5",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://live.tv5monde.com/fbs.html"
+  },
+  {
+    "id": "TV5MondeInfo.fr",
+    "name": "TV5Monde Info",
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "logoText": "TV5",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://maghreb-orient.tv5monde.com/en/direct-tv5monde-info"
+  },
+  {
+    "id": "TV5MondeLatinAmerica.fr",
+    "name": "TV5Monde Latin America",
+    "logo": "https://i.imgur.com/x8rjGhp.png",
+    "logoText": "TV5",
+    "url": "http://45.235.0.78/TV5_Monde/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.235.0.78/TV5_Monde/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://latina.tv5monde.com/"
+  },
+  {
+    "id": "TV5MondePacific.fr",
+    "name": "TV5Monde Pacific",
+    "logo": "https://i.imgur.com/mfZOYZI.png",
+    "logoText": "TV5",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://apac.tv5monde.com/"
+  },
+  {
+    "id": "TV5MondeStyle.fr",
+    "name": "TV5Monde Style",
+    "logo": "https://i.imgur.com/cwC7Q2V.png",
+    "logoText": "TV5",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://apac.tv5monde.com/channels"
+  },
+  {
+    "id": "TV7Colmar.fr",
+    "name": "TV7 Colmar",
+    "logo": "https://i.imgur.com/kSdGi43.png",
+    "logoText": "TV7",
+    "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tv7.fr/"
+  },
+  {
+    "id": "TV78.fr",
+    "name": "TV78",
+    "logo": "https://i.imgur.com/stzE1Ij.png",
+    "logoText": "TV7",
+    "url": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "TVR.fr",
+    "name": "TVR",
+    "logo": "https://www.tvr.bzh/favicon-1024.png",
+    "logoText": "TVR",
+    "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "TZiK.fr",
+    "name": "TZiK",
+    "logo": "https://i.imgur.com/TAagRkn.png",
+    "logoText": "TZI",
+    "url": "https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.tzik.com/"
+  },
+  {
+    "id": "ViaMatele.fr",
+    "name": "ViaMatele",
+    "logo": "https://i.imgur.com/XVCV9rj.png",
+    "logoText": "VIA",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://viamatele.tv/"
+  },
+  {
+    "id": "ViaOccitanie.fr",
+    "name": "ViaOccitanie",
+    "logo": "https://i.imgur.com/NzuKt1R.png",
+    "logoText": "VIA",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://viaoccitanie.tv/"
+  },
+  {
+    "id": "viaTelePaese.fr",
+    "name": "viaTelePaese",
+    "logo": "https://i.imgur.com/TLZsAKK.png",
+    "logoText": "VIA",
+    "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://viatelepaese.tv/"
+  },
+  {
+    "id": "VosgesTV.fr",
+    "name": "Vosges TV",
+    "logo": "https://i.imgur.com/7y7ancc.png",
+    "logoText": "VOS",
+    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.viavosges.tv/"
+  },
+  {
+    "id": "W9.fr",
+    "name": "W9",
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "logoText": "W9",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.6play.fr/w9"
+  },
+  {
+    "id": "WildSideTV.fr",
+    "name": "Wild Side TV",
+    "logo": "https://i.imgur.com/cQkfRhH.png",
+    "logoText": "WIL",
+    "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A."
+  },
+  {
+    "id": "zenith.fr",
+    "name": "zenith",
+    "logo": "https://znth.tv/images/logo.png",
+    "logoText": "ZEN",
+    "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "culture"
+    ],
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Global IPTV stream. Country: France. Language: N/A. Website: https://www.znth.tv"
+  }
+]

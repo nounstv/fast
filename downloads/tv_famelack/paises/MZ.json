@@ -1,0 +1,36 @@
+[
+  {
+    "id": "m6EnoHPyxPHtyb",
+    "name": "TV Mana Mocambique",
+    "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Mozambique. Idioma: por.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HY7rVLsoZbudni",
+    "name": "TV Vitoria",
+    "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Mozambique. Idioma: por.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ETV.gp",
+    "name": "ETV",
+    "logo": "https://i.imgur.com/m5E2VP0.png",
+    "logoText": "ETV",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guadeloupe. Language: N/A. Website: https://www.etv.gp/"
+  },
+  {
+    "id": "MadrasFMTV.gp",
+    "name": "Madras FM TV",
+    "logo": "https://i.imgur.com/spGg1CZ.png",
+    "logoText": "MAD",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guadeloupe. Language: N/A. Website: https://www.madrasfm.tv/"
+  },
+  {
+    "id": "RadioTVBasseTerre.gp",
+    "name": "Radio TV Basse-Terre",
+    "logo": "https://i.imgur.com/OvnRplq.png",
+    "logoText": "RAD",
+    "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guadeloupe. Language: N/A. Website: https://www.rtvbt.fr/"
+  },
+  {
+    "id": "RHTGuadeloupe.gp",
+    "name": "RHT Guadeloupe",
+    "logo": "https://i.imgur.com/hQ0Q6nE.png",
+    "logoText": "RHT",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guadeloupe. Language: N/A. Website: https://www.rhtguadeloupe.fr/"
+  },
+  {
+    "id": "TMA.gp",
+    "name": "TMA",
+    "logo": "https://i.imgur.com/1iOAl2j.png",
+    "logoText": "TMA",
+    "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guadeloupe. Language: N/A. Website: http://www.tmacaraibes.com/"
+  }
+]

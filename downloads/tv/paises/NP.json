@@ -1,0 +1,324 @@
+[
+  {
+    "id": "AP1TV.np",
+    "name": "AP1 TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png",
+    "logoText": "AP1",
+    "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://ap1.tv/"
+  },
+  {
+    "id": "BagmatiTV.np",
+    "name": "Bagmati TV",
+    "logo": "https://i.imgur.com/2K6qEvh.jpg",
+    "logoText": "BAG",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A."
+  },
+  {
+    "id": "CapitalTVHD.np",
+    "name": "Capital TV HD",
+    "logo": "https://i.imgur.com/hb4bq1t.png",
+    "logoText": "CAP",
+    "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://www.capitaltvhd.com/"
+  },
+  {
+    "id": "CityOneTelevision.np",
+    "name": "City One Television",
+    "logo": "https://i.imgur.com/AxBreI5.png",
+    "logoText": "CIT",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://www.cityonetv.com/"
+  },
+  {
+    "id": "DhaulagiriTelevision.np",
+    "name": "Dhaulagiri Television",
+    "logo": "https://i.imgur.com/1tTudCH.png",
+    "logoText": "DHA",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://edhaulagiritv.com/"
+  },
+  {
+    "id": "DivyaDarshanTV.np",
+    "name": "Divya Darshan TV",
+    "logo": "https://i.imgur.com/EwDQ12F.png",
+    "logoText": "DIV",
+    "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://divyadarshantv.com/"
+  },
+  {
+    "id": "IndigenousTelevision.np",
+    "name": "Indigenous Television",
+    "logo": "https://i.ibb.co/2MByL1X/indigenous-television.png",
+    "logoText": "IND",
+    "url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://www.indigenoustelevision.com/"
+  },
+  {
+    "id": "JMusicTV.np",
+    "name": "J Music TV",
+    "logo": "https://i.imgur.com/57dVOP5.jpg",
+    "logoText": "J M",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://jayventure.com.np/jmusictelevision/"
+  },
+  {
+    "id": "KantipurTV.np",
+    "name": "Kantipur TV",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "logoText": "KAN",
+    "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://kantipurtv.com/"
+  },
+  {
+    "id": "METVHD.np",
+    "name": "METV HD",
+    "logo": "https://i.imgur.com/Zud862h.png",
+    "logoText": "MET",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://metvhd.com/"
+  },
+  {
+    "id": "MithilaNepalTV.np",
+    "name": "Mithila Nepal TV",
+    "logo": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+    "logoText": "MIT",
+    "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: http://mtvnepal.tv/"
+  },
+  {
+    "id": "NationalGoldTV.np",
+    "name": "National Gold TV",
+    "logo": "https://i.imgur.com/p0Wwf20.jpg",
+    "logoText": "NAT",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://nationalgoldhd.com/"
+  },
+  {
+    "id": "News24.np",
+    "name": "News 24",
+    "logo": "https://i.imgur.com/7PgAPMU.png",
+    "logoText": "NEW",
+    "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "NP",
+    "countryName": "Nepal",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nepal. Language: N/A. Website: https://www.news24nepal.tv/"
+  }
+]

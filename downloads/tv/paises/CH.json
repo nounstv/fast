@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "BlueZoomF.ch",
+    "name": "Blue Zoom F",
+    "logo": "https://i.imgur.com/A5iwahB.png",
+    "logoText": "BLU",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.bluewin.ch/fr/index/livestream.html"
+  },
+  {
+    "id": "Canal9.ch",
+    "name": "Canal 9",
+    "logo": "https://i.imgur.com/TNciMh2.png",
+    "logoText": "CAN",
+    "url": "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://canal9.ch/fr/direct/"
+  },
+  {
+    "id": "CanalAlphaJura.ch",
+    "name": "Canal Alpha Jura",
+    "logo": "https://i.imgur.com/eQ8xHK9.jpg",
+    "logoText": "CAN",
+    "url": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "CanalAlphaNeuchatel.ch",
+    "name": "Canal Alpha Neuchatel",
+    "logo": "https://i.imgur.com/eQ8xHK9.jpg",
+    "logoText": "CAN",
+    "url": "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "Carac1.ch",
+    "name": "Carac 1",
+    "logo": "https://i.imgur.com/TSc35U6.png",
+    "logoText": "CAR",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://carac.tv/"
+  },
+  {
+    "id": "Carac2.ch",
+    "name": "Carac 2",
+    "logo": "https://i.imgur.com/hCoIPen.png",
+    "logoText": "CAR",
+    "url": "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://carac.tv/lives/carac-2"
+  },
+  {
+    "id": "Carac3.ch",
+    "name": "Carac 3",
+    "logo": "https://i.imgur.com/C4e8cjt.png",
+    "logoText": "CAR",
+    "url": "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://carac.tv/lives/carac-3"
+  },
+  {
+    "id": "Carac4.ch",
+    "name": "Carac 4",
+    "logo": "https://i.imgur.com/Dj5LPy3.png",
+    "logoText": "CAR",
+    "url": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://carac.tv/lives/carac-4"
+  },
+  {
+    "id": "Carac5.ch",
+    "name": "Carac 5",
+    "logo": "https://i.imgur.com/giDfku4.png",
+    "logoText": "CAR",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://carac.tv/lives/carac-5"
+  },
+  {
+    "id": "Couleur3.ch",
+    "name": "Couleur 3",
+    "logo": "https://i.imgur.com/VOIwYYd.png",
+    "logoText": "COU",
+    "url": "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.rts.ch/couleur3"
+  },
+  {
+    "id": "DieNeueZeitTV.ch",
+    "name": "Die Neue Zeit TV",
+    "logo": "https://i.imgur.com/K3lvrog.png",
+    "logoText": "DIE",
+    "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.die-neue-zeit.tv/"
+  },
+  {
+    "id": "DritaTV.ch",
+    "name": "Drita TV",
+    "logo": "https://i.imgur.com/cvgVmZw.png",
+    "logoText": "DRI",
+    "url": "https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://drita.tv/"
+  },
+  {
+    "id": "ImmaculataTV.ch",
+    "name": "Immaculata TV",
+    "logo": "https://i.imgur.com/8WsYVpt.png",
+    "logoText": "IMM",
+    "url": "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.immaculata-tv.ch/"
+  },
+  {
+    "id": "Kanal9.ch",
+    "name": "Kanal 9",
+    "logo": "https://i.imgur.com/TNciMh2.png",
+    "logoText": "KAN",
+    "url": "https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://canal9.ch/de/direct/"
+  },
+  {
+    "id": "LemanBleu.ch",
+    "name": "Leman Bleu",
+    "logo": "https://i.imgur.com/6ijbSTr.png",
+    "logoText": "LEM",
+    "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-dash/lemanbleu.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.lemanbleu.ch/fr/Direct/Direct.html"
+  },
+  {
+    "id": "MaxTV.ch",
+    "name": "Max TV",
+    "logo": "https://i.imgur.com/13PjEk8.png",
+    "logoText": "MAX",
+    "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: http://www.maxtv.ch/"
+  },
+  {
+    "id": "Meteonews.ch",
+    "name": "Meteonews",
+    "logo": "https://i.imgur.com/YtYhbJD.png",
+    "logoText": "MET",
+    "url": "https://streaming.meteonews.net/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.meteonews.net/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Weather",
+    "categories": [
+      "weather"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://meteonews.ch/en/Cms/D12/location"
+  },
+  {
+    "id": "MyCinemaEurope.ch",
+    "name": "My Cinema Europe",
+    "logo": "https://i.imgur.com/jz0d8tH.png",
+    "logoText": "MY ",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "NRTV.ch",
+    "name": "NRTV",
+    "logo": "https://i.imgur.com/sXiFPfk.png",
+    "logoText": "NRT",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: http://www.nrtv.ch/"
+  },
+  {
+    "id": "QS24tv.ch",
+    "name": "QS24.tv",
+    "logo": "https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png",
+    "logoText": "QS2",
+    "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.qs24.tv/"
+  },
+  {
+    "id": "Radio3i.ch",
+    "name": "Radio 3i",
+    "logo": "https://i.imgur.com/0Kmh49G.png",
+    "logoText": "RAD",
+    "url": "https://vstream-cdn.ch/hls/radio3i.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vstream-cdn.ch/hls/radio3i.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "RADIODISCOuntTV.ch",
+    "name": "RADIO DISCOunt TV",
+    "logo": "https://i.imgur.com/ScNYMmx.png",
+    "logoText": "RAD",
+    "url": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://radio.discount/"
+  },
+  {
+    "id": "RhoneTV.ch",
+    "name": "Rhone TV",
+    "logo": "https://i.imgur.com/YyXJaBN.png",
+    "logoText": "RHO",
+    "url": "https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.rhonetv.ch/"
+  },
+  {
+    "id": "RSILa1.ch",
+    "name": "RSI La 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/960px-RSI_La_1_2012.svg.png",
+    "logoText": "RSI",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: http://www.rsi.ch/la1/"
+  },
+  {
+    "id": "RSILa2.ch",
+    "name": "RSI La 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png",
+    "logoText": "RSI",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: http://www.rsi.ch/la2/"
+  },
+  {
+    "id": "RTS1.ch",
+    "name": "RTS 1",
+    "logo": "https://i.imgur.com/OP5lHv9.png",
+    "logoText": "RTS",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.rts.ch/"
+  },
+  {
+    "id": "RTS2.ch",
+    "name": "RTS 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/960px-RTS_2_logo_2019.svg.png",
+    "logoText": "RTS",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.rts.ch/"
+  },
+  {
+    "id": "RTVIslam.ch",
+    "name": "RTV Islam",
+    "logo": "https://i.ibb.co/LSJqLJw/RTV-LOGO.png",
+    "logoText": "RTV",
+    "url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://rtvislam.com/"
+  },
+  {
+    "id": "RTVPendimi.ch",
+    "name": "RTV Pendimi",
+    "logo": "https://i.ibb.co/tD48GMD/RTV-Pendimi.png",
+    "logoText": "RTV",
+    "url": "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.rtvpendimi.com/"
+  },
+  {
+    "id": "ShivaLiveTV.ch",
+    "name": "Shiva Live TV",
+    "logo": "https://i.imgur.com/F2LUpAB.jpg",
+    "logoText": "SHI",
+    "url": "https://streameurope.ch/live/shivalivetv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streameurope.ch/live/shivalivetv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://shivalive.tv/"
+  },
+  {
+    "id": "SivanTV.ch",
+    "name": "Sivan TV",
+    "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+    "logoText": "SIV",
+    "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: http://sivantv.com/"
+  },
+  {
+    "id": "SKITV.ch",
+    "name": "SKI TV",
+    "logo": "https://i.imgur.com/S6qgwLG.png",
+    "logoText": "SKI",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.skitv.tv/"
+  },
+  {
+    "id": "SRF1.ch",
+    "name": "SRF 1",
+    "logo": "https://i.imgur.com/xgml2Pl.png",
+    "logoText": "SRF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.srf.ch/"
+  },
+  {
+    "id": "SRFinfo.ch",
+    "name": "SRF info",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
+    "logoText": "SRF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.srf.ch/"
+  },
+  {
+    "id": "SRFzwei.ch",
+    "name": "SRF zwei",
+    "logo": "https://i.imgur.com/887SKjm.png",
+    "logoText": "SRF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.srf.ch/"
+  },
+  {
+    "id": "StarTV.ch",
+    "name": "Star TV",
+    "logo": "https://i.imgur.com/04y9wz8.png",
+    "logoText": "STA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "TeleM1.ch",
+    "name": "Tele M1",
+    "logo": "https://i.imgur.com/oFiixzK.png",
+    "logoText": "TEL",
+    "url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.telem1.ch/"
+  },
+  {
+    "id": "TeleBarn.ch",
+    "name": "TeleBarn",
+    "logo": "https://i.imgur.com/YwUbbKA.png",
+    "logoText": "TEL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.telebaern.tv/"
+  },
+  {
+    "id": "TeleBielingue.ch",
+    "name": "TeleBielingue",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png",
+    "logoText": "TEL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-dash/telebielingue.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-dash/telebielingue.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "TeleTicino.ch",
+    "name": "TeleTicino",
+    "logo": "https://i.imgur.com/u6dLKa9.png",
+    "logoText": "TEL",
+    "url": "https://vstream-cdn.ch/hls/teleticino.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vstream-cdn.ch/hls/teleticino.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "TeleZuri.ch",
+    "name": "TeleZuri",
+    "logo": "https://i.imgur.com/f8kzNT1.png",
+    "logoText": "TEL",
+    "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.telezueri.ch/"
+  },
+  {
+    "id": "TV24.ch",
+    "name": "TV 24",
+    "logo": "https://i.imgur.com/TOgivuE.png",
+    "logoText": "TV ",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.oneplus.ch/"
+  },
+  {
+    "id": "TVRheintal.ch",
+    "name": "TV Rheintal",
+    "logo": "https://i.imgur.com/8PY1o81.jpg",
+    "logoText": "TV ",
+    "url": "https://rtmp-vm.fidion.de/live/tvrt.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp-vm.fidion.de/live/tvrt.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.tvrt.ch/"
+  },
+  {
+    "id": "TVM3.ch",
+    "name": "TVM 3",
+    "logo": "https://i.imgur.com/zNJlFMg.png",
+    "logoText": "TVM",
+    "url": "https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A."
+  },
+  {
+    "id": "WaterBear.ch",
+    "name": "WaterBear",
+    "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+    "logoText": "WAT",
+    "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary",
+      "outdoor"
+    ],
+    "country": "CH",
+    "countryName": "Switzerland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Switzerland. Language: N/A. Website: https://www.waterbear.com/"
+  }
+]

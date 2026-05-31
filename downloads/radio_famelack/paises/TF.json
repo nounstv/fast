@@ -1,0 +1,34 @@
+[
+  {
+    "id": "KPlJFY5LrgJONM",
+    "name": "Sensuelle Radio",
+    "url": "https://radio10.pro-fhi.net/radio/9169/stream",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=pro-fhi.net",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "TF",
+    "countryName": "French Southern Territories",
+    "state": "",
+    "tags": "pop",
+    "language": "fra",
+    "homepage": ""
+  },
+  {
+    "id": "MpndaRpK4gVbWb",
+    "name": "Sensuelle Radio 80",
+    "url": "https://forwardmystream.com/sensuelleradio",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=forwardmystream.com",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "TF",
+    "countryName": "French Southern Territories",
+    "state": "",
+    "tags": "pop",
+    "language": "fra",
+    "homepage": ""
+  }
+]

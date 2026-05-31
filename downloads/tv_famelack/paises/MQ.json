@@ -1,0 +1,70 @@
+[
+  {
+    "id": "97DWduUX5Hf0aj",
+    "name": "FUSION TV",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "FUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "qcIhqbTEQbBGRN",
+    "name": "Identite Tele Caraibes",
+    "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "IDE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "MBKYOzxWLTlns1",
+    "name": "Tele Zoukla",
+    "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "category": "Music",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo.pro-fhi.net:3228/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "usETpjVP1bzVNN",
+    "name": "TV Famille",
+    "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "category": "Religious",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Martinique. Idioma: fra.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+    ]
+  }
+]

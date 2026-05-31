@@ -1,0 +1,945 @@
+[
+  {
+    "id": "H2CDIH8qBgxAa8",
+    "name": "CJ OnStyle",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "CJ ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nwjpk1GgnvBj65",
+    "name": "CJ OnStyle+",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "CJ ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1urxVFjg7HoQcm",
+    "name": "Expo Channel",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+    "category": "Shop",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "EXP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+    ]
+  },
+  {
+    "id": "sNGgqsLaPmiNb6",
+    "name": "Fashion Finds",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "FAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+    ]
+  },
+  {
+    "id": "bcwcJsqO9k052m",
+    "name": "Gem Shopping Network",
+    "url": "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "url": "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BHUk7W2sHiMZn9",
+    "name": "Gongyoung Home Shopping",
+    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "GON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ha2TQrOiJuUiVm",
+    "name": "GS My Shop",
+    "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "GS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tTyhlQIbf96cqF",
+    "name": "GS Shop",
+    "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng.",
+    "logoText": "GS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KWubgLKIN9lBtR",
+    "name": "Handystar",
+    "url": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "HAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
+    ]
+  },
+  {
+    "id": "vUHuDdpPOMwJOv",
+    "name": "Home & Shopping",
+    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "00SFFti9BYGccf",
+    "name": "HSE",
+    "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "HSE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "soxgLbqzLAaHgC",
+    "name": "HSE Extra",
+    "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "HSE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fglFXMh5Qykdut",
+    "name": "HSE Trend",
+    "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "HSE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wy5bdbG6nJxwPp",
+    "name": "HSN East",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "HSN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+      "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hPYkUwXZsiqjFa",
+    "name": "HSN West",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "HSN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
+    ]
+  },
+  {
+    "id": "VE36pxWHeOz9JJ",
+    "name": "HSN2",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "HSN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
+    ]
+  },
+  {
+    "id": "JdXXEWHEkhS0rD",
+    "name": "Hyundai Home Shopping",
+    "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HYU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UShqKN6AAa2tbY",
+    "name": "Hyundai Home Shopping + Shop",
+    "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HYU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FduEDCfi40g7V8",
+    "name": "In the Kitchen",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "IN ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+    ]
+  },
+  {
+    "id": "3yI1RuuFvlPWvb",
+    "name": "Juwelo",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8",
+    "category": "Shop",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Italy. Idioma: deu.",
+    "logoText": "JUW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "fpJtwlTBFuWrLw",
+    "name": "Juwelo",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "JUW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "hkGnYbKbnHGzDM",
+    "name": "KaufBei TV",
+    "url": "https://elephant.t62a.com/hls/8103/index.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "KAU",
+    "streamCount": 2,
+    "allStreams": [
+      "https://elephant.t62a.com/hls/8103/index.m3u8",
+      "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
+    ]
+  },
+  {
+    "id": "nfUMYUgBEhhJaP",
+    "name": "Lao SV TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "VN",
+    "countryName": "Vietnam",
+    "languages": [
+      "vie"
+    ],
+    "description": "Canal de TV de Vietnam. Idioma: vie.",
+    "logoText": "LAO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GYggfQq3olGvXb",
+    "name": "Lao-Thai TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8",
+    "category": "Shop",
+    "country": "VN",
+    "countryName": "Vietnam",
+    "languages": [
+      "vie"
+    ],
+    "description": "Canal de TV de Vietnam. Idioma: vie.",
+    "logoText": "LAO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "xgn0FUKlpDXRRt",
+    "name": "Lotte Home Shopping",
+    "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "LOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8"
+    ]
+  },
+  {
+    "id": "6c1onCC872cpGK",
+    "name": "Lotte OneTV",
+    "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "LOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8"
+    ]
+  },
+  {
+    "id": "mVxVh0IAxmzQFX",
+    "name": "LS TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+    "category": "Shop",
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [
+      "lao"
+    ],
+    "description": "Canal de TV de Laos. Idioma: lao.",
+    "logoText": "LS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VuVzz3cHZwcEIp",
+    "name": "Magnat",
+    "url": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
+    "category": "Shop",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    ]
+  },
+  {
+    "id": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ]
+  },
+  {
+    "id": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
+    "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ]
+  },
+  {
+    "id": "XSj8RLmWub2bay",
+    "name": "OnTV4U",
+    "url": "https://stirr.b-cdn.net/stirr/playlist.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "ONT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://stirr.b-cdn.net/stirr/playlist.m3u8",
+      "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "fcjpPoY9XptPjK",
+    "name": "QVC",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8"
+    ]
+  },
+  {
+    "id": "OLmlejUUhCqlk2",
+    "name": "QVC",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "category": "Shop",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
+    ]
+  },
+  {
+    "id": "OriOEDLt7tp0cn",
+    "name": "QVC",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "category": "Shop",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+    ]
+  },
+  {
+    "id": "svRWnX3AgAscmw",
+    "name": "QVC",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+      "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oETlnLpYEDyNKk",
+    "name": "QVC Beauty",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8"
+    ]
+  },
+  {
+    "id": "fjSGlqw7i730Sx",
+    "name": "QVC Extra",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8"
+    ]
+  },
+  {
+    "id": "9pJLwysdUgUtW3",
+    "name": "QVC Style",
+    "url": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
+    ]
+  },
+  {
+    "id": "2yC5QKNsi19SUW",
+    "name": "QVC2",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+    ]
+  },
+  {
+    "id": "nzR4gXgGmAHd4l",
+    "name": "QVC3",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+    ]
+  },
+  {
+    "id": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "url": "https://master.tucableip.com/redtvshop/index.m3u8",
+    "category": "Shop",
+    "country": "BO",
+    "countryName": "Bolivia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Bolivia. Idioma: spa.",
+    "logoText": "RED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
+    ]
+  },
+  {
+    "id": "fnE13NFNokanvE",
+    "name": "Shinsegae TV Shopping",
+    "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "SHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VFHPY4Y8ToG3zS",
+    "name": "Shop Channel",
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "category": "Shop",
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [
+      "jpn"
+    ],
+    "description": "Canal de TV de Japan. Idioma: jpn.",
+    "logoText": "SHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream3.shopch.jp/HLS/master.m3u8"
+    ]
+  },
+  {
+    "id": "RIicoz1oemLhlJ",
+    "name": "Shop LC",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "SHO",
+    "streamCount": 3,
+    "allStreams": [
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8",
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+      "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8"
+    ]
+  },
+  {
+    "id": "hiABpRG1XhgOmb",
+    "name": "Shopping NT",
+    "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "SHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.shoppingntmall.com/live/10011.m3u8"
+    ]
+  },
+  {
+    "id": "P3wFK2is4nhE2c",
+    "name": "Tea TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8",
+    "category": "Shop",
+    "country": "VN",
+    "countryName": "Vietnam",
+    "languages": [
+      "vie"
+    ],
+    "description": "Canal de TV de Vietnam. Idioma: vie.",
+    "logoText": "TEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "U5azpF1869TOgk",
+    "name": "TJC",
+    "url": "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8",
+    "category": "Shop",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "TJC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8",
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
+    ]
+  },
+  {
+    "id": "DR294yaoAeNjE4",
+    "name": "TSC",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "category": "Shop",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "TSC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+      "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+    ]
+  },
+  {
+    "id": "WcoZqsaKguXix1",
+    "name": "TUSO",
+    "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+    "category": "Shop",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "languages": [
+      "ukr"
+    ],
+    "description": "Canal de TV de Ukraine. Idioma: ukr.",
+    "logoText": "TUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+    ]
+  },
+  {
+    "id": "7nKa9JiGwBmOWZ",
+    "name": "TVS Consumer Direct",
+    "url": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8",
+    "category": "Shop",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8"
+    ]
+  },
+  {
+    "id": "I3kjTb3ubS1fvS",
+    "name": "TVSN",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "category": "Shop",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
+    ]
+  },
+  {
+    "id": "gh2TkRWTUyBId2",
+    "name": "Uniquely Thai",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
+    "category": "Shop",
+    "country": "VN",
+    "countryName": "Vietnam",
+    "languages": [
+      "vie"
+    ],
+    "description": "Canal de TV de Vietnam. Idioma: vie.",
+    "logoText": "UNI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4If9DGlBIwVH9j",
+    "name": "W Shopping",
+    "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "W S",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UduqqsC4bcIebm",
+    "name": "Yuvelirochka",
+    "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "category": "Shop",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "YUV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "HvSfRA7Rvv49hQ",
+    "name": "Raadiyo Baydhabo",
+    "url": "https://stream.zeno.fm/yxsfn746kg8uv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "SO",
+    "countryName": "Somalia",
+    "state": "",
+    "tags": "talk",
+    "language": "som",
+    "homepage": ""
+  },
+  {
+    "id": "yLu8qkJnR9dvAH",
+    "name": "VOA Somali",
+    "url": "https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=voanews.com",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "SO",
+    "countryName": "Somalia",
+    "state": "",
+    "tags": "talk",
+    "language": "som",
+    "homepage": ""
+  }
+]

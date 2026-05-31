@@ -1,0 +1,155 @@
+[
+  {
+    "id": "tGRgOGa9BjpssA",
+    "name": "Narodna TV",
+    "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+    "category": "Geral",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "NAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge8.pink.rs/narodnatv/index.m3u8"
+    ]
+  },
+  {
+    "id": "fhxP6wIauoX6aK",
+    "name": "Pink",
+    "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+    "category": "Geral",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "PIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge8.pink.rs/pinktv/index.m3u8"
+    ]
+  },
+  {
+    "id": "80i8NgFWX25XdT",
+    "name": "Radio Hit FM TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8"
+    ]
+  },
+  {
+    "id": "M9AApHHMkGVBYu",
+    "name": "Radio Karolina TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8"
+    ]
+  },
+  {
+    "id": "5VZhUUCzs2KhoI",
+    "name": "Radio Lola TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+    ]
+  },
+  {
+    "id": "9igTbA8qhtc7eq",
+    "name": "TDI Radio TV",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "category": "Music",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "TDI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
+    ]
+  },
+  {
+    "id": "hv5hUXMQAlrjyb",
+    "name": "TV Arta",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+    "category": "News",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "sqi"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: sqi.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8"
+    ]
+  },
+  {
+    "id": "HOQPyw6Pm1vRrs",
+    "name": "TV AS",
+    "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8",
+    "category": "Geral",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/TVAS/index.m3u8"
+    ]
+  },
+  {
+    "id": "QBnvi3VHR0xXL2",
+    "name": "TV Hram",
+    "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "category": "Geral",
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Serbia. Idioma: srp.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vod1.laki.eu/live/hram/index.m3u8"
+    ]
+  }
+]

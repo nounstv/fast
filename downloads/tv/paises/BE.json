@@ -1,0 +1,826 @@
+[
+  {
+    "id": "AB3.be",
+    "name": "AB3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/960px-AB3_2025.svg.png",
+    "logoText": "AB3",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.ab3.be/"
+  },
+  {
+    "id": "ACTV.be",
+    "name": "ACTV",
+    "logo": "https://files.catbox.moe/8v2y8m.png",
+    "logoText": "ACT",
+    "url": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.antennecentre.tv/"
+  },
+  {
+    "id": "ATV.be",
+    "name": "ATV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png",
+    "logoText": "ATV",
+    "url": "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://atv.be/"
+  },
+  {
+    "id": "BelRTL.be",
+    "name": "Bel RTL",
+    "logo": "https://i.imgur.com/0DUprIW.png",
+    "logoText": "BEL",
+    "url": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.belrtl.be/"
+  },
+  {
+    "id": "Bouke.be",
+    "name": "Bouke",
+    "logo": "https://i.imgur.com/STLavel.png",
+    "logoText": "BOU",
+    "url": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A."
+  },
+  {
+    "id": "Bruzz.be",
+    "name": "Bruzz",
+    "logo": "https://i.imgur.com/OYlYidF.png",
+    "logoText": "BRU",
+    "url": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.bruzz.be/"
+  },
+  {
+    "id": "BX1.be",
+    "name": "BX1",
+    "logo": "https://i.imgur.com/0OkSa6c.png",
+    "logoText": "BX1",
+    "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A."
+  },
+  {
+    "id": "CanalZ.be",
+    "name": "Canal Z",
+    "logo": "https://i.imgur.com/qtiGLzZ.png",
+    "logoText": "CAN",
+    "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: http://www.canalz.be/"
+  },
+  {
+    "id": "CanalZoom.be",
+    "name": "Canal Zoom",
+    "logo": "https://i.imgur.com/JUNP8Rx.png",
+    "logoText": "CAN",
+    "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.canalzoom.be/"
+  },
+  {
+    "id": "HLNLive.be",
+    "name": "HLN Live",
+    "logo": "https://i.ibb.co/zbCrZG9/hq-hln.png",
+    "logoText": "HLN",
+    "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.hln.be/"
+  },
+  {
+    "id": "JapanimTV.be",
+    "name": "JapanimTV",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+    "logoText": "JAP",
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://foxkidstv.be/broadcaster/japanimtv/stream/player"
+  },
+  {
+    "id": "JoeFM.be",
+    "name": "Joe FM",
+    "logo": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+    "logoText": "JOE",
+    "url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://joe.be/"
+  },
+  {
+    "id": "KanaalZ.be",
+    "name": "Kanaal Z",
+    "logo": "https://i.imgur.com/YzgYJxM.png",
+    "logoText": "KAN",
+    "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: http://www.kanaalz.be/"
+  },
+  {
+    "id": "Klara.be",
+    "name": "Klara",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "logoText": "KLA",
+    "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://klara.be/"
+  },
+  {
+    "id": "LaTrois.be",
+    "name": "La Trois",
+    "logo": "https://i.imgur.com/jMs4h9F.png",
+    "logoText": "LA ",
+    "url": "http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.rtbf.be/tv/latrois"
+  },
+  {
+    "id": "LaUne.be",
+    "name": "La Une",
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "logoText": "LA ",
+    "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.rtbf.be/tv/laune/"
+  },
+  {
+    "id": "LN24.be",
+    "name": "LN24",
+    "logo": "https://i.imgur.com/1EkZRwn.png",
+    "logoText": "LN2",
+    "url": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.ln24.be/"
+  },
+  {
+    "id": "Matele.be",
+    "name": "Matele",
+    "logo": "https://i.imgur.com/rw72POr.png",
+    "logoText": "MAT",
+    "url": "https://live.matele.be/hls/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.matele.be/hls/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: http://www.matele.be/"
+  },
+  {
+    "id": "MNM.be",
+    "name": "MNM",
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "logoText": "MNM",
+    "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A."
+  },
+  {
+    "id": "Notele.be",
+    "name": "Notele",
+    "logo": "https://i.imgur.com/fGS55nR.png",
+    "logoText": "NOT",
+    "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.notele.be/"
+  },
+  {
+    "id": "PlayCrime.be",
+    "name": "Play Crime",
+    "logo": "https://i.imgur.com/hPh8tRq.png",
+    "logoText": "PLA",
+    "url": "https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.goplay.be/"
+  },
+  {
+    "id": "QMusic.be",
+    "name": "Q-Music",
+    "logo": "https://i.imgur.com/VX5e9Xt.png",
+    "logoText": "Q-M",
+    "url": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A."
+  },
+  {
+    "id": "QU4TRELiegeMedia.be",
+    "name": "QU4TRE Liege Media",
+    "logo": "https://i.imgur.com/GHFuvmZ.png",
+    "logoText": "QU4",
+    "url": "https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.qu4tre.be/"
+  },
+  {
+    "id": "Radio1.be",
+    "name": "Radio 1",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "logoText": "RAD",
+    "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://radio1.be/"
+  },
+  {
+    "id": "Radio2.be",
+    "name": "Radio 2",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "logoText": "RAD",
+    "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://radio2.be/"
+  },
+  {
+    "id": "RadioContact.be",
+    "name": "Radio Contact",
+    "logo": "https://i.imgur.com/32mmGvB.png",
+    "logoText": "RAD",
+    "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A."
+  },
+  {
+    "id": "RTLTVI.be",
+    "name": "RTL-TVI",
+    "logo": "https://i.imgur.com/2CimAAN.png",
+    "logoText": "RTL",
+    "url": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: http://www.rtl.be/tv/rtltvi"
+  },
+  {
+    "id": "SterkTV.be",
+    "name": "Sterk TV",
+    "logo": "https://i.imgur.com/bIheNAI.png",
+    "logoText": "STE",
+    "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://sterktv1.net/"
+  },
+  {
+    "id": "StuBru.be",
+    "name": "StuBru",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "logoText": "STU",
+    "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://stubru.be/"
+  },
+  {
+    "id": "TeleMB.be",
+    "name": "Tele MB",
+    "logo": "https://i.imgur.com/XAggjM4.png",
+    "logoText": "TEL",
+    "url": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.telemb.be/"
+  },
+  {
+    "id": "Tipik.be",
+    "name": "Tipik",
+    "logo": "https://i.imgur.com/LKLjnrp.png",
+    "logoText": "TIP",
+    "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.rtbf.be/tipik/"
+  },
+  {
+    "id": "TVLux.be",
+    "name": "TV Lux",
+    "logo": "https://i.imgur.com/ljbdWkC.png",
+    "logoText": "TV ",
+    "url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.tvlux.be/"
+  },
+  {
+    "id": "TVcom.be",
+    "name": "TVcom",
+    "logo": "https://i.imgur.com/3KuRD19.png",
+    "logoText": "TVC",
+    "url": "https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.tvcom.be/"
+  },
+  {
+    "id": "Vedia.be",
+    "name": "Vedia",
+    "logo": "https://i.imgur.com/7LnH6yu.png",
+    "logoText": "VED",
+    "url": "https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Belgium. Language: N/A. Website: https://www.vedia.be/"
+  }
+]

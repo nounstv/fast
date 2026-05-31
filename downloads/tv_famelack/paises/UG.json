@@ -1,0 +1,95 @@
+[
+  {
+    "id": "t2mBHms7Nuow3E",
+    "name": "Ark TV",
+    "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+    "category": "Religious",
+    "country": "UG",
+    "countryName": "Uganda",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Uganda. Idioma: eng.",
+    "logoText": "ARK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
+    ]
+  },
+  {
+    "id": "RgMMgkjkxfK5cI",
+    "name": "Bukedde TV 1",
+    "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "category": "General",
+    "country": "UG",
+    "countryName": "Uganda",
+    "languages": [
+      "lug"
+    ],
+    "description": "Canal de TV de Uganda. Idioma: lug.",
+    "logoText": "BUK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
+    ]
+  },
+  {
+    "id": "0mvfYMd3uL2bLx",
+    "name": "Praise Jesus Tower TV",
+    "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
+    "category": "Religious",
+    "country": "UG",
+    "countryName": "Uganda",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Uganda. Idioma: eng.",
+    "logoText": "PRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8"
+    ]
+  },
+  {
+    "id": "ibOddTJcAbkJ9l",
+    "name": "TV West",
+    "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+    "category": "General",
+    "country": "UG",
+    "countryName": "Uganda",
+    "languages": [
+      "cgg",
+      "nyn",
+      "nyo",
+      "ttj"
+    ],
+    "description": "Canal de TV de Uganda. Idioma: cgg, nyn, nyo, ttj.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
+    ]
+  },
+  {
+    "id": "2MNeOOhZfnkjQV",
+    "name": "Wan Luo TV",
+    "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+    "category": "General",
+    "country": "UG",
+    "countryName": "Uganda",
+    "languages": [
+      "ach",
+      "adh",
+      "alz",
+      "kdi",
+      "laj",
+      "luo"
+    ],
+    "description": "Canal de TV de Uganda. Idioma: ach, adh, alz, kdi, laj, luo.",
+    "logoText": "WAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+    ]
+  }
+]

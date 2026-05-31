@@ -1,0 +1,50 @@
+[
+  {
+    "id": "CBNGospel.vg",
+    "name": "CBN Gospel",
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "logoText": "CBN",
+    "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "VG",
+    "countryName": "British Virgin Islands",
+    "languages": [],
+    "description": "Global IPTV stream. Country: British Virgin Islands. Language: N/A. Website: https://www.cbngospel.com/"
+  },
+  {
+    "id": "CBNTV.vg",
+    "name": "CBN TV",
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "logoText": "CBN",
+    "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "VG",
+    "countryName": "British Virgin Islands",
+    "languages": [],
+    "description": "Global IPTV stream. Country: British Virgin Islands. Language: N/A. Website: https://www.cbnvirginislands.com/"
+  }
+]

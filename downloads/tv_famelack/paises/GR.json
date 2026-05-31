@@ -1,0 +1,769 @@
+[
+  {
+    "id": "F0m8xOZdwpScCP",
+    "name": "Acheloos TV",
+    "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell",
+      "eng"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell, eng.",
+    "logoText": "ACH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://acheloostv.streamings.gr/live/stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "FcrizhjFuogVcE",
+    "name": "Action 24",
+    "url": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+    "category": "Movies",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ACT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Vy0AuCngWxJT2u",
+    "name": "Aigaio TV",
+    "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "AIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cHmM9b8VS7jwKX",
+    "name": "Alert TV",
+    "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ALE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "w8DEZO2sRSoZZO",
+    "name": "Alpha TV",
+    "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ALP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2c7snlK3LlpjiQ",
+    "name": "Astra TV",
+    "url": "https://server.gointernet.gr/live/livestream.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "AST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://server.gointernet.gr/live/livestream.m3u8"
+    ]
+  },
+  {
+    "id": "alnxPYvmVkicEU",
+    "name": "Baraza TV",
+    "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "SwsWDthUMBPn2q",
+    "name": "Baraza TV Deep House",
+    "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nur67kMzGvKND6",
+    "name": "Best TV",
+    "url": "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9nOkMHgBurW2UW",
+    "name": "Blue Sky TV",
+    "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "BLU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BQ588mGGkNcDqS",
+    "name": "Center TV",
+    "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "CEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.streams.gr:8081/centertv/index.m3u8"
+    ]
+  },
+  {
+    "id": "gTRpcJwVgakhrn",
+    "name": "Diavata TV",
+    "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+    "category": "Geral",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "DIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kQoJODyIVFBenm",
+    "name": "Egnatia TV",
+    "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "EGN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
+    ]
+  },
+  {
+    "id": "HQxmczuRTCLJHk",
+    "name": "Ellinikos FM",
+    "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ELL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+    ]
+  },
+  {
+    "id": "W3ePyy3g6gIjfs",
+    "name": "ENA Channel",
+    "url": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ENA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GI28zdliqFumzw",
+    "name": "ERT Cosmos",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ERT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "lQUaMVorKskNow",
+    "name": "ERT News",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ERT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "NQiAFQ7ViZASeI",
+    "name": "ERT1",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ERT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "4z3jjg4HjNupEG",
+    "name": "ERT2",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ERT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "99p8zNQRqAzy6r",
+    "name": "ERT3",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+    "category": "Entertainment",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ERT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "category": "Geral",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "FAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s1.cystream.net/live/faros2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BBnkN7RuoWZuoo",
+    "name": "Gnomi TV",
+    "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "GNO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.streams.ovh:8081/gnomitv/index.m3u8"
+    ]
+  },
+  {
+    "id": "zfdgzXgQZmoAvu",
+    "name": "Hellenic Parliament TV",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+    "category": "Legislative",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "HEL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+    ]
+  },
+  {
+    "id": "zSgRIxf4rZgvt7",
+    "name": "Ionian TV",
+    "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ION",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "slRsHngNcym3tq",
+    "name": "Kontra Channel",
+    "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "KON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1vkifiAz0M09X4",
+    "name": "Kriti TV",
+    "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "KRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YpG1ImfWO1Q3HO",
+    "name": "Naftemporiki TV",
+    "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "NAF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "nOgaKVJqtjFRdy",
+    "name": "Nea TV",
+    "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "NEA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
+    ]
+  },
+  {
+    "id": "abovmNRAyWVzAt",
+    "name": "Netmax TV",
+    "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "NET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "va1T6JmoihYIa4",
+    "name": "Notioi TV",
+    "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "NOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv.streamserver.gr:3451/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "NRZMBeU73QGtG9",
+    "name": "One Channel",
+    "url": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "ONE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "L3j1vKGF6lnpfD",
+    "name": "Panik TV",
+    "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+    "category": "Music",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "PAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PbQQ9Uu2aVWAvl",
+    "name": "Pella TV",
+    "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "PEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8"
+    ]
+  },
+  {
+    "id": "tIsI0Q7tcEru0t",
+    "name": "Skai TV",
+    "url": "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "SKA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+      "https://skai-live.siliconweb.com/media/cambria4/index.m3u8"
+    ]
+  },
+  {
+    "id": "HzfqSOVb2ipubL",
+    "name": "Star Channel",
+    "url": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+    "category": "Entertainment",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "STA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
+    ]
+  },
+  {
+    "id": "J0odgAtajSNXf0",
+    "name": "Star Kentrikis Elladas",
+    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "STA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
+    ]
+  },
+  {
+    "id": "axcim7j9dTO22W",
+    "name": "Start TV",
+    "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "STA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ExXGZtUJaG1vOi",
+    "name": "Telekriti",
+    "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://neon.streams.gr:8081/telekriti/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "THR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "L7DGt24WcQkuGo",
+    "name": "Top Channel",
+    "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "TOP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "m8BDyIFQ09DrYt",
+    "name": "TRT",
+    "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "TRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://av.hellasnet.tv/rst/trt/main_stream.m3u8"
+    ]
+  },
+  {
+    "id": "TGMLWTxBfujR39",
+    "name": "TV 100",
+    "url": "https://gwebstream.net/hls/master.m3u8",
+    "category": "General",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gwebstream.net/hls/master.m3u8"
+    ]
+  },
+  {
+    "id": "Xstsz3HxvmyGSQ",
+    "name": "TV Creta",
+    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+    "category": "Geral",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "cu6RCMF1x7RHRd",
+    "name": "Vergina TV",
+    "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+    "category": "News",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [
+      "ell"
+    ],
+    "description": "Canal de TV de Greece. Idioma: ell.",
+    "logoText": "VER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://verginanews.gr:8443/hls_live/stream1.m3u8"
+    ]
+  },
+  {
+    "id": "at2mNido4XOnuc",
+    "name": "Zougla TV",
+    "url": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+    "category": "Geral",
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Canal de TV de Greece. Idioma: N/A.",
+    "logoText": "ZOU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
+    ]
+  }
+]

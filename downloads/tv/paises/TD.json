@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TeleTchad.td",
+    "name": "Tele Tchad",
+    "logo": "https://i.imgur.com/udSzfHD.png",
+    "logoText": "TEL",
+    "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TD",
+    "countryName": "Chad",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Chad. Language: N/A. Website: https://onama.td/"
+  }
+]

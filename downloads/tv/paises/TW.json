@@ -1,0 +1,572 @@
+[
+  {
+    "id": "BeautifulLifeTV.tw",
+    "name": "Beautiful Life TV",
+    "logo": "https://i.imgur.com/hkwcBM9.png",
+    "logoText": "BEA",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: http://www.bltv.tv/"
+  },
+  {
+    "id": "CGNTVChinese.tw",
+    "name": "CGNTV Chinese",
+    "logo": "https://i.imgur.com/bPoPAbR.png",
+    "logoText": "CGN",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: http://chinese.cgntv.net/"
+  },
+  {
+    "id": "CTiVariety.tw",
+    "name": "CTi Variety",
+    "logo": "https://i.imgur.com/tqsKObw.png",
+    "logoText": "CTI",
+    "url": "http://23.237.10.66:16372",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://23.237.10.66:16372",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ctitv.com.tw/channel36"
+  },
+  {
+    "id": "CTS.tw",
+    "name": "CTS",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",
+    "logoText": "CTS",
+    "url": "rtmp://59.124.75.138:1935/sat/tv111",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "rtmp://59.124.75.138:1935/sat/tv111",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.cts.com.tw/"
+  },
+  {
+    "id": "CTSNews.tw",
+    "name": "CTS News",
+    "logo": "https://i.imgur.com/V1EVtRm.png",
+    "logoText": "CTS",
+    "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.cts.com.tw/"
+  },
+  {
+    "id": "DaAi1.tw",
+    "name": "DaAi 1",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "logoText": "DAA",
+    "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: http://www.daai.tv/"
+  },
+  {
+    "id": "DaAi2.tw",
+    "name": "DaAi 2",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "logoText": "DAA",
+    "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: http://www.daai.tv/"
+  },
+  {
+    "id": "DaliTV.tw",
+    "name": "Dali TV",
+    "logo": "https://i.imgur.com/pFIMLsA.png",
+    "logoText": "DAL",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A."
+  },
+  {
+    "id": "EBCFinancialNews.tw",
+    "name": "EBC Financial News",
+    "logo": "https://i.imgur.com/uFDkOhV.png",
+    "logoText": "EBC",
+    "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://fnc.ebc.net.tw/"
+  },
+  {
+    "id": "EBCNews.tw",
+    "name": "EBC News",
+    "logo": "https://i.imgur.com/QFZs80p.png",
+    "logoText": "EBC",
+    "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://news.ebc.net.tw/"
+  },
+  {
+    "id": "FTV.tw",
+    "name": "FTV",
+    "logo": "https://i.imgur.com/q8ahtbT.png",
+    "logoText": "FTV",
+    "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ftv.com.tw/"
+  },
+  {
+    "id": "FTVOne.tw",
+    "name": "FTV One",
+    "logo": "https://i.imgur.com/HBT2o0I.png",
+    "logoText": "FTV",
+    "url": "http://seb.sason.top/ptv/ftv.php?id=dy",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=dy",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ftv.com.tw/"
+  },
+  {
+    "id": "FTVTaiwan.tw",
+    "name": "FTV Taiwan",
+    "logo": "https://i.imgur.com/p108I5g.png",
+    "logoText": "FTV",
+    "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ftv.com.tw/"
+  },
+  {
+    "id": "Good2.tw",
+    "name": "Good 2",
+    "logo": "https://i.imgur.com/YxFRoft.png",
+    "logoText": "GOO",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.goodtv.tv/"
+  },
+  {
+    "id": "GoodTV.tw",
+    "name": "Good TV",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "logoText": "GOO",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.goodtv.tv/"
+  },
+  {
+    "id": "IndigenousTV.tw",
+    "name": "Indigenous TV",
+    "logo": "https://i.imgur.com/vmk4F9u.png",
+    "logoText": "IND",
+    "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ipcf.org.tw/"
+  },
+  {
+    "id": "SETNews.tw",
+    "name": "SET News",
+    "logo": "https://i.imgur.com/EGVbAvJ.png",
+    "logoText": "SET",
+    "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.settv.com.tw/"
+  },
+  {
+    "id": "SupremeMasterTV.tw",
+    "name": "Supreme Master TV",
+    "logo": "https://i.imgur.com/kFMHayP.png",
+    "logoText": "SUP",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: http://suprememastertv.com/"
+  },
+  {
+    "id": "TaiwanIndigenousTV.tw",
+    "name": "Taiwan Indigenous TV",
+    "logo": "https://i.imgur.com/QqIdVqz.png",
+    "logoText": "TAI",
+    "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A."
+  },
+  {
+    "id": "TaiwanPlusTV.tw",
+    "name": "Taiwan Plus TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
+    "logoText": "TAI",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.taiwanplus.com"
+  },
+  {
+    "id": "TTV.tw",
+    "name": "TTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+    "logoText": "TTV",
+    "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.ttv.com.tw/"
+  },
+  {
+    "id": "TVBSNews.tw",
+    "name": "TVBS News",
+    "logo": "https://i.imgur.com/171lwfg.png",
+    "logoText": "TVB",
+    "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://news.tvbs.com.tw/"
+  },
+  {
+    "id": "TVBSAsia.tw",
+    "name": "TVBS-Asia",
+    "logo": "https://i.imgur.com/4S1rkhm.png",
+    "logoText": "TVB",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A. Website: https://www.tvbs.com.tw/ours/en/tvbsasia"
+  },
+  {
+    "id": "WXTV.tw",
+    "name": "WXTV",
+    "logo": "https://i.imgur.com/s8tiTeb.png",
+    "logoText": "WXT",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Taiwan. Language: N/A."
+  }
+]

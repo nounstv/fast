@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ygDDILAop8WUxP",
+    "name": "CCPV Television",
+    "url": "https://tnt-television.com/CCPV-TV/index.m3u8",
+    "category": "Religious",
+    "country": "CD",
+    "countryName": "DR Congo",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de DR Congo. Idioma: fra.",
+    "logoText": "CCP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tnt-television.com/CCPV-TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "QOfJ38EhuVvyDe",
+    "name": "Compassion TV",
+    "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+    "category": "Religious",
+    "country": "CD",
+    "countryName": "DR Congo",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de DR Congo. Idioma: fra.",
+    "logoText": "COM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tnt-television.com/COMPASSION_FM/index.m3u8"
+    ]
+  },
+  {
+    "id": "ja8UrHCZtIyHwA",
+    "name": "Geopolis TV",
+    "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
+    "category": "News",
+    "country": "CD",
+    "countryName": "DR Congo",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de DR Congo. Idioma: fra.",
+    "logoText": "GEO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tnt-television.com/Geopolis_tv/index.m3u8"
+    ]
+  },
+  {
+    "id": "XTCS8hBcYSO2yi",
+    "name": "Numerica TV",
+    "url": "https://tnt-television.com/NUMERICA/index.m3u8",
+    "category": "General",
+    "country": "CD",
+    "countryName": "DR Congo",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de DR Congo. Idioma: fra.",
+    "logoText": "NUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tnt-television.com/NUMERICA/index.m3u8"
+    ]
+  },
+  {
+    "id": "DNL85vskEfv05e",
+    "name": "RTNC",
+    "url": "https://tnt-television.com/rtnc_HD/index.m3u8",
+    "category": "General",
+    "country": "CD",
+    "countryName": "DR Congo",
+    "languages": [
+      "fra",
+      "lin"
+    ],
+    "description": "Canal de TV de DR Congo. Idioma: fra, lin.",
+    "logoText": "RTN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tnt-television.com/rtnc_HD/index.m3u8"
+    ]
+  }
+]

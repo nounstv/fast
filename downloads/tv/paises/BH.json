@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BahrainInternational.bh",
+    "name": "Bahrain International",
+    "logo": "https://i.imgur.com/t6Lmntr.png",
+    "logoText": "BAH",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahrain. Language: N/A. Website: https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  },
+  {
+    "id": "BahrainQuran.bh",
+    "name": "Bahrain Quran",
+    "logo": "https://i.imgur.com/er5hOK4.png",
+    "logoText": "BAH",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahrain. Language: N/A. Website: https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  },
+  {
+    "id": "BahrainSports1.bh",
+    "name": "Bahrain Sports 1",
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "logoText": "BAH",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahrain. Language: N/A. Website: https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  },
+  {
+    "id": "BahrainSports2.bh",
+    "name": "Bahrain Sports 2",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "logoText": "BAH",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahrain. Language: N/A. Website: https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  },
+  {
+    "id": "BahrainTV.bh",
+    "name": "Bahrain TV",
+    "logo": "https://i.imgur.com/LTD0jIm.png",
+    "logoText": "BAH",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahrain. Language: N/A. Website: https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "AMC.af",
+    "name": "AMC",
+    "logo": "https://i.imgur.com/yj8RNnG.png",
+    "logoText": "AMC",
+    "url": "https://amchls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amchls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://www.amctv.media/"
+  },
+  {
+    "id": "BaharTV.af",
+    "name": "Bahar TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nErN-N8qBYQy7YZnf-eAS2A97TFf1Ljs7yv2nxsc6T3A=s160-c-k-c0x00ffffff-no-rj",
+    "logoText": "BAH",
+    "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://bahartv-af.com/"
+  },
+  {
+    "id": "BarbudMusic.af",
+    "name": "Barbud Music",
+    "logo": "https://i.imgur.com/jbbxu0g.png",
+    "logoText": "BAR",
+    "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://barbudmusic.com/"
+  },
+  {
+    "id": "ChekadTV.af",
+    "name": "Chekad TV",
+    "logo": "https://i.imgur.com/dPTJY5M.png",
+    "logoText": "CHE",
+    "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://chekad.tv/"
+  },
+  {
+    "id": "DunyaNawTV.af",
+    "name": "Dunya Naw TV",
+    "logo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "logoText": "DUN",
+    "url": "https://dunyanhls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dunyanhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A."
+  },
+  {
+    "id": "EslahTV.af",
+    "name": "Eslah TV",
+    "logo": "https://i.imgur.com/To7VnsA.png",
+    "logoText": "ESL",
+    "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: http://www.eslah.tv/"
+  },
+  {
+    "id": "HewadTV.af",
+    "name": "Hewad TV",
+    "logo": "https://i.imgur.com/cK2eWUZ.png",
+    "logoText": "HEW",
+    "url": "http://51.210.199.58/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://51.210.199.58/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A."
+  },
+  {
+    "id": "KayhanTV.af",
+    "name": "Kayhan TV",
+    "logo": "https://i.imgur.com/2MDjU7x.png",
+    "logoText": "KAY",
+    "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A."
+  },
+  {
+    "id": "RTA.af",
+    "name": "RTA",
+    "logo": "https://i.imgur.com/pJU2KPh.png",
+    "logoText": "RTA",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://rta.af/"
+  },
+  {
+    "id": "RTAEducation.af",
+    "name": "RTA Education",
+    "logo": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+    "logoText": "RTA",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://rta.af/live/"
+  },
+  {
+    "id": "RTANews.af",
+    "name": "RTA News",
+    "logo": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+    "logoText": "RTA",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://rta.af/live/"
+  },
+  {
+    "id": "RTASport.af",
+    "name": "RTA Sport",
+    "logo": "https://i.imgur.com/lEXrwos.jpg",
+    "logoText": "RTA",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://rta.af/"
+  },
+  {
+    "id": "ShamsTV.af",
+    "name": "Shams TV",
+    "logo": "https://i.imgur.com/Lsy31iZ.jpeg",
+    "logoText": "SHA",
+    "url": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://www.darya.net/"
+  },
+  {
+    "id": "ShamshadTV.af",
+    "name": "Shamshad TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
+    "logoText": "SHA",
+    "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://shamshadtv.tv/"
+  },
+  {
+    "id": "SharqRadioTV.af",
+    "name": "Sharq Radio TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg",
+    "logoText": "SHA",
+    "url": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: http://www.shaiqnetwork.com/"
+  },
+  {
+    "id": "TamadonTV.af",
+    "name": "Tamadon TV",
+    "logo": "https://i.imgur.com/edGyj5H.png",
+    "logoText": "TAM",
+    "url": "https://hls.tamadon.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.tamadon.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://tamadon.af/"
+  },
+  {
+    "id": "TOLOnews.af",
+    "name": "TOLOnews",
+    "logo": "https://i.imgur.com/oxaHaTq.png",
+    "logoText": "TOL",
+    "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "AF",
+    "countryName": "Afghanistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Afghanistan. Language: N/A. Website: https://www.tolonews.com/"
+  }
+]

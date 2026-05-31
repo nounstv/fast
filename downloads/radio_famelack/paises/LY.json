@@ -1,0 +1,50 @@
+[
+  {
+    "id": "VtjaMUmoRfrohS",
+    "name": "Hala Sabratha",
+    "url": "https://stream.zeno.fm/1dy2395z3k8uv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Hits",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "LY",
+    "countryName": "Libya",
+    "state": "",
+    "tags": "hits",
+    "language": "ara",
+    "homepage": ""
+  },
+  {
+    "id": "RKHgzPpLixsVJ8",
+    "name": "Radio Arts Tripoli",
+    "url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "LY",
+    "countryName": "Libya",
+    "state": "",
+    "tags": "talk",
+    "language": "ara",
+    "homepage": ""
+  },
+  {
+    "id": "UwWBK03YLiKMDs",
+    "name": "Radio Nour Aleman",
+    "url": "https://stream.zeno.fm/r6eprdta6nhvv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "LY",
+    "countryName": "Libya",
+    "state": "",
+    "tags": "religious",
+    "language": "ara",
+    "homepage": ""
+  }
+]

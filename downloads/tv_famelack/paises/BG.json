@@ -1,0 +1,138 @@
+[
+  {
+    "id": "aYAhxfge3884Ci",
+    "name": "Agro TV",
+    "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "category": "Outdoor",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "AGR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+    ]
+  },
+  {
+    "id": "baxC7ZNvKlaeR7",
+    "name": "Light Channel",
+    "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+    "category": "Religious",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "LIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rq3OJITyKdZXB9",
+    "name": "Magic TV",
+    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "MAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bss1.neterra.tv/magictv/magictv.m3u8"
+    ]
+  },
+  {
+    "id": "rCOmwF4pnlWlvg",
+    "name": "The Voice",
+    "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+    ]
+  },
+  {
+    "id": "GEk43COrT9omtb",
+    "name": "This is Bulgaria HD",
+    "url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+    "category": "Entertainment",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "THI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8"
+    ]
+  },
+  {
+    "id": "XlXPtDjBoCbxvd",
+    "name": "Tiankov Folk",
+    "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "TIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+    ]
+  },
+  {
+    "id": "SByzYuSnvckWM0",
+    "name": "Tiankov Orient Folk",
+    "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+    "category": "Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "TIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+    ]
+  },
+  {
+    "id": "fwm1YJJu2dW30c",
+    "name": "Travel TV",
+    "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+    "category": "Travel",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "languages": [
+      "bul"
+    ],
+    "description": "Canal de TV de Bulgaria. Idioma: bul.",
+    "logoText": "TRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer103.neterra.tv/travel/live.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tpzmaqrcdzgMkq",
+    "name": "BFBS Falkland Islands",
+    "url": "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=sharp-stream.com",
+    "category": "Hits",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "FK",
+    "countryName": "Falkland Islands",
+    "state": "",
+    "tags": "hits",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "WyyIceDLfzzEZs",
+    "name": "BFBS Falklands",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=sharp-stream.com",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "FK",
+    "countryName": "Falkland Islands",
+    "state": "",
+    "tags": "talk",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "MYKaDCM9Msl0Yc",
+    "name": "Falklands Radio",
+    "url": "https://streaming.broadcastradio.com:8332/flklnd",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=broadcastradio.com",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "FK",
+    "countryName": "Falkland Islands",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  }
+]

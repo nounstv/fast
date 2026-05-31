@@ -1,0 +1,175 @@
+[
+  {
+    "id": "AfricableTV.ml",
+    "name": "Africable TV",
+    "logo": "https://i.imgur.com/iQE57Z2.png",
+    "logoText": "AFR",
+    "url": "http://69.64.57.208/africable/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/africable/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A. Website: http://www.africabletelevision.com/"
+  },
+  {
+    "id": "CheriflaTV.ml",
+    "name": "Cherifla TV",
+    "logo": "https://i.imgur.com/V8nuoEW.png",
+    "logoText": "CHE",
+    "url": "http://69.64.57.208/cherifla/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/cherifla/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A."
+  },
+  {
+    "id": "D3TV.ml",
+    "name": "D3 TV",
+    "logo": "https://i.imgur.com/uFEIBtB.png",
+    "logoText": "D3 ",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A. Website: https://d3tv.net/"
+  },
+  {
+    "id": "NietaTV.ml",
+    "name": "Nieta TV",
+    "logo": "https://i.imgur.com/5RoXTaN.png",
+    "logoText": "NIE",
+    "url": "http://69.64.57.208/nieta/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/nieta/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A."
+  },
+  {
+    "id": "ORTM1.ml",
+    "name": "ORTM 1",
+    "logo": "https://i.imgur.com/eKUpcls.png",
+    "logoText": "ORT",
+    "url": "http://69.64.57.208/ortm/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/ortm/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A. Website: https://www.ortm.ml/ortm1"
+  },
+  {
+    "id": "ORTM2.ml",
+    "name": "ORTM 2",
+    "logo": "https://i.imgur.com/GQ4fHsv.png",
+    "logoText": "ORT",
+    "url": "http://69.64.57.208/tm2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tm2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A. Website: https://www.ortm.ml/ortm2"
+  },
+  {
+    "id": "TM1TV.ml",
+    "name": "TM1 TV",
+    "logo": "https://i.imgur.com/83BgaBa.png",
+    "logoText": "TM1",
+    "url": "http://69.64.57.208/tm1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tm1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ML",
+    "countryName": "Mali",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Mali. Language: N/A. Website: https://www.tm1tv.com/"
+  }
+]

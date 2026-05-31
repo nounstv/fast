@@ -1,0 +1,221 @@
+[
+  {
+    "id": "F1Channel.ie",
+    "name": "F1 Channel",
+    "logo": "https://i.imgur.com/cjXzWsI.png",
+    "logoText": "F1 ",
+    "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: https://www.c15.studio/channels/formula-1-channel/"
+  },
+  {
+    "id": "OireachtasTV.ie",
+    "name": "Oireachtas TV",
+    "logo": "https://i.imgur.com/aC4fsCI.png",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: https://www.oireachtas.ie/"
+  },
+  {
+    "id": "OireachtasTVCommitteeRoom1.ie",
+    "name": "Oireachtas TV Committee Room 1",
+    "logo": "https://i.imgur.com/JLYqKC0.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "OireachtasTVCommitteeRoom2.ie",
+    "name": "Oireachtas TV Committee Room 2",
+    "logo": "https://i.imgur.com/2Wxx2jK.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "OireachtasTVCommitteeRoom3.ie",
+    "name": "Oireachtas TV Committee Room 3",
+    "logo": "https://i.imgur.com/EoAQeg5.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "OireachtasTVCommitteeRoom4.ie",
+    "name": "Oireachtas TV Committee Room 4",
+    "logo": "https://i.imgur.com/U9U4rgs.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "OireachtasTVDailEireann.ie",
+    "name": "Oireachtas TV Dail Eireann",
+    "logo": "https://i.imgur.com/mexKiS0.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "OireachtasTVSeanadEireann.ie",
+    "name": "Oireachtas TV Seanad Eireann",
+    "logo": "https://i.imgur.com/c5TI2DT.jpg",
+    "logoText": "OIR",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+  },
+  {
+    "id": "TG4.ie",
+    "name": "TG4",
+    "logo": "https://i.imgur.com/XiAKb4E.png",
+    "logoText": "TG4",
+    "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "IE",
+    "countryName": "Ireland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: http://www.tg4.ie/"
+  }
+]

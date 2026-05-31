@@ -1,0 +1,88 @@
+[
+  {
+    "id": "bw6HViNkjYr015",
+    "name": "Bahrain International",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "category": "General",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "description": "Canal de TV de Bahrain. Idioma: ara, eng.",
+    "logoText": "BAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Lf0TbONPFvV7s7",
+    "name": "Bahrain Quran",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "category": "Religious",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Bahrain. Idioma: ara.",
+    "logoText": "BAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YFqOd9RFAP2HGq",
+    "name": "Bahrain Sports 1",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "category": "Sports",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Bahrain. Idioma: ara.",
+    "logoText": "BAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SBDiIYv6gMiZbW",
+    "name": "Bahrain Sports 2",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "category": "Sports",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Bahrain. Idioma: ara.",
+    "logoText": "BAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "niLMahX60eXzLT",
+    "name": "Bahrain TV",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+    "category": "General",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Bahrain. Idioma: ara.",
+    "logoText": "BAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8"
+    ]
+  }
+]

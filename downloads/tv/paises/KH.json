@@ -1,0 +1,763 @@
+[
+  {
+    "id": "ApsaraTV11.kh",
+    "name": "Apsara TV11",
+    "logo": "https://i.imgur.com/9wJe71I.png",
+    "logoText": "APS",
+    "url": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://ams.com.kh/"
+  },
+  {
+    "id": "ARDBTV.kh",
+    "name": "ARDB TV",
+    "logo": "https://i.imgur.com/yOncWla.png",
+    "logoText": "ARD",
+    "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://ardbtv.ardb.com.kh/"
+  },
+  {
+    "id": "BayonTV.kh",
+    "name": "Bayon TV",
+    "logo": "https://i.imgur.com/Gry2KEN.jpg",
+    "logoText": "BAY",
+    "url": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://bayontv.com.kh/"
+  },
+  {
+    "id": "BTVNews.kh",
+    "name": "BTV News",
+    "logo": "https://i.imgur.com/sUHiRj3.png",
+    "logoText": "BTV",
+    "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://news.btv.com.kh/"
+  },
+  {
+    "id": "CITVChannel.kh",
+    "name": "CITV Channel",
+    "logo": "https://i.imgur.com/BxVXPag.png",
+    "logoText": "CIT",
+    "url": "http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://citvchannel.com.kh/"
+  },
+  {
+    "id": "CNC.kh",
+    "name": "CNC",
+    "logo": "https://i.imgur.com/J8YLi0C.png",
+    "logoText": "CNC",
+    "url": "http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://www.cnc.com.kh/"
+  },
+  {
+    "id": "CTN.kh",
+    "name": "CTN",
+    "logo": "https://i.imgur.com/r523kOq.png",
+    "logoText": "CTN",
+    "url": "http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://ctn.com.kh/"
+  },
+  {
+    "id": "CTV9.kh",
+    "name": "CTV 9",
+    "logo": "https://i.imgur.com/jgVJt2G.png",
+    "logoText": "CTV",
+    "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://tv9.com.kh/"
+  },
+  {
+    "id": "CTV8HD.kh",
+    "name": "CTV8 HD",
+    "logo": "https://i.imgur.com/yrdr4Po.png",
+    "logoText": "CTV",
+    "url": "http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "DMusic.kh",
+    "name": "D Music",
+    "logo": "",
+    "logoText": "D M",
+    "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "EACNewsTV.kh",
+    "name": "EAC News TV",
+    "logo": "https://i.imgur.com/EuYhS9Z.png",
+    "logoText": "EAC",
+    "url": "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://eacnews.asia/"
+  },
+  {
+    "id": "EBCGeneralEducation.kh",
+    "name": "EBC General Education",
+    "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+    "logoText": "EBC",
+    "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://ebc.edu.kh/"
+  },
+  {
+    "id": "FreshNews.kh",
+    "name": "Fresh News",
+    "logo": "https://i.imgur.com/bV6sawt.png",
+    "logoText": "FRE",
+    "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://freshnewsasia.com/"
+  },
+  {
+    "id": "HangMeasHDTV.kh",
+    "name": "Hang Meas HDTV",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "logoText": "HAN",
+    "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "KomsanTV.kh",
+    "name": "Komsan TV",
+    "logo": "https://i.imgur.com/SNTf2r3.png",
+    "logoText": "KOM",
+    "url": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://khmerkomsan.net/"
+  },
+  {
+    "id": "MOITV.kh",
+    "name": "MOI TV",
+    "logo": "https://i.imgur.com/fbI2ybo.png",
+    "logoText": "MOI",
+    "url": "http://202.62.56.22:8080/hls/MOITV.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://202.62.56.22:8080/hls/MOITV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://moinews.gov.kh/"
+  },
+  {
+    "id": "MSJTV.kh",
+    "name": "MSJ TV",
+    "logo": "https://i.imgur.com/TilslGU.png",
+    "logoText": "MSJ",
+    "url": "http://43.252.18.195:5080/live/streams/MSJTV_hd_playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/MSJTV_hd_playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://119.15.85.85:8989/hls/MSJHD.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://www.msjtv.asia/"
+  },
+  {
+    "id": "MyTV.kh",
+    "name": "My TV",
+    "logo": "https://i.imgur.com/lhxRefQ.png",
+    "logoText": "MY ",
+    "url": "http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://mytv.com.kh/"
+  },
+  {
+    "id": "NiceTV.kh",
+    "name": "Nice TV",
+    "logo": "https://i.imgur.com/6usooLc.png",
+    "logoText": "NIC",
+    "url": "http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://nicetv.asia/"
+  },
+  {
+    "id": "NTV.kh",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/SoBhuIb.png",
+    "logoText": "NTV",
+    "url": "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "OneTVCinema2.kh",
+    "name": "One TV Cinema 2",
+    "logo": "https://i.imgur.com/H8PiAbA.png",
+    "logoText": "ONE",
+    "url": "http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://digitalsky.com.kh/EN/Channel-List/OneTV-Cinema-2"
+  },
+  {
+    "id": "OneTVDrama3.kh",
+    "name": "One TV Drama 3",
+    "logo": "https://i.imgur.com/wHtqMqB.png",
+    "logoText": "ONE",
+    "url": "http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://digitalsky.com.kh/EN/Channel-List/OneTV-Drama-3"
+  },
+  {
+    "id": "OneTVESchoolCambodia.kh",
+    "name": "One TV E-School Cambodia",
+    "logo": "https://i.imgur.com/wLzVdeT.png",
+    "logoText": "ONE",
+    "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "RasmeyHangMeasHDTV.kh",
+    "name": "Rasmey Hang Meas HDTV",
+    "logo": "https://i.imgur.com/EcqEMMg.png",
+    "logoText": "RAS",
+    "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "SEATV.kh",
+    "name": "SEA TV",
+    "logo": "https://i.imgur.com/oZPorvg.png",
+    "logoText": "SEA",
+    "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: http://www.khmnow.com/"
+  },
+  {
+    "id": "TownTV.kh",
+    "name": "Town TV",
+    "logo": "https://i.imgur.com/9fUGvVG.png",
+    "logoText": "TOW",
+    "url": "http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A."
+  },
+  {
+    "id": "TV5Cambodia.kh",
+    "name": "TV5 Cambodia",
+    "logo": "https://i.imgur.com/iMZLyoX.png",
+    "logoText": "TV5",
+    "url": "https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://www.tv5hd.com/"
+  },
+  {
+    "id": "TVK.kh",
+    "name": "TVK",
+    "logo": "https://i.imgur.com/5hPxjcl.png",
+    "logoText": "TVK",
+    "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://www.tvk.gov.kh/"
+  },
+  {
+    "id": "TVK2.kh",
+    "name": "TVK 2",
+    "logo": "https://i.imgur.com/L36ptO2.png",
+    "logoText": "TVK",
+    "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://www.tvk.gov.kh/"
+  },
+  {
+    "id": "WikiTV.kh",
+    "name": "Wiki TV",
+    "logo": "https://i.imgur.com/rnV0Ui1.png",
+    "logoText": "WIK",
+    "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cambodia. Language: N/A. Website: https://poscardigital.com/"
+  }
+]

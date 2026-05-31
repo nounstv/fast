@@ -1,0 +1,486 @@
+[
+  {
+    "id": "JMSdx7uZ6AZN50",
+    "name": "Andijon MTRK",
+    "url": "https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "AND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "FWhDbCLuy2F57c",
+    "name": "BIZ Cinema",
+    "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+    "category": "Movies",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BIZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8"
+    ]
+  },
+  {
+    "id": "Xmm3LX5dLU22wn",
+    "name": "BIZ Music",
+    "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BIZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
+    ]
+  },
+  {
+    "id": "B57EXBA3NLspPl",
+    "name": "BIZ TV",
+    "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+    "category": "Entertainment",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BIZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8"
+    ]
+  },
+  {
+    "id": "L2FPG37MOC7Wok",
+    "name": "Bolajon",
+    "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+    "category": "Kids",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1007/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "dyJMhVH5WlMHAc",
+    "name": "Buxoro MTRK",
+    "url": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BUX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "WM8ZbaFb6rajI2",
+    "name": "Dasturxon TV",
+    "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "DAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OSYyq5HUKntW2J",
+    "name": "Dunyo bo'ylab",
+    "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "DUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VNlFb5mrIGiyvJ",
+    "name": "Farg'ona MTRK",
+    "url": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "FAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "Et7cnSonRNZOTr",
+    "name": "FTV",
+    "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "FTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1018/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GwTrM0kpZSwLus",
+    "name": "Kinoteatr",
+    "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
+    "category": "Movies",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "KIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "n4KBxiRcgFIxIJ",
+    "name": "Madaniyat va ma'rifat",
+    "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "MAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hwlcVEv18NkxUy",
+    "name": "Mahalla",
+    "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
+    "category": "Geral",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "MAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VgpL3Vc6jvvqaJ",
+    "name": "Makon TV",
+    "url": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
+    "category": "Entertainment",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "MAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "mktyzJuOjzCG0D",
+    "name": "Milliy",
+    "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "MIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cJnlIEpP8bVOtB",
+    "name": "MY5",
+    "url": "https://st.my5.media/hls/hd/index.m3u8",
+    "category": "Entertainment",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "MY5",
+    "streamCount": 2,
+    "allStreams": [
+      "https://st.my5.media/hls/hd/index.m3u8",
+      "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "zg76XEhs4aE3Qh",
+    "name": "Navo",
+    "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "NAV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HEECzR93m2zAxT",
+    "name": "Navoiy MTRK",
+    "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "NAV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "3aVcjaCk9E1yIS",
+    "name": "O'zbekiston",
+    "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "O'Z",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "T9ZAEs0iIDmcBM",
+    "name": "O'zbekiston 24",
+    "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
+    "category": "News",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "O'Z",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "category": "Documentary",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "O'Z",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mtmMkwYurNSHQj",
+    "name": "Qaraqalpaqstan",
+    "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "QAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1467/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OalhiPVroO7djL",
+    "name": "Renessans TV",
+    "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "REN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cEFRovhmEVfGx8",
+    "name": "Sevimli TV",
+    "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+    "category": "Family",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "SEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "w0tjxb3dHX6Fls",
+    "name": "Toshkent",
+    "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "TOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CrkyvIQRNatExy",
+    "name": "UzReport TV",
+    "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+    "category": "News",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "eng",
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: eng, rus, uzb.",
+    "logoText": "UZR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OUiyKTTPTYttWN",
+    "name": "Yoshlar",
+    "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+    "category": "General",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "YOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Y67heKltErviMJ",
+    "name": "Zo'r TV",
+    "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+    "category": "Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "ZO'",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
+    ]
+  }
+]

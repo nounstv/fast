@@ -1,0 +1,37 @@
+[
+  {
+    "id": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "url": "https://lana.psm.mv/live/mtv.m3u8",
+    "category": "Travel",
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Maldives. Idioma: eng.",
+    "logoText": "MAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lana.psm.mv/live/mtv.m3u8"
+    ]
+  },
+  {
+    "id": "A9wsFdDEQAIayf",
+    "name": "MMTV",
+    "url": "https://sendlive.online/hls/mmtv.m3u8",
+    "category": "General",
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [
+      "div",
+      "eng"
+    ],
+    "description": "Canal de TV de Maldives. Idioma: div, eng.",
+    "logoText": "MMT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sendlive.online/hls/mmtv.m3u8"
+    ]
+  }
+]

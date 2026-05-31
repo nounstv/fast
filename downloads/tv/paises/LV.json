@@ -1,0 +1,244 @@
+[
+  {
+    "id": "Gribuvisuzinat.lv",
+    "name": "Gribu visu zinat",
+    "logo": "",
+    "logoText": "GRI",
+    "url": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+  },
+  {
+    "id": "MovifyKino.lv",
+    "name": "Movify Kino",
+    "logo": "https://i.imgur.com/XIk5EJN.png",
+    "logoText": "MOV",
+    "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+  },
+  {
+    "id": "Multimania.lv",
+    "name": "Multimania",
+    "logo": "https://i.imgur.com/J9Lwc0T.png",
+    "logoText": "MUL",
+    "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+  },
+  {
+    "id": "Pingviins.lv",
+    "name": "Pingviins",
+    "logo": "https://i.imgur.com/hfXoJIY.png",
+    "logoText": "PIN",
+    "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: http://www.lolotv.lv/"
+  },
+  {
+    "id": "RadioSWHTV.lv",
+    "name": "Radio SWH TV",
+    "logo": "https://i.imgur.com/cFrNsXn.png",
+    "logoText": "RAD",
+    "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://play.radioswh.lv/"
+  },
+  {
+    "id": "ReTV.lv",
+    "name": "Re TV",
+    "logo": "https://i.imgur.com/Z3cre5Xm.png",
+    "logoText": "RE ",
+    "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://www.retv.lv/"
+  },
+  {
+    "id": "TVJurmala.lv",
+    "name": "TV Jurmala",
+    "logo": "https://i.imgur.com/tQHkHD0.png",
+    "logoText": "TV ",
+    "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://jurmala.tv/tiesraide/"
+  },
+  {
+    "id": "TVXXI.lv",
+    "name": "TV XXI",
+    "logo": "https://i.imgur.com/Fja4bWt.png",
+    "logoText": "TV ",
+    "url": "http://31.148.48.15/TV_XXI/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://31.148.48.15/TV_XXI/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: http://www.tv21.lv/"
+  },
+  {
+    "id": "TVNET.lv",
+    "name": "TVNET",
+    "logo": "https://i.imgur.com/jzv1ssE.png",
+    "logoText": "TVN",
+    "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A."
+  },
+  {
+    "id": "VidusdaugavasTelevizija.lv",
+    "name": "Vidusdaugavas Televizija",
+    "logo": "https://i.imgur.com/L5U3PQR.png",
+    "logoText": "VID",
+    "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://www.vdtv.lv"
+  }
+]

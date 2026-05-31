@@ -1,0 +1,334 @@
+[
+  {
+    "id": "Badakhshon.tj",
+    "name": "Badakhshon",
+    "logo": "https://i.imgur.com/iK6AmkZ.png",
+    "logoText": "BAD",
+    "url": "https://live.teleradiocom.tj/11/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/11/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  },
+  {
+    "id": "DushanbeHD.tj",
+    "name": "Dushanbe HD",
+    "logo": "https://i.imgur.com/WWPIziG.png",
+    "logoText": "DUS",
+    "url": "https://live.teleradiocom.tj/7/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/7/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  },
+  {
+    "id": "Futbol.tj",
+    "name": "Futbol",
+    "logo": "https://i.imgur.com/RngmCDn.png",
+    "logoText": "FUT",
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://fft.tj/"
+  },
+  {
+    "id": "IlmvaTabiat.tj",
+    "name": "Ilm va Tabiat",
+    "logo": "https://i.imgur.com/MDULX7X.png",
+    "logoText": "ILM",
+    "url": "https://live.teleradiocom.tj/15/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/15/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Science",
+    "categories": [
+      "science"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://ivt.tj/"
+  },
+  {
+    "id": "Jahonnamo.tj",
+    "name": "Jahonnamo",
+    "logo": "https://i.imgur.com/ffqdD8W.png",
+    "logoText": "JAH",
+    "url": "https://live.teleradiocom.tj/4/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/4/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://www.jahonnamo.tj/"
+  },
+  {
+    "id": "Khatlon.tj",
+    "name": "Khatlon",
+    "logo": "https://i.imgur.com/X4xVpBj.png",
+    "logoText": "KHA",
+    "url": "https://live.teleradiocom.tj/10/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/10/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  },
+  {
+    "id": "TMT.tj",
+    "name": "TMT",
+    "logo": "https://i.imgur.com/Dg0UkNR.png",
+    "logoText": "TMT",
+    "url": "https://live.teleradiocom.tj/9/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/9/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  },
+  {
+    "id": "Tojikiston.tj",
+    "name": "Tojikiston",
+    "logo": "https://i.imgur.com/sEXCFNk.png",
+    "logoText": "TOJ",
+    "url": "https://live.teleradiocom.tj/1/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/1/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://tvt.tj/"
+  },
+  {
+    "id": "TVBahoriston.tj",
+    "name": "TV Bahoriston",
+    "logo": "https://i.imgur.com/Dacai5z.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://tvb.tj/"
+  },
+  {
+    "id": "TVKulob.tj",
+    "name": "TV Kulob",
+    "logo": "https://i.imgur.com/AFgEYFp.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/12/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/12/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  },
+  {
+    "id": "TVSafina.tj",
+    "name": "TV Safina",
+    "logo": "https://i.imgur.com/Ho2vKZJ.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: https://safina.tj/"
+  },
+  {
+    "id": "TVSayohi.tj",
+    "name": "TV Sayohi",
+    "logo": "https://i.imgur.com/lAkMrtr.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: https://tvsayohi.tj/"
+  },
+  {
+    "id": "TVSinamo.tj",
+    "name": "TV Sinamo",
+    "logo": "https://i.imgur.com/W2qz5a4.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A. Website: http://www.sinamo.tv/"
+  },
+  {
+    "id": "TVSugd.tj",
+    "name": "TV Sugd",
+    "logo": "https://i.imgur.com/YzkwTHb.png",
+    "logoText": "TV ",
+    "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Tajikistan. Language: N/A."
+  }
+]

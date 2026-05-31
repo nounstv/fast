@@ -1,0 +1,102 @@
+[
+  {
+    "id": "9v7vzS3xsxjDYS",
+    "name": "Apsara TV11",
+    "url": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+    "category": "General",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [
+      "khm"
+    ],
+    "description": "Canal de TV de Cambodia. Idioma: khm.",
+    "logoText": "APS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.ams.com.kh/app/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "category": "Outdoor",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [
+      "khm"
+    ],
+    "description": "Canal de TV de Cambodia. Idioma: khm.",
+    "logoText": "ARD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+    ]
+  },
+  {
+    "id": "22GUfDaUhwRUJ1",
+    "name": "Netlink TV",
+    "url": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8",
+    "category": "Geral",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [],
+    "description": "Canal de TV de Cambodia. Idioma: N/A.",
+    "logoText": "NET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
+    ]
+  },
+  {
+    "id": "5YmRoWRCWgVS14",
+    "name": "TVK",
+    "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+    "category": "General",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [
+      "khm"
+    ],
+    "description": "Canal de TV de Cambodia. Idioma: khm.",
+    "logoText": "TVK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "m3PpQXO8kJ3GQC",
+    "name": "TVK 2",
+    "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "category": "Education",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [
+      "khm"
+    ],
+    "description": "Canal de TV de Cambodia. Idioma: khm.",
+    "logoText": "TVK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+    "category": "Education",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "languages": [
+      "khm"
+    ],
+    "description": "Canal de TV de Cambodia. Idioma: khm.",
+    "logoText": "WIK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+    ]
+  }
+]

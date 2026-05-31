@@ -1,0 +1,121 @@
+[
+  {
+    "id": "fYJAPR9lP0wgId",
+    "name": "Beautiful Life TV",
+    "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "category": "Religious",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "BEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "L3TjzrSDP4bXza",
+    "name": "CGNTV Chinese",
+    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "category": "Religious",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "CGN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8"
+    ]
+  },
+  {
+    "id": "o7kWiawYqRU0mj",
+    "name": "Good 2",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "category": "Religious",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "GOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.streamingfast.net/osmflivech2.m3u8"
+    ]
+  },
+  {
+    "id": "9eN6GxYn3h5Pnb",
+    "name": "Good TV",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "category": "Religious",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "GOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.streamingfast.net/osmflivech1.m3u8"
+    ]
+  },
+  {
+    "id": "DTGg8D0o8VdUIE",
+    "name": "NTD TV Asia-Pacific",
+    "url": "https://live.ntdtv.com/aplive200/playlist.m3u8",
+    "category": "General",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "NTD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.ntdtv.com/aplive200/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GKSg7DCpDjlgH0",
+    "name": "Supreme Master TV",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "category": "Geral",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: eng.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lbs-us1.suprememastertv.com/720p.m3u8"
+    ]
+  },
+  {
+    "id": "0Dll7iEE7yiI7N",
+    "name": "WXTV",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "category": "Religious",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de Taiwan. Idioma: zho.",
+    "logoText": "WXT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+    ]
+  }
+]

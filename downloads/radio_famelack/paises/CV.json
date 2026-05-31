@@ -1,0 +1,34 @@
+[
+  {
+    "id": "QjLI03zjyX4q1d",
+    "name": "CaboRadio",
+    "url": "https://listen.radioking.com/radio/281506/stream/327253",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=radioking.com",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "CV",
+    "countryName": "Cape Verde",
+    "state": "",
+    "tags": "pop",
+    "language": "por",
+    "homepage": ""
+  },
+  {
+    "id": "5wnR95aJuvanv8",
+    "name": "Radio Ribeira Brava",
+    "url": "https://stream.zeno.fm/ca6s5cwk1wzuv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "CV",
+    "countryName": "Cape Verde",
+    "state": "",
+    "tags": "talk",
+    "language": "por",
+    "homepage": ""
+  }
+]

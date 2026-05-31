@@ -1,0 +1,931 @@
+[
+  {
+    "id": "AntenneKaernten.at",
+    "name": "Antenne Kaernten",
+    "logo": "https://i.imgur.com/nUKFDsb.jpeg",
+    "logoText": "ANT",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://kaernten.antenne.at/"
+  },
+  {
+    "id": "AntenneSteiermark.at",
+    "name": "Antenne Steiermark",
+    "logo": "https://i.imgur.com/qnappvd.jpeg",
+    "logoText": "ANT",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://steiermark.antenne.at/"
+  },
+  {
+    "id": "AntenneVorarlberg.at",
+    "name": "Antenne Vorarlberg",
+    "logo": "https://i.imgur.com/GW750Zc.png",
+    "logoText": "ANT",
+    "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.antennevorarlberg.at/"
+  },
+  {
+    "id": "ATV.at",
+    "name": "ATV",
+    "logo": "https://i.imgur.com/1pA0Tid.png",
+    "logoText": "ATV",
+    "url": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.atv.at/"
+  },
+  {
+    "id": "ATV2.at",
+    "name": "ATV2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/960px-Logo_ATV2.svg.png",
+    "logoText": "ATV",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.atv2.at/"
+  },
+  {
+    "id": "BalkanRadioSalzburg.at",
+    "name": "Balkan Radio Salzburg",
+    "logo": "https://i.imgur.com/UDyxgXf.png",
+    "logoText": "BAL",
+    "url": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://balkanradiosalzburg.com/"
+  },
+  {
+    "id": "FS1Salzburg.at",
+    "name": "FS1 Salzburg",
+    "logo": "https://i.imgur.com/74gMaPK.png",
+    "logoText": "FS1",
+    "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.fs1.tv/hls/webstream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://fs1.tv/info/kontakt-anfahrt/"
+  },
+  {
+    "id": "HitradioO3.at",
+    "name": "Hitradio O3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
+    "logoText": "HIT",
+    "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://oe3.orf.at/"
+  },
+  {
+    "id": "KTV.at",
+    "name": "K-TV",
+    "logo": "https://i.imgur.com/RYbR4Sf.png",
+    "logoText": "K-T",
+    "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.k-tv.org/"
+  },
+  {
+    "id": "K19.at",
+    "name": "K19",
+    "logo": "https://i.imgur.com/l4atkvs.png",
+    "logoText": "K19",
+    "url": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://k19.at/"
+  },
+  {
+    "id": "KITTV.at",
+    "name": "KIT-TV",
+    "logo": "https://i.imgur.com/5rDo1Za.png",
+    "logoText": "KIT",
+    "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.kit-tv.at/"
+  },
+  {
+    "id": "Kronehit.at",
+    "name": "Kronehit",
+    "logo": "https://i.imgur.com/dQJQv1X.png",
+    "logoText": "KRO",
+    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.kronehit.at/"
+  },
+  {
+    "id": "LandleTV.at",
+    "name": "Landle TV",
+    "logo": "https://i.imgur.com/omLVQ4r.png",
+    "logoText": "LAN",
+    "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.laendletv.com/"
+  },
+  {
+    "id": "Okto.at",
+    "name": "Okto",
+    "logo": "https://i.imgur.com/9XfhgbS.png",
+    "logoText": "OKT",
+    "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://okto.tv/"
+  },
+  {
+    "id": "ORF2.at",
+    "name": "ORF 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg",
+    "logoText": "ORF",
+    "url": "https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://tv.orf.at/"
+  },
+  {
+    "id": "ORF2Tirol.at",
+    "name": "ORF 2 Tirol",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png",
+    "logoText": "ORF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://tirol.orf.at/"
+  },
+  {
+    "id": "ORF2Wien.at",
+    "name": "ORF 2 Wien",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png",
+    "logoText": "ORF",
+    "url": "http://79.127.207.193/ORF2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://79.127.207.193/ORF2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://wien.orf.at/"
+  },
+  {
+    "id": "ORFIII.at",
+    "name": "ORF III",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
+    "logoText": "ORF",
+    "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://tv.orf.at/"
+  },
+  {
+    "id": "ORFKids.at",
+    "name": "ORF Kids",
+    "logo": "https://i.imgur.com/Zxuah2b.png",
+    "logoText": "ORF",
+    "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://kids.orf.at/"
+  },
+  {
+    "id": "P3tv.at",
+    "name": "P3tv",
+    "logo": "https://i.imgur.com/qUOFiEe.png",
+    "logoText": "P3T",
+    "url": "http://p3-6.mov.at:1935/live/weekstream/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://p3-6.mov.at:1935/live/weekstream/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.p3tv.at/"
+  },
+  {
+    "id": "R9.at",
+    "name": "R9",
+    "logo": "https://i.imgur.com/SVJiXxh.png",
+    "logoText": "R9",
+    "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.r-9.at/"
+  },
+  {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
+    "logoText": "RED",
+    "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.redbull.tv/"
+  },
+  {
+    "id": "RTV.at",
+    "name": "RTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png",
+    "logoText": "RTV",
+    "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A."
+  },
+  {
+    "id": "SchladmingDachsteinTV.at",
+    "name": "Schladming-Dachstein TV",
+    "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+    "logoText": "SCH",
+    "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.schladming-dachstein.at/de/Regionales-und-Angebote/Schladming-Dachstein-TV"
+  },
+  {
+    "id": "ServusTV.at",
+    "name": "ServusTV",
+    "logo": "https://i.imgur.com/6W637Gn.png",
+    "logoText": "SER",
+    "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.servustv.com/"
+  },
+  {
+    "id": "SteiermarkTV.at",
+    "name": "Steiermark TV",
+    "logo": "https://i.imgur.com/AJrUPze.png",
+    "logoText": "STE",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.steiermark-tv.at/"
+  },
+  {
+    "id": "StimmungsgartenTV.at",
+    "name": "Stimmungsgarten TV",
+    "logo": "",
+    "logoText": "STI",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.stimmungsgarten.tv/livestream"
+  },
+  {
+    "id": "SwamijiTVAmerican.at",
+    "name": "Swamiji TV American",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "logoText": "SWA",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://swamiji.tv/"
+  },
+  {
+    "id": "SwamijiTVAustralian.at",
+    "name": "Swamiji TV Australian",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "logoText": "SWA",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://swamiji.tv/"
+  },
+  {
+    "id": "SwamijiTVEuropean.at",
+    "name": "Swamiji TV European",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "logoText": "SWA",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://swamiji.tv/"
+  },
+  {
+    "id": "TheCyclingChannel.at",
+    "name": "The Cycling Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s",
+    "logoText": "THE",
+    "url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://www.streemfire.com/thecyclingchannel"
+  },
+  {
+    "id": "TirolTV.at",
+    "name": "Tirol TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png",
+    "logoText": "TIR",
+    "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: http://www.tiroltv.at/"
+  },
+  {
+    "id": "TV1Oberosterreich.at",
+    "name": "TV 1 Oberosterreich",
+    "logo": "https://i.imgur.com/KbMkEIn.png",
+    "logoText": "TV ",
+    "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A. Website: https://tv1.nachrichten.at/"
+  },
+  {
+    "id": "UpperaBalkan.at",
+    "name": "Uppera Balkan",
+    "logo": "https://i.imgur.com/eqcmi5G.png",
+    "logoText": "UPP",
+    "url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A."
+  },
+  {
+    "id": "W24.at",
+    "name": "W24",
+    "logo": "https://i.imgur.com/FpVNrxk.png",
+    "logoText": "W24",
+    "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Austria. Language: N/A."
+  }
+]

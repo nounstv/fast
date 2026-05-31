@@ -1,0 +1,707 @@
+[
+  {
+    "id": "D8DiLY4WZDbVsD",
+    "name": "ABN",
+    "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "ABN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+    ]
+  },
+  {
+    "id": "Tbc3pRPpRtjmFA",
+    "name": "Arirang Radio",
+    "url": "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "ARI",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HeXayd4ifeh0ao",
+    "name": "Arirang TV",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "category": "News",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng.",
+    "logoText": "ARI",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MLoSafen2Et7rW",
+    "name": "Arirang UN",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "category": "News",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng.",
+    "logoText": "ARI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "dCaOunns8imgD4",
+    "name": "BBS TV",
+    "url": "https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8",
+    "category": "Religious",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "BBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3DWH3Zf0EtNUaG",
+    "name": "BTN TV",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+    "category": "Religious",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "BTN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GACglLCSkdixy6",
+    "name": "CBS TV",
+    "url": "https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8",
+    "category": "Religious",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "CBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "H2CDIH8qBgxAa8",
+    "name": "CJ OnStyle",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "CJ ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nwjpk1GgnvBj65",
+    "name": "CJ OnStyle+",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "CJ ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IvsuFrM7fgKeFe",
+    "name": "EBS 1TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "EBS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+      "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mMfQkG8CWfVeNj",
+    "name": "EBS 2TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TH2UspcIuapB4I",
+    "name": "EBS English",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng",
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng, kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mkS2euN6WoaBGB",
+    "name": "EBS Kids",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "category": "Kids",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kn5TVoJjDEx7yb",
+    "name": "EBS Plus 1",
+    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ODIhPYL5EPIjtl",
+    "name": "EBS Plus 2",
+    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng",
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng, kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iHYNLGETdvi3C5",
+    "name": "FGTV",
+    "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "FGT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BHUk7W2sHiMZn9",
+    "name": "Gongyoung Home Shopping",
+    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "GON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ha2TQrOiJuUiVm",
+    "name": "GS My Shop",
+    "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "GS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tTyhlQIbf96cqF",
+    "name": "GS Shop",
+    "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng.",
+    "logoText": "GS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hJP0GSnYM15Xax",
+    "name": "HLAJ-DTV",
+    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pnA1ESNuQBhdp0",
+    "name": "HLAT-DTV",
+    "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GCDtsdmWOrJKEn",
+    "name": "HLCQ-DTV",
+    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jOYpv2cv2xRFLe",
+    "name": "HLCT-DTV",
+    "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pl6NNNGCvJKobd",
+    "name": "HLDH-DTV",
+    "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hI9SMCGhwuM1Tn",
+    "name": "HLDP-DTV",
+    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
+    ]
+  },
+  {
+    "id": "klJTuuuc9Rkoag",
+    "name": "HLKJ-DTV",
+    "url": "https://123.140.197.22/stream/1/play.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HLK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://123.140.197.22/stream/1/play.m3u8"
+    ]
+  },
+  {
+    "id": "vUHuDdpPOMwJOv",
+    "name": "Home & Shopping",
+    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "JdXXEWHEkhS0rD",
+    "name": "Hyundai Home Shopping",
+    "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HYU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UShqKN6AAa2tbY",
+    "name": "Hyundai Home Shopping + Shop",
+    "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "HYU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "y96VZMuCp67Sxq",
+    "name": "KBS World",
+    "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+    "category": "General",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "eng",
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: eng, kor.",
+    "logoText": "KBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8"
+    ]
+  },
+  {
+    "id": "xgn0FUKlpDXRRt",
+    "name": "Lotte Home Shopping",
+    "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "LOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8"
+    ]
+  },
+  {
+    "id": "6c1onCC872cpGK",
+    "name": "Lotte OneTV",
+    "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "LOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8"
+    ]
+  },
+  {
+    "id": "miOqdRnG0LrRce",
+    "name": "NBS",
+    "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+    "category": "Education",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e5F89xwHW6PISK",
+    "name": "NHTV",
+    "url": "https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NHT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ]
+  },
+  {
+    "id": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
+    "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "NS ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ]
+  },
+  {
+    "id": "2JjtogNFSDfTsC",
+    "name": "RUTC TV",
+    "url": "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
+    "category": "Religious",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "RUT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fnE13NFNokanvE",
+    "name": "Shinsegae TV Shopping",
+    "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "SHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hiABpRG1XhgOmb",
+    "name": "Shopping NT",
+    "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "SHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.shoppingntmall.com/live/10011.m3u8"
+    ]
+  },
+  {
+    "id": "WiOl654PXu3URa",
+    "name": "TBS TV",
+    "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "TBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4If9DGlBIwVH9j",
+    "name": "W Shopping",
+    "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+    "category": "Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "W S",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+    ]
+  }
+]

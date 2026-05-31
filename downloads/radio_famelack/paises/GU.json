@@ -1,0 +1,50 @@
+[
+  {
+    "id": "oeOP56G2MDaXdZ",
+    "name": "Boss 104.3 FM",
+    "url": "https://ice10.securenetsystems.net/KIJI",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=securenetsystems.net",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GU",
+    "countryName": "Guam",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "lBvxHM4BeQzdIV",
+    "name": "Harvest Family Radio",
+    "url": "https://streaming.live365.com/a11295",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=live365.com",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GU",
+    "countryName": "Guam",
+    "state": "",
+    "tags": "religious",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "2qeNQrqKzRmSc3",
+    "name": "KUSG 1350 AM",
+    "url": "https://ice10.securenetsystems.net/KUSG",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=securenetsystems.net",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GU",
+    "countryName": "Guam",
+    "state": "",
+    "tags": "talk",
+    "language": "eng",
+    "homepage": ""
+  }
+]

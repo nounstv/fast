@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ERiTV1.er",
+    "name": "ERi-TV 1",
+    "logo": "https://i.imgur.com/bTR0Huw.png",
+    "logoText": "ERI",
+    "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "ER",
+    "countryName": "Eritrea",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Eritrea. Language: N/A. Website: https://www.dendenmedia.com/"
+  }
+]

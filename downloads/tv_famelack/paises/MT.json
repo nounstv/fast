@@ -1,0 +1,19 @@
+[
+  {
+    "id": "UsJXOMx0kW72JG",
+    "name": "One",
+    "url": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
+    "category": "General",
+    "country": "MT",
+    "countryName": "Malta",
+    "languages": [
+      "mlt"
+    ],
+    "description": "Canal de TV de Malta. Idioma: mlt.",
+    "logoText": "ONE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8"
+    ]
+  }
+]

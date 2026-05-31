@@ -1,0 +1,305 @@
+[
+  {
+    "id": "Kohavision.xk",
+    "name": "Kohavision",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "logoText": "KOH",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.koha.net/ktv/"
+  },
+  {
+    "id": "RTK1.xk",
+    "name": "RTK 1",
+    "logo": "https://i.imgur.com/KTcWcO6.png",
+    "logoText": "RTK",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.rtklive.com/"
+  },
+  {
+    "id": "RTK3.xk",
+    "name": "RTK 3",
+    "logo": "https://i.imgur.com/Ut9VcT3.png",
+    "logoText": "RTK",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.rtklive.com/"
+  },
+  {
+    "id": "RTV21.xk",
+    "name": "RTV21",
+    "logo": "https://i.imgur.com/AqQltGh.png",
+    "logoText": "RTV",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://rtv21.tv/"
+  },
+  {
+    "id": "T7.xk",
+    "name": "T7",
+    "logo": "https://i.imgur.com/b7FvSJj.png",
+    "logoText": "T7",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.televizioni7.com/"
+  },
+  {
+    "id": "TVArberia1.xk",
+    "name": "TV Arberia 1",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "logoText": "TV ",
+    "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.rtvarberia.com/rtv-arberia-live/"
+  },
+  {
+    "id": "TVArberia3Femije.xk",
+    "name": "TV Arberia 3 Femije",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "logoText": "TV ",
+    "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.rtvarberia.com/live-femije/"
+  },
+  {
+    "id": "TVArberia4Muzike.xk",
+    "name": "TV Arberia 4 Muzike",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "logoText": "TV ",
+    "url": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.rtvarberia.com/tv-arberia-4-muzike/"
+  },
+  {
+    "id": "TVArberiaRetroHits.xk",
+    "name": "TV Arberia Retro Hits",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "logoText": "TV ",
+    "url": "https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: http://www.rtvarberia.com/tv-arberia-retro-hits/"
+  },
+  {
+    "id": "TVArta.xk",
+    "name": "TV Arta",
+    "logo": "https://i.imgur.com/MAhJkK9.png",
+    "logoText": "TV ",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.koha.net/arta-tv/14427/tv-arta-live/"
+  },
+  {
+    "id": "TVDielli.xk",
+    "name": "TV Dielli",
+    "logo": "https://i.imgur.com/kLl3ar5.png",
+    "logoText": "TV ",
+    "url": "http://stream.tvdielli.com:8081/dielli/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://stream.tvdielli.com:8081/dielli/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: http://stream.tvdielli.com/"
+  },
+  {
+    "id": "TVOpoja.xk",
+    "name": "TV Opoja",
+    "logo": "https://i.imgur.com/hxi4Qiq.png",
+    "logoText": "TV ",
+    "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A."
+  },
+  {
+    "id": "TVSyri.xk",
+    "name": "TV Syri",
+    "logo": "https://i.imgur.com/ZQuFosn.png",
+    "logoText": "TV ",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "XK",
+    "countryName": "Kosovo",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kosovo. Language: N/A. Website: https://www.syri-vision.tv/"
+  }
+]

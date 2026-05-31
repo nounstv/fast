@@ -1,0 +1,684 @@
+[
+  {
+    "id": "BelleAmie.rs",
+    "name": "Belle Amie",
+    "logo": "https://i.imgur.com/tOlN5Rz.png",
+    "logoText": "BEL",
+    "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.belami.rs/"
+  },
+  {
+    "id": "DMSat.rs",
+    "name": "DM Sat",
+    "logo": "https://i.imgur.com/LdeA1Cn.png",
+    "logoText": "DM ",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.dmsat.tv/"
+  },
+  {
+    "id": "EDUTV.rs",
+    "name": "EDU TV",
+    "logo": "https://i.imgur.com/NE48DJb.png",
+    "logoText": "EDU",
+    "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.edutelevision.com/"
+  },
+  {
+    "id": "NarodnaTV.rs",
+    "name": "Narodna TV",
+    "logo": "https://i.imgur.com/dua57HD.png",
+    "logoText": "NAR",
+    "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://pinkmediagroup.net/"
+  },
+  {
+    "id": "Nova.rs",
+    "name": "Nova",
+    "logo": "https://i.imgur.com/sU8UPPY.png",
+    "logoText": "NOV",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://nova.rs/"
+  },
+  {
+    "id": "PannonTV.rs",
+    "name": "Pannon TV",
+    "logo": "https://i.imgur.com/xQa2idL.png",
+    "logoText": "PAN",
+    "url": "https://stream.nmih.hu:4102/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nmih.hu:4102/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://pannonrtv.com/"
+  },
+  {
+    "id": "Pink.rs",
+    "name": "Pink",
+    "logo": "https://i.imgur.com/66wHb7E.png",
+    "logoText": "PIN",
+    "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rtvpink.co.rs/"
+  },
+  {
+    "id": "Prva.rs",
+    "name": "Prva",
+    "logo": "https://i.imgur.com/NA31Gtm.png",
+    "logoText": "PRV",
+    "url": "http://51.83.135.95/Prva/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://51.83.135.95/Prva/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.prva.rs/"
+  },
+  {
+    "id": "RadioHitFMTV.rs",
+    "name": "Radio Hit FM TV",
+    "logo": "https://i.imgur.com/gP2OT4S.png",
+    "logoText": "RAD",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.hitfm.rs/"
+  },
+  {
+    "id": "RadioKarolinaTV.rs",
+    "name": "Radio Karolina TV",
+    "logo": "https://i.imgur.com/g2HpLX1.png",
+    "logoText": "RAD",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.karolina.rs/"
+  },
+  {
+    "id": "RadioLolaTV.rs",
+    "name": "Radio Lola TV",
+    "logo": "https://i.imgur.com/41eE8fl.png",
+    "logoText": "RAD",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.karolina.rs/"
+  },
+  {
+    "id": "RTS1.rs",
+    "name": "RTS 1",
+    "logo": "https://i.imgur.com/S1pKHSR.png",
+    "logoText": "RTS",
+    "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rts.rs/page/tv/sr/news/20/rts-1.html"
+  },
+  {
+    "id": "RTS2.rs",
+    "name": "RTS 2",
+    "logo": "https://i.imgur.com/jltAf5h.png",
+    "logoText": "RTS",
+    "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rts.rs/page/tv/sr/news/21/rts-2.html"
+  },
+  {
+    "id": "RTS3.rs",
+    "name": "RTS 3",
+    "logo": "https://i.imgur.com/gxuGB4J.png",
+    "logoText": "RTS",
+    "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rts.rs/page/tv/sr/news/255/rts-3.html"
+  },
+  {
+    "id": "RTSSvet.rs",
+    "name": "RTS Svet",
+    "logo": "https://i.imgur.com/LjunOdy.png",
+    "logoText": "RTS",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rts.rs/page/tv/sr/news/22/rts-svet.html"
+  },
+  {
+    "id": "RTV1.rs",
+    "name": "RTV 1",
+    "logo": "https://i.imgur.com/CG44YT3.png",
+    "logoText": "RTV",
+    "url": "mmsh://212.200.255.151/rtv1",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "mmsh://212.200.255.151/rtv1",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "rtsp://212.200.255.151/rtv1",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://www.rtv.rs/"
+  },
+  {
+    "id": "RTV2.rs",
+    "name": "RTV 2",
+    "logo": "https://i.imgur.com/skpr66t.png",
+    "logoText": "RTV",
+    "url": "mmsh://212.200.255.151/rtv2",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "mmsh://212.200.255.151/rtv2",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "rtsp://212.200.255.151/rtv2",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://www.rtv.rs/"
+  },
+  {
+    "id": "RTVBap.rs",
+    "name": "RTV Bap",
+    "logo": "https://i.imgur.com/TBAtPH6.png",
+    "logoText": "RTV",
+    "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rtvbap.rs/"
+  },
+  {
+    "id": "SandzakTV.rs",
+    "name": "Sandzak TV",
+    "logo": "https://i.imgur.com/lm9Fgsp.png",
+    "logoText": "SAN",
+    "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.sandzak.tv/"
+  },
+  {
+    "id": "SOSKanalPlus.rs",
+    "name": "SOS Kanal Plus",
+    "logo": "https://i.imgur.com/9SD40uH.png",
+    "logoText": "SOS",
+    "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: https://www.soskanal.net/"
+  },
+  {
+    "id": "TDIRadioTV.rs",
+    "name": "TDI Radio TV",
+    "logo": "https://i.imgur.com/POdTmaD.png",
+    "logoText": "TDI",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.tdiradio.com/"
+  },
+  {
+    "id": "TopTV.rs",
+    "name": "Top TV",
+    "logo": "https://i.imgur.com/UJqbKEC.png",
+    "logoText": "TOP",
+    "url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.top-tv.rs/"
+  },
+  {
+    "id": "TVAS.rs",
+    "name": "TV AS",
+    "logo": "https://i.imgur.com/LIUtEgD.png",
+    "logoText": "TV ",
+    "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rtvas.rs/"
+  },
+  {
+    "id": "TVDugaPlus.rs",
+    "name": "TV Duga+",
+    "logo": "https://i.imgur.com/qZV3JW5.png",
+    "logoText": "TV ",
+    "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.tvdugaplus.com/"
+  },
+  {
+    "id": "TVHram.rs",
+    "name": "TV Hram",
+    "logo": "https://i.imgur.com/XzAYOFK.png",
+    "logoText": "TV ",
+    "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.tvhram.rs/"
+  },
+  {
+    "id": "TVKanalM.rs",
+    "name": "TV Kanal M",
+    "logo": "https://i.imgur.com/hqNVRUU.png",
+    "logoText": "TV ",
+    "url": "http://176.67.210.1/hls/kanalm.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://176.67.210.1/hls/kanalm.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rtvparacin.rs/"
+  },
+  {
+    "id": "TVMarsh.rs",
+    "name": "TV Marsh",
+    "logo": "https://i.imgur.com/Dt1mPyX.png",
+    "logoText": "TV ",
+    "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://marsh.rs/"
+  },
+  {
+    "id": "TVPiKanal.rs",
+    "name": "TV Pi Kanal",
+    "logo": "https://i.imgur.com/8ugnFa3.png",
+    "logoText": "TV ",
+    "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A. Website: http://www.rtvpicanal.com/"
+  },
+  {
+    "id": "TVPirot.rs",
+    "name": "TV Pirot",
+    "logo": "https://i.imgur.com/o5y1ok6.png",
+    "logoText": "TV ",
+    "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "RS",
+    "countryName": "Serbia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Serbia. Language: N/A."
+  }
+]

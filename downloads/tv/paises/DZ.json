@@ -1,0 +1,156 @@
+[
+  {
+    "id": "AL24News.dz",
+    "name": "AL24 News",
+    "logo": "https://i.imgur.com/vyVEXYL.png",
+    "logoText": "AL2",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: https://al24news.com/"
+  },
+  {
+    "id": "AmouYazidTV.dz",
+    "name": "Amou Yazid TV",
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "logoText": "AMO",
+    "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: http://tv.amouyazid.com/"
+  },
+  {
+    "id": "CNA.dz",
+    "name": "CNA",
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "logoText": "CNA",
+    "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.creacast.com/cna/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: https://cna-sat.org/"
+  },
+  {
+    "id": "ElHeddafTV.dz",
+    "name": "El-Heddaf TV",
+    "logo": "https://i.imgur.com/cDkIDIA.png",
+    "logoText": "EL-",
+    "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: https://www.elheddaf.com/"
+  },
+  {
+    "id": "ElwataniaTV.dz",
+    "name": "Elwatania TV",
+    "logo": "https://i.imgur.com/NKR8WFq.png",
+    "logoText": "ELW",
+    "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: https://elwataniatv.dz/"
+  },
+  {
+    "id": "TV2.dz",
+    "name": "TV2",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "logoText": "TV2",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DZ",
+    "countryName": "Algeria",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Algeria. Language: N/A. Website: https://www.entv.dz/"
+  }
+]

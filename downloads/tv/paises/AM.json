@@ -1,0 +1,79 @@
+[
+  {
+    "id": "Armenia1.am",
+    "name": "Armenia 1",
+    "logo": "https://i.imgur.com/HIwJ4lc.png",
+    "logoText": "ARM",
+    "url": "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_armenia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AM",
+    "countryName": "Armenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: https://www.1tv.am/"
+  },
+  {
+    "id": "Armenia2.am",
+    "name": "Armenia 2",
+    "logo": "https://i.imgur.com/AXmXw9X.png",
+    "logoText": "ARM",
+    "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "AM",
+    "countryName": "Armenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: http://www.tv.am/"
+  },
+  {
+    "id": "FirstChannelNews.am",
+    "name": "First Channel News",
+    "logo": "https://i.imgur.com/RlYJUH4.png",
+    "logoText": "FIR",
+    "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "AM",
+    "countryName": "Armenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: https://www.1lurer.am/"
+  }
+]

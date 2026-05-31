@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "BSAsahi.jp",
+    "name": "BS Asahi",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Bs_Asahi_Logo.jpg/revision/latest/scale-to-width-down/512",
+    "logoText": "BS ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.bs-asahi.co.jp/"
+  },
+  {
+    "id": "BSFuji.jp",
+    "name": "BS Fuji",
+    "logo": "https://i.imgur.com/GzdCXAJ.png",
+    "logoText": "BS ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.bsfuji.tv/"
+  },
+  {
+    "id": "BSNipponTV.jp",
+    "name": "BS Nippon TV",
+    "logo": "https://i.imgur.com/D8lhZCI.png",
+    "logoText": "BS ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.bs4.jp/"
+  },
+  {
+    "id": "BSShochikuTokyu.jp",
+    "name": "BS Shochiku Tokyu",
+    "logo": "https://i.imgur.com/pSKCgvv.png",
+    "logoText": "BS ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.shochiku-tokyu.co.jp/"
+  },
+  {
+    "id": "BSTVTokyo.jp",
+    "name": "BS TV Tokyo",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512",
+    "logoText": "BS ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tv-tokyo.co.jp/"
+  },
+  {
+    "id": "BSTBS.jp",
+    "name": "BS-TBS",
+    "logo": "https://i.imgur.com/h20eGKq.png",
+    "logoText": "BS-",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.bs-tbs.co.jp/"
+  },
+  {
+    "id": "CGNTVJapan.jp",
+    "name": "CGNTV Japan",
+    "logo": "https://i.imgur.com/5LNZeVq.png",
+    "logoText": "CGN",
+    "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://japan.cgntv.net/"
+  },
+  {
+    "id": "ChannelGinga.jp",
+    "name": "Channel Ginga",
+    "logo": "https://www.ch-ginga.jp/assets/images/common/header_logo.png",
+    "logoText": "CHA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.ch-ginga.jp/"
+  },
+  {
+    "id": "DisneyChannel.jp",
+    "name": "Disney Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "logoText": "DIS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.disney.co.jp/tv/dc"
+  },
+  {
+    "id": "Dlife.jp",
+    "name": "Dlife",
+    "logo": "",
+    "logoText": "DLI",
+    "url": "https://43.100.9.67/api/streams/live/cs312/1080p/mpegts",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://43.100.9.67/api/streams/live/cs312/1080p/mpegts",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.dlife.jp"
+  },
+  {
+    "id": "EiseiGekijo.jp",
+    "name": "Eisei Gekijo",
+    "logo": "https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",
+    "logoText": "EIS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://eigeki.com/"
+  },
+  {
+    "id": "FamilyGekijyo.jp",
+    "name": "Family Gekijyo",
+    "logo": "https://i.imgur.com/PCx6Qz3.png",
+    "logoText": "FAM",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Family",
+    "categories": [
+      "family"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.fami-geki.com/"
+  },
+  {
+    "id": "FishingVision.jp",
+    "name": "Fishing Vision",
+    "logo": "https://i.imgur.com/qX6nNOF.png",
+    "logoText": "FIS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.broadmedia.co.jp/en/broadcast/fishing-tv/"
+  },
+  {
+    "id": "FujiTVNEXT.jp",
+    "name": "Fuji TV NEXT",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest",
+    "logoText": "FUJ",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://otn.fujitv.co.jp/"
+  },
+  {
+    "id": "GAORASPORTS.jp",
+    "name": "GAORA SPORTS",
+    "logo": "https://i.imgur.com/UgKRfuw.png",
+    "logoText": "GAO",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.gaora.co.jp/"
+  },
+  {
+    "id": "GolfNetwork.jp",
+    "name": "Golf Network",
+    "logo": "https://i.imgur.com/s6lmfXF.png",
+    "logoText": "GOL",
+    "url": "http://202.60.106.14:8080/1335/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://202.60.106.14:8080/1335/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.golfnetwork.co.jp/"
+  },
+  {
+    "id": "GreenChannel.jp",
+    "name": "Green Channel",
+    "logo": "https://i.imgur.com/sD3z8j7.png",
+    "logoText": "GRE",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.greenchannel.jp/"
+  },
+  {
+    "id": "GSTV.jp",
+    "name": "GSTV",
+    "logo": "https://i.imgur.com/ECnVG5I.png",
+    "logoText": "GST",
+    "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.gstv.jp/"
+  },
+  {
+    "id": "History.jp",
+    "name": "History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "logoText": "HIS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://jp.history.com/"
+  },
+  {
+    "id": "HomeDramaChannel.jp",
+    "name": "Home Drama Channel",
+    "logo": "https://i.imgur.com/iNkKh7w.png",
+    "logoText": "HOM",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.homedrama-ch.com/"
+  },
+  {
+    "id": "JSPORTS1.jp",
+    "name": "J SPORTS 1",
+    "logo": "https://i.imgur.com/vEpjLnj.png",
+    "logoText": "J S",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.jsports.co.jp/"
+  },
+  {
+    "id": "JSPORTS2.jp",
+    "name": "J SPORTS 2",
+    "logo": "https://i.imgur.com/g1GLVH2.png",
+    "logoText": "J S",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.jsports.co.jp/"
+  },
+  {
+    "id": "JSPORTS3.jp",
+    "name": "J SPORTS 3",
+    "logo": "https://i.imgur.com/xdI361E.png",
+    "logoText": "J S",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.jsports.co.jp/"
+  },
+  {
+    "id": "JSPORTS4.jp",
+    "name": "J SPORTS 4",
+    "logo": "https://i.imgur.com/fBcyZNL.png",
+    "logoText": "J S",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.jsports.co.jp/"
+  },
+  {
+    "id": "JidaigekiSenmonChannel.jp",
+    "name": "Jidaigeki Senmon Channel",
+    "logo": "https://i.imgur.com/8T72RIH.png",
+    "logoText": "JID",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.jidaigeki.com/"
+  },
+  {
+    "id": "JOABDTV.jp",
+    "name": "JOAB-DTV",
+    "logo": "https://i.imgur.com/WxtftlO.png",
+    "logoText": "JOA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/shutoken/"
+  },
+  {
+    "id": "JOAKDTV.jp",
+    "name": "JOAK-DTV",
+    "logo": "https://i.imgur.com/fAZ2BEZ.png",
+    "logoText": "JOA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/shutoken/"
+  },
+  {
+    "id": "JOAXDTV.jp",
+    "name": "JOAX-DTV",
+    "logo": "https://i.imgur.com/IxD8V5X.png",
+    "logoText": "JOA",
+    "url": "https://ntv4.mov3.co/hls/ntv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ntv4.mov3.co/hls/ntv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.ntv.co.jp/"
+  },
+  {
+    "id": "JOBHDTV.jp",
+    "name": "JOBH-DTV",
+    "logo": "https://i.imgur.com/rUmrruq.png",
+    "logoText": "JOB",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tv-osaka.co.jp/"
+  },
+  {
+    "id": "JOBKDTV.jp",
+    "name": "JOBK-DTV",
+    "logo": "https://i.imgur.com/fAZ2BEZ.png",
+    "logoText": "JOB",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/osaka/"
+  },
+  {
+    "id": "JOCXDTV.jp",
+    "name": "JOCX-DTV",
+    "logo": "https://i.imgur.com/sEWDmMD.png",
+    "logoText": "JOC",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.fujitv.co.jp/"
+  },
+  {
+    "id": "JODXDTV.jp",
+    "name": "JODX-DTV",
+    "logo": "https://i.imgur.com/WMNg5De.png",
+    "logoText": "JOD",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.ktv.jp/"
+  },
+  {
+    "id": "JOEXDTV.jp",
+    "name": "JOEX-DTV",
+    "logo": "https://i.imgur.com/YCqB5Kj.png",
+    "logoText": "JOE",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tv-asahi.co.jp/"
+  },
+  {
+    "id": "JOIXDTV.jp",
+    "name": "JOIX-DTV",
+    "logo": "https://i.imgur.com/ONbuWvo.png",
+    "logoText": "JOI",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.ytv.co.jp/"
+  },
+  {
+    "id": "JOMXDTV.jp",
+    "name": "JOMX-DTV",
+    "logo": "https://i.imgur.com/0i5rDRN.png",
+    "logoText": "JOM",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://s.mxtv.jp/"
+  },
+  {
+    "id": "JOOYDTV.jp",
+    "name": "JOOY-DTV",
+    "logo": "https://i.imgur.com/RfrkGrd.png",
+    "logoText": "JOO",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.mbs.jp/"
+  },
+  {
+    "id": "JORXDTV.jp",
+    "name": "JORX-DTV",
+    "logo": "https://i.imgur.com/dUn2GRn.png",
+    "logoText": "JOR",
+    "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tbs.co.jp/"
+  },
+  {
+    "id": "JOTXDTV.jp",
+    "name": "JOTX-DTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png",
+    "logoText": "JOT",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tv-tokyo.co.jp/"
+  },
+  {
+    "id": "JOUHDTV.jp",
+    "name": "JOUH-DTV",
+    "logo": "https://i.imgur.com/0qtXIRM.png",
+    "logoText": "JOU",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://sun-tv.co.jp/"
+  },
+  {
+    "id": "KayoPops.jp",
+    "name": "Kayo Pops",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m1AFOxZHFBvf-eLgADxBaFKa54T5oDOvxEaQfz9VMCU_c=s512-c-k-c0x00ffffff-no-rj",
+    "logoText": "KAY",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.kayopops.jp/"
+  },
+  {
+    "id": "KidsStation.jp",
+    "name": "Kids Station",
+    "logo": "https://i.imgur.com/Z2HEh0A.jpeg",
+    "logoText": "KID",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.kids-station.com/"
+  },
+  {
+    "id": "MTV.jp",
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "logoText": "MTV",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.mtvjapan.com/"
+  },
+  {
+    "id": "MusicJapanTV.jp",
+    "name": "Music Japan TV",
+    "logo": "https://i.imgur.com/DkF8YZq.jpeg",
+    "logoText": "MUS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.mjtv.jp/"
+  },
+  {
+    "id": "NationalGeographic.jp",
+    "name": "National Geographic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "logoText": "NAT",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://natgeotv.jp/tv/"
+  },
+  {
+    "id": "NHKBS.jp",
+    "name": "NHK BS",
+    "logo": "https://i.imgur.com/t0uZcSR.png",
+    "logoText": "NHK",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/"
+  },
+  {
+    "id": "NHKBSP4K.jp",
+    "name": "NHK BSP4K",
+    "logo": "https://i.imgur.com/uvPpFo5.png",
+    "logoText": "NHK",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/bs4k8k/"
+  },
+  {
+    "id": "NHKKishouSaigai.jp",
+    "name": "NHK Kishou-Saigai",
+    "logo": "https://i.imgur.com/oWKCBIz.png",
+    "logoText": "NHK",
+    "url": "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Weather",
+    "categories": [
+      "weather"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nhk.or.jp/kishou-saigai/live/"
+  },
+  {
+    "id": "NHKWorldPremium.jp",
+    "name": "NHK World Premium",
+    "logo": "https://i.imgur.com/4ESi2La.png",
+    "logoText": "NHK",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.nhkworldpremium.com/"
+  },
+  {
+    "id": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
+    "logoText": "NHK",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://nhk.lls.pbs.org/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      },
+      {
+        "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news",
+      "culture"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www3.nhk.or.jp/nhkworld/"
+  },
+  {
+    "id": "NihonEigaSenmonChannel.jp",
+    "name": "Nihon Eiga Senmon Channel",
+    "logo": "https://i.imgur.com/B2wzA67.png",
+    "logoText": "NIH",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.nihon-eiga.com/"
+  },
+  {
+    "id": "NitteleGPlus.jp",
+    "name": "Nittele G+",
+    "logo": "https://i.imgur.com/7237pCC.png",
+    "logoText": "NIT",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.gtasu.com/"
+  },
+  {
+    "id": "QVC.jp",
+    "name": "QVC",
+    "logo": "https://i.imgur.com/6TWUVrh.png",
+    "logoText": "QVC",
+    "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://qvc.jp/"
+  },
+  {
+    "id": "ShopChannel.jp",
+    "name": "Shop Channel",
+    "logo": "https://www.shopch.jp/com/images/common/logo_2021.png",
+    "logoText": "SHO",
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.shopch.jp/"
+  },
+  {
+    "id": "SkyA.jp",
+    "name": "Sky A",
+    "logo": "https://i.imgur.com/JU3wZ0k.png",
+    "logoText": "SKY",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.sky-a.co.jp/"
+  },
+  {
+    "id": "SpaceShowerTV.jp",
+    "name": "Space Shower TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/24/Space_Shower_-_1999.svg/revision/latest/scale-to-width-down/512",
+    "logoText": "SPA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.spaceshowertv.com/"
+  },
+  {
+    "id": "StarChannel2.jp",
+    "name": "Star Channel 2",
+    "logo": "https://i.imgur.com/QOriZy5.png",
+    "logoText": "STA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.star-ch.jp/"
+  },
+  {
+    "id": "StarChannel3.jp",
+    "name": "Star Channel 3",
+    "logo": "https://i.imgur.com/Z1x8ecY.png",
+    "logoText": "STA",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.star-ch.jp/"
+  },
+  {
+    "id": "TAKARAZUKASKYSTAGE.jp",
+    "name": "TAKARAZUKA SKY STAGE",
+    "logo": "https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg",
+    "logoText": "TAK",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tca-pictures.net/skystage/"
+  },
+  {
+    "id": "TBSNewsCS.jp",
+    "name": "TBS News CS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/960px-TBS_News_2020_logo.png",
+    "logoText": "TBS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: https://www.tbs.co.jp/cstbsnews/"
+  },
+  {
+    "id": "ToeiChannel.jp",
+    "name": "Toei Channel",
+    "logo": "https://i.imgur.com/QsTjHDU.jpeg",
+    "logoText": "TOE",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.toeich.jp/"
+  },
+  {
+    "id": "Weathernews.jp",
+    "name": "Weathernews",
+    "logo": "https://i.imgur.com/A8uRSTS.png",
+    "logoText": "WEA",
+    "url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Weather",
+    "categories": [
+      "weather"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A."
+  },
+  {
+    "id": "WOWOWCinema.jp",
+    "name": "WOWOW Cinema",
+    "logo": "https://i.imgur.com/Wx9fkCW.png",
+    "logoText": "WOW",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.wowow.co.jp/cinema_ch/"
+  },
+  {
+    "id": "WOWOWLive.jp",
+    "name": "WOWOW Live",
+    "logo": "https://i.imgur.com/jPAYT5F.png",
+    "logoText": "WOW",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.wowow.co.jp/live_ch/"
+  },
+  {
+    "id": "WOWOWPrime.jp",
+    "name": "WOWOW Prime",
+    "logo": "https://i.imgur.com/vACq7w8.png",
+    "logoText": "WOW",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "JP",
+    "countryName": "Japan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Japan. Language: N/A. Website: http://www.wowow.co.jp/prime_ch/"
+  }
+]

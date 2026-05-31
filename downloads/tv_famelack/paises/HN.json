@@ -1,0 +1,478 @@
+[
+  {
+    "id": "EltLS0BPT3XsuQ",
+    "name": "Alsacias Television",
+    "url": "https://s.emisoras.tv:8081/atv/index.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "ALS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/atv/index.m3u8"
+    ]
+  },
+  {
+    "id": "7vuNKG15VuJZNX",
+    "name": "Campus TV",
+    "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+    "category": "Education",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "CAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3KGjjtUNZxERKV",
+    "name": "Choluteca TV",
+    "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "CHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/cholutecatv/index.m3u8"
+    ]
+  },
+  {
+    "id": "7EGP8r2xzAyDEk",
+    "name": "CHTV",
+    "url": "https://viewhn.com/chtv/live/playlist.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "CHT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://viewhn.com/chtv/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8vLOrCAwtecYqt",
+    "name": "Dios Te Ve",
+    "url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "DIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/diostevetv/index.m3u8"
+    ]
+  },
+  {
+    "id": "DIYFiR27hwM7Fq",
+    "name": "Dios Te Ve Kids",
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "DIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+    ]
+  },
+  {
+    "id": "ZreOUgZXhpXpOB",
+    "name": "Dios Tv Talanga",
+    "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "DIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.webmedialive.com/unciontv/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "81AXIOjoDu8lAA",
+    "name": "Ebenezer TV",
+    "url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "EBE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qcU5XAY1ybNmmB",
+    "name": "EDN TV",
+    "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "EDN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HGtPDQoNFPOwzf",
+    "name": "Girasol TV",
+    "url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "GIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/girasoltv/index.m3u8"
+    ]
+  },
+  {
+    "id": "YFN0Wt8jkUTjZN",
+    "name": "HCH",
+    "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
+    "category": "News",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "HCH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.streamhch.com/live/streams/hch1.m3u8"
+    ]
+  },
+  {
+    "id": "9jeKM3aw6Paup0",
+    "name": "Imagen FM 105.1",
+    "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "IMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "YShLtvidjqB1kx",
+    "name": "Kerusso TV",
+    "url": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+    "category": "Religious",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "KER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/kerussotv/index.m3u8"
+    ]
+  },
+  {
+    "id": "HAjT5lHheouJ3C",
+    "name": "La Top 102.9",
+    "url": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9RwFnJ12MgiGgP",
+    "name": "La Top 107.7",
+    "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kgGtkbabuK6Sj3",
+    "name": "Lenca TV",
+    "url": "https://lencatelevision.com/hls/stream.m3u8",
+    "category": "News",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "LEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lencatelevision.com/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "052OEa16dMrwDi",
+    "name": "Metro TV",
+    "url": "https://s.emisoras.tv:8081/metrotv/index.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "MET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+    ]
+  },
+  {
+    "id": "nsgQYKfhfBKpgj",
+    "name": "Radio Ideal",
+    "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+    "category": "Music",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.idealfm104-7.com/hls/0/stream.m3u8"
+    ]
+  },
+  {
+    "id": "geOpkQODtnZbnn",
+    "name": "RCV TV",
+    "url": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+    "category": "News",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "RCV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iXL9fS6dPWm1hC",
+    "name": "RSV Honduras",
+    "url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "RSV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZL6itoyroCEVU7",
+    "name": "Sula TV",
+    "url": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "SUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.webmedialive.com/sulatv/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CdFanpx5ODdkpP",
+    "name": "Teleceiba",
+    "url": "https://teleceiba.com/stream/tlcb720.m3u8",
+    "category": "Geral",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://teleceiba.com/stream/tlcb720.m3u8"
+    ]
+  },
+  {
+    "id": "bogtDcaAWtOFRz",
+    "name": "Telerayo",
+    "url": "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/telerayo/index.m3u8"
+    ]
+  },
+  {
+    "id": "YjpTIsdhrTKDB8",
+    "name": "Television Metropolis 19.1",
+    "url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "r9T8ukgsfSELlS",
+    "name": "Television Metropolis 19.2",
+    "url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qWRNlLMLdjrPV7",
+    "name": "TV Centro 27.2 HD",
+    "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OPNVhQbPeZ6MyD",
+    "name": "TV Centro HD",
+    "url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+    "category": "General",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pT9oAXkeRbqGBU",
+    "name": "TV Copan",
+    "url": "https://s.emisoras.tv:8081/tvcopan/index.m3u8",
+    "category": "Geral",
+    "country": "HN",
+    "countryName": "Honduras",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Honduras. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/tvcopan/index.m3u8"
+    ]
+  }
+]

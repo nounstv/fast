@@ -1,0 +1,98 @@
+[
+  {
+    "id": "GuardianTalkRadio.bs",
+    "name": "Guardian Talk Radio",
+    "logo": "https://i.imgur.com/o3cWUwL.png",
+    "logoText": "GUA",
+    "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BS",
+    "countryName": "Bahamas",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahamas. Language: N/A. Website: https://guardiantalkradio.com/"
+  },
+  {
+    "id": "IslandLuckTV.bs",
+    "name": "Island Luck TV",
+    "logo": "https://i.imgur.com/P0gDN5n.png",
+    "logoText": "ISL",
+    "url": "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BS",
+    "countryName": "Bahamas",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahamas. Language: N/A. Website: https://iltvstudios.com/"
+  },
+  {
+    "id": "TheParliamentaryChannel.bs",
+    "name": "The Parliamentary Channel",
+    "logo": "https://i.imgur.com/ZQagV0x.png",
+    "logoText": "THE",
+    "url": "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BS",
+    "countryName": "Bahamas",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahamas. Language: N/A. Website: https://www.bahamas.gov.bs/parliamentary-live"
+  },
+  {
+    "id": "ZNSTV.bs",
+    "name": "ZNS-TV",
+    "logo": "https://i.imgur.com/h6nC8fe.png",
+    "logoText": "ZNS",
+    "url": "https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BS",
+    "countryName": "Bahamas",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bahamas. Language: N/A. Website: https://znsbahamas.com/zns-t-v/"
+  }
+]

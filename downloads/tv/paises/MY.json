@@ -1,0 +1,498 @@
+[
+  {
+    "id": "8TV.my",
+    "name": "8TV",
+    "logo": "https://i.imgur.com/Jkx9W88.png",
+    "logoText": "8TV",
+    "url": "http://cdn6.163189.xyz/163189/8tv",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn6.163189.xyz/163189/8tv",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
+  },
+  {
+    "id": "AwesomeTV.my",
+    "name": "Awesome TV",
+    "logo": "https://i.imgur.com/x90U1Bf.png",
+    "logoText": "AWE",
+    "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://awesometv.my/"
+  },
+  {
+    "id": "BeritaRTM.my",
+    "name": "Berita RTM",
+    "logo": "https://i.imgur.com/1Xzxsgl.png",
+    "logoText": "BER",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.rtm.gov.my/"
+  },
+  {
+    "id": "CinemaWorld.my",
+    "name": "CinemaWorld",
+    "logo": "https://i.imgur.com/D2qNVZ7.png",
+    "logoText": "CIN",
+    "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://cinemaworld.asia/"
+  },
+  {
+    "id": "DuniaSinema.my",
+    "name": "Dunia Sinema",
+    "logo": "",
+    "logoText": "DUN",
+    "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://unifi.com.my/tv"
+  },
+  {
+    "id": "MaahTV.my",
+    "name": "Maah TV",
+    "logo": "https://i.imgur.com/FkyueH6.png",
+    "logoText": "MAA",
+    "url": "https://hls.maahtv.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.maahtv.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://maahtv.com/"
+  },
+  {
+    "id": "NTV7.my",
+    "name": "NTV7",
+    "logo": "https://i.imgur.com/jDWR3xI.png",
+    "logoText": "NTV",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
+  },
+  {
+    "id": "Okey.my",
+    "name": "Okey",
+    "logo": "https://i.imgur.com/V2jREQ5.png",
+    "logoText": "OKE",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://okey.rtm.gov.my/"
+  },
+  {
+    "id": "PROSportInternational.my",
+    "name": "PRO Sport International",
+    "logo": "",
+    "logoText": "PRO",
+    "url": "https://proshls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://proshls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+  },
+  {
+    "id": "RTMASEAN.my",
+    "name": "RTM ASEAN",
+    "logo": "https://i.imgur.com/skAiUxg.png",
+    "logoText": "RTM",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmklik.rtm.gov.my/live/rtmasean"
+  },
+  {
+    "id": "RTMParlimenDewanNegara.my",
+    "name": "RTM Parlimen Dewan Negara",
+    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "logoText": "RTM",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmparlimen.rtm.gov.my/"
+  },
+  {
+    "id": "RTMParlimenDewanRakyat.my",
+    "name": "RTM Parlimen Dewan Rakyat",
+    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "logoText": "RTM",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmparlimen.rtm.gov.my/"
+  },
+  {
+    "id": "SelangorTV.my",
+    "name": "SelangorTV",
+    "logo": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
+    "logoText": "SEL",
+    "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://selangortv.my/"
+  },
+  {
+    "id": "SukanRTM.my",
+    "name": "Sukan RTM",
+    "logo": "https://i.imgur.com/1pYYSu2.png",
+    "logoText": "SUK",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: http://www.rtm.gov.my/"
+  },
+  {
+    "id": "SukeTV.my",
+    "name": "Suke TV",
+    "logo": "https://i.imgur.com/hCwH3s0.png",
+    "logoText": "SUK",
+    "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://suketv.com/"
+  },
+  {
+    "id": "TV1.my",
+    "name": "TV1",
+    "logo": "https://i.imgur.com/wSyPmiY.png",
+    "logoText": "TV1",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+  },
+  {
+    "id": "TV2.my",
+    "name": "TV2",
+    "logo": "https://i.imgur.com/LGEdeyJ.png",
+    "logoText": "TV2",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+  },
+  {
+    "id": "TV6.my",
+    "name": "TV6",
+    "logo": "https://i.imgur.com/bK8UH9D.png",
+    "logoText": "TV6",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+  },
+  {
+    "id": "TV9.my",
+    "name": "TV9",
+    "logo": "https://i.imgur.com/Krh1F8d.png",
+    "logoText": "TV9",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
+  },
+  {
+    "id": "TVIKIM.my",
+    "name": "TVIKIM",
+    "logo": "https://i.imgur.com/X6JKNEE.png",
+    "logoText": "TVI",
+    "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MY",
+    "countryName": "Malaysia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+  }
+]

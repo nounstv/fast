@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "4E.gr",
+    "name": "4E",
+    "logo": "https://i.imgur.com/Na0UCV7.png",
+    "logoText": "4E",
+    "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://tv4e.gr/"
+  },
+  {
+    "id": "AcheloosTV.gr",
+    "name": "Acheloos TV",
+    "logo": "https://i.imgur.com/5SVMxcu.png",
+    "logoText": "ACH",
+    "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.acheloostv.gr/news/"
+  },
+  {
+    "id": "Action24.gr",
+    "name": "Action 24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "logoText": "ACT",
+    "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://action24.gr/"
+  },
+  {
+    "id": "AeolosTV.gr",
+    "name": "Aeolos TV",
+    "logo": "https://i.imgur.com/4G9VvUg.png",
+    "logoText": "AEO",
+    "url": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://aeolos.tv/"
+  },
+  {
+    "id": "AigaioTV.gr",
+    "name": "Aigaio TV",
+    "logo": "https://i.imgur.com/7LfuDJi.png",
+    "logoText": "AIG",
+    "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: http://www.aigaiotv.gr/"
+  },
+  {
+    "id": "AlertTV.gr",
+    "name": "Alert TV",
+    "logo": "https://i.imgur.com/xqa87lG.png",
+    "logoText": "ALE",
+    "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.alerttv.com.gr/epikoinonia/"
+  },
+  {
+    "id": "AlphaTV.gr",
+    "name": "Alpha TV",
+    "logo": "https://i.imgur.com/6twzd38.png",
+    "logoText": "ALP",
+    "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.alphatv.gr/"
+  },
+  {
+    "id": "ANT1.gr",
+    "name": "ANT1",
+    "logo": "https://i.imgur.com/ItxKvVS.png",
+    "logoText": "ANT",
+    "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Chrome",
+    "streams": [
+      {
+        "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+        "http_referrer": null,
+        "user_agent": "Chrome"
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: http://www.antenna.gr/"
+  },
+  {
+    "id": "ARTTV.gr",
+    "name": "ART TV",
+    "logo": "https://i.imgur.com/8uS0sib.png",
+    "logoText": "ART",
+    "url": "https://rtmp.win:3696/live/arttvgrlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.win:3696/live/arttvgrlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://arttv.gr/"
+  },
+  {
+    "id": "AstraTV.gr",
+    "name": "Astra TV",
+    "logo": "https://i.imgur.com/oYRPfZm.png",
+    "logoText": "AST",
+    "url": "https://server.gointernet.gr/live/livestream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://server.gointernet.gr/live/livestream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.astratv.gr/live-streaming/"
+  },
+  {
+    "id": "BarazaTV.gr",
+    "name": "Baraza TV",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "logoText": "BAR",
+    "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "BarazaTVDeepHouse.gr",
+    "name": "Baraza TV Deep House",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "logoText": "BAR",
+    "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://barazaradio.com/"
+  },
+  {
+    "id": "BarazaTVRelaxing.gr",
+    "name": "Baraza TV Relaxing",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "logoText": "BAR",
+    "url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://barazaradio.com/"
+  },
+  {
+    "id": "BestTV.gr",
+    "name": "Best TV",
+    "logo": "https://i.imgur.com/AeeeDUc.png",
+    "logoText": "BES",
+    "url": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://best-tv.gr/"
+  },
+  {
+    "id": "BlueSkyTV.gr",
+    "name": "Blue Sky TV",
+    "logo": "https://i.imgur.com/C9CormG.png",
+    "logoText": "BLU",
+    "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://blueskytv.gr/"
+  },
+  {
+    "id": "CenterTV.gr",
+    "name": "Center TV",
+    "logo": "https://i.imgur.com/52JW71Q.png",
+    "logoText": "CEN",
+    "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://centertv.gr/"
+  },
+  {
+    "id": "Channel8.gr",
+    "name": "Channel 8",
+    "logo": "https://www.channel8.gr/img/channel8.png",
+    "logoText": "CHA",
+    "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.channel8.gr/index.php"
+  },
+  {
+    "id": "CorfuChannel.gr",
+    "name": "Corfu Channel",
+    "logo": "https://i.imgur.com/EFL1Tjg.png",
+    "logoText": "COR",
+    "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://corfuchannel.com/"
+  },
+  {
+    "id": "DELTATV.gr",
+    "name": "DELTA TV",
+    "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+    "logoText": "DEL",
+    "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://deltatv.gr/"
+  },
+  {
+    "id": "DiavataTV.gr",
+    "name": "Diavata TV",
+    "logo": "https://i.imgur.com/hsK68yd.png",
+    "logoText": "DIA",
+    "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://diavatatv.gr/"
+  },
+  {
+    "id": "DionTV.gr",
+    "name": "Dion TV",
+    "logo": "https://i.imgur.com/13MverN.png",
+    "logoText": "DIO",
+    "url": "https://rtmp.win:3650/live/diontvlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.win:3650/live/diontvlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://diontv.gr/"
+  },
+  {
+    "id": "EcclesiaTV.gr",
+    "name": "Ecclesia TV",
+    "logo": "https://i.imgur.com/QQSSMZx.png",
+    "logoText": "ECC",
+    "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://ecclesiatv.gr/"
+  },
+  {
+    "id": "EgnatiaTV.gr",
+    "name": "Egnatia TV",
+    "logo": "https://i.imgur.com/zuyYIca.png",
+    "logoText": "EGN",
+    "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.egnatia.tv/"
+  },
+  {
+    "id": "EllinikosFM.gr",
+    "name": "Ellinikos FM",
+    "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+    "logoText": "ELL",
+    "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ellinikosfm.com/"
+  },
+  {
+    "id": "ENAChannel.gr",
+    "name": "ENA Channel",
+    "logo": "https://i.imgur.com/3g3yjAq.png",
+    "logoText": "ENA",
+    "url": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://enachannel.gr/"
+  },
+  {
+    "id": "EpirusTV1.gr",
+    "name": "Epirus TV1",
+    "logo": "https://i.imgur.com/nYVqhu8.png",
+    "logoText": "EPI",
+    "url": "https://rtmp.win:3929/live/epiruslive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.win:3929/live/epiruslive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.epirustv1.eu/"
+  },
+  {
+    "id": "ERTCosmos.gr",
+    "name": "ERT Cosmos",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+    "logoText": "ERT",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ert.gr/tv/program/ert-cosmos/"
+  },
+  {
+    "id": "ERTNews.gr",
+    "name": "ERT News",
+    "logo": "https://i.imgur.com/HXbsPfB.png",
+    "logoText": "ERT",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ertnews.gr/"
+  },
+  {
+    "id": "ERTSports1.gr",
+    "name": "ERT Sports 1",
+    "logo": "https://i.imgur.com/EsczO2H.png",
+    "logoText": "ERT",
+    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ertsports.gr/"
+  },
+  {
+    "id": "ERTSports2.gr",
+    "name": "ERT Sports 2",
+    "logo": "https://i.imgur.com/b2SNQPi.png",
+    "logoText": "ERT",
+    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ertsports.gr/"
+  },
+  {
+    "id": "ERT1.gr",
+    "name": "ERT1",
+    "logo": "https://i.imgur.com/UKbCtC1.png",
+    "logoText": "ERT",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ert.gr/"
+  },
+  {
+    "id": "ERT2.gr",
+    "name": "ERT2",
+    "logo": "https://i.imgur.com/nMHKG3A.png",
+    "logoText": "ERT",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ert.gr/"
+  },
+  {
+    "id": "ERT3.gr",
+    "name": "ERT3",
+    "logo": "https://i.imgur.com/f2l9bDR.png",
+    "logoText": "ERT",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.ert.gr/"
+  },
+  {
+    "id": "ExtraProNews.gr",
+    "name": "Extra ProNews",
+    "logo": "https://i.imgur.com/VKW9xw6.png",
+    "logoText": "EXT",
+    "url": "http://62.1.176.18:8888/extra/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://62.1.176.18:8888/extra/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news",
+      "entertainment",
+      "shop"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.extra3.tv/"
+  },
+  {
+    "id": "FarosTV2.gr",
+    "name": "Faros TV2",
+    "logo": "https://i.imgur.com/7xtz1Jo.png",
+    "logoText": "FAR",
+    "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "FORMediaTV.gr",
+    "name": "FORMedia TV",
+    "logo": "https://i.imgur.com/8FcJ2I9.png",
+    "logoText": "FOR",
+    "url": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://formediatv.gr/"
+  },
+  {
+    "id": "GnomiTV.gr",
+    "name": "Gnomi TV",
+    "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+    "logoText": "GNO",
+    "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: http://www.gnomi.eu/"
+  },
+  {
+    "id": "GroovyTV.gr",
+    "name": "Groovy TV",
+    "logo": "https://i.imgur.com/ZYNQuf1.png",
+    "logoText": "GRO",
+    "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "HellenicParliamentTV.gr",
+    "name": "Hellenic Parliament TV",
+    "logo": "https://i.imgur.com/o2cvqv3.png",
+    "logoText": "HEL",
+    "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.hellenicparliament.gr/en/"
+  },
+  {
+    "id": "HighTV.gr",
+    "name": "High TV",
+    "logo": "https://i.imgur.com/8gHuwt7.png",
+    "logoText": "HIG",
+    "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.hightv.gr/"
+  },
+  {
+    "id": "IonianTV.gr",
+    "name": "Ionian TV",
+    "logo": "https://i.imgur.com/JILN3kS.png",
+    "logoText": "ION",
+    "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://ioniantv.gr/"
+  },
+  {
+    "id": "KontraChannel.gr",
+    "name": "Kontra Channel",
+    "logo": "https://kontrachannel.gr/images/kontrachannel24.png",
+    "logoText": "KON",
+    "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://kontrachannel.gr/"
+  },
+  {
+    "id": "KritiTV.gr",
+    "name": "Kriti TV",
+    "logo": "https://i.imgur.com/X7jKwYl.png",
+    "logoText": "KRI",
+    "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.cretetv.gr/contact-us/"
+  },
+  {
+    "id": "MesogeiosTV.gr",
+    "name": "Mesogeios TV",
+    "logo": "https://i.imgur.com/KX5olay.png",
+    "logoText": "MES",
+    "url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.mesogeiostv.gr/"
+  },
+  {
+    "id": "NaftemporikiTV.gr",
+    "name": "Naftemporiki TV",
+    "logo": "https://i.imgur.com/9OFdMud.png",
+    "logoText": "NAF",
+    "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.naftemporiki.gr/ntv/"
+  },
+  {
+    "id": "NeaTV.gr",
+    "name": "Nea TV",
+    "logo": "https://i.imgur.com/nvNW8G7.png",
+    "logoText": "NEA",
+    "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.neatv.gr/"
+  },
+  {
+    "id": "NetmaxTV.gr",
+    "name": "Netmax TV",
+    "logo": "https://i.imgur.com/dLvRD4k.png",
+    "logoText": "NET",
+    "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: http://netmaxtv.com/"
+  },
+  {
+    "id": "NotioiTV.gr",
+    "name": "Notioi TV",
+    "logo": "https://i.imgur.com/Nq00n8h.png",
+    "logoText": "NOT",
+    "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.notioi.gr/"
+  },
+  {
+    "id": "NRG91.gr",
+    "name": "NRG 91",
+    "logo": "https://i.imgur.com/1Zl1OJ5.png",
+    "logoText": "NRG",
+    "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.nrg91.gr/"
+  },
+  {
+    "id": "OneChannel.gr",
+    "name": "One Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
+    "logoText": "ONE",
+    "url": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.onetv.gr/"
+  },
+  {
+    "id": "PanikTV.gr",
+    "name": "Panik TV",
+    "logo": "https://i.imgur.com/13C3CPr.png",
+    "logoText": "PAN",
+    "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://panikmusic.gr/panik-tv/"
+  },
+  {
+    "id": "PellaTV.gr",
+    "name": "Pella TV",
+    "logo": "https://i.imgur.com/JnDXKZo.png",
+    "logoText": "PEL",
+    "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.pellatv.gr/"
+  },
+  {
+    "id": "PlayTV.gr",
+    "name": "Play TV",
+    "logo": "https://i.imgur.com/JWFOYuD.png",
+    "logoText": "PLA",
+    "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "RedMusic.gr",
+    "name": "RedMusic",
+    "logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
+    "logoText": "RED",
+    "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://redmusic.live/"
+  },
+  {
+    "id": "ReloadPlay.gr",
+    "name": "Reload Play",
+    "logo": "https://i.imgur.com/TZUsA2W.jpg",
+    "logoText": "REL",
+    "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "SamiakiTV.gr",
+    "name": "Samiaki TV",
+    "logo": "https://i.imgur.com/9Pf1we6.png",
+    "logoText": "SAM",
+    "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://samiaki.tv/"
+  },
+  {
+    "id": "SkaiTV.gr",
+    "name": "Skai TV",
+    "logo": "https://i.imgur.com/mrKRFnf.png",
+    "logoText": "SKA",
+    "url": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://skai-live.siliconweb.com/media/cambria4/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.skai.gr/tv/"
+  },
+  {
+    "id": "StarChannel.gr",
+    "name": "Star Channel",
+    "logo": "https://i.imgur.com/6NUpxhr.png",
+    "logoText": "STA",
+    "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.star.gr/tv/"
+  },
+  {
+    "id": "StarChannelInternational.gr",
+    "name": "Star Channel International",
+    "logo": "https://i.imgur.com/6NUpxhr.png",
+    "logoText": "STA",
+    "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.star.gr/tv/"
+  },
+  {
+    "id": "StarKentrikisElladas.gr",
+    "name": "Star Kentrikis Elladas",
+    "logo": "https://i.imgur.com/ZBt6beo.png",
+    "logoText": "STA",
+    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://tvstar.gr/"
+  },
+  {
+    "id": "StartTV.gr",
+    "name": "Start TV",
+    "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
+    "logoText": "STA",
+    "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.startmediacorfu.gr/"
+  },
+  {
+    "id": "SyrosTV1.gr",
+    "name": "Syros TV1",
+    "logo": "https://i.imgur.com/arQe5qS.png",
+    "logoText": "SYR",
+    "url": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://syrostv1.gr/live-tv/"
+  },
+  {
+    "id": "Telekriti.gr",
+    "name": "Telekriti",
+    "logo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+    "logoText": "TEL",
+    "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.telekriti.com/"
+  },
+  {
+    "id": "ThrakiNetTV.gr",
+    "name": "Thraki Net TV",
+    "logo": "https://i.imgur.com/3ITSnqT.png",
+    "logoText": "THR",
+    "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.thrakinet.tv/"
+  },
+  {
+    "id": "TopChannel.gr",
+    "name": "Top Channel",
+    "logo": "https://i.imgur.com/SfV2gJg.png",
+    "logoText": "TOP",
+    "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://top-channel.gr/"
+  },
+  {
+    "id": "TRT.gr",
+    "name": "TRT",
+    "logo": "https://i.imgur.com/g0jPOcC.png",
+    "logoText": "TRT",
+    "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://trttv.gr/"
+  },
+  {
+    "id": "TV100.gr",
+    "name": "TV 100",
+    "logo": "https://i.imgur.com/OBH2DfE.png",
+    "logoText": "TV ",
+    "url": "https://gwebstream.net/hls/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://gwebstream.net/hls/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://fm100.gr/"
+  },
+  {
+    "id": "TVCreta.gr",
+    "name": "TV Creta",
+    "logo": "https://i.imgur.com/CpIeJyt.png",
+    "logoText": "TV ",
+    "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://tvcreta.gr/"
+  },
+  {
+    "id": "VerginaTV.gr",
+    "name": "Vergina TV",
+    "logo": "https://i.imgur.com/abQmFoH.png",
+    "logoText": "VER",
+    "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news",
+      "entertainment"
+    ],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A. Website: https://www.verginanews.gr/"
+  },
+  {
+    "id": "Xplore.gr",
+    "name": "Xplore",
+    "logo": "https://i.imgur.com/8oy62fX.png",
+    "logoText": "XPL",
+    "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  },
+  {
+    "id": "ZouglaTV.gr",
+    "name": "Zougla TV",
+    "logo": "https://i.imgur.com/AmW9d6H.jpg",
+    "logoText": "ZOU",
+    "url": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "GR",
+    "countryName": "Greece",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Greece. Language: N/A."
+  }
+]

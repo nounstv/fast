@@ -1,0 +1,287 @@
+[
+  {
+    "id": "AryenTV.se",
+    "name": "Aryen TV",
+    "logo": "https://i.imgur.com/hIhzT7t.png",
+    "logoText": "ARY",
+    "url": "https://aryen.tv/live/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://aryen.tv/live/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.aryen.tv/"
+  },
+  {
+    "id": "ATGLive.se",
+    "name": "ATG Live",
+    "logo": "https://i.imgur.com/bPWFXkL.png",
+    "logoText": "ATG",
+    "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: http://www.atg.se/"
+  },
+  {
+    "id": "AznewsTV.se",
+    "name": "Aznews TV",
+    "logo": "https://i.imgur.com/Kw17XfP.png",
+    "logoText": "AZN",
+    "url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.aznews.tv/"
+  },
+  {
+    "id": "DiTV.se",
+    "name": "Di TV",
+    "logo": "https://i.imgur.com/zApTDWn.png",
+    "logoText": "DI ",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.di.se/ditv/"
+  },
+  {
+    "id": "ExpressenTV.se",
+    "name": "Expressen TV",
+    "logo": "https://i.imgur.com/ai0BIci.png",
+    "logoText": "EXP",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A."
+  },
+  {
+    "id": "Kanal10Asia.se",
+    "name": "Kanal 10 Asia",
+    "logo": "https://i.imgur.com/tY7IJva.png",
+    "logoText": "KAN",
+    "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.kanal10asia.com/"
+  },
+  {
+    "id": "KomalaTV.se",
+    "name": "Komala TV",
+    "logo": "https://i.imgur.com/D6KBLB8.png",
+    "logoText": "KOM",
+    "url": "https://komhls.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://komhls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://tvkomala.com/"
+  },
+  {
+    "id": "Kunskapskanalen.se",
+    "name": "Kunskapskanalen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png",
+    "logoText": "KUN",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://kunskapskanalen.se/"
+  },
+  {
+    "id": "LifeStyleTV.se",
+    "name": "LifeStyleTV",
+    "logo": "https://i.imgur.com/0mreWrM.jpg",
+    "logoText": "LIF",
+    "url": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://watch.lifestyletv.se/"
+  },
+  {
+    "id": "SVTBarnSVT24.se",
+    "name": "SVT Barn/SVT24",
+    "logo": "https://i.imgur.com/uMEwuTH.png",
+    "logoText": "SVT",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.svt.se/"
+  },
+  {
+    "id": "SVT1.se",
+    "name": "SVT1",
+    "logo": "https://i.imgur.com/j6KusQX.png",
+    "logoText": "SVT",
+    "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.svt.se/"
+  },
+  {
+    "id": "SVT2.se",
+    "name": "SVT2",
+    "logo": "https://i.imgur.com/pGWvCxp.png",
+    "logoText": "SVT",
+    "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SE",
+    "countryName": "Sweden",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sweden. Language: N/A. Website: https://www.svt.se/"
+  }
+]

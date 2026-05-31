@@ -1,0 +1,36 @@
+[
+  {
+    "id": "VOHSPgP61uCg6D",
+    "name": "Dabanga TV",
+    "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+    "category": "News",
+    "country": "SD",
+    "countryName": "Sudan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Sudan. Idioma: ara.",
+    "logoText": "DAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.dabangasudan.org/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "TueVq4VT5SxXdP",
+    "name": "Sudan TV",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+    "category": "Geral",
+    "country": "SD",
+    "countryName": "Sudan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Sudan. Idioma: ara.",
+    "logoText": "SUD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8"
+    ]
+  }
+]

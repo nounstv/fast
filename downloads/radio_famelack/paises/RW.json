@@ -1,0 +1,34 @@
+[
+  {
+    "id": "URe63t4DE17Gh9",
+    "name": "Gendana n'igihe Radio",
+    "url": "https://stream.zeno.fm/1ev107turnhvv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "RW",
+    "countryName": "Rwanda",
+    "state": "",
+    "tags": "pop",
+    "language": "kin",
+    "homepage": ""
+  },
+  {
+    "id": "nNiUrr9XhhsxLO",
+    "name": "Radio 10 Rwanda",
+    "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=streamguys1.com",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "RW",
+    "countryName": "Rwanda",
+    "state": "",
+    "tags": "talk",
+    "language": "kin",
+    "homepage": ""
+  }
+]

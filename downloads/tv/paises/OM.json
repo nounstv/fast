@@ -1,0 +1,132 @@
+[
+  {
+    "id": "AlistiqamaTV.om",
+    "name": "Alistiqama TV",
+    "logo": "https://i.imgur.com/2FPtYZr.png",
+    "logoText": "ALI",
+    "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "OM",
+    "countryName": "Oman",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Oman. Language: N/A. Website: http://www.istiqama.tv/"
+  },
+  {
+    "id": "OmanSportsTV.om",
+    "name": "Oman Sports TV",
+    "logo": "https://i.imgur.com/1omi7p8.png",
+    "logoText": "OMA",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "OM",
+    "countryName": "Oman",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Oman. Language: N/A. Website: http://part.gov.om/omantvsport/"
+  },
+  {
+    "id": "OmanTV.om",
+    "name": "Oman TV",
+    "logo": "https://i.imgur.com/rBftT9x.png",
+    "logoText": "OMA",
+    "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://trn03.bozztv.com/gin-omantv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "OM",
+    "countryName": "Oman",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Oman. Language: N/A. Website: http://part.gov.om/part/"
+  },
+  {
+    "id": "OmanTVCultural.om",
+    "name": "Oman TV Cultural",
+    "logo": "https://i.imgur.com/b38wNPK.png",
+    "logoText": "OMA",
+    "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "OM",
+    "countryName": "Oman",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Oman. Language: N/A. Website: http://part.gov.om/part/"
+  },
+  {
+    "id": "OmanTVMubashir.om",
+    "name": "Oman TV Mubashir",
+    "logo": "https://i.imgur.com/UkQTR5b.png",
+    "logoText": "OMA",
+    "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "OM",
+    "countryName": "Oman",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Oman. Language: N/A. Website: http://part.gov.om/part/"
+  }
+]

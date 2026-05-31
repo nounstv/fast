@@ -1,0 +1,608 @@
+[
+  {
+    "id": "AnandaTV.bd",
+    "name": "Ananda TV",
+    "logo": "https://i.imgur.com/jkbo7Qe.png",
+    "logoText": "ANA",
+    "url": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://103.99.249.139/anandatv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://anandatv.tv/"
+  },
+  {
+    "id": "ATNMusic.bd",
+    "name": "ATN Music",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",
+    "logoText": "ATN",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://atnmusic.tv/"
+  },
+  {
+    "id": "ATNNews.bd",
+    "name": "ATN News",
+    "logo": "https://i.imgur.com/4qZQKjo.png",
+    "logoText": "ATN",
+    "url": "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.atnnewstv.com/"
+  },
+  {
+    "id": "BoishakhiTV.bd",
+    "name": "Boishakhi TV",
+    "logo": "https://i.imgur.com/gxL05Y4.png",
+    "logoText": "BOI",
+    "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://boishakhionline.com/"
+  },
+  {
+    "id": "BTVChattogram.bd",
+    "name": "BTV Chattogram",
+    "logo": "https://i.imgur.com/hvpyuek.png",
+    "logoText": "BTV",
+    "url": "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://btv.portal.gov.bd/"
+  },
+  {
+    "id": "BTVNational.bd",
+    "name": "BTV National",
+    "logo": "https://i.imgur.com/5OE2FDt.png",
+    "logoText": "BTV",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://btv.portal.gov.bd/"
+  },
+  {
+    "id": "BTVWorld.bd",
+    "name": "BTV World",
+    "logo": "https://i.imgur.com/sSnrg7o.png",
+    "logoText": "BTV",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://btv.portal.gov.bd/site/page/b4019b08-33a6-4d3a-859a-53c77f522942/-"
+  },
+  {
+    "id": "Channel24.bd",
+    "name": "Channel 24",
+    "logo": "https://i.imgur.com/4JLkaF7.png",
+    "logoText": "CHA",
+    "url": "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.channel24bd.tv/"
+  },
+  {
+    "id": "DBCNews.bd",
+    "name": "DBC News",
+    "logo": "https://i.imgur.com/Qbt6q4z.png",
+    "logoText": "DBC",
+    "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://dbcnews.tv/"
+  },
+  {
+    "id": "DeshTV.bd",
+    "name": "Desh TV",
+    "logo": "https://i.imgur.com/ItrZok1.png",
+    "logoText": "DES",
+    "url": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.desh.tv/"
+  },
+  {
+    "id": "EkhonTV.bd",
+    "name": "Ekhon TV",
+    "logo": "https://i.imgur.com/tRrDh6z.png",
+    "logoText": "EKH",
+    "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.ekhon.tv/"
+  },
+  {
+    "id": "EkusheyTV.bd",
+    "name": "Ekushey TV",
+    "logo": "https://i.imgur.com/lRpkGHj.png",
+    "logoText": "EKU",
+    "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.ekushey-tv.com/"
+  },
+  {
+    "id": "GaziTV.bd",
+    "name": "Gazi TV",
+    "logo": "https://i.imgur.com/2Lzhiq6.png",
+    "logoText": "GAZ",
+    "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://gazitv.com/"
+  },
+  {
+    "id": "GreenTV.bd",
+    "name": "Green TV",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+    "logoText": "GRE",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Family",
+    "categories": [
+      "family"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://greentelevision.tv/"
+  },
+  {
+    "id": "IndependentTV.bd",
+    "name": "Independent TV",
+    "logo": "https://i.imgur.com/POXFhGN.png",
+    "logoText": "IND",
+    "url": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://independent24.com/"
+  },
+  {
+    "id": "JamunaTV.bd",
+    "name": "Jamuna TV",
+    "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "logoText": "JAM",
+    "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://www.jamuna.tv/"
+  },
+  {
+    "id": "MadaniChannelBangla.bd",
+    "name": "Madani Channel Bangla",
+    "logo": "https://i.imgur.com/vIJTVia.png",
+    "logoText": "MAD",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://madanichannelbangla.tv/"
+  },
+  {
+    "id": "MohonaTV.bd",
+    "name": "Mohona TV",
+    "logo": "https://i.imgur.com/E6doEWH.png",
+    "logoText": "MOH",
+    "url": "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://www.mohona.tv/"
+  },
+  {
+    "id": "MovieBangla.bd",
+    "name": "Movie Bangla",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
+    "logoText": "MOV",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://moviebangla.tv/"
+  },
+  {
+    "id": "News24.bd",
+    "name": "News 24",
+    "logo": "https://i.imgur.com/fkTHh75.png",
+    "logoText": "NEW",
+    "url": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.news24bd.tv/"
+  },
+  {
+    "id": "RTV.bd",
+    "name": "RTV",
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "logoText": "RTV",
+    "url": "https://bozztv.com/rongo/rongo-RTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-RTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.rtvonline.com/"
+  },
+  {
+    "id": "SangsadTV.bd",
+    "name": "Sangsad TV",
+    "logo": "https://i.imgur.com/jkouxLg.png",
+    "logoText": "SAN",
+    "url": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: http://www.parliament.gov.bd/index.php/en/medias/video-gallery/41-media-category/89-parliament-tv"
+  },
+  {
+    "id": "SomoyNewsTV.bd",
+    "name": "Somoy News TV",
+    "logo": "https://i.imgur.com/i54AQic.png",
+    "logoText": "SOM",
+    "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.somoynews.tv/"
+  },
+  {
+    "id": "TSports.bd",
+    "name": "T Sports",
+    "logo": "https://i.imgur.com/2JzlorD.png",
+    "logoText": "T S",
+    "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://www.tsports.com.bd/"
+  },
+  {
+    "id": "VoktaTV.bd",
+    "name": "Vokta TV",
+    "logo": "https://i.imgur.com/szAGBCU.png",
+    "logoText": "VOK",
+    "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bangladesh. Language: N/A. Website: https://vokta.tv/"
+  }
+]

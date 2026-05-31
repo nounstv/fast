@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "category": "Kids",
+    "country": "PL",
+    "countryName": "Poland",
+    "languages": [
+      "pol"
+    ],
+    "description": "Canal de TV de Poland. Idioma: pol.",
+    "logoText": "4 F",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+    ]
+  },
+  {
+    "id": "ddrr8smWgDPaNo",
+    "name": "Afarin Baxcha",
+    "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "category": "Kids",
+    "country": "IQ",
+    "countryName": "Iraq",
+    "languages": [
+      "kur"
+    ],
+    "description": "Canal de TV de Iraq. Idioma: kur.",
+    "logoText": "AFA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mtvxflwldN4QsH",
+    "name": "Aghapy Kids",
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: ara, eng.",
+    "logoText": "AGH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qrF5SmJtak0Ry4",
+    "name": "Akili Kids!",
+    "url": "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8",
+    "category": "Kids",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "AKI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XxbPKm432a9aGb",
+    "name": "Ananda",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
+    "category": "Kids",
+    "country": "ID",
+    "countryName": "Indonesia",
+    "languages": [
+      "ind"
+    ],
+    "description": "Canal de TV de Indonesia. Idioma: ind.",
+    "logoText": "ANA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8"
+    ]
+  },
+  {
+    "id": "QHuUkTJnPtT3bd",
+    "name": "Atfal & Mawaheb TV",
+    "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+    "category": "Kids",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "ATF",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BA4cWPIdrFeLrG",
+    "name": "Baby Shark TV",
+    "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [],
+    "description": "Canal de TV de United States. Idioma: N/A.",
+    "logoText": "BAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NZvHXProBuiKC4",
+    "name": "BabyTV Spain",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "BAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
+    ]
+  },
+  {
+    "id": "NsRP1rTNLBH991",
+    "name": "Balapan",
+    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "category": "Kids",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "languages": [
+      "kaz"
+    ],
+    "description": "Canal de TV de Kazakhstan. Idioma: kaz.",
+    "logoText": "BAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cGjSaev20uBBta",
+    "name": "Banijay Mr Bean Animé",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "category": "Kids",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "BAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "aDSSb0MXYf6HZV",
+    "name": "BeJoy.kids",
+    "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "BEJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "L2FPG37MOC7Wok",
+    "name": "Bolajon",
+    "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+    "category": "Kids",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "BOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1007/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ejzd7w3qnd3CEH",
+    "name": "Camp Spoopy",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "CAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
+    ]
+  },
+  {
+    "id": "eXRHxuSjLuhKid",
+    "name": "Carousel",
+    "url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CAR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+    ]
+  },
+  {
+    "id": "OrgQw5NnGfhd8H",
+    "name": "Chinola TV",
+    "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+    "category": "Kids",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "CHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
+    ]
+  },
+  {
+    "id": "ioAW5Hy7e9f7fU",
+    "name": "Chithiram",
+    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "category": "Kids",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "CHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-6.pishow.tv/live/1243/master.m3u8"
+    ]
+  },
+  {
+    "id": "aDVjvDueowqzIg",
+    "name": "Disney Jr. Latin America South",
+    "url": "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "category": "Kids",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "DIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+    ]
+  },
+  {
+    "id": "Hgr2Yg9Zm1Cgi3",
+    "name": "ducktv",
+    "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+    "category": "Kids",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: eng.",
+    "logoText": "DUC",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+      "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
+    ]
+  },
+  {
+    "id": "mkS2euN6WoaBGB",
+    "name": "EBS Kids",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "category": "Kids",
+    "country": "KR",
+    "countryName": "South Korea",
+    "languages": [
+      "kor"
+    ],
+    "description": "Canal de TV de South Korea. Idioma: kor.",
+    "logoText": "EBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nLjmNpKEQoalYU",
+    "name": "El Chavo TV",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "category": "Kids",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "w1TyAWzZva88k1",
+    "name": "ETV 2",
+    "url": "https://sb.err.ee/live/etv2.m3u8",
+    "category": "Kids",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sb.err.ee/live/etv2.m3u8"
+    ]
+  },
+  {
+    "id": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "category": "Kids",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "EXT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "94ltA5AGOAszOY",
+    "name": "GEM Junior",
+    "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
+    "category": "Kids",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
+    ]
+  },
+  {
+    "id": "LjXkD4kqM4OLiE",
+    "name": "GEM Kids",
+    "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
+    "category": "Kids",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202"
+    ]
+  },
+  {
+    "id": "KFnZBS7uvG9E90",
+    "name": "Gulli Girl",
+    "url": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "GUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "xx5fSvkMwtXOAg",
+    "name": "HodHod Farsi TV",
+    "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
+    "category": "Kids",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "HOD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
+    ]
+  },
+  {
+    "id": "qGCa4GceuRopDr",
+    "name": "Iunior TV",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, ita.",
+    "logoText": "IUN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+    ]
+  },
+  {
+    "id": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "category": "Kids",
+    "country": "BE",
+    "countryName": "Belgium",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Belgium. Idioma: fra.",
+    "logoText": "JAP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "ajXKejHqelybWn",
+    "name": "Kartoon Channel!",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "KAR",
+    "streamCount": 3,
+    "allStreams": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
+      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+    ]
+  },
+  {
+    "id": "VosvDDwN0t5G4V",
+    "name": "Ketchup TV",
+    "url": "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "KET",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171"
+    ]
+  },
+  {
+    "id": "0bMKdIaIAwnMdw",
+    "name": "Kidoodle.TV",
+    "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Kids",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "KID",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0yjVBN9zD5VvoM",
+    "name": "KiKA",
+    "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+    "category": "Kids",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "KIK",
+    "streamCount": 2,
+    "allStreams": [
+      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mh8ffIuQVJBAom",
+    "name": "Knowledge Network",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "category": "Kids",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "KNO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
+    ]
+  },
+  {
+    "id": "F30meDmVTnFNRo",
+    "name": "Lego Channel",
+    "url": "https://dh18i7whff86v.cloudfront.net/index.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "LEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dh18i7whff86v.cloudfront.net/index.m3u8"
+    ]
+  },
+  {
+    "id": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+    "category": "Kids",
+    "country": "CO",
+    "countryName": "Colombia",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Colombia. Idioma: spa.",
+    "logoText": "MEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ]
+  },
+  {
+    "id": "zYIClJMSMxWG01",
+    "name": "Minimax",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+    "category": "Kids",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [
+      "urd"
+    ],
+    "description": "Canal de TV de Pakistan. Idioma: urd.",
+    "logoText": "MIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "url": "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "MOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+    ]
+  },
+  {
+    "id": "v8VxyASjwxc8RX",
+    "name": "Mr Bean Live Action",
+    "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [],
+    "description": "Canal de TV de United Kingdom. Idioma: N/A.",
+    "logoText": "MR ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "R6VpE6L98QcSep",
+    "name": "Mr. Bean Animated",
+    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "MR.",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
+    ]
+  },
+  {
+    "id": "TJTh9T3GBOw5hs",
+    "name": "Mr. Bean Anime Italy",
+    "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "MR.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "lRMrIEjwRowfq6",
+    "name": "Mr. Bean Anime Spain",
+    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "MR.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Pl9PpHSjGV5iKN",
+    "name": "Multilandia",
+    "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "gcKdwQBnRSpRrD",
+    "name": "Multimania",
+    "url": "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "j5aEA4hOVinh3j",
+    "name": "Nickelodeon",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+    "category": "Kids",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
+    ]
+  },
+  {
+    "id": "yfo1gJBb7MDFEI",
+    "name": "Nickelodeon East",
+    "url": "https://79.127.207.193/Nickelodeon/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "NIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://79.127.207.193/Nickelodeon/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1JYYpqQgnjcE3u",
+    "name": "NickOnline",
+    "url": "https://x1co.com.br/hls/stream.m3u8",
+    "category": "Kids",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "NIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://x1co.com.br/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "VvHhOWwHL2G6fH",
+    "name": "NickToons Brasil",
+    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "category": "Kids",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "NIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "veSkgi6hizxqlB",
+    "name": "PBS Kids",
+    "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+    ]
+  },
+  {
+    "id": "lZcSMdwkQIJx74",
+    "name": "PBS Kids Alaska",
+    "url": "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
+    ]
+  },
+  {
+    "id": "hpqn2IN4H4i4YN",
+    "name": "PBS Kids Eastern/Central",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jdgPZWgMCGIzNv",
+    "name": "PBS Kids Hawaii",
+    "url": "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
+    ]
+  },
+  {
+    "id": "Zq8ejlsB34g72F",
+    "name": "PBS Kids Mountain",
+    "url": "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8"
+    ]
+  },
+  {
+    "id": "mwrBMj9pE1Egws",
+    "name": "PBS Kids Pacific",
+    "url": "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
+    ]
+  },
+  {
+    "id": "58RSnZgHiw5v1T",
+    "name": "Persiana Junior",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "category": "Kids",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://junhls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "1awQzLMKT020rN",
+    "name": "Persiana Teen",
+    "url": "https://kphls.persiana.live/hls/stream.m3u8",
+    "category": "Kids",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kphls.persiana.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "PyldYXsoAXUikk",
+    "name": "Pingviins",
+    "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+    "category": "Kids",
+    "country": "LV",
+    "countryName": "Latvia",
+    "languages": [
+      "lav"
+    ],
+    "description": "Canal de TV de Latvia. Idioma: lav.",
+    "logoText": "PIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ]
+  },
+  {
+    "id": "f3r1wPE0Kg64bZ",
+    "name": "pocket.watch",
+    "url": "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "POC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
+    ]
+  },
+  {
+    "id": "scDZ3wRq1kFeHG",
+    "name": "Pokémon",
+    "url": "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "POK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
+    ]
+  },
+  {
+    "id": "vffrjcRyojS9JW",
+    "name": "Pokémon",
+    "url": "https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "POK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8"
+    ]
+  },
+  {
+    "id": "uuPEZrmKbOVuZJ",
+    "name": "Radost Moya",
+    "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "50AOLuz78mWfKm",
+    "name": "RiC",
+    "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+    "category": "Kids",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "RIC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IaPzNcOFguJ1fR",
+    "name": "Roya Kids",
+    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+    "category": "Kids",
+    "country": "JO",
+    "countryName": "Jordan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Jordan. Idioma: ara.",
+    "logoText": "ROY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "AnJeMRVilOxANP",
+    "name": "Roya Kids Originals",
+    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+    "category": "Kids",
+    "country": "JO",
+    "countryName": "Jordan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Jordan. Idioma: ara.",
+    "logoText": "ROY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tONaVtyzG81qYw",
+    "name": "Ryan and Friends",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "RYA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
+      "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8"
+    ]
+  },
+  {
+    "id": "b3MNVX3z2oxA71",
+    "name": "Ryzhiy",
+    "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RYZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "rdOkwBEFcArbvv",
+    "name": "Skwad Play",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "SKW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71"
+    ]
+  },
+  {
+    "id": "JIPUpjryYJZoMO",
+    "name": "Smile TV",
+    "url": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SMI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jVAavKgp3OBX31",
+    "name": "Solnce",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+    ]
+  },
+  {
+    "id": "99DtWOF0uOZLNA",
+    "name": "Tamyr",
+    "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "bak"
+    ],
+    "description": "Canal de TV de Russia. Idioma: bak.",
+    "logoText": "TAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IOF8Iz2JmaTIcg",
+    "name": "Teletubbies",
+    "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "TEL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
+      "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+    ]
+  },
+  {
+    "id": "7ou9OY1nQUGsSq",
+    "name": "Tiguerito TV",
+    "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+    "category": "Kids",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "TIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uNWpwawKxaERb1",
+    "name": "TiJi",
+    "url": "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TIJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "Z7ZN5vbpyU6mdl",
+    "name": "Tiny Pop",
+    "url": "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "TIN",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+      "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gHsgAPKQa5gckh",
+    "name": "Tom And Jerry",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IZCLwsQd7Wmaiq",
+    "name": "ToonGoggles",
+    "url": "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TOO",
+    "streamCount": 3,
+    "allStreams": [
+      "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8",
+      "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37"
+    ]
+  },
+  {
+    "id": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "category": "Kids",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "TRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ]
+  },
+  {
+    "id": "aIKbRpQHmkkXLq",
+    "name": "TRT Diyanet Cocuk",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "category": "Kids",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "TRT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+    ]
+  },
+  {
+    "id": "G5MvNhKDTwrAEa",
+    "name": "TVCARiB Kids & Teens",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "category": "Kids",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "description": "Canal de TV de Sint Maarten. Idioma: eng, nld.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+    ]
+  },
+  {
+    "id": "AhKM0xkZXbEXn7",
+    "name": "TVS Hi Tops",
+    "url": "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8",
+    "category": "Kids",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8"
+    ]
+  },
+  {
+    "id": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "category": "Kids",
+    "country": "AR",
+    "countryName": "Argentina",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Argentina. Idioma: spa.",
+    "logoText": "XTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "25EJA2ZeSSXbwm",
+    "name": "YAAAS!",
+    "url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8",
+    "category": "Kids",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "YAA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
+    ]
+  },
+  {
+    "id": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "category": "Kids",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "ben"
+    ],
+    "description": "Canal de TV de India. Idioma: ben.",
+    "logoText": "ZB ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ]
+  },
+  {
+    "id": "y1OGn4C9pf6ycf",
+    "name": "ZooMoo",
+    "url": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+    "category": "Kids",
+    "country": "SG",
+    "countryName": "Singapore",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Singapore. Idioma: eng.",
+    "logoText": "ZOO",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+    ]
+  }
+]

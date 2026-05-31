@@ -1,0 +1,469 @@
+[
+  {
+    "id": "2TkyVV55zzBzz3",
+    "name": "Al Arabiya Business",
+    "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+    "category": "Business",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de United Arab Emirates. Idioma: ara.",
+    "logoText": "AL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hNpror6ZnqPuws",
+    "name": "Aleph Business",
+    "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+    "category": "Business",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "ALE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OTtgOdMuzH3Ad4",
+    "name": "Ausbiz TV",
+    "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+    "category": "Business",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "AUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+    ]
+  },
+  {
+    "id": "jJ5KY3frn8Mets",
+    "name": "Bilyonaryo News Channel",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "category": "Business",
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "description": "Canal de TV de Philippines. Idioma: eng, fil.",
+    "logoText": "BIL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GQEjero7WWkJqT",
+    "name": "Bloomberg HT",
+    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+    "category": "Business",
+    "country": "TR",
+    "countryName": "Türkiye",
+    "languages": [
+      "tur"
+    ],
+    "description": "Canal de TV de Türkiye. Idioma: tur.",
+    "logoText": "BLO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+    ]
+  },
+  {
+    "id": "TGIxs2mxFIlLmz",
+    "name": "Bloomberg TV US",
+    "url": "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8",
+    "category": "Business",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "BLO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cUUd6iJP5ivAhb",
+    "name": "Business 24 Africa",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+    "category": "Business",
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Ivory Coast. Idioma: fra.",
+    "logoText": "BUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8"
+    ]
+  },
+  {
+    "id": "b8gunvy17bdMzO",
+    "name": "Cafe Trade TV",
+    "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+    "category": "Business",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de United States. Idioma: fas.",
+    "logoText": "CAF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cafetradehls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "0w7Ai7GtLMZNLS",
+    "name": "Canal Pro",
+    "url": "https://www.desde-paraguay.com/pro.m3u8",
+    "category": "Business",
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Paraguay. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.desde-paraguay.com/pro.m3u8"
+    ]
+  },
+  {
+    "id": "vxtY5UyNAjZlYv",
+    "name": "CGTN Global Biz",
+    "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+    "category": "Business",
+    "country": "CN",
+    "countryName": "China",
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "description": "Canal de TV de China. Idioma: eng, zho.",
+    "logoText": "CGT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vrlS9LYggqZr3W",
+    "name": "Class CNBC",
+    "url": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Business",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "acbY5wCKKgtMnI",
+    "name": "CNBC Arabiya",
+    "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+    "category": "Business",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de United Arab Emirates. Idioma: ara.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+    ]
+  },
+  {
+    "id": "G00HUpBKHxckzh",
+    "name": "CNBC Asia",
+    "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+    "category": "Business",
+    "country": "SG",
+    "countryName": "Singapore",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Singapore. Idioma: eng.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
+    ]
+  },
+  {
+    "id": "MGainK9O6Ki8Pq",
+    "name": "CNBC Awaaz",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "hin"
+    ],
+    "description": "Canal de TV de India. Idioma: hin.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"
+    ]
+  },
+  {
+    "id": "DdROsd1Q2nYJRU",
+    "name": "CNBC Bajar",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "guj"
+    ],
+    "description": "Canal de TV de India. Idioma: guj.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8"
+    ]
+  },
+  {
+    "id": "mEIRNL8QzgtqGN",
+    "name": "CNBC TV18",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de India. Idioma: eng.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
+    ]
+  },
+  {
+    "id": "9LN6MzHXKTHs5F",
+    "name": "CNBC TV18 Prime HD",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de India. Idioma: eng.",
+    "logoText": "CNB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8"
+    ]
+  },
+  {
+    "id": "2E1QCHJTYwtjGg",
+    "name": "DeFiance Media",
+    "url": "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Business",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Puerto Rico. Idioma: eng.",
+    "logoText": "DEF",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Vlv7oVLxod7s5c",
+    "name": "ET Now Swadesh",
+    "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de India. Idioma: eng.",
+    "logoText": "ET ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
+    ]
+  },
+  {
+    "id": "E9smyEh0BaQpif",
+    "name": "JOB TV",
+    "url": "https://jobtvserver.eu/hls/stream.m3u8",
+    "category": "Business",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "JOB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://jobtvserver.eu/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "PrbGgJSVKuINgQ",
+    "name": "NDTV Profit",
+    "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+    "category": "Business",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de India. Idioma: eng.",
+    "logoText": "NDT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+    ]
+  },
+  {
+    "id": "rW8dm4MTBacJXv",
+    "name": "Negocios TV",
+    "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+    "category": "Business",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+    ]
+  },
+  {
+    "id": "CEAdR8bknBDUPA",
+    "name": "RBK-TV",
+    "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+    "category": "Business",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RBK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+    ]
+  },
+  {
+    "id": "7Hi1mkEHCgVdat",
+    "name": "Schwab Network",
+    "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+    "category": "Business",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "SCH",
+    "streamCount": 2,
+    "allStreams": [
+      "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+      "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
+    ]
+  },
+  {
+    "id": "BlvOv7Ksnyq1tc",
+    "name": "Telewizja Biznesowa",
+    "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+    "category": "Business",
+    "country": "PL",
+    "countryName": "Poland",
+    "languages": [
+      "pol"
+    ],
+    "description": "Canal de TV de Poland. Idioma: pol.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+    ]
+  },
+  {
+    "id": "Buf371rRZBbDSG",
+    "name": "Tevex",
+    "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+    "category": "Business",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "TEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+    ]
+  },
+  {
+    "id": "b4Usnwe7Qsd37O",
+    "name": "Yahoo! Finance",
+    "url": "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Business",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "YAH",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+      "https://yahoo-plex.amagi.tv/playlist.m3u8"
+    ]
+  }
+]

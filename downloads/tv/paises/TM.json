@@ -1,0 +1,234 @@
+[
+  {
+    "id": "AltynAsyr.tm",
+    "name": "Altyn Asyr",
+    "logo": "https://i.imgur.com/D7RBtZ2.png",
+    "logoText": "ALT",
+    "url": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch001.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "ArkadagTV.tm",
+    "name": "Arkadag TV",
+    "logo": "https://i.imgur.com/JdEb4Ug.png",
+    "logoText": "ARK",
+    "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch000.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "Asgabat.tm",
+    "name": "Asgabat",
+    "logo": "https://i.imgur.com/EzjR1vo.png",
+    "logoText": "ASG",
+    "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "Miras.tm",
+    "name": "Miras",
+    "logo": "https://i.imgur.com/pWbJzr9.png",
+    "logoText": "MIR",
+    "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch003.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "TurkmenOwazy.tm",
+    "name": "Turkmen Owazy",
+    "logo": "https://i.imgur.com/Ap7l2jC.png",
+    "logoText": "TUR",
+    "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "Turkmenistan.tm",
+    "name": "Turkmenistan",
+    "logo": "https://i.imgur.com/iBBpBx4.png",
+    "logoText": "TUR",
+    "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "TurkmenistanSport.tm",
+    "name": "Turkmenistan Sport",
+    "logo": "https://i.imgur.com/n6vITLu.png",
+    "logoText": "TUR",
+    "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  },
+  {
+    "id": "Yaslyk.tm",
+    "name": "Yaslyk",
+    "logo": "https://i.imgur.com/QVWBNGM.png",
+    "logoText": "YAS",
+    "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Turkmenistan. Language: N/A. Website: http://turkmentv.gov.tm/"
+  }
+]

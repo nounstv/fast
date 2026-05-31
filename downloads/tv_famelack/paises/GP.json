@@ -1,0 +1,88 @@
+[
+  {
+    "id": "5FpDtkfHBqWmGc",
+    "name": "ETV",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+    "category": "General",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra",
+      "gcf"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra, gcf.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "QxPzLGnZPWA96s",
+    "name": "Madras FM TV",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "MAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "wyglbGJXWbBKjH",
+    "name": "Radio TV Basse-Terre",
+    "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+    "category": "General",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo.ssl-stream.com:3412/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "d9hZfLvD7LqKMb",
+    "name": "RHT Guadeloupe",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "RHT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "oimpG8sQBrTcUM",
+    "name": "TMA",
+    "url": "https://hls.tmacaraibes.com/live/index.m3u8",
+    "category": "Music",
+    "country": "GP",
+    "countryName": "Guadeloupe",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de Guadeloupe. Idioma: fra.",
+    "logoText": "TMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.tmacaraibes.com/live/index.m3u8"
+    ]
+  }
+]

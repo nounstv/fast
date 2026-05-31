@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "Ok0YOGbjjwXfMY",
+    "name": "2x2",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "2X2",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8"
+    ]
+  },
+  {
+    "id": "E2Tr0ZxksfVENx",
+    "name": "3ABN Russia",
+    "url": "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "3AB",
+    "streamCount": 2,
+    "allStreams": [
+      "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8",
+      "https://hls.tv.3angels.ru/stream.m3u8"
+    ]
+  },
+  {
+    "id": "DnX6s8UUlBogeL",
+    "name": "86",
+    "url": "https://sitv.ru/hls/s86.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "86",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sitv.ru/hls/s86.m3u8"
+    ]
+  },
+  {
+    "id": "8KkzMzj0gbrJEI",
+    "name": "360°",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "360",
+    "streamCount": 2,
+    "allStreams": [
+      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
+      "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+    ]
+  },
+  {
+    "id": "5Piezdkcn8rLT9",
+    "name": "360° News",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "360",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hCnlUCWzC85Pyo",
+    "name": "AIST TV",
+    "url": "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "AIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3VqJp1fO3TYTIw",
+    "name": "Angel TV Russian",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ANG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Dp26BhBSy3QLvt",
+    "name": "Arkhyz 24",
+    "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ARK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pylCnIUgUIOSQ7",
+    "name": "Astrahan 24",
+    "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "AST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VEwkzfegp92NSy",
+    "name": "Astrahan.Ru Sport",
+    "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
+    "category": "Sports",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "AST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "m5FdV3wlSDvaZN",
+    "name": "Astrahan.Ru TV",
+    "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "AST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RkE4eVl7ofwaod",
+    "name": "Bollywood HD Russia",
+    "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "hin",
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: hin, rus.",
+    "logoText": "BOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8"
+    ]
+  },
+  {
+    "id": "XSlKJ9xyYgIwpX",
+    "name": "BST",
+    "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "BST",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eXRHxuSjLuhKid",
+    "name": "Carousel",
+    "url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CAR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+    ]
+  },
+  {
+    "id": "yVNR591w218Gmb",
+    "name": "Channel 5",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "PY8NMbdPt4ZJhu",
+    "name": "Channel 12",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CHA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
+      "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "U4INrzVYWsDWWg",
+    "name": "Channel One",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
+    ]
+  },
+  {
+    "id": "OhHE64oK7ZXx5g",
+    "name": "Che!",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CHE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
+    ]
+  },
+  {
+    "id": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
+    "category": "Auto",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ]
+  },
+  {
+    "id": "BN8UK0JlgAMrEm",
+    "name": "City Eden Birma Play",
+    "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ]
+  },
+  {
+    "id": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
+    "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47400/index.m3u8"
+    ]
+  },
+  {
+    "id": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
+    ]
+  },
+  {
+    "id": "n4R8lzuArvLNkC",
+    "name": "City Eden KinoArt",
+    "url": "https://cityeden.catcast.tv/content/38398/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/38398/index.m3u8"
+    ]
+  },
+  {
+    "id": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
+    "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34393/index.m3u8"
+    ]
+  },
+  {
+    "id": "8Ucx5FG7ngDLh5",
+    "name": "City Eden KinoDetektiv",
+    "url": "https://cityeden.catcast.tv/content/41327/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/41327/index.m3u8"
+    ]
+  },
+  {
+    "id": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+    "category": "Series",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ]
+  },
+  {
+    "id": "FQwfx6NTcjE41o",
+    "name": "City Eden KinoDrama",
+    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    ]
+  },
+  {
+    "id": "zzxh5uo44jq1FL",
+    "name": "City Eden KinoFantastika",
+    "url": "https://cityeden.catcast.tv/content/45268/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
+    ]
+  },
+  {
+    "id": "xjnk7dNYRv7edj",
+    "name": "City Eden KinoKlassika",
+    "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ]
+  },
+  {
+    "id": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
+    "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    ]
+  },
+  {
+    "id": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
+    "url": "https://cityeden.catcast.tv/content/40783/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ]
+  },
+  {
+    "id": "QICcmd6W79YgPC",
+    "name": "City Eden Meditation Music",
+    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47410/index.m3u8"
+    ]
+  },
+  {
+    "id": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "url": "https://cityeden.catcast.tv/content/47519/index.m3u8",
+    "category": "Lifestyle",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
+    ]
+  },
+  {
+    "id": "9QIFKg7aQ0UqIc",
+    "name": "City Eden Play",
+    "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34100/index.m3u8"
+    ]
+  },
+  {
+    "id": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
+    "category": "Cooking",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/47516/index.m3u8"
+    ]
+  },
+  {
+    "id": "eLHDrGKZWgbc15",
+    "name": "City Eden Sirtaki TV",
+    "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/46421/index.m3u8"
+    ]
+  },
+  {
+    "id": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
+    "category": "Series",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/46209/index.m3u8"
+    ]
+  },
+  {
+    "id": "JIOxlnAu1GPh23",
+    "name": "City Eden TV",
+    "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cityeden.catcast.tv/content/34246/index.m3u8"
+    ]
+  },
+  {
+    "id": "BxZoC6PtEMXYP0",
+    "name": "Crimea 24",
+    "url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
+    ]
+  },
+  {
+    "id": "2Gi4riOGPwTn6u",
+    "name": "Current Time TV",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "CUR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+      "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qOPKbSdUtm3BNM",
+    "name": "Dagestan",
+    "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "lMbPpHBoCjzoLt",
+    "name": "Doctor",
+    "url": "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8",
+    "category": "Lifestyle",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DOC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "TzIN60aLMDMQAJ",
+    "name": "Dom kino",
+    "url": "https://streaming.thestream.cyou/live/44.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.thestream.cyou/live/44.m3u8"
+    ]
+  },
+  {
+    "id": "H02hn1sGkwKEV1",
+    "name": "Domashniy",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "category": "Lifestyle",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+    ]
+  },
+  {
+    "id": "tVKEKu2ttkc0Bj",
+    "name": "Drive",
+    "url": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
+    "category": "Auto",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "url": "https://dumatv.iptv2022.com/playlist.m3u8",
+    "category": "Legislative",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "DUM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "D64rjLP065KQ1v",
+    "name": "Enisey",
+    "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ENI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fAUqob7LIqewI8",
+    "name": "Fon Music",
+    "url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "FON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "W7NdP3Tfi9qZIK",
+    "name": "Friday!",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "FRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
+    ]
+  },
+  {
+    "id": "qR0alRDphlQYmL",
+    "name": "Glazami Turista",
+    "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+    "category": "Travel",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "GLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "KFnZBS7uvG9E90",
+    "name": "Gulli Girl",
+    "url": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "GUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "mhdcDiXTatKlEo",
+    "name": "Hope Channel Russia",
+    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "HOP",
+    "streamCount": 2,
+    "allStreams": [
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QyASYgL5e57Tu7",
+    "name": "Huzur TV",
+    "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus",
+      "tat"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus, tat.",
+    "logoText": "HUZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "etbkA5a5Tjztc5",
+    "name": "Ingushetia",
+    "url": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ING",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nXaeivkDQS2yX6",
+    "name": "Insayt TV 4K",
+    "url": "https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Russia. Idioma: eng.",
+    "logoText": "INS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "NnC1GZ5G6E4byn",
+    "name": "Izvestia",
+    "url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "IZV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gSNslvci5VvEfL",
+    "name": "Kino 24",
+    "url": "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "KIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+    ]
+  },
+  {
+    "id": "0fhHaRwDLyHBDP",
+    "name": "Krik-TV",
+    "url": "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "KRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ikWCW6GqvchRKk",
+    "name": "Kuban 24",
+    "url": "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "KUB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8"
+    ]
+  },
+  {
+    "id": "1aAIRengbKXkrk",
+    "name": "Kuraj-TV",
+    "url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "KUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nTIR26728Xpjfo",
+    "name": "Legendarnyy 24",
+    "url": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "LEG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+    ]
+  },
+  {
+    "id": "S00p2qbV49fypF",
+    "name": "LenTV24",
+    "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "LEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8"
+    ]
+  },
+  {
+    "id": "NmNu9xP3DzG5RI",
+    "name": "Lugansk 24",
+    "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "LUG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ]
+  },
+  {
+    "id": "VuVzz3cHZwcEIp",
+    "name": "Magnat",
+    "url": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
+    "category": "Shop",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MAG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    ]
+  },
+  {
+    "id": "erxOsx3g2a8Kk4",
+    "name": "Millet",
+    "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live1.1tvcrimea.ru/milletlive.m3u8"
+    ]
+  },
+  {
+    "id": "uDtc6dKSG8zrSy",
+    "name": "Mir",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8"
+    ]
+  },
+  {
+    "id": "RBcipQTyHVOX0t",
+    "name": "Mir 24",
+    "url": "https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QbSliQh8SqKO7C",
+    "name": "MTV Volgograd",
+    "url": "https://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Pl9PpHSjGV5iKN",
+    "name": "Multilandia",
+    "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "gcKdwQBnRSpRrD",
+    "name": "Multimania",
+    "url": "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "CD6tJOVgDMcaFw",
+    "name": "Muz Soyuz",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VuIxmH07laWpCU",
+    "name": "Muz-TV",
+    "url": "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "MUZ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "yWqRPjIHcgYftM",
+    "name": "Nano",
+    "url": "https://s1.tv-nano.com/Nano_rec/index.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+    ]
+  },
+  {
+    "id": "0K6Sg1G2bk6cyj",
+    "name": "Nika TV",
+    "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NIK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "y0xVte051Kr4xO",
+    "name": "Nizhniy Novgorod 24",
+    "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NIZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "faqGeiRxd1lq7S",
+    "name": "NovgorOblTV",
+    "url": "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NOV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "BFH0gtUHGzILzf",
+    "name": "Novy Vek",
+    "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NOV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
+    ]
+  },
+  {
+    "id": "PQJUP9ib8lXjkv",
+    "name": "NTK 21",
+    "url": "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NTK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8"
+    ]
+  },
+  {
+    "id": "uxnzXetk0UmPe4",
+    "name": "NTM",
+    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NTM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZKYBGybJlsgcz0",
+    "name": "NTS",
+    "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NTS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "r7CIzrnkl8uDaW",
+    "name": "NTV",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "url": "https://streaming.thestream.cyou/live/213.m3u8",
+    "category": "Culture",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ]
+  },
+  {
+    "id": "Fjtpd5BvjmY1Dr",
+    "name": "NVK Sakha",
+    "url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "eng",
+      "rus",
+      "sah"
+    ],
+    "description": "Canal de TV de Russia. Idioma: eng, rus, sah.",
+    "logoText": "NVK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "skmeLVfBwTzGbY",
+    "name": "Ohotnik i rybolov",
+    "url": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
+    "category": "Outdoor",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "OHO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "Dey2lxno90kK7c",
+    "name": "OSN",
+    "url": "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "OSN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
+    "url": "https://v4.proofix.ru/0mir/index.m3u8",
+    "category": "Lifestyle",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "OTK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://v4.proofix.ru/0mir/index.m3u8"
+    ]
+  },
+  {
+    "id": "JlKHz3NWpcFhMg",
+    "name": "OTR",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "OTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8"
+    ]
+  },
+  {
+    "id": "CdPsbXmKIYhFzA",
+    "name": "OTV-Prim",
+    "url": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "OTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ClrLVtv3nyuxRh",
+    "name": "Patriot",
+    "url": "https://catchup.videoline.ru/asvtv/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://catchup.videoline.ru/asvtv/index.m3u8"
+    ]
+  },
+  {
+    "id": "kDIn5P06JUE8QJ",
+    "name": "Perviy Krymskiy",
+    "url": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+    ]
+  },
+  {
+    "id": "xaE820ta9it7vV",
+    "name": "Pervyy Respublikanskiy",
+    "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+    ]
+  },
+  {
+    "id": "GiUZg4rfUCBFAk",
+    "name": "Prima",
+    "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PRI",
+    "streamCount": 2,
+    "allStreams": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+      "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8"
+    ]
+  },
+  {
+    "id": "oubeKLPS2AIZdf",
+    "name": "Pro100TV",
+    "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ]
+  },
+  {
+    "id": "pcI2j43Wt5LTQp",
+    "name": "Prosveshchenie",
+    "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "PRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uuPEZrmKbOVuZJ",
+    "name": "Radost Moya",
+    "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CEAdR8bknBDUPA",
+    "name": "RBK-TV",
+    "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+    "category": "Business",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RBK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+    ]
+  },
+  {
+    "id": "73U70IdSqhsawL",
+    "name": "Red Line",
+    "url": "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RED",
+    "streamCount": 2,
+    "allStreams": [
+      "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
+      "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
+    ]
+  },
+  {
+    "id": "ozSzQOoi5TVpjb",
+    "name": "REN TV",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "REN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
+    ]
+  },
+  {
+    "id": "kJxhW4T0WgcTGG",
+    "name": "Rossiya 1 Vainah",
+    "url": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ROS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7cwJKMK6fPevgm",
+    "name": "RT",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+    "category": "Top news",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Russia. Idioma: eng.",
+    "logoText": "RT",
+    "streamCount": 3,
+    "allStreams": [
+      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "JnxjBtQt6s0RPO",
+    "name": "RT Arabic",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Russia. Idioma: ara.",
+    "logoText": "RT ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Slt5syXsekpkl9",
+    "name": "RT Documentary English",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Russia. Idioma: eng.",
+    "logoText": "RT ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0mulGVhtSW9kDC",
+    "name": "RTД",
+    "url": "https://streaming.thestream.cyou/live/554.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RTД",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.thestream.cyou/live/554.m3u8",
+      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OGCmN6tl6MdX8f",
+    "name": "Russia-1",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
+    ]
+  },
+  {
+    "id": "kE9bsHhgT7dCv2",
+    "name": "Russia-24",
+    "url": "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RUS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
+    ]
+  },
+  {
+    "id": "p36vvpwTrBuj6A",
+    "name": "Russia-K",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+    "category": "Culture",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ]
+  },
+  {
+    "id": "b3MNVX3z2oxA71",
+    "name": "Ryzhiy",
+    "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RYZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "Yglik68ssWvklf",
+    "name": "S1",
+    "url": "https://sitv.ru/hls/stv.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "S1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sitv.ru/hls/stv.m3u8"
+    ]
+  },
+  {
+    "id": "0iCtP4Yw0JqFxI",
+    "name": "Salyam",
+    "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8Hde8aJv6IJm4i",
+    "name": "Samara-GIS",
+    "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "hQgDaeyJfdzNfx",
+    "name": "Sankt-Peterburg",
+    "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8"
+    ]
+  },
+  {
+    "id": "vOtrXXsk5F3fig",
+    "name": "Sever",
+    "url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Xmq0ko3zys05Tb",
+    "name": "Shanson TV",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SHA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+      "https://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OU8aCzJR3XgtbJ",
+    "name": "Simferopol 24",
+    "url": "https://simf.1tvcrimea.ru/simferopol24.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SIM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://simf.1tvcrimea.ru/simferopol24.m3u8"
+    ]
+  },
+  {
+    "id": "JIPUpjryYJZoMO",
+    "name": "Smile TV",
+    "url": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SMI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XsDojCA8SLZ0wU",
+    "name": "Smotrim Chestnyy Detektiv",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
+    "category": "Series",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SMO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jVAavKgp3OBX31",
+    "name": "Solnce",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+    ]
+  },
+  {
+    "id": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gG2sCG4QdpdTl7",
+    "name": "Soyuz",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SOY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3w30y8OQCcGoAy",
+    "name": "Spas",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SPA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
+    ]
+  },
+  {
+    "id": "4fSWekqVzO4BQS",
+    "name": "Strana FM",
+    "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+      "https://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Q2BhpM1IToL6dc",
+    "name": "STS",
+    "url": "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+    "category": "Family",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+    ]
+  },
+  {
+    "id": "d8wK3YuIEkuIYv",
+    "name": "STS Love",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+    "category": "Family",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+    ]
+  },
+  {
+    "id": "cqRI47XhJmXOWU",
+    "name": "Studiya Fakt",
+    "url": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eKfYqU6hglotWE",
+    "name": "Subbota!",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SUB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
+    ]
+  },
+  {
+    "id": "VvHs0le0kh5DyD",
+    "name": "Surgut 24",
+    "url": "https://sitv.ru/vgtrk/stv.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sitv.ru/vgtrk/stv.m3u8"
+    ]
+  },
+  {
+    "id": "nb5MYVmBj2KvUf",
+    "name": "Svoyo TV",
+    "url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "SVO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "99DtWOF0uOZLNA",
+    "name": "Tamyr",
+    "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "bak"
+    ],
+    "description": "Canal de TV de Russia. Idioma: bak.",
+    "logoText": "TAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "j6MZdxXHuUAaPH",
+    "name": "Tavriya",
+    "url": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TAV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ]
+  },
+  {
+    "id": "IjfaeT61g4IFJ9",
+    "name": "Telekanal Krasnodar",
+    "url": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4LYbtSIziaVivG",
+    "name": "Telplus",
+    "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uNWpwawKxaERb1",
+    "name": "TiJi",
+    "url": "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+    "category": "Kids",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TIJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "ykkeMlR0XOtHqW",
+    "name": "TKR",
+    "url": "https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TKR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ifTYV3LUxWMK3L",
+    "name": "TNT",
+    "url": "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TNT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+    ]
+  },
+  {
+    "id": "pHCP5XUV54XUTL",
+    "name": "TNT4",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TNT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
+    ]
+  },
+  {
+    "id": "6yBLRoSzypIDNJ",
+    "name": "TNV-Planet",
+    "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TNV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qNo5nKmdri2pF3",
+    "name": "Tolk",
+    "url": "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+    "category": "News",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0hiQdgKd6nMh6h",
+    "name": "TV BRICS Russian",
+    "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Szpgy7EpmRPYV0",
+    "name": "TV Centr",
+    "url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TV ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8"
+    ]
+  },
+  {
+    "id": "jtxJjjvaYlzacH",
+    "name": "TV Rain",
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2oOBy2H7RVg3AY",
+    "name": "TV-3",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TV-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8"
+    ]
+  },
+  {
+    "id": "kdCila39s1AU8k",
+    "name": "TVK",
+    "url": "https://air.tvk6.ru/tvk24/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "TVK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://air.tvk6.ru/tvk24/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iKbsITYVtirmyF",
+    "name": "U",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
+    "category": "Entertainment",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "U",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
+    ]
+  },
+  {
+    "id": "HLEoRKBCS06HUI",
+    "name": "Ugra-TV",
+    "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "UGR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3OOeiozk8ilduN",
+    "name": "Univer TV",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "UNI",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SP0kNtTm9KEzd5",
+    "name": "Vera 24",
+    "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
+    "category": "Religious",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VER",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qoUkakDtbgDtaT",
+    "name": "Vital Drive",
+    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "category": "Sports",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://autopilot.catcast.tv/content/37909/index.m3u8",
+      "https://tv.a21network.ru/stream/37909/index.m3u8"
+    ]
+  },
+  {
+    "id": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VIV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+    ]
+  },
+  {
+    "id": "pnRdmB03EI7cgW",
+    "name": "Vmeste-RF",
+    "url": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VME",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CX3tgybrTddfmZ",
+    "name": "Volga",
+    "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yjqlyDxVZ1PJXX",
+    "name": "Vostok 24",
+    "url": "https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "VOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8"
+    ]
+  },
+  {
+    "id": "MzPT9rWsVbKTNy",
+    "name": "YaPervyy",
+    "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "YAP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UduqqsC4bcIebm",
+    "name": "Yuvelirochka",
+    "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "category": "Shop",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "YUV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ep4eseqBm4UkmF",
+    "name": "Za! TV",
+    "url": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus, ukr.",
+    "logoText": "ZA!",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+    ]
+  },
+  {
+    "id": "1tGmbGgzdva6hK",
+    "name": "Zoopark",
+    "url": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ZOO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "id": "RRz92yn8V5E9Cn",
+    "name": "Zvezda",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ZVE",
+    "streamCount": 3,
+    "allStreams": [
+      "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+      "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/748.m3u8"
+    ]
+  },
+  {
+    "id": "VXgZWR9GlvTCmv",
+    "name": "Zvezda Plus",
+    "url": "https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
+    "category": "Geral",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ZVE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LDv8j64nAQo1e9",
+    "name": "Детское кино International",
+    "url": "https://autopilot.catcast.tv/content/38720/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ДЕТ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://autopilot.catcast.tv/content/38720/index.m3u8"
+    ]
+  },
+  {
+    "id": "JsbwFfNdUCfjhv",
+    "name": "Кино 1 International",
+    "url": "https://autopilot.catcast.tv/content/38617/index.m3u8",
+    "category": "Movies",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "КИН",
+    "streamCount": 2,
+    "allStreams": [
+      "https://autopilot.catcast.tv/content/38617/index.m3u8",
+      "https://kino-1.catcast.tv/content/38617/index.m3u8"
+    ]
+  },
+  {
+    "id": "7gbCv4uxxssFoR",
+    "name": "Мир +7",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "МИР",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8"
+    ]
+  },
+  {
+    "id": "UptrzheOmTQwWu",
+    "name": "Музыка 1 International",
+    "url": "https://kino-1.catcast.tv/content/37742/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "МУЗ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://kino-1.catcast.tv/content/37742/index.m3u8",
+      "https://kino-1.catcast.tv/content/37745/index.m3u8"
+    ]
+  },
+  {
+    "id": "UCMJJw8ybEUxDH",
+    "name": "Музыка Кино International",
+    "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
+    "category": "Music",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "МУЗ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kino-1.catcast.tv/content/37739/index.m3u8"
+    ]
+  },
+  {
+    "id": "MebfmIDc5IgnOG",
+    "name": "Первый канал Европа",
+    "url": "https://streaming.thestream.cyou/live/210.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "ПЕР",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.thestream.cyou/live/210.m3u8"
+    ]
+  },
+  {
+    "id": "X0UpythUDXPOp6",
+    "name": "Россия-РТР",
+    "url": "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
+    "category": "General",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "РОС",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+    ]
+  }
+]

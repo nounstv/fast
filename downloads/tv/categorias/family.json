@@ -1,0 +1,247 @@
+[
+  {
+    "id": "LyB1P5SiU3vOaG",
+    "name": "6 Wise Tv",
+    "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "6 W",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.enhdtv.com:8081/8150/index.m3u8"
+    ]
+  },
+  {
+    "id": "et5iR1Oc0qBZ3J",
+    "name": "AMG TV",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "AMG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "62oTY1cpZiXnL5",
+    "name": "AVA Family",
+    "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+    "category": "Family",
+    "country": "IQ",
+    "countryName": "Iraq",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iraq. Idioma: fas.",
+    "logoText": "AVA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://familyhls.avatv.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "KXpoKCIRUIeAgz",
+    "name": "Dove Channel",
+    "url": "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "DOV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
+      "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
+      "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "umvB9tV3Rb1OXe",
+    "name": "EmanTv",
+    "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+    "category": "Family",
+    "country": "IQ",
+    "countryName": "Iraq",
+    "languages": [
+      "kur"
+    ],
+    "description": "Canal de TV de Iraq. Idioma: kur.",
+    "logoText": "EMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://avr.host247.net/live/emantv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WfWOCQye5PaNeZ",
+    "name": "Estrella Games",
+    "url": "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de United States. Idioma: spa.",
+    "logoText": "EST",
+    "streamCount": 3,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
+      "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+      "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
+    ]
+  },
+  {
+    "id": "O7kNo7GEugTsdZ",
+    "name": "Mixkurdy",
+    "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+    "category": "Family",
+    "country": "IQ",
+    "countryName": "Iraq",
+    "languages": [
+      "kur"
+    ],
+    "description": "Canal de TV de Iraq. Idioma: kur.",
+    "logoText": "MIX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3SXsiS0bu9wuAn",
+    "name": "Positiv TV",
+    "url": "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "POS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
+      "https://trn03.bozztv.com/gin-positiv/index.m3u8"
+    ]
+  },
+  {
+    "id": "cEFRovhmEVfGx8",
+    "name": "Sevimli TV",
+    "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+    "category": "Family",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: rus, uzb.",
+    "logoText": "SEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "category": "Family",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "SOW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Q2BhpM1IToL6dc",
+    "name": "STS",
+    "url": "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+    "category": "Family",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+    ]
+  },
+  {
+    "id": "d8wK3YuIEkuIYv",
+    "name": "STS Love",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+    "category": "Family",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "STS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+    ]
+  },
+  {
+    "id": "Am4Jb6RFmtHHBI",
+    "name": "Superscreen TV",
+    "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+    "category": "Family",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Nigeria. Idioma: eng.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "u8aySGKNHSMnn1",
+    "name": "TVS Family Channel",
+    "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
+    "category": "Family",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
+    ]
+  }
+]

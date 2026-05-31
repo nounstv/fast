@@ -1,0 +1,377 @@
+[
+  {
+    "id": "3FibakB882ByKy",
+    "name": "Classic TV",
+    "url": "https://clshls.wns.live/hls/stream.m3u8",
+    "category": "Classic",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://clshls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "52cUdXgN2lEt5P",
+    "name": "FilmRise Classic TV",
+    "url": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
+    ]
+  },
+  {
+    "id": "KslMKkUP4iO4M0",
+    "name": "GEM Classic",
+    "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+    "category": "Classic",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202"
+    ]
+  },
+  {
+    "id": "Br53BhiHjkS3op",
+    "name": "RetroCrush",
+    "url": "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "RET",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8",
+      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "category": "Classic",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Costa Rica. Idioma: spa.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qZJLmt0dETdzDZ",
+    "name": "The Archive",
+    "url": "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qDdtJta6euRe24",
+    "name": "The Carol Burnett Show",
+    "url": "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MiDzldTeOOzM8X",
+    "name": "TVN3",
+    "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+    "category": "Classic",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "TVN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+    ]
+  },
+  {
+    "id": "39NeLODve9GoDp",
+    "name": "TVS Cipher Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
+    ]
+  },
+  {
+    "id": "FqDYhRQixd9c33",
+    "name": "TVS Classic Movies",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+    ]
+  },
+  {
+    "id": "nEw5shV0a9fMVa",
+    "name": "TVS Hollywood History",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
+    ]
+  },
+  {
+    "id": "NZYQQqhbxqAkwb",
+    "name": "TVS Mainstreet",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+    ]
+  },
+  {
+    "id": "jGl8Iiki6ICNgY",
+    "name": "TVS Nostalgia",
+    "url": "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8"
+    ]
+  },
+  {
+    "id": "6MEE09P2l9tM7t",
+    "name": "TVS Nostalgia Movies",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+    ]
+  },
+  {
+    "id": "oceKhZro4FoYK0",
+    "name": "TVS Pet Parade Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
+    ]
+  },
+  {
+    "id": "gVH4jwVSfSt20g",
+    "name": "TVS Quiz Show Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
+    ]
+  },
+  {
+    "id": "XwiDGKdsH20Bju",
+    "name": "TVS Retro",
+    "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    "category": "Classic",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+    ]
+  },
+  {
+    "id": "1jG3sFKGqkYtkD",
+    "name": "TVS Talk Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8"
+    ]
+  },
+  {
+    "id": "IOBb2CTWNzxcZN",
+    "name": "TVS Tally Ho",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
+    ]
+  },
+  {
+    "id": "QkfPuwFZRsaKgc",
+    "name": "TVS Tavern",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
+    ]
+  },
+  {
+    "id": "cuX9Sttu45aItE",
+    "name": "TVS Western Movie",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+    ]
+  },
+  {
+    "id": "KveLLwWt3iDNsT",
+    "name": "Wanted: Dead or Alive",
+    "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8",
+    "category": "Classic",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "WAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "p2JDBtjTcLy9kg",
+    "name": "Fabulosa Estereo 100.5 FM",
+    "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "FAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8"
+    ]
+  },
+  {
+    "id": "sk0pXWYPhoUI0U",
+    "name": "Hosanna Vision",
+    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "category": "Religious",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "HOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NrKrfT28f0zHMn",
+    "name": "Planet 100.9 FM",
+    "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "PLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MFtmVHiGqE67Ua",
+    "name": "Radio Ancon",
+    "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+    "category": "News",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8"
+    ]
+  },
+  {
+    "id": "wPlSUCmwkpBR6B",
+    "name": "Super Q Panama",
+    "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SUR27YVxiEVQoo",
+    "name": "Tropi Q 99.7 FM",
+    "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+    "category": "Music",
+    "country": "PA",
+    "countryName": "Panama",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Panama. Idioma: spa.",
+    "logoText": "TRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
+    ]
+  }
+]

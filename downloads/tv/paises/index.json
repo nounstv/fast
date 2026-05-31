@@ -1,0 +1,882 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "stations": 1397
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "stations": 714
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "stations": 320
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "stations": 272
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "stations": 251
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "stations": 245
+  },
+  {
+    "code": "TR",
+    "name": "Turkiye",
+    "stations": 223
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "stations": 207
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "stations": 187
+  },
+  {
+    "code": "UK",
+    "name": "United Kingdom",
+    "stations": 186
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "stations": 177
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "stations": 176
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "stations": 164
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "stations": 156
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "stations": 142
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "stations": 141
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "stations": 128
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "stations": 105
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "stations": 102
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "stations": 90
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "stations": 90
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "stations": 85
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "stations": 83
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "stations": 82
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "stations": 80
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "stations": 75
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "stations": 72
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "stations": 71
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "stations": 70
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "stations": 67
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "stations": 64
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "stations": 61
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "stations": 60
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "stations": 59
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "stations": 59
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "stations": 58
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "stations": 57
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "stations": 52
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "stations": 50
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "stations": 48
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "stations": 45
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "stations": 43
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "stations": 38
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "stations": 38
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "stations": 38
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "stations": 36
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "stations": 35
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "stations": 34
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "stations": 34
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "stations": 33
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "stations": 33
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "stations": 32
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "stations": 30
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "stations": 30
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "stations": 29
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "stations": 29
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "stations": 29
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "stations": 28
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "stations": 28
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "stations": 27
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "stations": 26
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "stations": 25
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "stations": 25
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "stations": 24
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "stations": 24
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "stations": 23
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "stations": 23
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "stations": 22
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "stations": 21
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "stations": 21
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "stations": 20
+  },
+  {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "stations": 20
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "stations": 19
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "stations": 19
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "stations": 19
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "stations": 19
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "stations": 18
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "stations": 18
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "stations": 18
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "stations": 18
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "stations": 17
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "stations": 17
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "stations": 17
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "stations": 17
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "stations": 17
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "stations": 16
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "stations": 16
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "stations": 16
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "stations": 15
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "stations": 15
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "stations": 14
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "stations": 14
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "stations": 14
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "stations": 14
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "stations": 13
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "stations": 13
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "stations": 13
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "stations": 13
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "stations": 12
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "stations": 11
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "stations": 11
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "stations": 11
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "stations": 11
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "stations": 11
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "stations": 10
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "stations": 10
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "stations": 10
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "stations": 10
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "stations": 10
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "stations": 9
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "stations": 9
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "stations": 9
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "stations": 9
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "stations": 9
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "stations": 8
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "stations": 8
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "stations": 8
+  },
+  {
+    "code": "??",
+    "name": "??",
+    "stations": 8
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "stations": 7
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "stations": 7
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "stations": 7
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "stations": 7
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "stations": 7
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "stations": 7
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "stations": 7
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "stations": 6
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "stations": 6
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "stations": 6
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "stations": 5
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "stations": 5
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "stations": 5
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "stations": 5
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "stations": 5
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "stations": 5
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "stations": 5
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire",
+    "stations": 5
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "stations": 5
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "stations": 5
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "stations": 4
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "stations": 4
+  },
+  {
+    "code": "CW",
+    "name": "Curacao",
+    "stations": 4
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "stations": 4
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "stations": 4
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "stations": 4
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "stations": 4
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "stations": 4
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "stations": 3
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "stations": 3
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "stations": 3
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "stations": 3
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "stations": 3
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "stations": 3
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "stations": 3
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "stations": 3
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "stations": 2
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "stations": 2
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "stations": 2
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "stations": 2
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "stations": 2
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "stations": 2
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "stations": 2
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "stations": 2
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "stations": 1
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "stations": 1
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "stations": 1
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "stations": 1
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "stations": 1
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "stations": 1
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "stations": 1
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "stations": 1
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "stations": 1
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "stations": 1
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "stations": 1
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "stations": 1
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "stations": 1
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "stations": 1
+  }
+]

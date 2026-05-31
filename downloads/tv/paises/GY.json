@@ -1,0 +1,79 @@
+[
+  {
+    "id": "HGPTV.gy",
+    "name": "HGPTV",
+    "logo": "https://i.imgur.com/0aIH6V5.png",
+    "logoText": "HGP",
+    "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GY",
+    "countryName": "Guyana",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guyana. Language: N/A. Website: https://hgptv.com/"
+  },
+  {
+    "id": "IgniteTelevision.gy",
+    "name": "Ignite Television",
+    "logo": "https://i.imgur.com/aQI9tsg.jpeg",
+    "logoText": "IGN",
+    "url": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GY",
+    "countryName": "Guyana",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guyana. Language: N/A. Website: https://ignitenews.com/"
+  },
+  {
+    "id": "MTVGuyana.gy",
+    "name": "MTV Guyana",
+    "logo": "https://i.imgur.com/Ky70brA.png",
+    "logoText": "MTV",
+    "url": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GY",
+    "countryName": "Guyana",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Guyana. Language: N/A. Website: https://www.mtvgy.com/live"
+  }
+]

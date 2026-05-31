@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "fF3KswxsGoweMO",
+    "name": "8NTV",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "8NT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6AYObDCpHjAFK9",
+    "name": "ADN 40",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "category": "News",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ADN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+    ]
+  },
+  {
+    "id": "drwJ1KWzBTlLLz",
+    "name": "Alcance TV",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "category": "Religious",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ALC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "14OgEakSRkYx8J",
+    "name": "AMX Noticias",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "category": "News",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "AMX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "49nmeVhY8qIuOA",
+    "name": "Azteca Internacional",
+    "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+    "category": "Entertainment",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "AZT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+    ]
+  },
+  {
+    "id": "I6SQhQn74t89lq",
+    "name": "B15 Fresnillo",
+    "url": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "B15",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "z9NmlAa4TNcIbD",
+    "name": "BAMOS TV",
+    "url": "https://video2.getstreamhosting.com:19360/8092/8092.m3u8",
+    "category": "Religious",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "BAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+    ]
+  },
+  {
+    "id": "qhvLdupfMqmZsq",
+    "name": "Canal 5 TV Cozumel",
+    "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8"
+    ]
+  },
+  {
+    "id": "L8CnobbQq5QEWf",
+    "name": "Canal 26",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Hpf3KI7ImTrsrI",
+    "name": "Canal 33 Tijuana",
+    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+    "category": "News",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HAcrNNQqFwVBJ5",
+    "name": "Canal 44",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "category": "Legislative",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kcUlTpEd2EjJLo",
+    "name": "Capital 21",
+    "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "category": "Entertainment",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CAP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video.cdmx.gob.mx/redes/stream.m3u8"
+    ]
+  },
+  {
+    "id": "npvsow7O979Ja1",
+    "name": "Conecta TV",
+    "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
+    ]
+  },
+  {
+    "id": "dE1MtHTFsxve60",
+    "name": "CreaLaTV",
+    "url": "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "CRE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8"
+    ]
+  },
+  {
+    "id": "nLjmNpKEQoalYU",
+    "name": "El Chavo TV",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "category": "Kids",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "EL ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Y2XbgAUNu1jdKZ",
+    "name": "Expresa TV",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "EXP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FmWRIKhG72Bl7Q",
+    "name": "Filmex",
+    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "category": "Movies",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "57x1qIQqd5IFIt",
+    "name": "Filmex Clasico",
+    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "category": "Movies",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "duaSLomE9AQYzs",
+    "name": "Golden TV",
+    "url": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "GOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8"
+    ]
+  },
+  {
+    "id": "tsY7Oi70RUlWEA",
+    "name": "Icrtv Colima",
+    "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+    "category": "Legislative",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ICR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9NYf5msdVIxgC1",
+    "name": "ILCE Canal 15 Summa Saberes",
+    "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ILC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZiZzS4tyBeE4oz",
+    "name": "ITV Deportes",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "category": "Sports",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ITV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+    ]
+  },
+  {
+    "id": "Pz1CuDeSJYHivR",
+    "name": "Jalisco TV",
+    "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "JAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    ]
+  },
+  {
+    "id": "MdYnmsFTlP5Wem",
+    "name": "Justicia TV",
+    "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "category": "Legislative",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "JUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sGZGN77ULu3I6y",
+    "name": "Lobo TV",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "LOB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OsHq1e2oxRPhKX",
+    "name": "Maria Vision",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "category": "Religious",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "MAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+    ]
+  },
+  {
+    "id": "P3PQh3YlBALxV5",
+    "name": "Mexiquense TV",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "MEX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iSOfFIrnvu17Xp",
+    "name": "Monte Maria",
+    "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "category": "Religious",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "MON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4i2dbm12cF2ARa",
+    "name": "Nayarit Comunica",
+    "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "NAY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
+    ]
+  },
+  {
+    "id": "esFtoFYJpw3jIu",
+    "name": "Nueve TV",
+    "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "NUE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
+    ]
+  },
+  {
+    "id": "DKHLUT1IqpMkXM",
+    "name": "Presumiendo Mexico",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "category": "Culture",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "PRE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eg1gONSWrKSqw4",
+    "name": "PSN",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "category": "News",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "PSN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srspsn.live/live/livestream.m3u8"
+    ]
+  },
+  {
+    "id": "XTIJ4Z66Z2ZX2y",
+    "name": "Raly TV",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "RAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8072/index.m3u8"
+    ]
+  },
+  {
+    "id": "DTP0PlieY1RyjA",
+    "name": "RCG TV",
+    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "RCG",
+    "streamCount": 2,
+    "allStreams": [
+      "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+      "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iQxS2QFaXpg5Nd",
+    "name": "RTG",
+    "url": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "RTG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NUNEvvcYt2iZOI",
+    "name": "RTQ Queretaro",
+    "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "RTQ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "inKpcU1CFpY4af",
+    "name": "SIPSE TV 8.1",
+    "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "SIP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    ]
+  },
+  {
+    "id": "bqZG2nHHXJFyOO",
+    "name": "SIPSE TVCUN 8.1",
+    "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "SIP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+    ]
+  },
+  {
+    "id": "zMvnkO0BSIigRy",
+    "name": "Sistema Michoacano de TV",
+    "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "SIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ejJFGypGVZEjkg",
+    "name": "SQCS Canal 4",
+    "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "SQC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video0.rogohosting.com:19360/4982/4982.m3u8"
+    ]
+  },
+  {
+    "id": "bWHBTSEbyYf27m",
+    "name": "Super Channel 12",
+    "url": "https://servilive.com:3263/live/channel12live.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://servilive.com:3263/live/channel12live.m3u8"
+    ]
+  },
+  {
+    "id": "irSoF8eTXd3jkl",
+    "name": "Tele Saltillo",
+    "url": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://servilive.com:3879/live/telesaltillolive.m3u8"
+    ]
+  },
+  {
+    "id": "arUwONnDyiIo6o",
+    "name": "Tele Yucatan",
+    "url": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CV0J6mHYbHQoth",
+    "name": "Teleplay Sureste",
+    "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+      "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LIcwsfed7X4ZRx",
+    "name": "TRC TV",
+    "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TRC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
+    "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+    "category": "Travel",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BqjUF0ZKQE6ngg",
+    "name": "TV Cuatro 4.1",
+    "url": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8"
+    ]
+  },
+  {
+    "id": "cWWftSEuzr59Qo",
+    "name": "TV Cuatro 4.2",
+    "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "category": "Culture",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
+    ]
+  },
+  {
+    "id": "ql898Hb5o5onXW",
+    "name": "TV Lobo",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2eqKKZD9vsVmKP",
+    "name": "TV Mar La Paz",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Z8y7pyWQF00bRD",
+    "name": "TV Mar Los Cabos",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UB1O3LUxfTUgSf",
+    "name": "TV Mar Puerto Vallarta",
+    "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "g7YtvRUN199O67",
+    "name": "TV UG",
+    "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wbA0Ma6O1OQNwg",
+    "name": "TV UJAT",
+    "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "44FCkvJ9nZtnKa",
+    "name": "TVP Culiacan",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TVP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CXFEfwBakQ1YSI",
+    "name": "TVP Los Mochis",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TVP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bUg0odmxv7tPNK",
+    "name": "TVP Mazatlan",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TVP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qPMJMAbibR0k8d",
+    "name": "TVP Obregon",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "TVP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EHXNJG9CKImTT2",
+    "name": "Ultra TV Puebla",
+    "url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "ULT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XC2uNbOMKneW9c",
+    "name": "UMTV",
+    "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "UMT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2EyL9brYPFxMTy",
+    "name": "VB Media TV",
+    "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "category": "Entertainment",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "VB ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
+    ]
+  },
+  {
+    "id": "bmK9McortbPFr4",
+    "name": "Vision Television",
+    "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "category": "Music",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "VIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
+    ]
+  },
+  {
+    "id": "qY3In36TCPaQmA",
+    "name": "XEIPN-TDT",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XEI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IomnjUMD148fu8",
+    "name": "XEWH-TDT",
+    "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XEW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "H0OAJ7XIO9zEZF",
+    "name": "XHBZC-TDT",
+    "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5ui7ntXYkuTwXW",
+    "name": "XHFGL-TDT",
+    "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1eJU4mPC18iVYo",
+    "name": "XHGV-TDT",
+    "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PgWHL7lZbyEg7S",
+    "name": "XHIJ-TDT",
+    "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5X15DRPWWS1LoX",
+    "name": "XHMNL-TDT",
+    "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "CIkEFZcLn9ruGH",
+    "name": "XHPBZC-TDT1",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+    "category": "Geral",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MvxVdnZ8G06Wbd",
+    "name": "XHPBZC-TDT2",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "73XssOK3RAP6Kw",
+    "name": "XHTTG-TDT",
+    "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "47o1HNzoeOQk95",
+    "name": "XHUNES-TDT",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "category": "Education",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    ]
+  },
+  {
+    "id": "bduXE4B0XA4Kef",
+    "name": "XHZHZ-TDT",
+    "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+    "category": "General",
+    "country": "MX",
+    "countryName": "Mexico",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Mexico. Idioma: spa.",
+    "logoText": "XHZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
+    ]
+  }
+]

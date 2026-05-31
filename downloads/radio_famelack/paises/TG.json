@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2vxKCS16kcnnlw",
+    "name": "Light Radio 93.9 FM",
+    "url": "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=asurahosting.com",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "TG",
+    "countryName": "Togo",
+    "state": "",
+    "tags": "religious",
+    "language": "fra",
+    "homepage": ""
+  },
+  {
+    "id": "0QzYDxWPlgQHaC",
+    "name": "Radio Kara",
+    "url": "https://stream-153.zeno.fm/2bsx1sxr2vduv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "TG",
+    "countryName": "Togo",
+    "state": "",
+    "tags": "talk",
+    "language": "fra, tgk",
+    "homepage": ""
+  },
+  {
+    "id": "V6cNgi20xTWeeW",
+    "name": "Radio Victoire 96.3 FM",
+    "url": "https://stream.zeno.fm/vkhv6gl43g5tv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "TG",
+    "countryName": "Togo",
+    "state": "",
+    "tags": "pop",
+    "language": "fra, tgk",
+    "homepage": ""
+  }
+]

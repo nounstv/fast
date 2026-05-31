@@ -1,0 +1,173 @@
+[
+  {
+    "id": "8W6k7lrcWYDap4",
+    "name": "apart TV",
+    "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+    "category": "Lifestyle",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "APA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "udSOaNy3d31JFB",
+    "name": "Chamber TV",
+    "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+    "category": "Legislative",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "fra",
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: fra, ltz.",
+    "logoText": "CHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MBd7UC3OR31Tht",
+    "name": "Dudelange TV",
+    "url": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
+    "category": "General",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "DUD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9H4bSz1MtWbjCt",
+    "name": "eldo.TV",
+    "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
+    "category": "Entertainment",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "ELD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8"
+    ]
+  },
+  {
+    "id": "ye8TvkvdzwW6pe",
+    "name": "Hesper TV",
+    "url": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
+    "category": "General",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "HES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "32L8oauWbYm9hm",
+    "name": "Mamer TV",
+    "url": "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8",
+    "category": "General",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "MAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "45ac4CoF7bAaFa",
+    "name": "MierschTV",
+    "url": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8",
+    "category": "General",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "MIE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SAUZGArKPwnCQR",
+    "name": "Petange Info TV",
+    "url": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
+    "category": "General",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "PET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uOiBx0AcUgb3bN",
+    "name": "RTL Gold",
+    "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
+    "category": "Music",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "ltz"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: ltz.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4HFk1EIyyY3Rms",
+    "name": "Today Radio",
+    "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+    "category": "Music",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Luxembourg. Idioma: eng.",
+    "logoText": "TOD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+    ]
+  }
+]

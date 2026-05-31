@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5yMVPwG5ShJ2pT",
+    "name": "Afrik Info",
+    "url": "https://stream-175.zeno.fm/mmd6ku3pn8vvv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GN",
+    "countryName": "Guinea",
+    "state": "",
+    "tags": "talk",
+    "language": "fra",
+    "homepage": ""
+  },
+  {
+    "id": "VX7dZsc0dkSGQI",
+    "name": "Madaliou Radio",
+    "url": "https://stream.zeno.fm/sq92r3bd6qruv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GN",
+    "countryName": "Guinea",
+    "state": "",
+    "tags": "talk",
+    "language": "fra",
+    "homepage": ""
+  },
+  {
+    "id": "Sdu7ii5JM9q5lF",
+    "name": "Radio Love",
+    "url": "https://stream.zeno.fm/uqveb600hyduv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "GN",
+    "countryName": "Guinea",
+    "state": "",
+    "tags": "pop",
+    "language": "fra",
+    "homepage": ""
+  }
+]

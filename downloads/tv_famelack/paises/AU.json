@@ -1,0 +1,552 @@
+[
+  {
+    "id": "lxtnwZjaAVKkTo",
+    "name": "10 Bold Adelaide",
+    "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+    "category": "Relax",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "10 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+    ]
+  },
+  {
+    "id": "l3j5k47cRFPEax",
+    "name": "ABC News Sydney",
+    "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+    "category": "News",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "ABC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+    ]
+  },
+  {
+    "id": "1kGzlc1JUirLRX",
+    "name": "Action Hollywood Movies",
+    "url": "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "ACT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7UCxQXCWlbGvPF",
+    "name": "Angel TV Australia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8",
+    "category": "Religious",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "ANG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OTtgOdMuzH3Ad4",
+    "name": "Ausbiz TV",
+    "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+    "category": "Business",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "AUS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+    ]
+  },
+  {
+    "id": "aODKbBqnVbvVaT",
+    "name": "Breaking News by LeadStory",
+    "url": "https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "BRE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GQz6svOBo4mRax",
+    "name": "C31 Melbourne",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+    "category": "General",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "C31",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
+    ]
+  },
+  {
+    "id": "1U3UtAxYHSHl5p",
+    "name": "Channel 44",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+    "category": "General",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "CHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
+    ]
+  },
+  {
+    "id": "FGk4W1SOac0zWS",
+    "name": "Come Dine With Me",
+    "url": "https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "COM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SDpOmaM8ReQVej",
+    "name": "Escape to the Country",
+    "url": "https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "ESC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1urxVFjg7HoQcm",
+    "name": "Expo Channel",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+    "category": "Shop",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "EXP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+    ]
+  },
+  {
+    "id": "seVHct3Uumavw6",
+    "name": "Highway Thru Hell",
+    "url": "https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "HIG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KwAEmvETZkGGal",
+    "name": "History and Warfare Now",
+    "url": "https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "HIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TKlUtkeJbMnBT7",
+    "name": "Horse & Country TV",
+    "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+    "category": "Outdoor",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "HOR",
+    "streamCount": 2,
+    "allStreams": [
+      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pmtAxTGBGTpwKV",
+    "name": "Leaderboard Sports News",
+    "url": "https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "LEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Pni7NN9iGNo5rZ",
+    "name": "Mission Asia",
+    "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+    "category": "Religious",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: ara, eng.",
+    "logoText": "MIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WkdO8GadOSLajT",
+    "name": "MovieSphere AU",
+    "url": "https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Movies",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "MOV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uN8s1HXt717tW1",
+    "name": "MTRSPT 1",
+    "url": "https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "MTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tmL08cxsScFKuK",
+    "name": "NatureTime AU",
+    "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "category": "Documentary",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "NAT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "siYSLI1pawS79B",
+    "name": "PBS History",
+    "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "aEA9HCmAFla92u",
+    "name": "PBS Science",
+    "url": "https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "PBS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "x7UrDCBQovwcLc",
+    "name": "Project Runway",
+    "url": "https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "PRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RaAuUrd4DsoNBL",
+    "name": "Pulse",
+    "url": "https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "PUL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "t3FRxzQWFcum3k",
+    "name": "RCM",
+    "url": "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "RCM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9sW5mZnXNxTjSv",
+    "name": "Shalom World Prayer",
+    "url": "https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8",
+    "category": "Religious",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "86AfUT4ix8tXB4",
+    "name": "Sky News Extra 1",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+    "category": "News",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SKY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
+    ]
+  },
+  {
+    "id": "XhdBZ8hLIsYvg1",
+    "name": "Sky News Extra 2",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+    "category": "News",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SKY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+    ]
+  },
+  {
+    "id": "FKERcaDza45HDL",
+    "name": "Sky News Extra 3",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+    "category": "News",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SKY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+    ]
+  },
+  {
+    "id": "kWdBvQFz5aue5n",
+    "name": "Sky Racing 1",
+    "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+    "category": "Sports",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SKY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mDtjo6SWz3rKx0",
+    "name": "Sky Racing 2",
+    "url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+    "category": "Sports",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "SKY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "gP0EIOZBWJnKLv",
+    "name": "Surf Cinema",
+    "url": "https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "SUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3Z4cb3zJdbljQO",
+    "name": "The Hotel Inspector",
+    "url": "https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EpPKil5HdOVKkk",
+    "name": "The Wicked Tuna Channel",
+    "url": "https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8",
+    "category": "Geral",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [],
+    "description": "Canal de TV de Australia. Idioma: N/A.",
+    "logoText": "THE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "I3kjTb3ubS1fvS",
+    "name": "TVSN",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "category": "Shop",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
+    ]
+  }
+]

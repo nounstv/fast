@@ -1,0 +1,19 @@
+[
+  {
+    "id": "e9kOBIAu1B0cCj",
+    "name": "Radio TV Sal One",
+    "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
+    "category": "Music",
+    "country": "CV",
+    "countryName": "Cape Verde",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Cape Verde. Idioma: por.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
+    ]
+  }
+]

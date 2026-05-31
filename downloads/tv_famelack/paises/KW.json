@@ -1,0 +1,175 @@
+[
+  {
+    "id": "IEZUnNbmJOqVVw",
+    "name": "Ch4Teen",
+    "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
+    "category": "Religious",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "CH4",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ch14.tv/live/ch4teenclip/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qmnARgUFZrDat0",
+    "name": "KTV 1",
+    "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "category": "General",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8"
+    ]
+  },
+  {
+    "id": "wlRG0aqJ5L1mdG",
+    "name": "KTV 2",
+    "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "category": "News",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: eng.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "NIQOtoyZQ8vFBv",
+    "name": "KTV Al Qurain",
+    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+    "category": "Religious",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "x84vEYjClS3UTx",
+    "name": "KTV Arabe",
+    "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "category": "Culture",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "bOv9uULNJkqzNN",
+    "name": "KTV Ethraa",
+    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "category": "Religious",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "gut5k2zpuhXsW8",
+    "name": "KTV News",
+    "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+    "category": "News",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8"
+    ]
+  },
+  {
+    "id": "wry8kPUipkC3Ee",
+    "name": "KTV Sport",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "category": "Sports",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara, eng.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "u6GFOdoySx8qXc",
+    "name": "KTV Sport Plus",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "category": "Sports",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "KTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "e1v76QQ8jEJlyU",
+    "name": "Marina TV",
+    "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+    "category": "Music",
+    "country": "KW",
+    "countryName": "Kuwait",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Kuwait. Idioma: ara.",
+    "logoText": "MAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8"
+    ]
+  }
+]

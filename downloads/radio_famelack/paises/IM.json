@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tBMtLOmnRjMFI7",
+    "name": "Energy FM",
+    "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=streaming.broadcast",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "IM",
+    "countryName": "Isle of Man",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "oQaQ96kvSv3bpg",
+    "name": "Isle of Man Free Radio",
+    "url": "https://play.radioking.io/ian-byrne",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=radioking.io",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "IM",
+    "countryName": "Isle of Man",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "PfEIgEjfVXGAmf",
+    "name": "Manx Radio",
+    "url": "https://edge-audio-06-thn.sharp-stream.com/manxradiofm.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=sharp-stream.com",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "IM",
+    "countryName": "Isle of Man",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  }
+]

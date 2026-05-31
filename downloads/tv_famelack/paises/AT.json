@@ -1,0 +1,498 @@
+[
+  {
+    "id": "hWjMAZLy3MK2aA",
+    "name": "Antenne Kaernten",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TQZrrVdCDAg8if",
+    "name": "Antenne Steiermark",
+    "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0XGe5MeCqdcWxG",
+    "name": "Dorf TV",
+    "url": "https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "DOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8"
+    ]
+  },
+  {
+    "id": "TIO4oK5UynDpK7",
+    "name": "FS1 Salzburg",
+    "url": "https://stream.fs1.tv/hls/webstream.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "FS1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.fs1.tv/hls/webstream.m3u8"
+    ]
+  },
+  {
+    "id": "ZcBdMXdtJIRBX4",
+    "name": "Hitradio O3",
+    "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "HIT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+      "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
+    ]
+  },
+  {
+    "id": "d2Um5HC82pjJ2o",
+    "name": "K-TV",
+    "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "category": "Religious",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "K-T",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+    ]
+  },
+  {
+    "id": "m2x8vdlVVOzPv2",
+    "name": "kanal3",
+    "url": "https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5tTy78tgvm7wa1",
+    "name": "KIT-TV",
+    "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "category": "Religious",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
+    ]
+  },
+  {
+    "id": "0U8AHRskM6eU3e",
+    "name": "Kronehit",
+    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uezYMaUqM1TDux",
+    "name": "KT1",
+    "url": "https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KT1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1dXe5ax8yeuJDo",
+    "name": "Kurier TV",
+    "url": "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "KUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8"
+    ]
+  },
+  {
+    "id": "Jt2AJ1clq01S32",
+    "name": "Landle TV",
+    "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "LAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
+    ]
+  },
+  {
+    "id": "9llJxc5Zi2OtF9",
+    "name": "LT1",
+    "url": "https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "LT1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ov59yRWEbR7wGn",
+    "name": "Melodie TV",
+    "url": "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8",
+    "category": "Music",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "MEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hUh8zOVsiGJwtZ",
+    "name": "N1 TV",
+    "url": "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "N1 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5xY9cw7ypbOud1",
+    "name": "R9",
+    "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "R9",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "znLSEaZWfm2KZE",
+    "name": "Red Bull TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "category": "Sports",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu, eng.",
+    "logoText": "RED",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    ]
+  },
+  {
+    "id": "jHe1OEHTcksowX",
+    "name": "Red Bull TV AU",
+    "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+    "category": "Sports",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Austria. Idioma: eng.",
+    "logoText": "RED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "L5wf5IamZyqkNz",
+    "name": "Regional TV Salzburg",
+    "url": "https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "REG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LmXiHP1vY6XyzS",
+    "name": "RTV",
+    "url": "https://streamtest.rtv-ooe.at/stream.m3u8",
+    "category": "Geral",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "RTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtest.rtv-ooe.at/stream.m3u8"
+    ]
+  },
+  {
+    "id": "K8THRi8hdcH82I",
+    "name": "Schladming-Dachstein TV",
+    "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "category": "Travel",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "SCH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FprwnAkCKvi17W",
+    "name": "Steiermark TV",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "STE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+    ]
+  },
+  {
+    "id": "dHIKj0PT3rIpW8",
+    "name": "Stimmungsgarten TV",
+    "url": "https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8",
+    "category": "General",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "STI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0mEe54Ekw1mj61",
+    "name": "Swamiji TV American",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "category": "Outdoor",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Austria. Idioma: eng.",
+    "logoText": "SWA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5ZPKeEUbFRktME",
+    "name": "Swamiji TV Australian",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "category": "Outdoor",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Austria. Idioma: eng.",
+    "logoText": "SWA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FJL8QhoyygdV5z",
+    "name": "Swamiji TV European",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "category": "Outdoor",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Austria. Idioma: eng.",
+    "logoText": "SWA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YQPekJKCEusA1c",
+    "name": "Tirol TV",
+    "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+    "category": "Geral",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "TIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+    ]
+  },
+  {
+    "id": "rKCjw7q21G4IO1",
+    "name": "TV 1 Oberosterreich",
+    "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "category": "Geral",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+    ]
+  },
+  {
+    "id": "poBLTECPZ1p4X6",
+    "name": "W24",
+    "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "AT",
+    "countryName": "Austria",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Austria. Idioma: deu.",
+    "logoText": "W24",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+    ]
+  }
+]

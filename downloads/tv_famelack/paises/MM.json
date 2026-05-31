@@ -1,0 +1,36 @@
+[
+  {
+    "id": "i6vxWElbJaIPBX",
+    "name": "DVB TV",
+    "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+    "category": "News",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "languages": [
+      "mya"
+    ],
+    "description": "Canal de TV de Myanmar. Idioma: mya.",
+    "logoText": "DVB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
+    ]
+  },
+  {
+    "id": "cdsVyojNjKqygk",
+    "name": "Mahar TV",
+    "url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+    "category": "General",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "languages": [
+      "mya"
+    ],
+    "description": "Canal de TV de Myanmar. Idioma: mya.",
+    "logoText": "MAH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+    ]
+  }
+]

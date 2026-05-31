@@ -1,0 +1,34 @@
+[
+  {
+    "id": "wbhCDJ4lBgGZkz",
+    "name": "Mayotte la 1ère",
+    "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=infomaniak.ch",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "YT",
+    "countryName": "Mayotte",
+    "state": "",
+    "tags": "talk",
+    "language": "fra",
+    "homepage": ""
+  },
+  {
+    "id": "NhNd4Jg6sVdiHG",
+    "name": "Radio Dziani 104.8 FM",
+    "url": "https://www.radioking.com/play/radio-dziani-la-voix-du-lac/63166",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=radioking.com",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "YT",
+    "countryName": "Mayotte",
+    "state": "",
+    "tags": "",
+    "language": "fra",
+    "homepage": ""
+  }
+]

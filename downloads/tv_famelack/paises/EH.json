@@ -1,0 +1,21 @@
+[
+  {
+    "id": "RVwRo1HpRypzQo",
+    "name": "RASD TV",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+    "category": "General",
+    "country": "EH",
+    "countryName": "Western Sahara",
+    "languages": [
+      "ara",
+      "spa"
+    ],
+    "description": "Canal de TV de Western Sahara. Idioma: ara, spa.",
+    "logoText": "RAS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+      "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8"
+    ]
+  }
+]

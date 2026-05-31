@@ -1,0 +1,170 @@
+[
+  {
+    "id": "981PearlFM.sx",
+    "name": "98.1 Pearl FM",
+    "logo": "https://i.imgur.com/GY750xh.jpg",
+    "logoText": "98.",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: http://pearlfmradio.sx/"
+  },
+  {
+    "id": "TV15.sx",
+    "name": "TV15",
+    "logo": "https://i.imgur.com/2taY722.png",
+    "logoText": "TV1",
+    "url": "http://198.255.80.170/FTX9_SXM-TV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://198.255.80.170/FTX9_SXM-TV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A."
+  },
+  {
+    "id": "TVCARiB.sx",
+    "name": "TVCARiB",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logoText": "TVC",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: https://tvcarib.com/"
+  },
+  {
+    "id": "TVCARiBCinema.sx",
+    "name": "TVCARiB Cinema",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logoText": "TVC",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: https://tvcarib.com/"
+  },
+  {
+    "id": "TVCARiBGospel.sx",
+    "name": "TVCARiB Gospel",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logoText": "TVC",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: https://tvcarib.com/"
+  },
+  {
+    "id": "TVCARiBKidsTeens.sx",
+    "name": "TVCARiB Kids & Teens",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logoText": "TVC",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: https://tvcarib.com/"
+  },
+  {
+    "id": "TVCARiBLatino.sx",
+    "name": "TVCARiB Latino",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logoText": "TVC",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Sint Maarten. Language: N/A. Website: https://tvcarib.com/"
+  }
+]

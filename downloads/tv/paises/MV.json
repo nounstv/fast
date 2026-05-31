@@ -1,0 +1,271 @@
+[
+  {
+    "id": "Channel13.mv",
+    "name": "Channel 13",
+    "logo": "https://i.imgur.com/lR5jUSU.jpeg",
+    "logoText": "CHA",
+    "url": "https://stream.theyraonline.com/live/channel13@live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.theyraonline.com/live/channel13@live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://stream.theyraonline.com/"
+  },
+  {
+    "id": "MaldivesTV.mv",
+    "name": "Maldives TV",
+    "logo": "https://i.imgur.com/Zl2FmFC.png",
+    "logoText": "MAL",
+    "url": "https://lana.psm.mv/live/mtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lana.psm.mv/live/mtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://maldivestv.mv/"
+  },
+  {
+    "id": "MMTV.mv",
+    "name": "MMTV",
+    "logo": "https://i.imgur.com/21tpl5b.png",
+    "logoText": "MMT",
+    "url": "https://sendlive.online/hls/mmtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sendlive.online/hls/mmtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://mmtv.mv/"
+  },
+  {
+    "id": "Munnaaru.mv",
+    "name": "Munnaaru",
+    "logo": "https://i.imgur.com/Adhr5xq.png",
+    "logoText": "MUN",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A."
+  },
+  {
+    "id": "NTV.mv",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/jnXpcwV.png",
+    "logoText": "NTV",
+    "url": "https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A."
+  },
+  {
+    "id": "PSMNews.mv",
+    "name": "PSM News",
+    "logo": "https://i.imgur.com/mGuBbPv.png",
+    "logoText": "PSM",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: http://psmnews.mv/"
+  },
+  {
+    "id": "RaajjeTV.mv",
+    "name": "Raajje TV",
+    "logo": "https://i.imgur.com/QxdkiCZ.png",
+    "logoText": "RAA",
+    "url": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://raajje.mv/"
+  },
+  {
+    "id": "SSTV.mv",
+    "name": "SSTV",
+    "logo": "https://i.imgur.com/jtIhDZk.png",
+    "logoText": "SST",
+    "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://ssnet.mv/"
+  },
+  {
+    "id": "TVMaldives.mv",
+    "name": "TV Maldives",
+    "logo": "https://i.imgur.com/1c7rFKC.png",
+    "logoText": "TV ",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: http://www.psm.mv/"
+  },
+  {
+    "id": "VTV.mv",
+    "name": "VTV",
+    "logo": "https://i.imgur.com/6bY9Umo.png",
+    "logoText": "VTV",
+    "url": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: https://www.vnews.mv/"
+  },
+  {
+    "id": "YES.mv",
+    "name": "YES",
+    "logo": "https://i.imgur.com/HARIGQl.png",
+    "logoText": "YES",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MV",
+    "countryName": "Maldives",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Maldives. Language: N/A. Website: http://psmnews.mv/"
+  }
+]

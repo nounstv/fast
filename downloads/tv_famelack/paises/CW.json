@@ -1,0 +1,38 @@
+[
+  {
+    "id": "82MILM604jQBn0",
+    "name": "Bonce TV",
+    "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+    "category": "Entertainment",
+    "country": "CW",
+    "countryName": "Curaçao",
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "description": "Canal de TV de Curaçao. Idioma: nld, pap.",
+    "logoText": "BON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://seswa.bonce.tv/hls/bonceswa.m3u8"
+    ]
+  },
+  {
+    "id": "5yCz2cpTabs54O",
+    "name": "TV Direct 13",
+    "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "category": "General",
+    "country": "CW",
+    "countryName": "Curaçao",
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "description": "Canal de TV de Curaçao. Idioma: nld, pap.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "iTbSyptSI7ovhK",
+    "name": "1KZN TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "category": "General",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "1KZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3qqNu9ZcAbmKFU",
+    "name": "Cape Town TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "category": "General",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "CAP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yzW6NOlMnAd0SK",
+    "name": "Faith TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "FAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RnZgNdJPQ7SoXK",
+    "name": "Homebase TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+    "category": "Religious",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "afr",
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: afr, eng.",
+    "logoText": "HOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6qFA0oMBj6Zup7",
+    "name": "LN24SA",
+    "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "category": "News",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "LN2",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GmQOYYruFg1K27",
+    "name": "NuView TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "NUV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YQ48DJSkmj6ZBT",
+    "name": "ROV TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "ROV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "C4rmcF4iC9PInk",
+    "name": "SABC Lehae",
+    "url": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
+    "category": "News",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng",
+      "nbl",
+      "sfs",
+      "ssw",
+      "tso",
+      "ven",
+      "xho",
+      "zul"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng, nbl, sfs, ssw, tso, ven, xho, zul.",
+    "logoText": "SAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
+    ]
+  },
+  {
+    "id": "MbDAAgrzqTFxUc",
+    "name": "SABC News",
+    "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+    "category": "News",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "SAB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
+    ]
+  },
+  {
+    "id": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "category": "Family",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "SOW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OFNCxJwQlhXnh3",
+    "name": "Tshwane TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "category": "General",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "TSH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Es7qApbSf615KN",
+    "name": "TV BRICS Africa",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+    "category": "General",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "url": "https://wildearth-xumo.amagi.tv/master.m3u8",
+    "category": "Relax",
+    "country": "ZA",
+    "countryName": "South Africa",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de South Africa. Idioma: eng.",
+    "logoText": "WIL",
+    "streamCount": 3,
+    "allStreams": [
+      "https://wildearth-xumo.amagi.tv/master.m3u8",
+      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "EFmTACsbdn5aM0",
+    "name": "Best of Dance TV",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "BES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
+    ]
+  },
+  {
+    "id": "lwaCdwVDn5DIof",
+    "name": "DanceTV Algorhythm",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8"
+    ]
+  },
+  {
+    "id": "iJEOwv6A3pLbpA",
+    "name": "DanceTV Deep House District",
+    "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
+    ]
+  },
+  {
+    "id": "cnFlZpQ0FKCBXe",
+    "name": "DanceTV EDM Mainstage",
+    "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
+    ]
+  },
+  {
+    "id": "Q5enIVFByh6WlU",
+    "name": "DanceTV House Floor",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
+    ]
+  },
+  {
+    "id": "dGqTIRUXI72pxD",
+    "name": "DanceTV Minimal Tech",
+    "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
+    ]
+  },
+  {
+    "id": "5Hkd3G2uCyMEyH",
+    "name": "DanceTV Techno Warehouse",
+    "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8"
+    ]
+  },
+  {
+    "id": "FYDzTh0N4duFas",
+    "name": "ETV",
+    "url": "https://sb.err.ee/live/etv.m3u8",
+    "category": "General",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sb.err.ee/live/etv.m3u8"
+    ]
+  },
+  {
+    "id": "w1TyAWzZva88k1",
+    "name": "ETV 2",
+    "url": "https://sb.err.ee/live/etv2.m3u8",
+    "category": "Kids",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sb.err.ee/live/etv2.m3u8"
+    ]
+  },
+  {
+    "id": "g3tSCZ3A6RSOUd",
+    "name": "ETV+",
+    "url": "https://sb.err.ee/live/etvpluss.m3u8",
+    "category": "Entertainment",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est",
+      "rus"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est, rus.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sb.err.ee/live/etvpluss.m3u8"
+    ]
+  },
+  {
+    "id": "SY6JGWv0oWKy6h",
+    "name": "Life TV",
+    "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+    "category": "Religious",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: rus.",
+    "logoText": "LIF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lifetv.bitflip.ee/live/stream1.m3u8"
+    ]
+  },
+  {
+    "id": "FP0DHXJTw0LYfi",
+    "name": "Riigikogu",
+    "url": "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est.",
+    "logoText": "RII",
+    "streamCount": 1,
+    "allStreams": [
+      "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ET5aXCpL16C7nE",
+    "name": "Taevas TV7",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "category": "Religious",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "est"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: est.",
+    "logoText": "TAE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "r2gF8oZvggcaZG",
+    "name": "Vantage Dance",
+    "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
+    ]
+  },
+  {
+    "id": "i3qkHtWdmsIqE8",
+    "name": "Vantage Music",
+    "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
+    ]
+  },
+  {
+    "id": "ayJ81MgKRadKk0",
+    "name": "Vantage Rock",
+    "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+    "category": "Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Estonia. Idioma: eng.",
+    "logoText": "VAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls.vantagetv.ee/vrock_stream/index.m3u8"
+    ]
+  }
+]

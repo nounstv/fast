@@ -1,0 +1,36 @@
+[
+  {
+    "id": "T7OkqMf3hEUsSO",
+    "name": "TV Niksic",
+    "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+    "category": "Geral",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Montenegro. Idioma: srp.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.rtv-niksic.me/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "IlFU54Q8lNJ2L3",
+    "name": "TVCG MNE",
+    "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+    "category": "Geral",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "languages": [
+      "srp"
+    ],
+    "description": "Canal de TV de Montenegro. Idioma: srp.",
+    "logoText": "TVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8"
+    ]
+  }
+]

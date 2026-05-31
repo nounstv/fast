@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "8XM.pk",
+    "name": "8XM",
+    "logo": "https://i.imgur.com/KLrfKRn.png",
+    "logoText": "8XM",
+    "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://8xm.tv/"
+  },
+  {
+    "id": "92NewsHD.pk",
+    "name": "92 News HD",
+    "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+    "logoText": "92 ",
+    "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://92newshd.tv/live-tv"
+  },
+  {
+    "id": "APlusTV.pk",
+    "name": "A-Plus TV",
+    "logo": "https://i.imgur.com/uu0UJme.png",
+    "logoText": "A-P",
+    "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.a-plus.tv/"
+  },
+  {
+    "id": "AajEntertainment.pk",
+    "name": "Aaj Entertainment",
+    "logo": "https://i.imgur.com/WK5Cqap.png",
+    "logoText": "AAJ",
+    "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://aajentertainment.tv/"
+  },
+  {
+    "id": "AajNews.pk",
+    "name": "Aaj News",
+    "logo": "https://i.imgur.com/VNGnHYz.png",
+    "logoText": "AAJ",
+    "url": "http://115.42.65.142:9981/stream/channelid/750987367",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/750987367",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.aaj.tv/"
+  },
+  {
+    "id": "AbbTakk.pk",
+    "name": "Abb Takk",
+    "logo": "https://i.imgur.com/D6IHRrP.png",
+    "logoText": "ABB",
+    "url": "http://115.42.65.142:9981/stream/channelid/852828604",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/852828604",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.abbtakk.tv/"
+  },
+  {
+    "id": "ABNNews.pk",
+    "name": "ABN News",
+    "logo": "",
+    "logoText": "ABN",
+    "url": "http://115.42.65.142:9981/stream/channelid/966869781",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/966869781",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://abnnews.pk/abn-live/"
+  },
+  {
+    "id": "AikNews.pk",
+    "name": "Aik News",
+    "logo": "https://i.imgur.com/svPXoAP.png",
+    "logoText": "AIK",
+    "url": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.aiknewshd.tv/"
+  },
+  {
+    "id": "ApnaChannel.pk",
+    "name": "Apna Channel",
+    "logo": "https://i.imgur.com/ICSA4W6.png",
+    "logoText": "APN",
+    "url": "http://115.42.65.142:9981/stream/channelid/1273966657",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/1273966657",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://apna.tv/"
+  },
+  {
+    "id": "ARYDigital.pk",
+    "name": "ARY Digital",
+    "logo": "https://i.imgur.com/TVP7g03.png",
+    "logoText": "ARY",
+    "url": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://arydigital.tv/"
+  },
+  {
+    "id": "ARYMusik.pk",
+    "name": "ARY Musik",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+    "logoText": "ARY",
+    "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://arymusik.tv/"
+  },
+  {
+    "id": "ARYNews.pk",
+    "name": "ARY News",
+    "logo": "https://i.imgur.com/R4KtTbJ.jpg",
+    "logoText": "ARY",
+    "url": "http://115.42.65.142:9981/stream/channelid/322092446",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/322092446",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.arynews.tv/en/"
+  },
+  {
+    "id": "ARYZindagi.pk",
+    "name": "ARY Zindagi",
+    "logo": "",
+    "logoText": "ARY",
+    "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.aryzindagi.tv/"
+  },
+  {
+    "id": "ATV.pk",
+    "name": "ATV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
+    "logoText": "ATV",
+    "url": "http://115.42.65.142:9981/stream/channelid/299762256",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/299762256",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://atv.com.pk/"
+  },
+  {
+    "id": "aurLifeHD.pk",
+    "name": "aurLife HD",
+    "logo": "https://i.imgur.com/GfWLn3O.jpg",
+    "logoText": "AUR",
+    "url": "http://124.109.47.101/hls/stream1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://124.109.47.101/hls/stream1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://aurlife.tv/"
+  },
+  {
+    "id": "AVTKhyber.pk",
+    "name": "AVT Khyber",
+    "logo": "https://i.imgur.com/FqkABWT.png",
+    "logoText": "AVT",
+    "url": "http://115.42.65.142:9981/stream/channelid/1380586642",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/1380586642",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.avtchannels.com/"
+  },
+  {
+    "id": "BolEntertainment.pk",
+    "name": "Bol Entertainment",
+    "logo": "https://i.imgur.com/eajSRFo.png",
+    "logoText": "BOL",
+    "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.bolentertainment.com/"
+  },
+  {
+    "id": "City41.pk",
+    "name": "City 41",
+    "logo": "",
+    "logoText": "CIT",
+    "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.city41.tv/"
+  },
+  {
+    "id": "DiscoverPakistan.pk",
+    "name": "Discover Pakistan",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "logoText": "DIS",
+    "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.discoverpakistan.tv/"
+  },
+  {
+    "id": "DunyaNews.pk",
+    "name": "Dunya News",
+    "logo": "https://i.imgur.com/1PbtW0y.png",
+    "logoText": "DUN",
+    "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://dunyanews.tv/live/"
+  },
+  {
+    "id": "ExpressEntertainment.pk",
+    "name": "Express Entertainment",
+    "logo": "https://i.imgur.com/rgHbb8W.png",
+    "logoText": "EXP",
+    "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.expressentertainment.tv/"
+  },
+  {
+    "id": "FazalTV.pk",
+    "name": "Fazal TV",
+    "logo": "https://i.imgur.com/c0fvKia.png",
+    "logoText": "FAZ",
+    "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.fazal.tv/"
+  },
+  {
+    "id": "Filmax.pk",
+    "name": "Filmax",
+    "logo": "https://i.imgur.com/eLmdZ6k.png",
+    "logoText": "FIL",
+    "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "Filmazia.pk",
+    "name": "Filmazia",
+    "logo": "https://i.imgur.com/hpTCANa.png",
+    "logoText": "FIL",
+    "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "GeoKahani.pk",
+    "name": "Geo Kahani",
+    "logo": "https://i.imgur.com/uKYH0IM.png",
+    "logoText": "GEO",
+    "url": "http://116.90.120.151:8000/play/a023/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a023/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://geokahani.tv/"
+  },
+  {
+    "id": "GeoNews.pk",
+    "name": "Geo News",
+    "logo": "https://i.imgur.com/Op4EsaB.png",
+    "logoText": "GEO",
+    "url": "http://116.90.120.151:8000/play/a020/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a020/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.geo.tv/"
+  },
+  {
+    "id": "GeoTez.pk",
+    "name": "Geo Tez",
+    "logo": "https://geotez.tv/assets/front/images/tez_logo.png",
+    "logoText": "GEO",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.geotez.tv/"
+  },
+  {
+    "id": "GodStandsTV.pk",
+    "name": "God Stands TV",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "logoText": "GOD",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.godstands.tv/"
+  },
+  {
+    "id": "GraceNetwork.pk",
+    "name": "Grace Network",
+    "logo": "https://i.imgur.com/QSaZPJ4.png",
+    "logoText": "GRA",
+    "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://gracenetwork.global/"
+  },
+  {
+    "id": "HarPalGeo.pk",
+    "name": "HarPal Geo",
+    "logo": "https://i.imgur.com/NX3vvAX.png",
+    "logoText": "HAR",
+    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://harpalgeo.tv/"
+  },
+  {
+    "id": "HumNews.pk",
+    "name": "Hum News",
+    "logo": "https://i.imgur.com/9OroocT.png",
+    "logoText": "HUM",
+    "url": "http://116.90.120.151:8000/play/a024/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a024/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.humnews.pk/"
+  },
+  {
+    "id": "IsaacTV.pk",
+    "name": "Isaac TV",
+    "logo": "https://i.imgur.com/RHDbsiO.png",
+    "logoText": "ISA",
+    "url": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://isaactelevision.tv/Isaac%20Tv%20Pakistan/"
+  },
+  {
+    "id": "JooMusic.pk",
+    "name": "JooMusic",
+    "logo": "https://i.imgur.com/KHuKQQL.png",
+    "logoText": "JOO",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.joomusic.info/"
+  },
+  {
+    "id": "JoshuaTV.pk",
+    "name": "Joshua TV",
+    "logo": "https://i.imgur.com/x9xPR2h.png",
+    "logoText": "JOS",
+    "url": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.joshuatv.org/"
+  },
+  {
+    "id": "Kay2HD.pk",
+    "name": "Kay2 HD",
+    "logo": "https://i.imgur.com/CRKk0iP.png",
+    "logoText": "KAY",
+    "url": "http://103.250.28.74:8000/play/a027/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a027/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://kay2.tv/"
+  },
+  {
+    "id": "KidsZone.pk",
+    "name": "Kids Zone",
+    "logo": "https://i.imgur.com/mJWBVH1.png",
+    "logoText": "KID",
+    "url": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "KingTV.pk",
+    "name": "King TV",
+    "logo": "https://i.imgur.com/dujrwRE.png",
+    "logoText": "KIN",
+    "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.kingtelevision.tv/"
+  },
+  {
+    "id": "KohenoorNews.pk",
+    "name": "Kohenoor News",
+    "logo": "https://i.imgur.com/cD3Ogdh.png",
+    "logoText": "KOH",
+    "url": "http://103.250.28.74:8000/play/a00r/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00r/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.kohenoor.tv/"
+  },
+  {
+    "id": "KTNNews.pk",
+    "name": "KTN News",
+    "logo": "https://i.imgur.com/RtEzpPQ.png",
+    "logoText": "KTN",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.ktnnews.tv/"
+  },
+  {
+    "id": "LahoreNews.pk",
+    "name": "Lahore News",
+    "logo": "https://i.imgur.com/bQfQeEA.jpeg",
+    "logoText": "LAH",
+    "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://lahorenews.tv/"
+  },
+  {
+    "id": "LahoreRang.pk",
+    "name": "Lahore Rang",
+    "logo": "https://i.imgur.com/hglxHTa.png",
+    "logoText": "LAH",
+    "url": "http://103.250.28.74:8000/play/a01q/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01q/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.lahorerang.tv/"
+  },
+  {
+    "id": "LTNFamily.pk",
+    "name": "LTN Family",
+    "logo": "https://i.imgur.com/n4CenYn.png",
+    "logoText": "LTN",
+    "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Family",
+    "categories": [
+      "family"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://ltnfamily.tv/"
+  },
+  {
+    "id": "MadaniChannelEnglish.pk",
+    "name": "Madani Channel English",
+    "logo": "https://i.imgur.com/Abi9j0A.png",
+    "logoText": "MAD",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.madanichannel.tv/"
+  },
+  {
+    "id": "MadaniChannelUrdu.pk",
+    "name": "Madani Channel Urdu",
+    "logo": "https://i.imgur.com/MitLeCJ.png",
+    "logoText": "MAD",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.madanichannel.tv/"
+  },
+  {
+    "id": "MasalaTV.pk",
+    "name": "Masala TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+    "logoText": "MAS",
+    "url": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Cooking",
+    "categories": [
+      "cooking"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.masala.tv/"
+  },
+  {
+    "id": "MashriqTV.pk",
+    "name": "Mashriq TV",
+    "logo": "https://i.imgur.com/8pMiqcp.png",
+    "logoText": "MAS",
+    "url": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.mashriqtv.pk/"
+  },
+  {
+    "id": "MehranTV.pk",
+    "name": "Mehran TV",
+    "logo": "https://i.imgur.com/ma2bFXk.png",
+    "logoText": "MEH",
+    "url": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://mehrantv.tv"
+  },
+  {
+    "id": "Metro1News.pk",
+    "name": "Metro1 News",
+    "logo": "https://i.imgur.com/qD9cj27.jpg",
+    "logoText": "MET",
+    "url": "http://103.250.28.74:8000/play/a04u/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04u/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.metro1news.tv/"
+  },
+  {
+    "id": "Minimax.pk",
+    "name": "Minimax",
+    "logo": "https://i.imgur.com/TJvf8vd.png",
+    "logoText": "MIN",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.bellsentertainment.com.pk/media/"
+  },
+  {
+    "id": "NeoNews.pk",
+    "name": "Neo News",
+    "logo": "https://i.imgur.com/9mrbPRs.png",
+    "logoText": "NEO",
+    "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.neonetwork.pk/"
+  },
+  {
+    "id": "NewsOne.pk",
+    "name": "News One",
+    "logo": "https://i.imgur.com/ivrRYMk.png",
+    "logoText": "NEW",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://103.250.28.74:8000/play/a04j/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.newsone.tv/"
+  },
+  {
+    "id": "ONNewsHD.pk",
+    "name": "ON News HD",
+    "logo": "https://i.imgur.com/h3IUrMI.png",
+    "logoText": "ON ",
+    "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.onnewstv.pk/"
+  },
+  {
+    "id": "OneGolf.pk",
+    "name": "One Golf",
+    "logo": "https://i.imgur.com/7JhaEW5.png",
+    "logoText": "ONE",
+    "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "PaighanTV.pk",
+    "name": "Paighan TV",
+    "logo": "https://i.imgur.com/zokC3gO.png",
+    "logoText": "PAI",
+    "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious",
+      "education"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.paigham.tv/"
+  },
+  {
+    "id": "Pashto1.pk",
+    "name": "Pashto 1",
+    "logo": "https://i.imgur.com/QB9xOSZ.png",
+    "logoText": "PAS",
+    "url": "http://103.250.28.74:8000/play/a00t/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00t/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://humpashto1.tv/"
+  },
+  {
+    "id": "PlayEntertainment.pk",
+    "name": "Play Entertainment",
+    "logo": "https://i.imgur.com/BnNNDrE.png",
+    "logoText": "PLA",
+    "url": "http://103.250.28.74:8000/play/a050/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a050/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.playentertainment.tv/"
+  },
+  {
+    "id": "PMITV.pk",
+    "name": "PMI TV",
+    "logo": "https://i.imgur.com/SfyCwXj.png",
+    "logoText": "PMI",
+    "url": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.pmitv.org/"
+  },
+  {
+    "id": "PraiseTV.pk",
+    "name": "Praise TV",
+    "logo": "https://i.imgur.com/T9fIdLs.png",
+    "logoText": "PRA",
+    "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://praisetvpakistan.tv/"
+  },
+  {
+    "id": "PTVGlobal.pk",
+    "name": "PTV Global",
+    "logo": "https://i.imgur.com/CWFI3wg.png",
+    "logoText": "PTV",
+    "url": "http://103.250.28.74:8000/play/a018/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a018/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://global.ptv.com.pk/"
+  },
+  {
+    "id": "PTVNews.pk",
+    "name": "PTV News",
+    "logo": "https://i.imgur.com/Fpn8VU7.png",
+    "logoText": "PTV",
+    "url": "http://103.250.28.74:8000/play/a017/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a017/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "PTVSports.pk",
+    "name": "PTV Sports",
+    "logo": "https://i.imgur.com/CPm6GHA.png",
+    "logoText": "PTV",
+    "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "PublicNews.pk",
+    "name": "Public News",
+    "logo": "https://i.imgur.com/q3ij8wO.png",
+    "logoText": "PUB",
+    "url": "http://103.250.28.74:8000/play/a04g/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04g/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://publicnews.com/"
+  },
+  {
+    "id": "QuranTV.pk",
+    "name": "Quran TV",
+    "logo": "https://i.imgur.com/nc7X3Ux.png",
+    "logoText": "QUR",
+    "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://paigham.tv/paigham-quran-tv/"
+  },
+  {
+    "id": "RaaviTV.pk",
+    "name": "Raavi TV",
+    "logo": "https://i.imgur.com/Sdvg5h2.png",
+    "logoText": "RAA",
+    "url": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "Rohi.pk",
+    "name": "Rohi",
+    "logo": "https://i.imgur.com/zC8hXi4.png",
+    "logoText": "ROH",
+    "url": "http://103.250.28.74:8000/play/a00d/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00d/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.rohi.tv/"
+  },
+  {
+    "id": "RozeNews.pk",
+    "name": "Roze News",
+    "logo": "https://i.imgur.com/TedWqfL.png",
+    "logoText": "ROZ",
+    "url": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://rozenews.com.pk/"
+  },
+  {
+    "id": "SABTV.pk",
+    "name": "SAB TV",
+    "logo": "https://i.imgur.com/hC7Sidr.png",
+    "logoText": "SAB",
+    "url": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://sabtv.pk/"
+  },
+  {
+    "id": "SamaaTV.pk",
+    "name": "Samaa TV",
+    "logo": "https://i.imgur.com/r3U4A1P.png",
+    "logoText": "SAM",
+    "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.samaa.tv/"
+  },
+  {
+    "id": "ShineStarTV.pk",
+    "name": "Shine Star TV",
+    "logo": "https://i.imgur.com/I3lTIeN.png",
+    "logoText": "SHI",
+    "url": "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://shinestar.tv/"
+  },
+  {
+    "id": "SilverScreen.pk",
+    "name": "Silver Screen",
+    "logo": "https://i.imgur.com/s4Rv6pK.png",
+    "logoText": "SIL",
+    "url": "http://103.250.28.74:8000/play/a044/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a044/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "SindhTV.pk",
+    "name": "Sindh TV",
+    "logo": "https://i.imgur.com/izpeOsx.png",
+    "logoText": "SIN",
+    "url": "https://mumt01.tangotv.in/SINDHTV/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mumt01.tangotv.in/SINDHTV/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://103.250.28.74:8000/play/a00u/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://sindhtv.tv/"
+  },
+  {
+    "id": "SindhTVNews.pk",
+    "name": "Sindh TV News",
+    "logo": "https://i.imgur.com/Ap9K1lj.png",
+    "logoText": "SIN",
+    "url": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://sindhtvnews.net/"
+  },
+  {
+    "id": "StarAsia.pk",
+    "name": "Star Asia",
+    "logo": "https://i.imgur.com/9coLhX8.png",
+    "logoText": "STA",
+    "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://starasianews.tv/"
+  },
+  {
+    "id": "SuchTV.pk",
+    "name": "Such TV",
+    "logo": "https://i.imgur.com/yYMh3JJ.png",
+    "logoText": "SUC",
+    "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "SunoNewsHD.pk",
+    "name": "Suno News HD",
+    "logo": "https://i.imgur.com/FeSntVO.jpg",
+    "logoText": "SUN",
+    "url": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://www.sunonews.tv/"
+  },
+  {
+    "id": "TenSportsPakistan.pk",
+    "name": "Ten Sports Pakistan",
+    "logo": "https://i.imgur.com/nnqpYNm.png",
+    "logoText": "TEN",
+    "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "TVOneGlobal.pk",
+    "name": "TV One Global",
+    "logo": "https://i.imgur.com/Xn3XxMY.png",
+    "logoText": "TV ",
+    "url": "http://103.250.28.74:8000/play/a04i/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04i/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A."
+  },
+  {
+    "id": "TVToday.pk",
+    "name": "TV Today",
+    "logo": "https://i.imgur.com/MYoosNo.png",
+    "logoText": "TV ",
+    "url": "http://103.250.28.74:8000/play/a06e/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a06e/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://tvtodaynews.tv/"
+  },
+  {
+    "id": "VenusHD.pk",
+    "name": "Venus HD",
+    "logo": "https://i.imgur.com/0C9KunR.png",
+    "logoText": "VEN",
+    "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.venustv.net/"
+  },
+  {
+    "id": "VSHNews.pk",
+    "name": "VSH News",
+    "logo": "https://i.imgur.com/pmPZoYC.png",
+    "logoText": "VSH",
+    "url": "http://103.250.28.74:8000/play/a00w/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00w/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: https://vshnews.tv/"
+  },
+  {
+    "id": "WasebTV.pk",
+    "name": "Waseb TV",
+    "logo": "https://i.imgur.com/RsF5yVA.png",
+    "logoText": "WAS",
+    "url": "http://103.250.28.74:8000/play/a04k/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04k/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.waseb.tv/home"
+  },
+  {
+    "id": "ZindagiTV.pk",
+    "name": "Zindagi TV",
+    "logo": "https://i.imgur.com/XBHvR5J.png",
+    "logoText": "ZIN",
+    "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PK",
+    "countryName": "Pakistan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Pakistan. Language: N/A. Website: http://www.zindagitv.com/"
+  }
+]

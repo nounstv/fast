@@ -1,0 +1,800 @@
+[
+  {
+    "id": "eNsC6GxX1XiJq8",
+    "name": "Asharq Documentary",
+    "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "category": "Documentary",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
+    "logoText": "ASH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
+    ]
+  },
+  {
+    "id": "54R2DRyAaS8Mcs",
+    "name": "Atlas",
+    "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "ATL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8"
+    ]
+  },
+  {
+    "id": "BKprRPWc9ugskl",
+    "name": "Backstage",
+    "url": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "BAC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eQ0MWZIQb0YBdg",
+    "name": "BBC Earth US",
+    "url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "BBC",
+    "streamCount": 3,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
+      "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
+    ]
+  },
+  {
+    "id": "WH7adDfFfMrDqi",
+    "name": "Bloomberg Originals US",
+    "url": "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "BLO",
+    "streamCount": 2,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
+    ]
+  },
+  {
+    "id": "zV7a20HW4WTHRY",
+    "name": "BritBox Mysteries",
+    "url": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "BRI",
+    "streamCount": 2,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
+      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8qbHNd2Zc2MjWY",
+    "name": "CCTV-9",
+    "url": "https://xykt-fix.github.io/Y77.m3u8",
+    "category": "Documentary",
+    "country": "CN",
+    "countryName": "China",
+    "languages": [
+      "zho"
+    ],
+    "description": "Canal de TV de China. Idioma: zho.",
+    "logoText": "CCT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xykt-fix.github.io/Y77.m3u8"
+    ]
+  },
+  {
+    "id": "u673t64oVwJcTF",
+    "name": "CGTN Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "category": "Documentary",
+    "country": "CN",
+    "countryName": "China",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de China. Idioma: eng.",
+    "logoText": "CGT",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GDeVF43cbBphiD",
+    "name": "ClickTV Chile",
+    "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "CLI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HJhyKYuHh72Bmv",
+    "name": "CNA Originals",
+    "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "SG",
+    "countryName": "Singapore",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Singapore. Idioma: eng.",
+    "logoText": "CNA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sm6jSJZU2R13Dv",
+    "name": "Court TV",
+    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "COU",
+    "streamCount": 3,
+    "allStreams": [
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e5yFtaZLgEF4ai",
+    "name": "Curiosity NOW US",
+    "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "CUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "37KaLwlp7l7x5S",
+    "name": "Danger TV",
+    "url": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "DAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jAekBDqlLERFF0",
+    "name": "Dateline 24/7",
+    "url": "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "DAT",
+    "streamCount": 3,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
+      "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029",
+      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8"
+    ]
+  },
+  {
+    "id": "0rdsN692AZWVnA",
+    "name": "Deadly Women UK",
+    "url": "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8",
+    "category": "Documentary",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "DEA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8"
+    ]
+  },
+  {
+    "id": "86GG55Alt5PoRN",
+    "name": "Discovering China",
+    "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+    "category": "Documentary",
+    "country": "CN",
+    "countryName": "China",
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "description": "Canal de TV de China. Idioma: eng, zho.",
+    "logoText": "DIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2fMuVMErYSbQJN",
+    "name": "Documentary+ International",
+    "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "DOC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "n8oW0usQhgVDsW",
+    "name": "Documentary+ US",
+    "url": "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "DOC",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8",
+      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FQVKNsI92Y63Vf",
+    "name": "Dokusat",
+    "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "category": "Documentary",
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Germany. Idioma: deu.",
+    "logoText": "DOK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FOmh48Vhhwgsmx",
+    "name": "Ecovision",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+    "category": "Documentary",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
+    "logoText": "ECO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ]
+  },
+  {
+    "id": "J5HDeVjO016Oz1",
+    "name": "EPlanet TV",
+    "url": "https://eplhls.wns.live/hls/stream.m3u8",
+    "category": "Documentary",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "EPL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eplhls.wns.live/hls/stream.m3u8"
+    ]
+  },
+  {
+    "id": "ok1XbdadbIAXgd",
+    "name": "Francophonie24",
+    "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "FRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QsnZdQrvWuaOtn",
+    "name": "Get.factual UK",
+    "url": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
+    "category": "Documentary",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "GET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8"
+    ]
+  },
+  {
+    "id": "OdnRloFb9PVDPW",
+    "name": "History Asia",
+    "url": "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "HIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
+    ]
+  },
+  {
+    "id": "HZEhjsWnhssch2",
+    "name": "History Hit",
+    "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "HIS",
+    "streamCount": 3,
+    "allStreams": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+      "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IweKaw5SjiSSz1",
+    "name": "History TV18",
+    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "category": "Documentary",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "description": "Canal de TV de India. Idioma: eng, hin, tam, tel.",
+    "logoText": "HIS",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "slEajb8UgnTx3L",
+    "name": "Into Crime",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "INT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FlqGAqnBqpvJeH",
+    "name": "INWILD",
+    "url": "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de India. Idioma: eng.",
+    "logoText": "INW",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KkqMuLxaMTBFSE",
+    "name": "KTOO-TV 3.3",
+    "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "KTO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+    ]
+  },
+  {
+    "id": "ECyw9lmqQ9xfIM",
+    "name": "Love Pets US",
+    "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "LOV",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+      "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
+      "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vc83h8nvdBt03n",
+    "name": "Love The Planet English",
+    "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "LOV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "29K3gt1fuyfoWN",
+    "name": "Lucky Dog",
+    "url": "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "LUC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
+    ]
+  },
+  {
+    "id": "2IhVNnNGaDMY0V",
+    "name": "MagellanTV Now",
+    "url": "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "MAG",
+    "streamCount": 3,
+    "allStreams": [
+      "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
+      "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
+      "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yWqRPjIHcgYftM",
+    "name": "Nano",
+    "url": "https://s1.tv-nano.com/Nano_rec/index.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "NAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+    ]
+  },
+  {
+    "id": "AbcJxYxf3cyf3H",
+    "name": "Nature Time",
+    "url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SbCVyIRCGshv9Z",
+    "name": "Nature Time",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "NAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "T0TMY0MmpuHlBC",
+    "name": "Nature Time",
+    "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "UK",
+    "countryName": "United Kingdom",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United Kingdom. Idioma: eng.",
+    "logoText": "NAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "846V8NIrMo8bSl",
+    "name": "NatureTime",
+    "url": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+    "category": "Documentary",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "NAT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+      "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tmL08cxsScFKuK",
+    "name": "NatureTime AU",
+    "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "category": "Documentary",
+    "country": "AU",
+    "countryName": "Australia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Australia. Idioma: eng.",
+    "logoText": "NAT",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "category": "Documentary",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "languages": [
+      "uzb"
+    ],
+    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
+    "logoText": "O'Z",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Slt5syXsekpkl9",
+    "name": "RT Documentary English",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Russia. Idioma: eng.",
+    "logoText": "RT ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0mulGVhtSW9kDC",
+    "name": "RTД",
+    "url": "https://streaming.thestream.cyou/live/554.m3u8",
+    "category": "Documentary",
+    "country": "RU",
+    "countryName": "Russia",
+    "languages": [
+      "rus"
+    ],
+    "description": "Canal de TV de Russia. Idioma: rus.",
+    "logoText": "RTД",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.thestream.cyou/live/554.m3u8",
+      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "x77twNOeEoFaIl",
+    "name": "Safari TV",
+    "url": "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+    "category": "Documentary",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "mal"
+    ],
+    "description": "Canal de TV de India. Idioma: mal.",
+    "logoText": "SAF",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OR0bcDdbzNJR50",
+    "name": "Terra Mater WILD English",
+    "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+    "category": "Documentary",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TER",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+      "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ExqfRu5vFNM6yj",
+    "name": "Total Crime CA",
+    "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+    "category": "Documentary",
+    "country": "CA",
+    "countryName": "Canada",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Canada. Idioma: eng.",
+    "logoText": "TOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
+    ]
+  }
+]

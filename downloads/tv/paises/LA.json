@@ -1,0 +1,240 @@
+[
+  {
+    "id": "BrianTV.la",
+    "name": "Brian TV",
+    "logo": "https://i.imgur.com/zG1WNgU.jpg",
+    "logoText": "BRI",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "DaoLaneXangTV.la",
+    "name": "Dao Lane Xang TV",
+    "logo": "https://i.imgur.com/yE7nZ6w.png",
+    "logoText": "DAO",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "ISTV.la",
+    "name": "ISTV",
+    "logo": "https://i.imgur.com/TGAKFcV.jpg",
+    "logoText": "IST",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "LaoNetTV.la",
+    "name": "Lao Net TV",
+    "logo": "https://i.imgur.com/ohbRT05.png",
+    "logoText": "LAO",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "LookThoongTV.la",
+    "name": "Look Thoong TV",
+    "logo": "https://i.imgur.com/eT7iE34.png",
+    "logoText": "LOO",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "LSTV.la",
+    "name": "LS TV",
+    "logo": "https://i.imgur.com/fs3dQ6J.png",
+    "logoText": "LS ",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "MVLaoTV.la",
+    "name": "MV Lao TV",
+    "logo": "https://i.imgur.com/oVlQUKM.png",
+    "logoText": "MV ",
+    "url": "https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A. Website: https://www.mvtv.co.th/channel/mvlao-tv"
+  },
+  {
+    "id": "NingTV.la",
+    "name": "Ning TV",
+    "logo": "https://i.imgur.com/ANnEPnK.png",
+    "logoText": "NIN",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "OhMuangLaoTV.la",
+    "name": "Oh Muang Lao TV",
+    "logo": "https://i.imgur.com/SdB3Vyr.jpg",
+    "logoText": "OH ",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  },
+  {
+    "id": "VatiLao.la",
+    "name": "Vati Lao",
+    "logo": "https://i.imgur.com/NwxXABV.png",
+    "logoText": "VAT",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "LA",
+    "countryName": "Laos",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Laos. Language: N/A."
+  }
+]

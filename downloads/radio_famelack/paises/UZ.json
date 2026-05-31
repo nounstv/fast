@@ -1,0 +1,34 @@
+[
+  {
+    "id": "AaAMaBbMEC8K2H",
+    "name": "Islom.uz Radio",
+    "url": "https://radio.islom.uz/islomuz",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=islom.uz",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "state": "",
+    "tags": "",
+    "language": "uzb",
+    "homepage": ""
+  },
+  {
+    "id": "gdEJp2oEyA9UkE",
+    "name": "Radio Qalbim Navosi",
+    "url": "https://live.qalbimnavosi.uz/qalbimnavosi",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=qalbimnavosi.uz",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "state": "",
+    "tags": "pop",
+    "language": "uzb",
+    "homepage": ""
+  }
+]

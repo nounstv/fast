@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ob4chBiKDQ4bc2",
+    "name": "Grandes Clássicos da Música Moçambicana",
+    "url": "https://stream.zeno.fm/bm29ouxe0hrtv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+    "category": "Oldies",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "state": "",
+    "tags": "oldies",
+    "language": "por",
+    "homepage": ""
+  },
+  {
+    "id": "Yi8FiZe7z5i2UE",
+    "name": "LM Radio",
+    "url": "https://edge.iono.fm/xice/392_medium.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=iono.fm",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "state": "",
+    "tags": "pop",
+    "language": "eng, por",
+    "homepage": ""
+  }
+]

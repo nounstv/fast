@@ -1,0 +1,259 @@
+[
+  {
+    "id": "BIDI8yaoxL4vBI",
+    "name": "CT24",
+    "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+    "category": "News",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "CT2",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sGGYcG95nzGgeJ",
+    "name": "Elektrika TV",
+    "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+    "category": "Geral",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "ELE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vSFSSUY1YrEDW7",
+    "name": "JC1",
+    "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "JC1",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.jc1.cz/hls/jc1.m3u8"
+    ]
+  },
+  {
+    "id": "Msa0rkk2Ovcz6v",
+    "name": "Jihoceska televize",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "JIH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
+    ]
+  },
+  {
+    "id": "uoQs1GLoP77edf",
+    "name": "Mnau TV",
+    "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "MNA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "RMA5KISMMWs8DS",
+    "name": "Ocko",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 2,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qZ8UlvNha5FQaM",
+    "name": "Ocko Expres",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Gx4G2UXYb5Pmbf",
+    "name": "Ocko Gold",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "OCK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IT22OI7L0wA3hQ",
+    "name": "Plzen TV",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "PLZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+    ]
+  },
+  {
+    "id": "TJaXKOg9obT2nw",
+    "name": "Polar TV",
+    "url": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "POL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+      "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "B1D7ROeH3iyq1i",
+    "name": "Polar2",
+    "url": "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "POL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2MBpmC0kG7TZ8G",
+    "name": "Retro Music TV",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "category": "Music",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fTApFWHNaUxcOH",
+    "name": "TV Brno 1",
+    "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+    "category": "General",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cWzKFLiigGaQzp",
+    "name": "UTV",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+    "category": "Geral",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "UTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
+    ]
+  },
+  {
+    "id": "NTuQpCvDO7jZXl",
+    "name": "Vychodoceska TV",
+    "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+    "category": "Geral",
+    "country": "CZ",
+    "countryName": "Czechia",
+    "languages": [
+      "ces"
+    ],
+    "description": "Canal de TV de Czechia. Idioma: ces.",
+    "logoText": "VYC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
+    ]
+  }
+]

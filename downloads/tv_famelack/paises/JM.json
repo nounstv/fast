@@ -1,0 +1,19 @@
+[
+  {
+    "id": "BeW3PAeEGZgHvP",
+    "name": "TVJ",
+    "url": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
+    "category": "General",
+    "country": "JM",
+    "countryName": "Jamaica",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Jamaica. Idioma: eng.",
+    "logoText": "TVJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8"
+    ]
+  }
+]

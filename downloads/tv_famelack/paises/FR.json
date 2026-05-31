@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "rcGItYdOTI8N1Z",
+    "name": "20 Minutes TV",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "20 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-20minutestv.digiteka.com/1961167769/index.m3u8"
+    ]
+  },
+  {
+    "id": "yjR0KcAL5erp0S",
+    "name": "ADN TV+",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "category": "Animation",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "ADN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
+    ]
+  },
+  {
+    "id": "JzlPxfMfmeouYm",
+    "name": "Africa 24",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "AFR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "QzSkQCeFOqXwg8",
+    "name": "Africa 24 English",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "AFR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "category": "Sports",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "AFR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "3R0EfOPIBQ61UY",
+    "name": "Africanews",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "AFR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
+    ]
+  },
+  {
+    "id": "JYn1ySxy92KPFz",
+    "name": "Africanews French",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "AFR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fc5hpz0dRxh3M6",
+    "name": "Alpe d'Huez TV",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "ALP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "MV7j6dHcEiwyvr",
+    "name": "Antenne Reunion",
+    "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
+    ]
+  },
+  {
+    "id": "cGjSaev20uBBta",
+    "name": "Banijay Mr Bean Animé",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "category": "Kids",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "BAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "43AnT98rvIMgpF",
+    "name": "BBC Top Gear France",
+    "url": "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "BBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "dLIAh0rLx7c8Gx",
+    "name": "Beyblade",
+    "url": "https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "BEY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QdwgxpSy3GxyBy",
+    "name": "BFM Lyon",
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "BFM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+    ]
+  },
+  {
+    "id": "8sVssR2O9ofmMl",
+    "name": "BFM2",
+    "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "BFM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
+    ]
+  },
+  {
+    "id": "9liJNhs1fNC6iE",
+    "name": "Brionnais TV",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "BRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bOhMEpvHNwuNr8",
+    "name": "Caillou",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "CAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+    ]
+  },
+  {
+    "id": "LKw5dooNM64sYJ",
+    "name": "Canal 32",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "tiXtRLicL19CEx",
+    "name": "Cannes Lerins TV",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
+    ]
+  },
+  {
+    "id": "6h59DxtixgipIc",
+    "name": "Cine Nanar",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "CIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YhR4TNuGJkq8Se",
+    "name": "Cine Western",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "CIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "DBM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WxYEpzQmBTG6Du",
+    "name": "Drive TV",
+    "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "DRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4pzl6d1ofUzpIB",
+    "name": "Emotion L",
+    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "EMO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Qc6Yckay6OGUKY",
+    "name": "FashionTV Paris L'Original",
+    "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "category": "Lifestyle",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "FAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "hN2lvdly5DX2ya",
+    "name": "FashionTV Secrets",
+    "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+    "category": "Lifestyle",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "FAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1"
+    ]
+  },
+  {
+    "id": "JHLZ2EwaJPv0IR",
+    "name": "FilmRise Binge Watch France",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021"
+    ]
+  },
+  {
+    "id": "08Ckvhcc4J0cdi",
+    "name": "FilmRise DeGrassi la nouvelle génération",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113"
+    ]
+  },
+  {
+    "id": "szbJVfsHulqWcu",
+    "name": "FilmRise Hot Ones",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082"
+    ]
+  },
+  {
+    "id": "zK1h4297m1m9Ls",
+    "name": "FilmRise Les Routes du Paradis",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083"
+    ]
+  },
+  {
+    "id": "Zd309NMpvaOGV5",
+    "name": "FilmRise Séries France",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033"
+    ]
+  },
+  {
+    "id": "W94QfzFdLuSIjC",
+    "name": "FilmRise Z Nation France",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103"
+    ]
+  },
+  {
+    "id": "S9vpRWeeHUeMAA",
+    "name": "France 24 Arabic",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de France. Idioma: ara.",
+    "logoText": "FRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
+    ]
+  },
+  {
+    "id": "oTQxI54nBGEd6Z",
+    "name": "France 24 English",
+    "url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Top news",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "FRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nkxebd37eO0ltl",
+    "name": "France 24 FAST English",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "FRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4CWVkfpOd7mDjB",
+    "name": "France 24 French",
+    "url": "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "FRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
+      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8"
+    ]
+  },
+  {
+    "id": "ok1XbdadbIAXgd",
+    "name": "Francophonie24",
+    "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "FRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7MLHT3jxe1OcD2",
+    "name": "Frequence Novelas",
+    "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+    "category": "Series",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "FRE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "GEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "BHktLaXb4NGD72",
+    "name": "Gong",
+    "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+    "category": "Animation",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "GON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
+    ]
+  },
+  {
+    "id": "OgCZtD8wAAsw56",
+    "name": "HANDICAP TV",
+    "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+    "category": "Lifestyle",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "HAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "R7QQGzMYNAADi7",
+    "name": "Homicide la chaîne du fait divers",
+    "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "HOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "slEajb8UgnTx3L",
+    "name": "Into Crime",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "INT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qu8fNM6wQkTJJ8",
+    "name": "ITV Un Village Français",
+    "url": "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "ITV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ao2VustxYc4JJe",
+    "name": "Le Figaro TV Ile-de-France",
+    "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "LE ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+      "https://static.lefigaro.fr/secom/tnt.m3u8"
+    ]
+  },
+  {
+    "id": "Tx5RswMvDJkzju",
+    "name": "Le Meilleur d'Arthur",
+    "url": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "LE ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jcLePfmR9eaQ5w",
+    "name": "Le Meilleur de la TV Realite",
+    "url": "https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "LE ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uCk4iDzDPIUF2d",
+    "name": "Les Anges",
+    "url": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "LES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PsqmjTAcyqo2QW",
+    "name": "Les Secrets de Nos Régions",
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "LES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FSarTXtXzxj5ih",
+    "name": "Les Z'amours",
+    "url": "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "LES",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "LIT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5oNNwRbeufUj8K",
+    "name": "Monte Carlo Digital Television",
+    "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+    "category": "Lifestyle",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "MON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8"
+    ]
+  },
+  {
+    "id": "kD5MBV5ey6hKbh",
+    "name": "Motus La Chaîne",
+    "url": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "MOT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
+    "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
+    "category": "Religious",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "MY ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
+    ]
+  },
+  {
+    "id": "hDKihfnR1gIzAi",
+    "name": "MyZen TV",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "category": "Relax",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "bul",
+      "eng",
+      "fra",
+      "rus",
+      "spa",
+      "tur"
+    ],
+    "description": "Canal de TV de France. Idioma: bul, eng, fra, rus, spa, tur.",
+    "logoText": "MYZ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SbCVyIRCGshv9Z",
+    "name": "Nature Time",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Documentary",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "NAT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UV2K3Inr6FlKvf",
+    "name": "P2M TV",
+    "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "P2M",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
+    ]
+  },
+  {
+    "id": "6yK7rD2LKikhPv",
+    "name": "Puissance TV",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "PUI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
+    ]
+  },
+  {
+    "id": "GBee4ruMbEkHYx",
+    "name": "Qui Veut Gagner Des Millions La Chaîne",
+    "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "QUI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "W8ZhdZg3k4GfrH",
+    "name": "Qwest TV",
+    "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "QWE",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+      "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+    ]
+  },
+  {
+    "id": "PGDjufEBywGkq1",
+    "name": "Qwest TV Jazz & Beyond",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de France. Idioma: eng.",
+    "logoText": "QWE",
+    "streamCount": 2,
+    "allStreams": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+      "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3UupDDnNXaxwcR",
+    "name": "Rakuten TV Films Comédie",
+    "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "RAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+    ]
+  },
+  {
+    "id": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "url": "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "RAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ]
+  },
+  {
+    "id": "K1cCEN7WNbjDun",
+    "name": "Revry Europe (Frequency backend)",
+    "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "REV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "xv9b7Q8DQqzTWg",
+    "name": "RT France",
+    "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+    "category": "News",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "RT ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "neBVvLlUGu8wG8",
+    "name": "ScreamIN",
+    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SCR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "f1Z2REVZIJr4vr",
+    "name": "Sony One Blacklist",
+    "url": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+    "category": "Series",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NZ0M4Z47C2ZcVG",
+    "name": "Sony One Favoris",
+    "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+      "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bcMCtiQR1EZ7L7",
+    "name": "Sony One Hits Action",
+    "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "FLA1VaGF1q2tdh",
+    "name": "Sony One Hits Comedie",
+    "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+    "category": "Movies",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+      "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PddVv4O37Tx5Us",
+    "name": "Sony One Series Comedie",
+    "url": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+    "category": "Series",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+      "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WGDiUT1T62mE6W",
+    "name": "Sony One Series Thriller",
+    "url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+    "category": "Series",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "SON",
+    "streamCount": 2,
+    "allStreams": [
+      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+      "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "URBHUsZAHdGmEN",
+    "name": "Trace Brazuca",
+    "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de France. Idioma: por.",
+    "logoText": "TRA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "70sX04jX14d4dB",
+    "name": "Trace Gospel",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "category": "Religious",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TRA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
+    ]
+  },
+  {
+    "id": "RcxxzdMu6ZS2Ab",
+    "name": "Trace Latina",
+    "url": "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8sJgzboMg4ThSQ",
+    "name": "Trace Sport Stars",
+    "url": "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Sports",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: eng, fra.",
+    "logoText": "TRA",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+      "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wIUeNDlNNSx9pm",
+    "name": "Trace Urban",
+    "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+    "category": "Music",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng",
+      "fra",
+      "por"
+    ],
+    "description": "Canal de TV de France. Idioma: eng, fra, por.",
+    "logoText": "TRA",
+    "streamCount": 3,
+    "allStreams": [
+      "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
+      "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "inGlxKW8S2QpWf",
+    "name": "TV3V",
+    "url": "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TV3",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
+    ]
+  },
+  {
+    "id": "DCLTXwqB1NQz9D",
+    "name": "TV5Monde Asia",
+    "url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TV5",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8"
+    ]
+  },
+  {
+    "id": "1knGFXXt1Z1tXg",
+    "name": "TV7 Colmar",
+    "url": "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "TV7",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Aza21fcjQwmAgZ",
+    "name": "Vevo Hip-Hop et RnB",
+    "url": "https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4iaZvz0DlRN5Ya",
+    "name": "ViaMatele",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "VIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Vfl8587p5Rbn09",
+    "name": "viaTelePaese",
+    "url": "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "VIA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
+    ]
+  },
+  {
+    "id": "SbiWPbW9abVIyM",
+    "name": "Vosges TV",
+    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "VOS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8MY8QweXbIf30Y",
+    "name": "Wasabi la chaîne anime",
+    "url": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "WAS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "T8DRD6kDPp2FBt",
+    "name": "Y'a Que La Vérité Qui Compte La Chaîne",
+    "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "category": "Geral",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [],
+    "description": "Canal de TV de France. Idioma: N/A.",
+    "logoText": "Y'A",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "glNPCf2RbwoWmt",
+    "name": "zenith",
+    "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+    "category": "General",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: eng, fra.",
+    "logoText": "ZEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.azenagroup.com/zenith/index.ll.m3u8"
+    ]
+  }
+]

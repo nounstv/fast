@@ -1,0 +1,70 @@
+[
+  {
+    "id": "8GtOpx9EPmjKvR",
+    "name": "Hiru TV",
+    "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "languages": [
+      "sin"
+    ],
+    "description": "Canal de TV de Sri Lanka. Idioma: sin.",
+    "logoText": "HIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+    "category": "Culture",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de Sri Lanka. Idioma: tam.",
+    "logoText": "IMA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Lb91CXq3a9VbL6",
+    "name": "NDTV LANKA",
+    "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de Sri Lanka. Idioma: tam.",
+    "logoText": "NDT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "93ImfKCer0mJxB",
+    "name": "Siyatha TV",
+    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "category": "Geral",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "languages": [
+      "sin"
+    ],
+    "description": "Canal de TV de Sri Lanka. Idioma: sin.",
+    "logoText": "SIY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "id": "Alsat.mk",
+    "name": "Alsat",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "logoText": "ALS",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: http://alsat-m.tv"
+  },
+  {
+    "id": "CoolTV.mk",
+    "name": "Cool TV",
+    "logo": "https://i.imgur.com/2tFrjUz.png",
+    "logoText": "COO",
+    "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/cooltv/"
+  },
+  {
+    "id": "FolkTV.mk",
+    "name": "Folk TV",
+    "logo": "https://i.imgur.com/4b9aZ9P.png",
+    "logoText": "FOL",
+    "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/folktv/"
+  },
+  {
+    "id": "JazzTV.mk",
+    "name": "Jazz TV",
+    "logo": "https://i.imgur.com/CbQlSFX.png",
+    "logoText": "JAZ",
+    "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/jazztv/"
+  },
+  {
+    "id": "Kanal5.mk",
+    "name": "Kanal 5",
+    "logo": "https://i.imgur.com/Qw7N3S2.png",
+    "logoText": "KAN",
+    "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.kanal5.com.mk/"
+  },
+  {
+    "id": "LoveTV.mk",
+    "name": "Love TV",
+    "logo": "https://i.imgur.com/B8iaejQ.png",
+    "logoText": "LOV",
+    "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/lovetv/"
+  },
+  {
+    "id": "MNetHD.mk",
+    "name": "M-Net HD",
+    "logo": "https://i.imgur.com/HDYqWuR.png",
+    "logoText": "M-N",
+    "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mnet.mk/"
+  },
+  {
+    "id": "MNetInfo.mk",
+    "name": "M-Net Info",
+    "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
+    "logoText": "M-N",
+    "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://info.mnet.mk/"
+  },
+  {
+    "id": "MNetKids.mk",
+    "name": "M-Net Kids",
+    "logo": "https://i.imgur.com/SbKkpuH.png",
+    "logoText": "M-N",
+    "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://kids.mnet.mk/"
+  },
+  {
+    "id": "MNetSport.mk",
+    "name": "M-Net Sport",
+    "logo": "https://i.imgur.com/7k8ar1Z.png",
+    "logoText": "M-N",
+    "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: http://sport.mnet.mk/"
+  },
+  {
+    "id": "MRT1.mk",
+    "name": "MRT 1",
+    "logo": "https://i.imgur.com/EkkyAE0.png",
+    "logoText": "MRT",
+    "url": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+  },
+  {
+    "id": "MRT2.mk",
+    "name": "MRT 2",
+    "logo": "https://i.imgur.com/YvOrUnN.png",
+    "logoText": "MRT",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+  },
+  {
+    "id": "MRTSobraniskikanal.mk",
+    "name": "MRT Sobraniski kanal",
+    "logo": "https://i.imgur.com/fyNQ8Nf.png",
+    "logoText": "MRT",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+  },
+  {
+    "id": "MTM.mk",
+    "name": "MTM",
+    "logo": "https://i.ibb.co/HCRZVVz/images-4.png",
+    "logoText": "MTM",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mtm.mk/"
+  },
+  {
+    "id": "NasaTV.mk",
+    "name": "Nasa TV",
+    "logo": "https://i.imgur.com/9rB4VZy.png",
+    "logoText": "NAS",
+    "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://nasatv.com.mk/"
+  },
+  {
+    "id": "RockTV.mk",
+    "name": "Rock TV",
+    "logo": "https://i.imgur.com/Y9miDQo.png",
+    "logoText": "ROC",
+    "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/rocktv/"
+  },
+  {
+    "id": "Sitel.mk",
+    "name": "Sitel",
+    "logo": "https://i.imgur.com/pdobwKt.png",
+    "logoText": "SIT",
+    "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://sitel.com.mk/"
+  },
+  {
+    "id": "SkyFolkTV.mk",
+    "name": "Sky Folk TV",
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "logoText": "SKY",
+    "url": "https://eu.live.skyfolk.mk/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eu.live.skyfolk.mk/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://skyfolk.mk/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
+  },
+  {
+    "id": "StarPlusTelevizija.mk",
+    "name": "Star Plus Televizija",
+    "logo": "https://i.imgur.com/01yz22a.png",
+    "logoText": "STA",
+    "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://starplustv.com/"
+  },
+  {
+    "id": "SutelTV.mk",
+    "name": "Sutel TV",
+    "logo": "https://i.imgur.com/hk3lhuF.png",
+    "logoText": "SUT",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
+  },
+  {
+    "id": "TopEstradaTV.mk",
+    "name": "TopEstrada TV",
+    "logo": "https://i.imgur.com/0Dh1FJZ.png",
+    "logoText": "TOP",
+    "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://topestrada.tv/"
+  },
+  {
+    "id": "TV24.mk",
+    "name": "TV 24",
+    "logo": "https://i.imgur.com/o5n40jq.png",
+    "logoText": "TV ",
+    "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.24.mk/"
+  },
+  {
+    "id": "TVERA.mk",
+    "name": "TV ERA",
+    "logo": "https://i.imgur.com/ds0uf7A.png",
+    "logoText": "TV ",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
+  },
+  {
+    "id": "TVNOVA12.mk",
+    "name": "TV NOVA 12",
+    "logo": "https://i.imgur.com/Qo3Hj3t.png",
+    "logoText": "TV ",
+    "url": "http://151.236.247.171:8080/nova/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://151.236.247.171:8080/nova/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://tvnova12.mk/"
+  },
+  {
+    "id": "TVShenja.mk",
+    "name": "TV Shenja",
+    "logo": "https://i.imgur.com/JsdUpB8.png",
+    "logoText": "TV ",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
+  },
+  {
+    "id": "TVZdravkin.mk",
+    "name": "TV Zdravkin",
+    "logo": "https://i.imgur.com/w4rRUNQ.png",
+    "logoText": "TV ",
+    "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
+  },
+  {
+    "id": "TV21.mk",
+    "name": "TV21",
+    "logo": "https://i.imgur.com/IC1f4h3.png",
+    "logoText": "TV2",
+    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mk.tv21.tv/"
+  }
+]

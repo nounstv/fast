@@ -1,0 +1,18 @@
+[
+  {
+    "id": "JRO477dljMyhcS",
+    "name": "Ålands Radio 91.3",
+    "url": "https://stream.alandsradio.ax/stream.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=alandsradio.ax",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "AX",
+    "countryName": "Åland Islands",
+    "state": "",
+    "tags": "talk",
+    "language": "swe",
+    "homepage": ""
+  }
+]

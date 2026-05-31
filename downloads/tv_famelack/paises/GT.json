@@ -1,0 +1,308 @@
+[
+  {
+    "id": "tp4aSE2XbjzMxZ",
+    "name": "Amigos TV Chiquimula",
+    "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "AMI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+    ]
+  },
+  {
+    "id": "qS9h25t8tf42wr",
+    "name": "Aurora Media Films",
+    "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "category": "Movies",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "AUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+    ]
+  },
+  {
+    "id": "hgyQQg5rlyVNkf",
+    "name": "Barbe TV",
+    "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+    "category": "General",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "BAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
+    ]
+  },
+  {
+    "id": "N4gLQ8UnMpP3sJ",
+    "name": "Canal 6 Panadish",
+    "url": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
+    "category": "General",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HQW2P8evqWenGp",
+    "name": "Canal 30 TV Bethel",
+    "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8"
+    ]
+  },
+  {
+    "id": "H9gOtmwx3FUQi5",
+    "name": "El-Roi TV",
+    "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "EL-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
+    ]
+  },
+  {
+    "id": "BwRr61iTuY4MpG",
+    "name": "Maxivision TV",
+    "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "MAX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LX1jOBuAPab8Ct",
+    "name": "Nim TV",
+    "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
+    "category": "General",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "NIM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
+    ]
+  },
+  {
+    "id": "6aRL3vWbwcvOYV",
+    "name": "Peniel K&Y",
+    "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "PEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/penielkids/index.m3u8"
+    ]
+  },
+  {
+    "id": "1edx2hpbF6zhmR",
+    "name": "Peniel Musical",
+    "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "PEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/penielmusical/index.m3u8"
+    ]
+  },
+  {
+    "id": "c3BqnYa8hxJ1bn",
+    "name": "Peniel TV Biblia Abierta",
+    "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "PEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8"
+    ]
+  },
+  {
+    "id": "2LfjTVfmckF8U9",
+    "name": "Rhema TV",
+    "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+    "category": "Religious",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "RHE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OsYebOtVABr4xl",
+    "name": "Sol TV",
+    "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
+    "category": "General",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "SOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
+    ]
+  },
+  {
+    "id": "sjT63Yqrczmdqs",
+    "name": "Telecosta",
+    "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+    "category": "Geral",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
+    ]
+  },
+  {
+    "id": "fGTZi0sSjZTjHF",
+    "name": "TV Florencia",
+    "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+    "category": "General",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
+    ]
+  },
+  {
+    "id": "r1oGqxJA7bXTXS",
+    "name": "TV Maya",
+    "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+    "category": "Education",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "yua"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: yua.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XwiDGKdsH20Bju",
+    "name": "TVS Retro",
+    "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    "category": "Classic",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+    ]
+  },
+  {
+    "id": "CIC3OB0eRrwRa3",
+    "name": "Vision TV",
+    "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+    "category": "Geral",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Guatemala. Idioma: spa.",
+    "logoText": "VIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
+    ]
+  }
+]

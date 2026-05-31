@@ -1,0 +1,1636 @@
+[
+  {
+    "id": "4DmasNoticiasTV.py",
+    "name": "4Dmas Noticias TV",
+    "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "logoText": "4DM",
+    "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://4dmasnoticias.com.py/"
+  },
+  {
+    "id": "A24Paraguay.py",
+    "name": "A24 Paraguay",
+    "logo": "https://i.imgur.com/XWBmjBk.png",
+    "logoText": "A24",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.a24.com.py/"
+  },
+  {
+    "id": "ABCTVParaguay.py",
+    "name": "ABC-TV Paraguay",
+    "logo": "https://i.imgur.com/OqfBMGy.png",
+    "logoText": "ABC",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.abc.com.py/tv/"
+  },
+  {
+    "id": "AlcanceFMPLAYTV.py",
+    "name": "Alcance FM PLAY TV",
+    "logo": "https://i.imgur.com/ymcWecA.png",
+    "logoText": "ALC",
+    "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.alcance.com.py/"
+  },
+  {
+    "id": "AlmayaTV.py",
+    "name": "Almaya TV",
+    "logo": "https://i.imgur.com/dDAf1nJ.png",
+    "logoText": "ALM",
+    "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://almaya.com.py/"
+  },
+  {
+    "id": "AmericaParaguay.py",
+    "name": "America Paraguay",
+    "logo": "https://i.imgur.com/rCEu3fM.png",
+    "logoText": "AME",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://americatv.com.py/"
+  },
+  {
+    "id": "BrunoMasiTV.py",
+    "name": "Bruno Masi TV",
+    "logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+    "logoText": "BRU",
+    "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.brunomasi.tv/"
+  },
+  {
+    "id": "C9N.py",
+    "name": "C9N",
+    "logo": "https://i.imgur.com/iXkwP31.png",
+    "logoText": "C9N",
+    "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.c9n.com.py/"
+  },
+  {
+    "id": "Canal5TVMax.py",
+    "name": "Canal 5 TV Max",
+    "logo": "https://i.imgur.com/6oihaDM.png",
+    "logoText": "CAN",
+    "url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://tvmaxsa.com.py/"
+  },
+  {
+    "id": "Canal8CCProducciones.py",
+    "name": "Canal 8 C&C Producciones",
+    "logo": "https://i.imgur.com/SVj5fjg.jpg",
+    "logoText": "CAN",
+    "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "Canal8VisionTV.py",
+    "name": "Canal 8 Vision TV",
+    "logo": "https://i.imgur.com/mKju6hk.png",
+    "logoText": "CAN",
+    "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.visioncomunicaciones.com.py/"
+  },
+  {
+    "id": "CanalPro.py",
+    "name": "Canal Pro",
+    "logo": "https://i.imgur.com/ah8n7jL.png",
+    "logoText": "CAN",
+    "url": "https://www.desde-paraguay.com/pro.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.canalpro.com.py/"
+  },
+  {
+    "id": "CaritasTV.py",
+    "name": "Caritas TV",
+    "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+    "logoText": "CAR",
+    "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious",
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.caritas.com.py/"
+  },
+  {
+    "id": "CosmosTV.py",
+    "name": "Cosmos TV",
+    "logo": "https://i.imgur.com/dAMyExY.jpg",
+    "logoText": "COS",
+    "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Science",
+    "categories": [
+      "science"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "DelReyTV.py",
+    "name": "Del Rey TV",
+    "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
+    "logoText": "DEL",
+    "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "DismarRadioTV.py",
+    "name": "Dismar Radio TV",
+    "logo": "https://i.imgur.com/KOuxdMD.png",
+    "logoText": "DIS",
+    "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://radiodismar.tv/"
+  },
+  {
+    "id": "E40.py",
+    "name": "E40",
+    "logo": "https://i.imgur.com/0RypDUY.png",
+    "logoText": "E40",
+    "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://estacion40.com.py/"
+  },
+  {
+    "id": "EnLenguadeSenasTV.py",
+    "name": "En Lengua de Senas TV",
+    "logo": "https://i.imgur.com/oxPEZas.png",
+    "logoText": "EN ",
+    "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://enlenguadesenastv.com/"
+  },
+  {
+    "id": "FarraPlay.py",
+    "name": "Farra Play",
+    "logo": "https://i.imgur.com/bXWzstH.png",
+    "logoText": "FAR",
+    "url": "http://159.203.148.226/live/farra.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://159.203.148.226/live/farra.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.farra.com.py/"
+  },
+  {
+    "id": "Gen.py",
+    "name": "Gen",
+    "logo": "https://i.imgur.com/vEMnZF4.png",
+    "logoText": "GEN",
+    "url": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.gen.com.py/"
+  },
+  {
+    "id": "GOTV.py",
+    "name": "GO TV",
+    "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+    "logoText": "GO ",
+    "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://goradio.com.py/gotv/"
+  },
+  {
+    "id": "HEiNow.py",
+    "name": "HEi Now",
+    "logo": "https://i.imgur.com/oMHiGRN.png",
+    "logoText": "HEI",
+    "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.heinow.com.py/"
+  },
+  {
+    "id": "Latele.py",
+    "name": "Latele",
+    "logo": "https://i.imgur.com/Qcf6Qev.png",
+    "logoText": "LAT",
+    "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://latele.com.py/"
+  },
+  {
+    "id": "LIMTV.py",
+    "name": "LIM TV",
+    "logo": "https://i.imgur.com/CALoCyo.png",
+    "logoText": "LIM",
+    "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://tv.limpy.online/"
+  },
+  {
+    "id": "MegaTV.py",
+    "name": "Mega TV",
+    "logo": "https://i.imgur.com/CaA7l86.png",
+    "logoText": "MEG",
+    "url": "https://www.desde-paraguay.com/mega.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.desde-paraguay.com/mega.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://megacadena.com.py/mega-tv/"
+  },
+  {
+    "id": "MiTV.py",
+    "name": "MiTV",
+    "logo": "https://i.imgur.com/sgrEt9z.png",
+    "logoText": "MIT",
+    "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://cadenadelsuritapua.com.py/mitv-hd/"
+  },
+  {
+    "id": "MonumentalTV.py",
+    "name": "Monumental TV",
+    "logo": "https://i.imgur.com/kEcOYML.png",
+    "logoText": "MON",
+    "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.monumental.com.py/tv"
+  },
+  {
+    "id": "NandePortetepeTV.py",
+    "name": "Nande Portetepe TV",
+    "logo": "https://i.imgur.com/3taT6JK.jpeg",
+    "logoText": "NAN",
+    "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "NandejaraNeeTV.py",
+    "name": "Nandejara Ne'e TV",
+    "logo": "https://i.imgur.com/VFxuBdL.jpg",
+    "logoText": "NAN",
+    "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://nandejaranee.org/"
+  },
+  {
+    "id": "Nanduti.py",
+    "name": "Nanduti",
+    "logo": "https://i.imgur.com/vnIkhRO.png",
+    "logoText": "NAN",
+    "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://nanduti.com.py/nanduti-tv/"
+  },
+  {
+    "id": "NextHD.py",
+    "name": "Next HD",
+    "logo": "https://i.imgur.com/c2rF3SS.png",
+    "logoText": "NEX",
+    "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies",
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://nexthdpy.blogspot.com/"
+  },
+  {
+    "id": "NPY.py",
+    "name": "NPY",
+    "logo": "https://i.imgur.com/pUEkaiW.png",
+    "logoText": "NPY",
+    "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://npy.com.py/en-vivo/"
+  },
+  {
+    "id": "OasisTV.py",
+    "name": "Oasis TV",
+    "logo": "https://i.imgur.com/u9umNKp.jpeg",
+    "logoText": "OAS",
+    "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "ObediraTV.py",
+    "name": "Obedira TV",
+    "logo": "https://i.imgur.com/fRzOUw5.png",
+    "logoText": "OBE",
+    "url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.obedira.com.py/page/obediratv/"
+  },
+  {
+    "id": "OccidentalTV.py",
+    "name": "Occidental TV",
+    "logo": "https://i.imgur.com/8IRBA9h.png",
+    "logoText": "OCC",
+    "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.occidentaltv.com.py/"
+  },
+  {
+    "id": "OviedoTV.py",
+    "name": "Oviedo TV",
+    "logo": "https://i.imgur.com/6OlfgSQ.png",
+    "logoText": "OVI",
+    "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.oviedotv.com.py/"
+  },
+  {
+    "id": "ParaguayTV.py",
+    "name": "Paraguay TV",
+    "logo": "https://i.imgur.com/fkK7i8g.png",
+    "logoText": "PAR",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.paraguaytv.gov.py/"
+  },
+  {
+    "id": "Paravision.py",
+    "name": "Paravision",
+    "logo": "https://i.imgur.com/yd9Dw2G.png",
+    "logoText": "PAR",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.paravision.com.py/"
+  },
+  {
+    "id": "PopuTV.py",
+    "name": "Popu TV",
+    "logo": "https://i.imgur.com/UqCogyZ.png",
+    "logoText": "POP",
+    "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.gen.com.py/"
+  },
+  {
+    "id": "ProductivaTV.py",
+    "name": "Productiva TV",
+    "logo": "https://i.imgur.com/KXHK7UP.png",
+    "logoText": "PRO",
+    "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://productiva.tv/"
+  },
+  {
+    "id": "RadioCiudad989FMTV.py",
+    "name": "Radio Ciudad 98.9 FM TV",
+    "logo": "https://i.imgur.com/LaSLZwR.jpg",
+    "logoText": "RAD",
+    "url": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "RadioNacionaldelParaguay.py",
+    "name": "Radio Nacional del Paraguay",
+    "logo": "https://i.imgur.com/ksh20I5.png",
+    "logoText": "RAD",
+    "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.radionacional.gov.py/"
+  },
+  {
+    "id": "RadioSanCristobal887FM.py",
+    "name": "Radio San Cristobal 88.7 FM",
+    "logo": "https://i.imgur.com/zaJhBdj.png",
+    "logoText": "RAD",
+    "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://sancristobalfm887.com/"
+  },
+  {
+    "id": "RadioTVElArcadelPacto.py",
+    "name": "Radio TV El Arca del Pacto",
+    "logo": "https://i.imgur.com/Oq0i3Rb.png",
+    "logoText": "RAD",
+    "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://arcadelpactofm.com/"
+  },
+  {
+    "id": "RCCTV.py",
+    "name": "RCC TV",
+    "logo": "https://i.imgur.com/qdjBnRl.png",
+    "logoText": "RCC",
+    "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://rcc.com.py/tv-envivo/"
+  },
+  {
+    "id": "RedDigital.py",
+    "name": "Red Digital",
+    "logo": "https://i.imgur.com/3jj0MQP.jpg",
+    "logoText": "RED",
+    "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.reddigitalsanpedro.com.py/"
+  },
+  {
+    "id": "RedInteriorTV.py",
+    "name": "Red Interior TV",
+    "logo": "https://i.imgur.com/z89GLCw.png",
+    "logoText": "RED",
+    "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://redinteriortv.com/"
+  },
+  {
+    "id": "RegionalTVYaguaron.py",
+    "name": "Regional TV Yaguaron",
+    "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+    "logoText": "REG",
+    "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "RepublicaTV.py",
+    "name": "Republica TV",
+    "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+    "logoText": "REP",
+    "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.republicafmtv.com.py/"
+  },
+  {
+    "id": "RQPParaguay.py",
+    "name": "RQP Paraguay",
+    "logo": "https://i.imgur.com/0cUc4Nt.png",
+    "logoText": "RQP",
+    "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.rqp.com.py/"
+  },
+  {
+    "id": "SNT.py",
+    "name": "SNT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
+    "logoText": "SNT",
+    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.snt.com.py/"
+  },
+  {
+    "id": "SucesoTV.py",
+    "name": "Suceso TV",
+    "logo": "https://i.imgur.com/BwRNes1.png",
+    "logoText": "SUC",
+    "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://radiosuceso.com/sucesotv/"
+  },
+  {
+    "id": "SURTVItapua.py",
+    "name": "SUR TV Itapua",
+    "logo": "https://i.imgur.com/ltJQvZd.png",
+    "logoText": "SUR",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "Telefuturo.py",
+    "name": "Telefuturo",
+    "logo": "https://i.imgur.com/6lVrFvb.png",
+    "logoText": "TEL",
+    "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://telefuturo.com.py/"
+  },
+  {
+    "id": "Telequince.py",
+    "name": "Telequince",
+    "logo": "https://i.imgur.com/og7xuqe.png",
+    "logoText": "TEL",
+    "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://telequince.com/"
+  },
+  {
+    "id": "TigoSports.py",
+    "name": "Tigo Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "logoText": "TIG",
+    "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.tigosports.com.py/"
+  },
+  {
+    "id": "TigoSportsPlus.py",
+    "name": "Tigo Sports+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "logoText": "TIG",
+    "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.tigosports.com.py/"
+  },
+  {
+    "id": "Trece.py",
+    "name": "Trece",
+    "logo": "https://i.imgur.com/cgIv5QK.png",
+    "logoText": "TRE",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.trece.com.py/"
+  },
+  {
+    "id": "Tropicalia939FM.py",
+    "name": "Tropicalia 93.9 FM",
+    "logo": "https://i.imgur.com/oMML5Ue.png",
+    "logoText": "TRO",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.tropicalia.com.py/"
+  },
+  {
+    "id": "TVAire.py",
+    "name": "TV Aire",
+    "logo": "https://i.imgur.com/7gHFKPZ.png",
+    "logoText": "TV ",
+    "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://video.hostingcaaguazu.com:2020/public/tvairepy"
+  },
+  {
+    "id": "TVCamara.py",
+    "name": "TV Camara",
+    "logo": "https://i.imgur.com/Mfypr0t.png",
+    "logoText": "TV ",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://tv.diputados.gov.py/"
+  },
+  {
+    "id": "TVCanindeyu.py",
+    "name": "TV Canindeyu",
+    "logo": "https://i.imgur.com/cateqjx.jpeg",
+    "logoText": "TV ",
+    "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A."
+  },
+  {
+    "id": "Unicanal.py",
+    "name": "Unicanal",
+    "logo": "https://i.imgur.com/cgTD2TW.png",
+    "logoText": "UNI",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: http://www.unicanal.com.py/"
+  },
+  {
+    "id": "UnionTV.py",
+    "name": "Union TV",
+    "logo": "https://i.imgur.com/No9YzNC.png",
+    "logoText": "UNI",
+    "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://uniontv.com.py/"
+  },
+  {
+    "id": "UniRadioTV.py",
+    "name": "UniRadio TV",
+    "logo": "https://i.imgur.com/Co3YrU0.png",
+    "logoText": "UNI",
+    "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.uniradiopy.com/"
+  },
+  {
+    "id": "VenusMedia.py",
+    "name": "Venus Media",
+    "logo": "https://i.imgur.com/XwmUbfp.png",
+    "logoText": "VEN",
+    "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://www.venus.com.py/"
+  },
+  {
+    "id": "VillaElisaRadioTV.py",
+    "name": "Villa Elisa Radio TV",
+    "logo": "https://i.imgur.com/ryzCsvy.jpg",
+    "logoText": "VIL",
+    "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PY",
+    "countryName": "Paraguay",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Paraguay. Language: N/A. Website: https://villaelisaradiotv.com.py/"
+  }
+]

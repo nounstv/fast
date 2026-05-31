@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bThDUnTfUS87CY",
+    "name": "Dhivehi FM",
+    "url": "https://radio.psm.mv/fmair",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=psm.mv",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "MV",
+    "countryName": "Maldives",
+    "state": "",
+    "tags": "",
+    "language": "div",
+    "homepage": ""
+  },
+  {
+    "id": "ZCl8lJZe1f0a8D",
+    "name": "Kinozal.TV",
+    "url": "https://myradio24.org/kinozaltv",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=myradio24.org",
+    "category": "Electronic",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "MV",
+    "countryName": "Maldives",
+    "state": "",
+    "tags": "electronic",
+    "language": "rus",
+    "homepage": ""
+  }
+]

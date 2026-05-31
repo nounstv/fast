@@ -1,0 +1,4923 @@
+[
+  {
+    "id": "123tv.de",
+    "name": "1-2-3.tv",
+    "logo": "https://i.imgur.com/slSUDNX.png",
+    "logoText": "1-2",
+    "url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.1-2-3.tv/"
+  },
+  {
+    "id": "3sat.de",
+    "name": "3sat",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
+    "logoText": "3SA",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.3sat.de/"
+  },
+  {
+    "id": "AdventureEarth.de",
+    "name": "Adventure Earth",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "logoText": "ADV",
+    "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.autentic.com/117/Channels.htm#adventure_earth"
+  },
+  {
+    "id": "AlexBerlin.de",
+    "name": "Alex Berlin",
+    "logo": "https://i.imgur.com/eTmHk4e.png",
+    "logoText": "ALE",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "AllgauTV.de",
+    "name": "Allgau TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
+    "logoText": "ALL",
+    "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.xn--allgu-jra.tv/"
+  },
+  {
+    "id": "AltenburgTV.de",
+    "name": "Altenburg TV",
+    "logo": "https://i.imgur.com/3JriZGR.png",
+    "logoText": "ALT",
+    "url": "https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.altenburg.tv/"
+  },
+  {
+    "id": "ANIMALKINGDOM.de",
+    "name": "ANIMAL KINGDOM",
+    "logo": "",
+    "logoText": "ANI",
+    "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "AnixePlus.de",
+    "name": "Anixe +",
+    "logo": "https://i.imgur.com/hvGJ2oa.png",
+    "logoText": "ANI",
+    "url": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.anixehd.tv/index.php?hdsd=SD"
+  },
+  {
+    "id": "AnixeHDSerie.de",
+    "name": "Anixe HD Serie",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/960px-Anixe_HD.svg.png",
+    "logoText": "ANI",
+    "url": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.anixehd.tv/index.php?hdsd=HD"
+  },
+  {
+    "id": "ARDalpha.de",
+    "name": "ARD-alpha",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
+    "logoText": "ARD",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.br.de/fernsehen/ard-alpha/"
+  },
+  {
+    "id": "AristoTV.de",
+    "name": "Aristo TV",
+    "logo": "https://i.imgur.com/DLVjeno.png",
+    "logoText": "ARI",
+    "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.aristo-tv.de/"
+  },
+  {
+    "id": "arte.de",
+    "name": "arte",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "logoText": "ART",
+    "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.arte.tv/"
+  },
+  {
+    "id": "AugsburgTV.de",
+    "name": "Augsburg TV",
+    "logo": "https://i.imgur.com/27AKMUL.png",
+    "logoText": "AUG",
+    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.augsburg.tv/"
+  },
+  {
+    "id": "AutenticHistory.de",
+    "name": "Autentic History",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+    "logoText": "AUT",
+    "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.autentic.com/117/Channels.htm#autentic_history"
+  },
+  {
+    "id": "AutenticTravel.de",
+    "name": "Autentic Travel",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+    "logoText": "AUT",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.autentic.com/117/Channels.htm#autentic_travel"
+  },
+  {
+    "id": "BadenTV.de",
+    "name": "Baden TV",
+    "logo": "https://i.imgur.com/L6vE9Bz.png",
+    "logoText": "BAD",
+    "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://baden-tv.com/"
+  },
+  {
+    "id": "BadenTVSud.de",
+    "name": "Baden TV Sud",
+    "logo": "https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png",
+    "logoText": "BAD",
+    "url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.baden-tv-sued.com/"
+  },
+  {
+    "id": "BibelTV.de",
+    "name": "Bibel TV",
+    "logo": "https://i.imgur.com/RLwmrk3.png",
+    "logoText": "BIB",
+    "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.bibeltv.de/"
+  },
+  {
+    "id": "BibelTVImpuls.de",
+    "name": "Bibel TV Impuls",
+    "logo": "https://i.imgur.com/k4tbW3W.png",
+    "logoText": "BIB",
+    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "BibelTVMusik.de",
+    "name": "Bibel TV Musik",
+    "logo": "https://i.imgur.com/yIqOcP5.png",
+    "logoText": "BIB",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "BLKRegionalTV.de",
+    "name": "BLK Regional TV",
+    "logo": "https://i.imgur.com/JLgnPG1.png",
+    "logoText": "BLK",
+    "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.blkregional.de/"
+  },
+  {
+    "id": "BRFernsehen.de",
+    "name": "BR Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png",
+    "logoText": "BR ",
+    "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.br.de/br-fernsehen/index.html"
+  },
+  {
+    "id": "CiraTV.de",
+    "name": "Cira TV",
+    "logo": "https://i.imgur.com/YFnmSLW.png",
+    "logoText": "CIR",
+    "url": "https://cira-tv.akamaized.net/hls/stream_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cira-tv.akamaized.net/hls/stream_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://cira.tv/"
+  },
+  {
+    "id": "ComedyCentral.de",
+    "name": "Comedy Central",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "logoText": "COM",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.comedycentral.de/"
+  },
+  {
+    "id": "CuriosityChannel.de",
+    "name": "Curiosity Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
+    "logoText": "CUR",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.curiositychannel.tv/"
+  },
+  {
+    "id": "CuriosityNOW.de",
+    "name": "Curiosity NOW",
+    "logo": "https://i.imgur.com/gJ9eMaG.png",
+    "logoText": "CUR",
+    "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.autentic.com/117/Channels.htm#curiosity_now"
+  },
+  {
+    "id": "DaVinciAsia.de",
+    "name": "Da Vinci Asia",
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "logoText": "DA ",
+    "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.davincikids.tv/"
+  },
+  {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
+    "logoText": "DAS",
+    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.daserste.de/"
+  },
+  {
+    "id": "DASDING908.de",
+    "name": "DASDING 90.8",
+    "logo": "https://i.imgur.com/BmklHs8.png",
+    "logoText": "DAS",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.dasding.de/index.html"
+  },
+  {
+    "id": "DeluxeDance.de",
+    "name": "Deluxe Dance",
+    "logo": "https://i.imgur.com/Qu7t15Y.png",
+    "logoText": "DEL",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://deluxemusic.de/kontakt/"
+  },
+  {
+    "id": "DeluxeLounge.de",
+    "name": "Deluxe Lounge",
+    "logo": "https://i.imgur.com/pgCA35z.png",
+    "logoText": "DEL",
+    "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://deluxemusic.de/kontakt/"
+  },
+  {
+    "id": "DeluxeMusic.de",
+    "name": "Deluxe Music",
+    "logo": "https://i.imgur.com/HimuPPb.png",
+    "logoText": "DEL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://deluxemusic.de/kontakt/"
+  },
+  {
+    "id": "DeluxeRap.de",
+    "name": "Deluxe Rap",
+    "logo": "https://i.imgur.com/s3h67hx.png",
+    "logoText": "DEL",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://deluxemusic.de/kontakt/"
+  },
+  {
+    "id": "DisneyChannel.de",
+    "name": "Disney Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "logoText": "DIS",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://disneychannel.de/"
+  },
+  {
+    "id": "DMF.de",
+    "name": "DMF",
+    "logo": "https://i.imgur.com/sJaBU7X.jpeg",
+    "logoText": "DMF",
+    "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.dmf.tv"
+  },
+  {
+    "id": "Dokusat.de",
+    "name": "Dokusat",
+    "logo": "https://i.imgur.com/GadfTwF.png",
+    "logoText": "DOK",
+    "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.dokusat.de/"
+  },
+  {
+    "id": "DW.de",
+    "name": "DW",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "logoText": "DW",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.dw.com/"
+  },
+  {
+    "id": "EchtJetztTV.de",
+    "name": "EchtJetzt TV",
+    "logo": "https://i.ibb.co/ccNRGVj/download-10.png",
+    "logoText": "ECH",
+    "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://echtjetzt.tv/"
+  },
+  {
+    "id": "emsTVLingen.de",
+    "name": "ems TV Lingen",
+    "logo": "https://i.imgur.com/Yo1GMku.png",
+    "logoText": "EMS",
+    "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://emstv.de/"
+  },
+  {
+    "id": "ErzTVStollberg.de",
+    "name": "Erz-TV Stollberg",
+    "logo": "https://i.imgur.com/6FHl9B1.png",
+    "logoText": "ERZ",
+    "url": "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "EuroAlTV.de",
+    "name": "EuroAl TV",
+    "logo": "https://i.imgur.com/0GrDAWx.png",
+    "logoText": "EUR",
+    "url": "http://5.135.92.131:1935/live/euroAl/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://5.135.92.131:1935/live/euroAl/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "EWTN.de",
+    "name": "EWTN",
+    "logo": "https://i.imgur.com/NXeygNk.png",
+    "logoText": "EWT",
+    "url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ewtn.de/"
+  },
+  {
+    "id": "Filstalwelle.de",
+    "name": "Filstalwelle",
+    "logo": "https://i.imgur.com/19iKLvf.png",
+    "logoText": "FIL",
+    "url": "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://filstalwelle.de/impressum"
+  },
+  {
+    "id": "FinestTV.de",
+    "name": "Finest TV",
+    "logo": "https://i.imgur.com/1uoP10V.png",
+    "logoText": "FIN",
+    "url": "https://media.finest.tv/hls/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://media.finest.tv/hls/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.finest.tv/"
+  },
+  {
+    "id": "FolxMusicTelevision.de",
+    "name": "Folx Music Television",
+    "logo": "https://i.imgur.com/ze04puX.png",
+    "logoText": "FOL",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://folx.network/folx-music-television/"
+  },
+  {
+    "id": "FrankenFernsehen.de",
+    "name": "Franken Fernsehen",
+    "logo": "https://i.imgur.com/3pGGLLD.png",
+    "logoText": "FRA",
+    "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.frankenfernsehen.tv/"
+  },
+  {
+    "id": "GrjngoWesternMovies.de",
+    "name": "Grjngo Western Movies",
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "logoText": "GRJ",
+    "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amogonetworx-grjngo-3-lu.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amogonetworx-grjngo-3-no.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.grjngo.com/"
+  },
+  {
+    "id": "Hamburg1.de",
+    "name": "Hamburg 1",
+    "logo": "https://i.imgur.com/df3yY8W.png",
+    "logoText": "HAM",
+    "url": "https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "Handystar.de",
+    "name": "Handystar",
+    "logo": "https://i.imgur.com/oMIygVf.png",
+    "logoText": "HAN",
+    "url": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.handystar.de/"
+  },
+  {
+    "id": "HopeChannelGerman.de",
+    "name": "Hope Channel German",
+    "logo": "https://i.imgur.com/I9BbJR0.png",
+    "logoText": "HOP",
+    "url": "https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://hopetv.de/"
+  },
+  {
+    "id": "hrfernsehen.de",
+    "name": "hr-fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png",
+    "logoText": "HR-",
+    "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.hr-fernsehen.de/"
+  },
+  {
+    "id": "HSE.de",
+    "name": "HSE",
+    "logo": "https://i.imgur.com/IecRNCk.png",
+    "logoText": "HSE",
+    "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.hse.de/"
+  },
+  {
+    "id": "HSEExtra.de",
+    "name": "HSE Extra",
+    "logo": "https://i.imgur.com/nvMpbip.png",
+    "logoText": "HSE",
+    "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.hse.de/dpl/c/live-im-tv/hse-extra"
+  },
+  {
+    "id": "HSETrend.de",
+    "name": "HSE Trend",
+    "logo": "https://i.imgur.com/qwh2urX.png",
+    "logoText": "HSE",
+    "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.hse.de/dpl/c/live-im-tv/hse-trend"
+  },
+  {
+    "id": "iSTUFF.de",
+    "name": "iSTUFF",
+    "logo": "https://i.imgur.com/1V3UXVb.jpg",
+    "logoText": "IST",
+    "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.istuff.de/"
+  },
+  {
+    "id": "Juwelo.de",
+    "name": "Juwelo",
+    "logo": "https://i.imgur.com/vmX8Qin.png",
+    "logoText": "JUW",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.juwelo.de/"
+  },
+  {
+    "id": "kabeleins.de",
+    "name": "kabel eins",
+    "logo": "https://i.imgur.com/6pulSHZ.png",
+    "logoText": "KAB",
+    "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.kabeleins.de/"
+  },
+  {
+    "id": "kabeleinsDoku.de",
+    "name": "kabel eins Doku",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "logoText": "KAB",
+    "url": "http://79.232.88.203:9981/stream/channelid/81078517",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://79.232.88.203:9981/stream/channelid/81078517",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.kabeleinsdoku.de/"
+  },
+  {
+    "id": "Kanal12SprembergTV.de",
+    "name": "Kanal12 Spremberg TV",
+    "logo": "https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg",
+    "logoText": "KAN",
+    "url": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sprembergtv.de/"
+  },
+  {
+    "id": "KaufBeiTV.de",
+    "name": "KaufBei TV",
+    "logo": "https://i.imgur.com/CVJWiM0.png",
+    "logoText": "KAU",
+    "url": "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://elephant.t62a.com/hls/8103/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.kaufbei.tv/"
+  },
+  {
+    "id": "KiKA.de",
+    "name": "KiKA",
+    "logo": "https://i.imgur.com/vZdNp5S.png",
+    "logoText": "KIK",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.kika.de/"
+  },
+  {
+    "id": "KulturMD.de",
+    "name": "KulturMD",
+    "logo": "https://i.imgur.com/io7cJ1Z.png",
+    "logoText": "KUL",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://kulturmd.de/"
+  },
+  {
+    "id": "LTV.de",
+    "name": "L TV",
+    "logo": "https://i.imgur.com/HuGaMJj.png",
+    "logoText": "L T",
+    "url": "https://live2.telvi.de/hls/l-tv_s1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live2.telvi.de/hls/l-tv_s1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.l-tv.de/"
+  },
+  {
+    "id": "labor14.de",
+    "name": "labor14",
+    "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
+    "logoText": "LAB",
+    "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.tlm.de/medienbildung/thueringer-lernsender-labor14"
+  },
+  {
+    "id": "Lausitzwelle.de",
+    "name": "Lausitzwelle",
+    "logo": "https://i.imgur.com/4kYF4bK.png",
+    "logoText": "LAU",
+    "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.lausitzwelle.de/"
+  },
+  {
+    "id": "LightChannel.de",
+    "name": "Light Channel",
+    "logo": "https://i.imgur.com/0OmBlfE.png",
+    "logoText": "LIG",
+    "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "MagentaMusik360.de",
+    "name": "MagentaMusik 360",
+    "logo": "https://i.imgur.com/R74gG7U.png",
+    "logoText": "MAG",
+    "url": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.magentamusik.de/"
+  },
+  {
+    "id": "MCTV.de",
+    "name": "MC TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png",
+    "logoText": "MC ",
+    "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://mceu.tv/"
+  },
+  {
+    "id": "MDF1.de",
+    "name": "MDF.1",
+    "logo": "https://i.imgur.com/IFGXK6u.png",
+    "logoText": "MDF",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "MDRFernsehen.de",
+    "name": "MDR Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png",
+    "logoText": "MDR",
+    "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.mdr.de/tv/"
+  },
+  {
+    "id": "MoreThanSportsTV.de",
+    "name": "More Than Sports TV",
+    "logo": "https://i.imgur.com/SLrjImc.png",
+    "logoText": "MOR",
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://morethansports.tv/contact/"
+  },
+  {
+    "id": "Motorvision.de",
+    "name": "Motorvision",
+    "logo": "https://i.imgur.com/v4kj8pI.png",
+    "logoText": "MOT",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
+      },
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Auto",
+    "categories": [
+      "auto"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://motorvision.tv/"
+  },
+  {
+    "id": "MotorvisionPlus.de",
+    "name": "Motorvision+",
+    "logo": "https://i.imgur.com/5cs5GkJ.png",
+    "logoText": "MOT",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Auto",
+    "categories": [
+      "auto"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://motorvision.tv/"
+  },
+  {
+    "id": "MunchenTV.de",
+    "name": "Munchen TV",
+    "logo": "https://i.imgur.com/lt7xNWW.png",
+    "logoText": "MUN",
+    "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.muenchen.tv/"
+  },
+  {
+    "id": "N24Doku.de",
+    "name": "N24 Doku",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png",
+    "logoText": "N24",
+    "url": "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.welt.de/tv-programm-n24-doku/"
+  },
+  {
+    "id": "Nachrichten360.de",
+    "name": "Nachrichten 360",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png",
+    "logoText": "NAC",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://lovetvchannels.com/en/our-channels/#actualidad"
+  },
+  {
+    "id": "NDRFernsehen.de",
+    "name": "NDR Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+    "logoText": "NDR",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ndr.de/fernsehen/"
+  },
+  {
+    "id": "NDRFernsehenInternational.de",
+    "name": "NDR Fernsehen International",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+    "logoText": "NDR",
+    "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ndr.de/fernsehen/livestream/livestreaminternational100.html"
+  },
+  {
+    "id": "NickComedyCentralPlus1.de",
+    "name": "Nick/Comedy Central +1",
+    "logo": "https://i.imgur.com/08ZUI9k.png",
+    "logoText": "NIC",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy",
+      "kids"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "Nickelodeon.de",
+    "name": "Nickelodeon",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "logoText": "NIC",
+    "url": "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.nick.de/"
+  },
+  {
+    "id": "NiederbayernTV.de",
+    "name": "Niederbayern TV",
+    "logo": "https://i.imgur.com/9uaMgTk.png",
+    "logoText": "NIE",
+    "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.niederbayerntv.de/"
+  },
+  {
+    "id": "NiederbayernTVDeggendorfStraubing.de",
+    "name": "Niederbayern TV Deggendorf & Straubing",
+    "logo": "https://i.imgur.com/mAaIh3C.png",
+    "logoText": "NIE",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://deggendorf.niederbayerntv.de/"
+  },
+  {
+    "id": "NiederbayernTVLandshut.de",
+    "name": "Niederbayern TV Landshut",
+    "logo": "https://i.imgur.com/5sHzZAh.png",
+    "logoText": "NIE",
+    "url": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://landshut.niederbayerntv.de/"
+  },
+  {
+    "id": "NiederbayernTVPassau.de",
+    "name": "Niederbayern TV Passau",
+    "logo": "https://i.imgur.com/0wnFhNi.png",
+    "logoText": "NIE",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://passau.niederbayerntv.de/"
+  },
+  {
+    "id": "Nitro.de",
+    "name": "Nitro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+    "logoText": "NIT",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.nitro-tv.de/"
+  },
+  {
+    "id": "noa4Hamburg.de",
+    "name": "noa4 Hamburg",
+    "logo": "https://i.imgur.com/7A2LRKI.png",
+    "logoText": "NOA",
+    "url": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.noa4.de/hamburg.html"
+  },
+  {
+    "id": "noa4Norderstedt.de",
+    "name": "noa4 Norderstedt",
+    "logo": "https://i.imgur.com/941nrGb.png",
+    "logoText": "NOA",
+    "url": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.noa4.de/norderstedt.html"
+  },
+  {
+    "id": "NRWision.de",
+    "name": "NRWision",
+    "logo": "https://i.imgur.com/RkF2Kmx.png",
+    "logoText": "NRW",
+    "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.nrwision.de/"
+  },
+  {
+    "id": "OberpfalzTV.de",
+    "name": "Oberpfalz TV",
+    "logo": "https://i.imgur.com/ISI5KDd.png",
+    "logoText": "OBE",
+    "url": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.otv.de/"
+  },
+  {
+    "id": "OFTVOffenbach.de",
+    "name": "OF-TV Offenbach",
+    "logo": "https://i.imgur.com/WAcxCJr.png",
+    "logoText": "OF-",
+    "url": "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.of-tv.de/"
+  },
+  {
+    "id": "OKDessau.de",
+    "name": "OK Dessau",
+    "logo": "https://i.imgur.com/nx4Wc8l.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-dessau.de/startseite"
+  },
+  {
+    "id": "OKFlensburg.de",
+    "name": "OK Flensburg",
+    "logo": "https://i.imgur.com/NPbfgQC.png",
+    "logoText": "OK ",
+    "url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "OKKaiserslautern.de",
+    "name": "OK Kaiserslautern",
+    "logo": "https://i.imgur.com/MRrETTh.png",
+    "logoText": "OK ",
+    "url": "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-kl.de/kontakt/"
+  },
+  {
+    "id": "OKKassel.de",
+    "name": "OK Kassel",
+    "logo": "https://i.imgur.com/igZ9sx2.png",
+    "logoText": "OK ",
+    "url": "https://s.ok54.de/mok-ks/kassel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/mok-ks/kassel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://mediathek-hessen.de/partner_13_Medienprojektzentrum-Offener-Kanal-Kassel.html"
+  },
+  {
+    "id": "OKKiel.de",
+    "name": "OK Kiel",
+    "logo": "https://i.imgur.com/eToHabX.png",
+    "logoText": "OK ",
+    "url": "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.oksh.de/ki/"
+  },
+  {
+    "id": "OKMagdeburg.de",
+    "name": "OK Magdeburg",
+    "logo": "https://i.imgur.com/zftoymR.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-magdeburg.de/"
+  },
+  {
+    "id": "OKMerseburgQuerfurt.de",
+    "name": "OK Merseburg-Querfurt",
+    "logo": "https://i.imgur.com/QfzdESc.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://okmq.de/"
+  },
+  {
+    "id": "OKRheinMain.de",
+    "name": "OK Rhein-Main",
+    "logo": "https://i.imgur.com/XsmPI4N.jpg",
+    "logoText": "OK ",
+    "url": "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://mediathek-hessen.de/partner_12_Medienprojektzentrum-Offener-Kanal-Rhein-Main.html"
+  },
+  {
+    "id": "OKSalzwedel.de",
+    "name": "OK Salzwedel",
+    "logo": "https://i.imgur.com/jDmiTOS.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://ok-salzwedel.de/"
+  },
+  {
+    "id": "OKStendal.de",
+    "name": "OK Stendal",
+    "logo": "https://i.imgur.com/s9wo85l.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.ok-stendal.de/"
+  },
+  {
+    "id": "OKTrier.de",
+    "name": "OK Trier",
+    "logo": "https://i.imgur.com/nq32HIs.png",
+    "logoText": "OK ",
+    "url": "https://s.ok54.de/ott/webstream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/ott/webstream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://ok54.de/"
+  },
+  {
+    "id": "OKWeinstrasseNeustadt.de",
+    "name": "OK Weinstrasse Neustadt",
+    "logo": "https://i.imgur.com/bjTajXb.png",
+    "logoText": "OK ",
+    "url": "https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-weinstrasse.de/neustadt/oeffnungszeiten-kontakt/"
+  },
+  {
+    "id": "OKWernigerode.de",
+    "name": "OK Wernigerode",
+    "logo": "https://i.imgur.com/3gQvhSy.png",
+    "logoText": "OK ",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-wernigerode.de/kontakt/"
+  },
+  {
+    "id": "OKTVLudwigshafen.de",
+    "name": "OK-TV Ludwigshafen",
+    "logo": "https://i.imgur.com/xiDeF8Y.png",
+    "logoText": "OK-",
+    "url": "https://s.ok54.de/oklu/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/oklu/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok-lu.de/"
+  },
+  {
+    "id": "OK4.de",
+    "name": "OK4",
+    "logo": "https://i.imgur.com/cUlMOlt.png",
+    "logoText": "OK4",
+    "url": "https://s.ok54.de/abr_ok4/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/abr_ok4/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ok4.tv/"
+  },
+  {
+    "id": "OK54.de",
+    "name": "OK54",
+    "logo": "https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png",
+    "logoText": "OK5",
+    "url": "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://ok54.de/"
+  },
+  {
+    "id": "One.de",
+    "name": "One",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png",
+    "logoText": "ONE",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ardmediathek.de/one/"
+  },
+  {
+    "id": "OneAdria.de",
+    "name": "One Adria",
+    "logo": "https://i.imgur.com/NYkMamU.png",
+    "logoText": "ONE",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://folx.network/one-adria-music-television/"
+  },
+  {
+    "id": "OneMusicTelevision.de",
+    "name": "One Music Television",
+    "logo": "https://i.imgur.com/dLgoKJ0.png",
+    "logoText": "ONE",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://folx.network/one-music-television/"
+  },
+  {
+    "id": "Parlamentsfernsehen1.de",
+    "name": "Parlamentsfernsehen 1",
+    "logo": "https://i.imgur.com/mksEgwx.png",
+    "logoText": "PAR",
+    "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.bundestag.de/parlamentsfernsehen"
+  },
+  {
+    "id": "Parlamentsfernsehen2.de",
+    "name": "Parlamentsfernsehen 2",
+    "logo": "https://i.imgur.com/mksEgwx.png",
+    "logoText": "PAR",
+    "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "Parlamentsfernsehen3.de",
+    "name": "Parlamentsfernsehen 3",
+    "logo": "https://i.imgur.com/mksEgwx.png",
+    "logoText": "PAR",
+    "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "Parlamentsfernsehen4.de",
+    "name": "Parlamentsfernsehen 4",
+    "logo": "https://i.imgur.com/mksEgwx.png",
+    "logoText": "PAR",
+    "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "phoenix.de",
+    "name": "phoenix",
+    "logo": "https://i.imgur.com/T1532t9.png",
+    "logoText": "PHO",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.phoenix.de/"
+  },
+  {
+    "id": "ProSieben.de",
+    "name": "ProSieben",
+    "logo": "https://i.imgur.com/zZOk3nh.png",
+    "logoText": "PRO",
+    "url": "http://85.187.13.40:18000/ProSieben",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://85.187.13.40:18000/ProSieben",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.prosieben.de/"
+  },
+  {
+    "id": "ProSiebenMaxx.de",
+    "name": "ProSieben Maxx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "logoText": "PRO",
+    "url": "http://79.232.88.203:9981/stream/channelid/1038721938",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://79.232.88.203:9981/stream/channelid/1038721938",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.prosiebenmaxx.de/"
+  },
+  {
+    "id": "PUNKTumFernsehen.de",
+    "name": "PUNKTum Fernsehen",
+    "logo": "https://i.imgur.com/3yamOmw.png",
+    "logoText": "PUN",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.punktum-fernsehen.de/"
+  },
+  {
+    "id": "QVC.de",
+    "name": "QVC",
+    "logo": "https://i.imgur.com/EybRtsI.png",
+    "logoText": "QVC",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.qvc.de/"
+  },
+  {
+    "id": "QVCStyle.de",
+    "name": "QVC Style",
+    "logo": "https://i.imgur.com/DwdkHGj.png",
+    "logoText": "QVC",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.qvc.de/"
+  },
+  {
+    "id": "QVCZwei.de",
+    "name": "QVC Zwei",
+    "logo": "https://i.imgur.com/f94kPed.png",
+    "logoText": "QVC",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.qvc.de/"
+  },
+  {
+    "id": "Radio21TV.de",
+    "name": "Radio 21 TV",
+    "logo": "https://i.imgur.com/u8OhwI1.png",
+    "logoText": "RAD",
+    "url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RadioBremenFernsehen.de",
+    "name": "Radio Bremen Fernsehen",
+    "logo": "https://i.imgur.com/wsTOcuX.png",
+    "logoText": "RAD",
+    "url": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://dein.radiobremen.de/"
+  },
+  {
+    "id": "RadioWeserTVBremen.de",
+    "name": "Radio Weser TV Bremen",
+    "logo": "",
+    "logoText": "RAD",
+    "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RAN1.de",
+    "name": "RAN1",
+    "logo": "https://i.imgur.com/zRg2BEa.png",
+    "logoText": "RAN",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.ran1.de/"
+  },
+  {
+    "id": "rbbFernsehen.de",
+    "name": "rbb Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
+    "logoText": "RBB",
+    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rbb-online.de/fernsehen/"
+  },
+  {
+    "id": "RBW.de",
+    "name": "RBW",
+    "logo": "https://i.imgur.com/A0UKdix.png",
+    "logoText": "RBW",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RegioTVBodensee.de",
+    "name": "Regio TV Bodensee",
+    "logo": "https://i.imgur.com/3koyLef.png",
+    "logoText": "REG",
+    "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.regio-tv.de/"
+  },
+  {
+    "id": "RegioTVSchwaben.de",
+    "name": "Regio TV Schwaben",
+    "logo": "https://i.imgur.com/3koyLef.png",
+    "logoText": "REG",
+    "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.regio-tv.de/"
+  },
+  {
+    "id": "RegioTVStuttgart.de",
+    "name": "Regio TV Stuttgart",
+    "logo": "https://i.imgur.com/3koyLef.png",
+    "logoText": "REG",
+    "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.regio-tv.de/"
+  },
+  {
+    "id": "RennsteigTV.de",
+    "name": "Rennsteig TV",
+    "logo": "https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png",
+    "logoText": "REN",
+    "url": "http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rennsteig.tv/"
+  },
+  {
+    "id": "RFH.de",
+    "name": "RFH",
+    "logo": "https://i.imgur.com/8DZa7in.png",
+    "logoText": "RFH",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rfh-tv.de/"
+  },
+  {
+    "id": "RFO.de",
+    "name": "RFO",
+    "logo": "https://i.imgur.com/902BHGL.png",
+    "logoText": "RFO",
+    "url": "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rfo.de/"
+  },
+  {
+    "id": "RiC.de",
+    "name": "RiC",
+    "logo": "https://i.imgur.com/4wMZ8Em.png",
+    "logoText": "RIC",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids",
+      "family"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.rictv.de/"
+  },
+  {
+    "id": "RNF.de",
+    "name": "RNF",
+    "logo": "https://i.imgur.com/CRk9usN.png",
+    "logoText": "RNF",
+    "url": "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RockAntenne.de",
+    "name": "Rock Antenne",
+    "logo": "https://i.imgur.com/nvFXRjH.png",
+    "logoText": "ROC",
+    "url": "https://stream.rockantenne.de/rockantenne/stream/mp3",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.rockantenne.de/rockantenne/stream/mp3",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RocklandTV.de",
+    "name": "Rockland TV",
+    "logo": "https://i.imgur.com/6ve1FTN.png",
+    "logoText": "ROC",
+    "url": "https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "RTDE.de",
+    "name": "RT DE",
+    "logo": "https://i.imgur.com/v1PIbB2.png",
+    "logoText": "RT ",
+    "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://de.rt.com/"
+  },
+  {
+    "id": "RTL.de",
+    "name": "RTL",
+    "logo": "https://i.imgur.com/94K94k2.png",
+    "logoText": "RTL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rtl.de/"
+  },
+  {
+    "id": "RTLCrime.de",
+    "name": "RTL Crime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg",
+    "logoText": "RTL",
+    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rtl-crime.de/"
+  },
+  {
+    "id": "RTLPassion.de",
+    "name": "RTL Passion",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png",
+    "logoText": "RTL",
+    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.rtlpassion.de/"
+  },
+  {
+    "id": "RTLSuper.de",
+    "name": "RTL Super",
+    "logo": "https://i.imgur.com/KbdK8t9.png",
+    "logoText": "RTL",
+    "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.superrtl.de/"
+  },
+  {
+    "id": "RTLZwei.de",
+    "name": "RTL Zwei",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+    "logoText": "RTL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.rtl2.de/"
+  },
+  {
+    "id": "SaarlandFernsehen1.de",
+    "name": "Saarland Fernsehen 1",
+    "logo": "https://i.imgur.com/OodehFV.png",
+    "logoText": "SAA",
+    "url": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SaarlandFernsehen2.de",
+    "name": "Saarland Fernsehen 2",
+    "logo": "https://i.imgur.com/Yv7j4ia.png",
+    "logoText": "SAA",
+    "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SachsenEins.de",
+    "name": "Sachsen Eins",
+    "logo": "https://i.imgur.com/2EXNdd8.png",
+    "logoText": "SAC",
+    "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sachsen-fernsehen.de/"
+  },
+  {
+    "id": "SachsenFernsehenChemnitz.de",
+    "name": "Sachsen Fernsehen Chemnitz",
+    "logo": "https://i.imgur.com/4SEAbVf.png",
+    "logoText": "SAC",
+    "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sachsen-fernsehen.de/kategorie/chemnitz/"
+  },
+  {
+    "id": "SachsenFernsehenDresden.de",
+    "name": "Sachsen Fernsehen Dresden",
+    "logo": "https://i.imgur.com/rnvprGj.png",
+    "logoText": "SAC",
+    "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sachsen-fernsehen.de/kategorie/dresden/"
+  },
+  {
+    "id": "SachsenFernsehenLeipzig.de",
+    "name": "Sachsen Fernsehen Leipzig",
+    "logo": "https://i.imgur.com/easmJUw.png",
+    "logoText": "SAC",
+    "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sachsen-fernsehen.de/kategorie/leipzig/"
+  },
+  {
+    "id": "SalveTV.de",
+    "name": "Salve TV",
+    "logo": "https://i.imgur.com/GhKjHMG.png",
+    "logoText": "SAL",
+    "url": "https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.salve.tv/"
+  },
+  {
+    "id": "SAT1Gold.de",
+    "name": "SAT.1 Gold",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png",
+    "logoText": "SAT",
+    "url": "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sat1gold.de/"
+  },
+  {
+    "id": "Seenluft24.de",
+    "name": "Seenluft24",
+    "logo": "https://i.imgur.com/3TgBg9v.jpg",
+    "logoText": "SEE",
+    "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SenderNeuJerusalem.de",
+    "name": "Sender Neu Jerusalem",
+    "logo": "",
+    "logoText": "SEN",
+    "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.neu-jerusalem.de/"
+  },
+  {
+    "id": "sixx.de",
+    "name": "sixx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png",
+    "logoText": "SIX",
+    "url": "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: http://www.sixx.de/"
+  },
+  {
+    "id": "SonnenklarTV.de",
+    "name": "Sonnenklar TV",
+    "logo": "https://i.imgur.com/g4QeXwF.png",
+    "logoText": "SON",
+    "url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sonnenklar.tv/"
+  },
+  {
+    "id": "SonusFM.de",
+    "name": "Sonus FM",
+    "logo": "https://i.imgur.com/h29rUcG.png",
+    "logoText": "SON",
+    "url": "http://www.sonus.fm:1935/public/stream_source/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://www.sonus.fm:1935/public/stream_source/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sonus.fm/"
+  },
+  {
+    "id": "SophiaTV.de",
+    "name": "Sophia TV",
+    "logo": "https://i.imgur.com/1hNgHbB.png",
+    "logoText": "SOP",
+    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SophiaTVEspanol.de",
+    "name": "Sophia TV Espanol",
+    "logo": "https://i.imgur.com/T2JPCq2.png",
+    "logoText": "SOP",
+    "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://radio-santec.com/es/"
+  },
+  {
+    "id": "SophiaTVFrancais.de",
+    "name": "Sophia TV Francais",
+    "logo": "https://i.imgur.com/T2JPCq2.png",
+    "logoText": "SOP",
+    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://radio-santec.com/fr/"
+  },
+  {
+    "id": "SportdigitalFUSSBALL.de",
+    "name": "Sportdigital FUSSBALL",
+    "logo": "https://i.imgur.com/NDbWxqF.png",
+    "logoText": "SPO",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://start.sportdigital.de/"
+  },
+  {
+    "id": "SRFernsehen.de",
+    "name": "SR Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png",
+    "logoText": "SR ",
+    "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.sr.de/sr/fernsehen/"
+  },
+  {
+    "id": "SRF.de",
+    "name": "SRF",
+    "logo": "https://i.imgur.com/92XNBmr.png",
+    "logoText": "SRF",
+    "url": "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.srf-online.de/"
+  },
+  {
+    "id": "Studio47.de",
+    "name": "Studio 47",
+    "logo": "https://i.imgur.com/xCiU1TB.png",
+    "logoText": "STU",
+    "url": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SWR3VisualRadio.de",
+    "name": "SWR 3 Visual Radio",
+    "logo": "https://i.imgur.com/PxSgxRO.jpg",
+    "logoText": "SWR",
+    "url": "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "SWRFernsehenBadenWurttemberg.de",
+    "name": "SWR Fernsehen Baden-Wurttemberg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
+    "logoText": "SWR",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.swrfernsehen.de/"
+  },
+  {
+    "id": "SWRFernsehenRheinlandPfalz.de",
+    "name": "SWR Fernsehen Rheinland-Pfalz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
+    "logoText": "SWR",
+    "url": "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.swrfernsehen.de/"
+  },
+  {
+    "id": "tagesschau24.de",
+    "name": "tagesschau24",
+    "logo": "https://i.imgur.com/LH0Gctv.png",
+    "logoText": "TAG",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.tagesschau.de/"
+  },
+  {
+    "id": "teltOwkanal.de",
+    "name": "teltOwkanal",
+    "logo": "https://i.imgur.com/G0cImlU.png",
+    "logoText": "TEL",
+    "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "TerraMaterWILD.de",
+    "name": "Terra Mater WILD",
+    "logo": "https://i.imgur.com/EbMK3Ph.png",
+    "logoText": "TER",
+    "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.autentic.com/117/Channels.htm#terra_mater"
+  },
+  {
+    "id": "TideTV.de",
+    "name": "Tide TV",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",
+    "logoText": "TID",
+    "url": "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "tiviTURK.de",
+    "name": "tiviTURK",
+    "logo": "https://i.ibb.co/9TDs8q8/IFE6LHH.jpg",
+    "logoText": "TIV",
+    "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "TVIngolstadt.de",
+    "name": "TV Ingolstadt",
+    "logo": "https://i.imgur.com/Ymh11VV.png",
+    "logoText": "TV ",
+    "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.tvingolstadt.de/"
+  },
+  {
+    "id": "TVMainfranken.de",
+    "name": "TV Mainfranken",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",
+    "logoText": "TV ",
+    "url": "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "TVOberfranken.de",
+    "name": "TV Oberfranken",
+    "logo": "https://i.imgur.com/tjD9fX2.png",
+    "logoText": "TV ",
+    "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.tvo.de/"
+  },
+  {
+    "id": "TV38SudostNiedersachen.de",
+    "name": "TV38 Sudost-Niedersachen",
+    "logo": "https://i.imgur.com/ob9JJPU.png",
+    "logoText": "TV3",
+    "url": "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "TVA.de",
+    "name": "TVA",
+    "logo": "https://i.imgur.com/Gg6d4Jb.png",
+    "logoText": "TVA",
+    "url": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.tvaktuell.com/"
+  },
+  {
+    "id": "Unserding.de",
+    "name": "Unserding",
+    "logo": "https://i.imgur.com/4j4MZTT.png",
+    "logoText": "UNS",
+    "url": "https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "VolksmusikTV.de",
+    "name": "Volksmusik TV",
+    "logo": "https://i.imgur.com/EsWuCJ3.png",
+    "logoText": "VOL",
+    "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.volksmusik.tv/"
+  },
+  {
+    "id": "VOX.de",
+    "name": "VOX",
+    "logo": "https://i.imgur.com/QPcmfZb.png",
+    "logoText": "VOX",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.vox.de/"
+  },
+  {
+    "id": "WDR1Live.de",
+    "name": "WDR 1 Live",
+    "logo": "https://i.imgur.com/RbqDMYx.png",
+    "logoText": "WDR",
+    "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A."
+  },
+  {
+    "id": "WDRFernsehen.de",
+    "name": "WDR Fernsehen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png",
+    "logoText": "WDR",
+    "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www1.wdr.de/unternehmen/der-wdr/standorte/studios/bonn/studio-bonn-102.html"
+  },
+  {
+    "id": "WELT.de",
+    "name": "WELT",
+    "logo": "https://i.imgur.com/s4TZoxx.png",
+    "logoText": "WEL",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://s6.hopslan.com/n24X/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.welt.de/"
+  },
+  {
+    "id": "WeltderWunderTV.de",
+    "name": "Welt der Wunder TV",
+    "logo": "https://i.imgur.com/DLXssJe.png",
+    "logoText": "WEL",
+    "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.weltderwunder.de/"
+  },
+  {
+    "id": "WorldofFreesports.de",
+    "name": "World of Freesports",
+    "logo": "https://i.imgur.com/lta5Mog.png",
+    "logoText": "WOR",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.worldoffreesports-tv.com/"
+  },
+  {
+    "id": "ZDF.de",
+    "name": "ZDF",
+    "logo": "https://i.imgur.com/rtLb6m9.png",
+    "logoText": "ZDF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.zdf.de/"
+  },
+  {
+    "id": "ZDFinfo.de",
+    "name": "ZDFinfo",
+    "logo": "https://i.imgur.com/vtq1IWp.png",
+    "logoText": "ZDF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.zdfinfo.de/"
+  },
+  {
+    "id": "ZDFneo.de",
+    "name": "ZDFneo",
+    "logo": "https://i.imgur.com/1JIIGgL.png",
+    "logoText": "ZDF",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://www.zdf.de/sender/zdfneo"
+  },
+  {
+    "id": "ZweiMusicTelevision.de",
+    "name": "Zwei Music Television",
+    "logo": "https://i.imgur.com/RbdpCNf.png",
+    "logoText": "ZWE",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "DE",
+    "countryName": "Germany",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Germany. Language: N/A. Website: https://folx.network/zwei-music-television/"
+  }
+]

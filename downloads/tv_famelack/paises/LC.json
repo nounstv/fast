@@ -1,0 +1,19 @@
+[
+  {
+    "id": "JYgSlfQhruwWoQ",
+    "name": "Caribbean Hot 7 TV",
+    "url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "category": "General",
+    "country": "LC",
+    "countryName": "Saint Lucia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Saint Lucia. Idioma: eng.",
+    "logoText": "CAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8"
+    ]
+  }
+]

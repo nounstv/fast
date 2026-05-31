@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TelevisionCaribbean.kn",
+    "name": "Television Caribbean",
+    "logo": "https://i.imgur.com/Ogw0COv.png",
+    "logoText": "TEL",
+    "url": "https://live.kingdom-tv.com:3545/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.kingdom-tv.com:3545/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Saint Kitts and Nevis. Language: N/A. Website: https://www.tvcplus.live/"
+  },
+  {
+    "id": "ZIZTV.kn",
+    "name": "ZIZ TV",
+    "logo": "https://i.imgur.com/fB09i6X.png",
+    "logoText": "ZIZ",
+    "url": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Saint Kitts and Nevis. Language: N/A. Website: https://zizonline.com/"
+  }
+]

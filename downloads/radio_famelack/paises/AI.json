@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kPDdGOEuiZqCJx",
+    "name": "Klass FM 92.9",
+    "url": "https://klassfm929.radioca.st/;",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=radioca.st",
+    "category": "Pop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "AI",
+    "countryName": "Anguilla",
+    "state": "",
+    "tags": "pop",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "dUkXkQczutO7D5",
+    "name": "NBR Grace 99.3 FM",
+    "url": "https://s30.myradiostream.com/32104/;",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=myradiostream.com",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "AI",
+    "countryName": "Anguilla",
+    "state": "",
+    "tags": "religious",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "KkiGp7vuxsaS5R",
+    "name": "Throwback 96.3",
+    "url": "https://stream.revma.ihrhls.com/zc5873",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=ihrhls.com",
+    "category": "Soul",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "AI",
+    "countryName": "Anguilla",
+    "state": "",
+    "tags": "soul",
+    "language": "eng",
+    "homepage": ""
+  }
+]

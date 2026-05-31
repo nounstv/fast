@@ -1,0 +1,317 @@
+[
+  {
+    "id": "Bravo.nz",
+    "name": "Bravo",
+    "logo": "https://i.imgur.com/hphQ2kw.png",
+    "logoText": "BRA",
+    "url": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: http://www.bravotv.co.nz/"
+  },
+  {
+    "id": "Channel200.nz",
+    "name": "Channel 200",
+    "logo": "https://i.imgur.com/gAebu4q.png",
+    "logoText": "CHA",
+    "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://ch200.co.nz/watch-live/"
+  },
+  {
+    "id": "Firstlight.nz",
+    "name": "Firstlight",
+    "logo": "https://i.imgur.com/gtDROeT.png",
+    "logoText": "FIR",
+    "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.firstlight.org.nz/"
+  },
+  {
+    "id": "JuiceTV.nz",
+    "name": "Juice TV",
+    "logo": "https://i.imgur.com/WaaaW0w.png",
+    "logoText": "JUI",
+    "url": "https://juicex.nz/hls/mystream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://juicex.nz/hls/mystream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.juicetv.live/"
+  },
+  {
+    "id": "KordiaTV.nz",
+    "name": "Kordia TV",
+    "logo": "https://i.imgur.com/BQ0qWzX.png",
+    "logoText": "KOR",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.kordia.co.nz/contact"
+  },
+  {
+    "id": "ParliamentTV.nz",
+    "name": "Parliament TV",
+    "logo": "https://i.imgur.com/2aHW4q7.png",
+    "logoText": "PAR",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://ondemand.parliament.nz/"
+  },
+  {
+    "id": "SkyOpen.nz",
+    "name": "Sky Open",
+    "logo": "https://i.imgur.com/eYyYojh.png",
+    "logoText": "SKY",
+    "url": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.sky.co.nz/skyopen"
+  },
+  {
+    "id": "TeReo.nz",
+    "name": "Te Reo",
+    "logo": "https://i.imgur.com/3CNvYUN.png",
+    "logoText": "TE ",
+    "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.maoritelevision.com/tv/te-reo-channel"
+  },
+  {
+    "id": "TVNZ1.nz",
+    "name": "TVNZ 1",
+    "logo": "https://i.imgur.com/Nx76HUE.png",
+    "logoText": "TVN",
+    "url": "https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.tvnz.co.nz/livetv/tvnz-1"
+  },
+  {
+    "id": "TVNZ2.nz",
+    "name": "TVNZ 2",
+    "logo": "https://i.imgur.com/9sV4dbH.png",
+    "logoText": "TVN",
+    "url": "https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.tvnz.co.nz/livetv/tvnz-2"
+  },
+  {
+    "id": "TVNZDUKE.nz",
+    "name": "TVNZ DUKE",
+    "logo": "https://i.imgur.com/tJf9DEI.png",
+    "logoText": "TVN",
+    "url": "https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.tvnz.co.nz/livetv/tvnz-duke"
+  },
+  {
+    "id": "WairarapaTV.nz",
+    "name": "Wairarapa TV",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "logoText": "WAI",
+    "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: http://www.wairarapatv.co.nz/"
+  },
+  {
+    "id": "WhakaataMaori.nz",
+    "name": "Whakaata Maori",
+    "logo": "https://i.imgur.com/oT3PrHZ.png",
+    "logoText": "WHA",
+    "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "languages": [],
+    "description": "Global IPTV stream. Country: New Zealand. Language: N/A. Website: https://www.maoritelevision.com/live"
+  }
+]

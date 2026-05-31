@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1iuIRvnoniSJBQ",
+    "name": "BHRT",
+    "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+    "category": "Geral",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [
+      "bos"
+    ],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: bos.",
+    "logoText": "BHR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
+    ]
+  },
+  {
+    "id": "1mg1i4tpsnA6yL",
+    "name": "Malta",
+    "url": "https://webtvstream.bhtelecom.ba/malta.m3u8",
+    "category": "Geral",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: N/A.",
+    "logoText": "MAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webtvstream.bhtelecom.ba/malta.m3u8"
+    ]
+  },
+  {
+    "id": "yLVZgzeSuuMtfC",
+    "name": "NTV IC Kakanj",
+    "url": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
+    "category": "General",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [
+      "bos"
+    ],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: bos.",
+    "logoText": "NTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
+    ]
+  },
+  {
+    "id": "ZZiuO9trJGMIcY",
+    "name": "RTV HB",
+    "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+    "category": "General",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [
+      "hrv"
+    ],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: hrv.",
+    "logoText": "RTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WcSJpdrhx3iG3n",
+    "name": "RTV Zenica",
+    "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "category": "Geral",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [
+      "bos"
+    ],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: bos.",
+    "logoText": "RTV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.rtvze.ba/live/123/123.m3u8"
+    ]
+  },
+  {
+    "id": "aDxZ6NMX7FAxtt",
+    "name": "Televizija M",
+    "url": "https://live.tv-m.net/hls/stream.m3u8",
+    "category": "General",
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [
+      "bos"
+    ],
+    "description": "Canal de TV de Bosnia and Herzegovina. Idioma: bos.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.tv-m.net/hls/stream.m3u8"
+    ]
+  }
+]

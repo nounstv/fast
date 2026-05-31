@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sEhDuNB7xHtoW3",
+    "name": "FM1",
+    "url": "https://stream-secure.midlar.fo/fm1-128",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=midlar.fo",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "FO",
+    "countryName": "Faroe Islands",
+    "state": "",
+    "tags": "",
+    "language": "fao",
+    "homepage": ""
+  },
+  {
+    "id": "YM7kha9v8Wz2rR",
+    "name": "Lindin",
+    "url": "https://high.lindin.fo/",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=lindin.fo",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "FO",
+    "countryName": "Faroe Islands",
+    "state": "",
+    "tags": "religious",
+    "language": "fao",
+    "homepage": ""
+  }
+]

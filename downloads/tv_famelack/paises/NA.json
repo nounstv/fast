@@ -1,0 +1,59 @@
+[
+  {
+    "id": "rVJSf2B79r7M1S",
+    "name": "NBC 1",
+    "url": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
+    "category": "General",
+    "country": "NA",
+    "countryName": "Namibia",
+    "languages": [
+      "afr",
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Namibia. Idioma: afr, deu, eng.",
+    "logoText": "NBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls2.nbcplus.na/hls/high_nbc1.m3u8"
+    ]
+  },
+  {
+    "id": "zsGelGEGLQM5ya",
+    "name": "NBC 2",
+    "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
+    "category": "News",
+    "country": "NA",
+    "countryName": "Namibia",
+    "languages": [
+      "afr",
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Namibia. Idioma: afr, deu, eng.",
+    "logoText": "NBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls2.nbcplus.na/hls/high_nbc2.m3u8"
+    ]
+  },
+  {
+    "id": "ECnN3NWeNbWcGO",
+    "name": "NBC 3",
+    "url": "https://hls2.nbcplus.na/hls/high_nbc3.m3u8",
+    "category": "Entertainment",
+    "country": "NA",
+    "countryName": "Namibia",
+    "languages": [
+      "afr",
+      "deu",
+      "eng"
+    ],
+    "description": "Canal de TV de Namibia. Idioma: afr, deu, eng.",
+    "logoText": "NBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://hls2.nbcplus.na/hls/high_nbc3.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "AfriqueMedia.cm",
+    "name": "Afrique Media",
+    "logo": "https://i.imgur.com/spQgX7X.png",
+    "logoText": "AFR",
+    "url": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://www.afriquemedia.tv/live"
+  },
+  {
+    "id": "Afrique54TV.cm",
+    "name": "Afrique54 TV",
+    "logo": "https://i.imgur.com/WIaRpiS.png",
+    "logoText": "AFR",
+    "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://afrique54.net/"
+  },
+  {
+    "id": "CAM10TV.cm",
+    "name": "CAM 10 TV",
+    "logo": "https://i.imgur.com/xspb9uY.png",
+    "logoText": "CAM",
+    "url": "https://stream.it-innov.com/cam10tv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.it-innov.com/cam10tv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://cam10tv.com/"
+  },
+  {
+    "id": "Canal2International.cm",
+    "name": "Canal 2 International",
+    "logo": "https://i.imgur.com/BzA2z7m.png",
+    "logoText": "CAN",
+    "url": "http://69.64.57.208/canal2international/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/canal2international/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: http://www.canal2international.net/"
+  },
+  {
+    "id": "CENTelevision.cm",
+    "name": "CEN Television",
+    "logo": "https://i.ibb.co/2vJfdgN/unnamed.jpg",
+    "logoText": "CEN",
+    "url": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A."
+  },
+  {
+    "id": "CRTV.cm",
+    "name": "CRTV",
+    "logo": "https://i.imgur.com/cQWNh3L.png",
+    "logoText": "CRT",
+    "url": "http://69.64.57.208/crtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/crtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://www.crtv.cm/"
+  },
+  {
+    "id": "EquinoxeTV.cm",
+    "name": "Equinoxe TV",
+    "logo": "https://i.imgur.com/GKbnBlo.png",
+    "logoText": "EQU",
+    "url": "http://69.64.57.208/equinoxtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/equinoxtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://equinoxetv.com/"
+  },
+  {
+    "id": "LauraDaveMediaTV.cm",
+    "name": "Laura Dave Media TV",
+    "logo": "https://i.imgur.com/zzG1S2n.png",
+    "logoText": "LAU",
+    "url": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://lauradavemedia.com/"
+  },
+  {
+    "id": "MyRighteousTV.cm",
+    "name": "My Righteous TV",
+    "logo": "https://i.imgur.com/wKSLNHB.png",
+    "logoText": "MY ",
+    "url": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A. Website: https://ligministries.org/my-righteous-tv/"
+  },
+  {
+    "id": "MyTVChannel.cm",
+    "name": "My TV Channel",
+    "logo": "https://i.imgur.com/vh2373L.png",
+    "logoText": "MY ",
+    "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A."
+  },
+  {
+    "id": "PlayTV.cm",
+    "name": "Play TV",
+    "logo": "https://i.imgur.com/1dmBqpf.png",
+    "logoText": "PLA",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A."
+  },
+  {
+    "id": "PLEXTV.cm",
+    "name": "PLEX TV",
+    "logo": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+    "logoText": "PLE",
+    "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A."
+  },
+  {
+    "id": "TR24Television.cm",
+    "name": "TR24 Television",
+    "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+    "logoText": "TR2",
+    "url": "https://stream.it-innov.com/tr24/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CM",
+    "countryName": "Cameroon",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cameroon. Language: N/A."
+  }
+]

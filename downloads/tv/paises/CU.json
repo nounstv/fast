@@ -1,0 +1,223 @@
+[
+  {
+    "id": "CanalClave.cu",
+    "name": "Canal Clave",
+    "logo": "https://i.imgur.com/7tMkA4Z.png",
+    "logoText": "CAN",
+    "url": "https://tv.picta.cu/clave/clave_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/clave/clave_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/canal-clave"
+  },
+  {
+    "id": "CanalEducativo.cu",
+    "name": "Canal Educativo",
+    "logo": "https://i.imgur.com/huBxZpP.png",
+    "logoText": "CAN",
+    "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/educativo"
+  },
+  {
+    "id": "CanalEducativo2.cu",
+    "name": "Canal Educativo 2",
+    "logo": "https://i.imgur.com/nOl3H5X.png",
+    "logoText": "CAN",
+    "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/educativo-2"
+  },
+  {
+    "id": "CanalHabana.cu",
+    "name": "Canal Habana",
+    "logo": "https://i.imgur.com/0EUc52w.png",
+    "logoText": "CAN",
+    "url": "https://tv.picta.cu/infantil/infantil_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/infantil/infantil_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.canalhabana.icrt.cu/"
+  },
+  {
+    "id": "Cubavision.cu",
+    "name": "Cubavision",
+    "logo": "https://i.imgur.com/ki9ipMU.png",
+    "logoText": "CUB",
+    "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision"
+  },
+  {
+    "id": "CubavisionInternacional.cu",
+    "name": "Cubavision Internacional",
+    "logo": "https://i.imgur.com/0ZHm9f6.png",
+    "logoText": "CUB",
+    "url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.cvi.icrt.cu/"
+  },
+  {
+    "id": "Multivision.cu",
+    "name": "Multivision",
+    "logo": "https://i.imgur.com/wBX0GNs.png",
+    "logoText": "MUL",
+    "url": "https://tv.picta.cu/multivision/multivision_1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/multivision/multivision_1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/multivision"
+  },
+  {
+    "id": "PrensaLatinaTV.cu",
+    "name": "Prensa Latina TV",
+    "logo": "https://i.imgur.com/jbm2S9O.jpg",
+    "logoText": "PRE",
+    "url": "https://eu1.servers10.com:8081/8192/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8192/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.prensa-latina.cu/"
+  },
+  {
+    "id": "TeleRebelde.cu",
+    "name": "Tele Rebelde",
+    "logo": "https://i.imgur.com/M6wZzuz.png",
+    "logoText": "TEL",
+    "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CU",
+    "countryName": "Cuba",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Cuba. Language: N/A. Website: https://www.telerebelde.icrt.cu/"
+  }
+]

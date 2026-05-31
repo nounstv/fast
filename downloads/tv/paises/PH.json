@@ -1,0 +1,354 @@
+[
+  {
+    "id": "AbanteTV.ph",
+    "name": "Abante TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "logoText": "ABA",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://streams.comclark.com/transcodesd/abante/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://www.abante.com.ph/"
+  },
+  {
+    "id": "BilyonaryoNewsChannel.ph",
+    "name": "Bilyonaryo News Channel",
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "logoText": "BIL",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://bnc.ph/"
+  },
+  {
+    "id": "CCTN47.ph",
+    "name": "CCTN 47",
+    "logo": "https://i.imgur.com/IFpAmvW.png",
+    "logoText": "CCT",
+    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://cctn47.com/"
+  },
+  {
+    "id": "CLTV36.ph",
+    "name": "CLTV 36",
+    "logo": "https://i.imgur.com/IUcTFQ2.png",
+    "logoText": "CLT",
+    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://cltv36.tv/"
+  },
+  {
+    "id": "GTV.ph",
+    "name": "GTV",
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "logoText": "GTV",
+    "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://www.gmanetwork.com/news/"
+  },
+  {
+    "id": "HopeChannelPhilippines.ph",
+    "name": "Hope Channel Philippines",
+    "logo": "https://i.imgur.com/LB2vmMt.png",
+    "logoText": "HOP",
+    "url": "https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://www.hopechannel.ph/"
+  },
+  {
+    "id": "IBC13.ph",
+    "name": "IBC 13",
+    "logo": "https://i.imgur.com/1KaTUOo.png",
+    "logoText": "IBC",
+    "url": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://ibctv.com.ph/"
+  },
+  {
+    "id": "LivingAsiaChannel.ph",
+    "name": "Living Asia Channel",
+    "logo": "https://i.imgur.com/q3UToRM.png",
+    "logoText": "LIV",
+    "url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://livingasiachannel.tv/"
+  },
+  {
+    "id": "MindanowNetworkTV.ph",
+    "name": "Mindanow Network TV",
+    "logo": "https://i.imgur.com/xBlYirh.jpeg",
+    "logoText": "MIN",
+    "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://mindanownetwork.com/"
+  },
+  {
+    "id": "NudgeSportsChannel.ph",
+    "name": "Nudge Sports Channel",
+    "logo": "https://i.imgur.com/TW0hapZ.png",
+    "logoText": "NUD",
+    "url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://nudgeproductions.co/nudge-sports-channel"
+  },
+  {
+    "id": "PremierSports.ph",
+    "name": "Premier Sports",
+    "logo": "https://i.imgur.com/BURPHzI.png",
+    "logoText": "PRE",
+    "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://www.tapdmv.com/PremierSports/index.html"
+  },
+  {
+    "id": "PremierSports2.ph",
+    "name": "Premier Sports 2",
+    "logo": "https://i.imgur.com/UQeXWd2.png",
+    "logoText": "PRE",
+    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://www.tapdmv.com/PremierSports/index.html"
+  },
+  {
+    "id": "PTV.ph",
+    "name": "PTV",
+    "logo": "https://i.imgur.com/MMccHNd.png",
+    "logoText": "PTV",
+    "url": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: https://ptvnews.ph/"
+  },
+  {
+    "id": "TeleRadyo.ph",
+    "name": "TeleRadyo",
+    "logo": "https://i.imgur.com/fTYOu5k.png",
+    "logoText": "TEL",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "PH",
+    "countryName": "Philippines",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Philippines. Language: N/A. Website: http://news.abs-cbn.com/dzmm/"
+  }
+]

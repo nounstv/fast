@@ -1,0 +1,424 @@
+[
+  {
+    "id": "BaltiTV.md",
+    "name": "Balti TV",
+    "logo": "https://i.imgur.com/S1vEqZp.png",
+    "logoText": "BAL",
+    "url": "http://77.89.199.174:8000/play/1024/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://77.89.199.174:8000/play/1024/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A."
+  },
+  {
+    "id": "BusuiocTV.md",
+    "name": "Busuioc TV",
+    "logo": "https://i.imgur.com/CQtfBPu.png",
+    "logoText": "BUS",
+    "url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://busuioctv.md/"
+  },
+  {
+    "id": "DrochiaTV.md",
+    "name": "Drochia TV",
+    "logo": "https://i.imgur.com/O6YZ0D5.png",
+    "logoText": "DRO",
+    "url": "https://hls.drochia.tv/tv/web.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.drochia.tv/tv/web.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://drochia.tv/"
+  },
+  {
+    "id": "Moldova1.md",
+    "name": "Moldova 1",
+    "logo": "https://i.imgur.com/ZbQY56v.png",
+    "logoText": "MOL",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://trm.md/ro/moldova-1"
+  },
+  {
+    "id": "Moldova2.md",
+    "name": "Moldova 2",
+    "logo": "https://i.imgur.com/Hv6Nk8A.png",
+    "logoText": "MOL",
+    "url": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://trm.md/ro/moldova-2"
+  },
+  {
+    "id": "MoldovaTV.md",
+    "name": "Moldova TV",
+    "logo": "https://i.imgur.com/gPMlDCP.png",
+    "logoText": "MOL",
+    "url": "https://moldovatv.ro/live-tv/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://moldovatv.ro/live-tv/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://89.38.8.130:39435",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://moldovatv.ro/"
+  },
+  {
+    "id": "N4.md",
+    "name": "N4",
+    "logo": "https://i.imgur.com/W9UwCv7.png",
+    "logoText": "N4",
+    "url": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://n4.md/"
+  },
+  {
+    "id": "NorocTV.md",
+    "name": "Noroc TV",
+    "logo": "https://i.imgur.com/XvYqpqG.png",
+    "logoText": "NOR",
+    "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://www.radionoroc.md/tv-noroc/"
+  },
+  {
+    "id": "PrivescEuTV.md",
+    "name": "Privesc.Eu TV",
+    "logo": "https://i.imgur.com/ukBacSn.png",
+    "logoText": "PRI",
+    "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://www.privesc.eu/tv"
+  },
+  {
+    "id": "PROTVChisinau.md",
+    "name": "PRO TV Chisinau",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "logoText": "PRO",
+    "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "news"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://protv.md/"
+  },
+  {
+    "id": "PublikaTV.md",
+    "name": "Publika TV",
+    "logo": "https://i.imgur.com/Vyx6wo5.png",
+    "logoText": "PUB",
+    "url": "https://livebeta.publika.press/LIVE/P/6810.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livebeta.publika.press/LIVE/P/6810.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: http://www.publika.md/"
+  },
+  {
+    "id": "RealitateaTV.md",
+    "name": "Realitatea TV",
+    "logo": "https://i.imgur.com/Ul4IIfX.png",
+    "logoText": "REA",
+    "url": "https://realitatealive.md/tv/rlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://realitatealive.md/tv/rlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://realitatea.md/"
+  },
+  {
+    "id": "SorTV.md",
+    "name": "Sor TV",
+    "logo": "https://i.imgur.com/BcfZgD8.png",
+    "logoText": "SOR",
+    "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://news.sortv.md"
+  },
+  {
+    "id": "TezaurTV.md",
+    "name": "Tezaur TV",
+    "logo": "https://i.imgur.com/eAagwLW.png",
+    "logoText": "TEZ",
+    "url": "https://tezaurtv.md/stream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tezaurtv.md/stream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://tezaurtv.md"
+  },
+  {
+    "id": "TVNord.md",
+    "name": "TV-Nord",
+    "logo": "https://i.imgur.com/86JYRVH.png",
+    "logoText": "TV-",
+    "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://tvn.md/"
+  },
+  {
+    "id": "TVRMoldova.md",
+    "name": "TVR Moldova",
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "logoText": "TVR",
+    "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://tvrmoldova.md/"
+  },
+  {
+    "id": "VoceaBasarabieiTV.md",
+    "name": "Vocea Basarabiei TV",
+    "logo": "https://i.imgur.com/irP8QLs.png",
+    "logoText": "VOC",
+    "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "MD",
+    "countryName": "Moldova",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Moldova. Language: N/A. Website: https://voceabasarabiei.md/vb-tv"
+  }
+]

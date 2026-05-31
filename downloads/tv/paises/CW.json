@@ -1,0 +1,98 @@
+[
+  {
+    "id": "BonceTV.cw",
+    "name": "Bonce TV",
+    "logo": "https://i.imgur.com/7cVkllH.png",
+    "logoText": "BON",
+    "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CW",
+    "countryName": "Curacao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Curacao. Language: N/A. Website: https://www.bonce.tv/"
+  },
+  {
+    "id": "NosPais.cw",
+    "name": "Nos Pais",
+    "logo": "https://i.imgur.com/ZUob2uZ.png",
+    "logoText": "NOS",
+    "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CW",
+    "countryName": "Curacao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Curacao. Language: N/A. Website: https://www.nospais.com/"
+  },
+  {
+    "id": "TVDirect13.cw",
+    "name": "TV Direct 13",
+    "logo": "https://i.imgur.com/T2IbQqv.png",
+    "logoText": "TV ",
+    "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CW",
+    "countryName": "Curacao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Curacao. Language: N/A. Website: https://directmediacuracao.com/"
+  },
+  {
+    "id": "VAMTV.cw",
+    "name": "VAM TV",
+    "logo": "https://i.imgur.com/CD1PffA.png",
+    "logoText": "VAM",
+    "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CW",
+    "countryName": "Curacao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Curacao. Language: N/A. Website: https://vamcuracao.com/"
+  }
+]

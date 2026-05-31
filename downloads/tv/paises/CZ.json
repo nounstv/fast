@@ -1,0 +1,724 @@
+[
+  {
+    "id": "CTDecko.cz",
+    "name": "CT Decko",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+    "logoText": "CT ",
+    "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://decko.cz/"
+  },
+  {
+    "id": "CTSport.cz",
+    "name": "CT Sport",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png",
+    "logoText": "CT ",
+    "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://www.ceskatelevize.cz/sport/"
+  },
+  {
+    "id": "CT1.cz",
+    "name": "CT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png",
+    "logoText": "CT1",
+    "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.ceskatelevize.cz/vysilani/"
+  },
+  {
+    "id": "CT2.cz",
+    "name": "CT2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+    "logoText": "CT2",
+    "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.ceskatelevize.cz/"
+  },
+  {
+    "id": "CT24.cz",
+    "name": "CT24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+    "logoText": "CT2",
+    "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://ct24.ceskatelevize.cz/"
+  },
+  {
+    "id": "CurrentTimeTV.cz",
+    "name": "Current Time TV",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "logoText": "CUR",
+    "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://www.currenttime.tv/"
+  },
+  {
+    "id": "ElektrikaTV.cz",
+    "name": "Elektrika TV",
+    "logo": "https://i.imgur.com/OLd5od5.png",
+    "logoText": "ELE",
+    "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://elektrika.tv/"
+  },
+  {
+    "id": "JC1.cz",
+    "name": "JC1",
+    "logo": "https://i.imgur.com/AM8YtcV.png",
+    "logoText": "JC1",
+    "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://jc1.cz/"
+  },
+  {
+    "id": "Jihoceskatelevize.cz",
+    "name": "Jihoceska televize",
+    "logo": "https://i.imgur.com/Hi8hZzl.png",
+    "logoText": "JIH",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://www.jihoceskatelevize.cz/"
+  },
+  {
+    "id": "KinoBarrandov.cz",
+    "name": "Kino Barrandov",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png",
+    "logoText": "KIN",
+    "url": "http://83.167.253.107/hdmi1_ext",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://83.167.253.107/hdmi1_ext",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://www.barrandov.tv/kino.html"
+  },
+  {
+    "id": "MinimaxCEE.cz",
+    "name": "Minimax CEE",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "logoText": "MIN",
+    "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.minimaxcz.tv/"
+  },
+  {
+    "id": "MnauTV.cz",
+    "name": "Mnau TV",
+    "logo": "https://i.imgur.com/deVHJKS.png",
+    "logoText": "MNA",
+    "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://imnau.cz/"
+  },
+  {
+    "id": "Ocko.cz",
+    "name": "Ocko",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "logoText": "OCK",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://ocko.tv/"
+  },
+  {
+    "id": "OckoExpres.cz",
+    "name": "Ocko Expres",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
+    "logoText": "OCK",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://ocko.tv/"
+  },
+  {
+    "id": "OckoGold.cz",
+    "name": "Ocko Gold",
+    "logo": "https://i.imgur.com/nrWNyLc.jpg",
+    "logoText": "OCK",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://ocko.tv/"
+  },
+  {
+    "id": "OIKTV.cz",
+    "name": "OIK TV",
+    "logo": "https://i.imgur.com/1mXxQ02.png",
+    "logoText": "OIK",
+    "url": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.oiktv.cz/"
+  },
+  {
+    "id": "PlzenTV.cz",
+    "name": "Plzen TV",
+    "logo": "https://i.imgur.com/TxLKSqL.png",
+    "logoText": "PLZ",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://tv.plzen.cz/"
+  },
+  {
+    "id": "PolarTV.cz",
+    "name": "Polar TV",
+    "logo": "https://i.imgur.com/pTJHIX1.png",
+    "logoText": "POL",
+    "url": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://polar.cz/"
+  },
+  {
+    "id": "Polar2.cz",
+    "name": "Polar2",
+    "logo": "https://i.imgur.com/hCPiMYZ.png",
+    "logoText": "POL",
+    "url": "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://polar.cz/polar2"
+  },
+  {
+    "id": "Prima.cz",
+    "name": "Prima",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png",
+    "logoText": "PRI",
+    "url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.iprima.cz/"
+  },
+  {
+    "id": "PrimaLove.cz",
+    "name": "Prima Love",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png",
+    "logoText": "PRI",
+    "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://love.iprima.cz/"
+  },
+  {
+    "id": "RetroMusicTV.cz",
+    "name": "Retro Music TV",
+    "logo": "https://i.imgur.com/pyOjdZs.png",
+    "logoText": "RET",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://retromusic.cz/"
+  },
+  {
+    "id": "RTMPlus.cz",
+    "name": "RTM+",
+    "logo": "https://i.imgur.com/RNdcP2J.png",
+    "logoText": "RTM",
+    "url": "https://www.rtmplus.cz/live/1-playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://www.rtmplus.cz/live/1-playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: http://www.rtmplus.cz/"
+  },
+  {
+    "id": "SlagerMuzika.cz",
+    "name": "Slager Muzika",
+    "logo": "https://i.imgur.com/hKdXwrW.png",
+    "logoText": "SLA",
+    "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://slagrtv.cz/"
+  },
+  {
+    "id": "SlagerOriginal.cz",
+    "name": "Slager Original",
+    "logo": "https://i.imgur.com/0YjeWcq.png",
+    "logoText": "SLA",
+    "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://slagrtv.cz/"
+  },
+  {
+    "id": "TVBrno1.cz",
+    "name": "TV Brno 1",
+    "logo": "https://i.imgur.com/8Xm3WSn.png",
+    "logoText": "TV ",
+    "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://tvbrno1.cz/"
+  },
+  {
+    "id": "UTV.cz",
+    "name": "UTV",
+    "logo": "https://i.imgur.com/ulfeIwM.png",
+    "logoText": "UTV",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://www.televizeutv.cz/"
+  },
+  {
+    "id": "VychodoceskaTV.cz",
+    "name": "Vychodoceska TV",
+    "logo": "https://i.imgur.com/4Wwptd3.png",
+    "logoText": "VYC",
+    "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A."
+  },
+  {
+    "id": "YachtingTV.cz",
+    "name": "Yachting TV",
+    "logo": "https://i.imgur.com/YxO60B1.png",
+    "logoText": "YAC",
+    "url": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Czech Republic. Language: N/A. Website: https://yachtingtv.tv/"
+  }
+]

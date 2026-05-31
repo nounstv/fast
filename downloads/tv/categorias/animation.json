@@ -1,0 +1,260 @@
+[
+  {
+    "id": "yjR0KcAL5erp0S",
+    "name": "ADN TV+",
+    "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "category": "Animation",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "ADN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
+    ]
+  },
+  {
+    "id": "peEcGaZySDZRVf",
+    "name": "Animation+",
+    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7UHEij0gHfh2GK",
+    "name": "Animax Asia India",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "category": "Animation",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "description": "Canal de TV de India. Idioma: eng, jpn.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hkDzNHa7Mm4MEd",
+    "name": "Anime Vision",
+    "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+    "category": "Animation",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+    ]
+  },
+  {
+    "id": "Zue327U2SxgoQE",
+    "name": "Anime Vision Classics",
+    "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+    "category": "Animation",
+    "country": "ES",
+    "countryName": "Spain",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Spain. Idioma: spa.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+    ]
+  },
+  {
+    "id": "6jwIdmT15n1Yze",
+    "name": "Anime x HIDIVE",
+    "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "u2iS7uczBAriSJ",
+    "name": "Aniplus Asia",
+    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "category": "Animation",
+    "country": "SG",
+    "countryName": "Singapore",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Singapore. Idioma: eng.",
+    "logoText": "ANI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "category": "Animation",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "ENE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    ]
+  },
+  {
+    "id": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "category": "Animation",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "ENE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ]
+  },
+  {
+    "id": "c4f5dB2f1HZXBV",
+    "name": "FilmRise Anime",
+    "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng, jap.",
+    "logoText": "FIL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8"
+    ]
+  },
+  {
+    "id": "ntF6dI5Mg2NTKt",
+    "name": "Geekdot",
+    "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+    "category": "Animation",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "GEE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
+    ]
+  },
+  {
+    "id": "BHktLaXb4NGD72",
+    "name": "Gong",
+    "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+    "category": "Animation",
+    "country": "FR",
+    "countryName": "France",
+    "languages": [
+      "fra"
+    ],
+    "description": "Canal de TV de France. Idioma: fra.",
+    "logoText": "GON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
+    ]
+  },
+  {
+    "id": "Jzx7zjDJMZVMTI",
+    "name": "KMBY-LD 27.5",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "KMB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "VsE7ydvbu6o7hE",
+    "name": "Naruto US",
+    "url": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "NAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1pTOFnPJCFs4Na",
+    "name": "Yu-Gi-Oh!",
+    "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+    "category": "Animation",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "YU-",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+      "https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8"
+    ]
+  }
+]

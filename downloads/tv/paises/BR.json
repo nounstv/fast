@@ -1,0 +1,5005 @@
+[
+  {
+    "id": "1001Noites.br",
+    "name": "1001 Noites",
+    "logo": "https://i.imgur.com/dWA9y2J.png",
+    "logoText": "100",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Shop",
+    "categories": [
+      "shop"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://1001noites.com.br/"
+  },
+  {
+    "id": "AdessoTV.br",
+    "name": "Adesso TV",
+    "logo": "https://i.imgur.com/KgetM8j.png",
+    "logoText": "ADE",
+    "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.adessotv.com.br/"
+  },
+  {
+    "id": "AgroBrasilTV.br",
+    "name": "AgroBrasil TV",
+    "logo": "https://i.imgur.com/aNkP7Zd.png",
+    "logoText": "AGR",
+    "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://agrobrasiltv.com.br/"
+  },
+  {
+    "id": "AlphaChannel.br",
+    "name": "Alpha Channel",
+    "logo": "https://i.imgur.com/c1QqslA.png",
+    "logoText": "ALP",
+    "url": "https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.alphachannel.tv.br/"
+  },
+  {
+    "id": "AmazonSat.br",
+    "name": "Amazon Sat",
+    "logo": "https://i.imgur.com/7rjCS5i.png",
+    "logoText": "AMA",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "AWTV.br",
+    "name": "AWTV",
+    "logo": "https://i.imgur.com/2tdMyef.png",
+    "logoText": "AWT",
+    "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Classic",
+    "categories": [
+      "classic",
+      "series"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://awtv.com.br/"
+  },
+  {
+    "id": "BDCTV.br",
+    "name": "BDC TV",
+    "logo": "https://i.imgur.com/6ckHV6k.jpeg",
+    "logoText": "BDC",
+    "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://bdcnoticias.com.br/"
+  },
+  {
+    "id": "BMCNews.br",
+    "name": "BM&C News",
+    "logo": "https://i.imgur.com/pOUY2Uz.png",
+    "logoText": "BM&",
+    "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://bmcnews.com.br/"
+  },
+  {
+    "id": "BoasNovas.br",
+    "name": "Boas Novas",
+    "logo": "https://i.imgur.com/ZqhizdP.png",
+    "logoText": "BOA",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://boasnovas.tv/"
+  },
+  {
+    "id": "CaboFrioTV.br",
+    "name": "Cabo Frio TV",
+    "logo": "https://i.imgur.com/mPi6Wp3.png",
+    "logoText": "CAB",
+    "url": "https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.redecanal10.com.br/"
+  },
+  {
+    "id": "Canal25Jundiai.br",
+    "name": "Canal 25 Jundiai",
+    "logo": "https://i.imgur.com/7igGMwH.png",
+    "logoText": "CAN",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "Canal38.br",
+    "name": "Canal 38",
+    "logo": "https://i.imgur.com/co7TCWC.png",
+    "logoText": "CAN",
+    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.canal38.com.br/"
+  },
+  {
+    "id": "CanaldoCriador.br",
+    "name": "Canal do Criador",
+    "logo": "https://i.imgur.com/k29So6X.png",
+    "logoText": "CAN",
+    "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.canaldocriador.com.br/"
+  },
+  {
+    "id": "CanaldoInter.br",
+    "name": "Canal do Inter",
+    "logo": "https://i.imgur.com/TQFWEIS.png",
+    "logoText": "CAN",
+    "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://internacional.com.br/"
+  },
+  {
+    "id": "CanalEducacao.br",
+    "name": "Canal Educacao",
+    "logo": "https://i.imgur.com/OOB7nrS.png",
+    "logoText": "CAN",
+    "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.gov.br/mec/pt-br/canal-educacao"
+  },
+  {
+    "id": "CanalGov.br",
+    "name": "Canal Gov",
+    "logo": "https://i.imgur.com/rHPY0Yv.png",
+    "logoText": "CAN",
+    "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://agenciagov.ebc.com.br/"
+  },
+  {
+    "id": "CanalLibras.br",
+    "name": "Canal Libras",
+    "logo": "https://i.imgur.com/LnWWKzP.png",
+    "logoText": "CAN",
+    "url": "https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.gov.br/mec/pt-br/canal-libras/"
+  },
+  {
+    "id": "CanalRicos.br",
+    "name": "Canal Ricos",
+    "logo": "https://i.imgur.com/hs2YVJ3.png",
+    "logoText": "CAN",
+    "url": "https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.canalricos.com.br/"
+  },
+  {
+    "id": "CanalRural.br",
+    "name": "Canal Rural",
+    "logo": "https://i.imgur.com/w9R9IIX.png",
+    "logoText": "CAN",
+    "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Outdoor",
+    "categories": [
+      "outdoor"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://canalrural.uol.com.br/"
+  },
+  {
+    "id": "CanalSaude.br",
+    "name": "Canal Saude",
+    "logo": "https://i.imgur.com/ht4tUOc.png",
+    "logoText": "CAN",
+    "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education",
+      "lifestyle"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.canalsaude.fiocruz.br/"
+  },
+  {
+    "id": "CatveFM.br",
+    "name": "Catve FM",
+    "logo": "https://i.imgur.com/w89yw36.png",
+    "logoText": "CAT",
+    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "CatveMasterTV.br",
+    "name": "Catve Master TV",
+    "logo": "https://i.imgur.com/4m7Iazm.png",
+    "logoText": "CAT",
+    "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "Catve2.br",
+    "name": "Catve2",
+    "logo": "https://i.imgur.com/qiVfsfB.png",
+    "logoText": "CAT",
+    "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "CazeTV.br",
+    "name": "CazeTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
+    "logoText": "CAZ",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.livemode.com/cazetv"
+  },
+  {
+    "id": "ChromaTV.br",
+    "name": "Chroma TV",
+    "logo": "https://i.imgur.com/SnaIMgj.png",
+    "logoText": "CHR",
+    "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://chromatv.com.br/"
+  },
+  {
+    "id": "CINDIETV.br",
+    "name": "CINDIE TV",
+    "logo": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
+    "logoText": "CIN",
+    "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.cindie.com/"
+  },
+  {
+    "id": "ClassiqueTV.br",
+    "name": "Classique TV",
+    "logo": "https://i.imgur.com/rHxcraT.png",
+    "logoText": "CLA",
+    "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "COMBrasil.br",
+    "name": "COM Brasil",
+    "logo": "https://i.imgur.com/GrjGwKM.png",
+    "logoText": "COM",
+    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "Combate.br",
+    "name": "Combate",
+    "logo": "https://i.imgur.com/ZPYK5jr.png",
+    "logoText": "COM",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://combate.globo.com/"
+  },
+  {
+    "id": "ConectaMaisTV.br",
+    "name": "Conecta Mais TV",
+    "logo": "https://i.imgur.com/qHwTWlz.png",
+    "logoText": "CON",
+    "url": "http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "ConecTVBrasil.br",
+    "name": "ConecTV Brasil",
+    "logo": "https://i.imgur.com/XN6jjMR.png",
+    "logoText": "CON",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.conectvbrasil.site/"
+  },
+  {
+    "id": "ConexaoTV.br",
+    "name": "Conexao TV",
+    "logo": "https://i.imgur.com/CJ9SPsZ.png",
+    "logoText": "CON",
+    "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "CulturaPara.br",
+    "name": "Cultura Para",
+    "logo": "https://i.imgur.com/5jPEI5c.png",
+    "logoText": "CUL",
+    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "CWBTV.br",
+    "name": "CWB TV",
+    "logo": "https://i.imgur.com/S0ISpmU.png",
+    "logoText": "CWB",
+    "url": "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Family",
+    "categories": [
+      "family",
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.cwbtv.net/"
+  },
+  {
+    "id": "DemaisTV.br",
+    "name": "Demais TV",
+    "logo": "https://i.imgur.com/Md3xibE.png",
+    "logoText": "DEM",
+    "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.demaistv.com.br/"
+  },
+  {
+    "id": "DespertarTV.br",
+    "name": "Despertar TV",
+    "logo": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
+    "logoText": "DES",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://despertartv.com.br/"
+  },
+  {
+    "id": "ElementalChannel.br",
+    "name": "Elemental Channel",
+    "logo": "https://i.imgur.com/8upyApg.png",
+    "logoText": "ELE",
+    "url": "https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.elementalchannel.com.br/"
+  },
+  {
+    "id": "ElyTV.br",
+    "name": "ElyTV",
+    "logo": "https://i.imgur.com/1eHNe91.png",
+    "logoText": "ELY",
+    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.elementalchannel.com.br/"
+  },
+  {
+    "id": "EUTV.br",
+    "name": "EUTV",
+    "logo": "https://i.imgur.com/8PxpamC.png",
+    "logoText": "EUT",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://eutv.com.br/"
+  },
+  {
+    "id": "FalaLitoral.br",
+    "name": "Fala Litoral",
+    "logo": "https://i.imgur.com/NF6PL8O.png",
+    "logoText": "FAL",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://portalfalalitoral.com.br/"
+  },
+  {
+    "id": "FonteTV.br",
+    "name": "Fonte TV",
+    "logo": "https://i.imgur.com/7q2BmNc.png",
+    "logoText": "FON",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://fontetv.redefonte.com/"
+  },
+  {
+    "id": "ForaTedioTV.br",
+    "name": "Fora Tedio TV",
+    "logo": "https://i.imgur.com/R9ul4T1.png",
+    "logoText": "FOR",
+    "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://foratedio.com/"
+  },
+  {
+    "id": "geFast.br",
+    "name": "ge Fast",
+    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
+    "logoText": "GE ",
+    "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml"
+  },
+  {
+    "id": "Geekdot.br",
+    "name": "Geekdot",
+    "logo": "https://i.imgur.com/jML1u4O.png",
+    "logoText": "GEE",
+    "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://geekdot.live/"
+  },
+  {
+    "id": "GhostTV.br",
+    "name": "Ghost TV",
+    "logo": "https://i.imgur.com/ZVO8GVI.png",
+    "logoText": "GHO",
+    "url": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "Gloob.br",
+    "name": "Gloob",
+    "logo": "https://i.imgur.com/N1BUULh.png",
+    "logoText": "GLO",
+    "url": "http://45.235.0.78/Gloob/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://45.235.0.78/Gloob/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://79.127.243.211:14436/_.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://mundogloob.globo.com/"
+  },
+  {
+    "id": "GloobWeb.br",
+    "name": "Gloob Web",
+    "logo": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png",
+    "logoText": "GLO",
+    "url": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://discobak.github.io/gweb/"
+  },
+  {
+    "id": "GospelCartoon.br",
+    "name": "Gospel Cartoon",
+    "logo": "https://i.imgur.com/yxjPno5.png",
+    "logoText": "GOS",
+    "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "GospelMovieTV.br",
+    "name": "Gospel Movie TV",
+    "logo": "https://i.imgur.com/cQN3nWt.png",
+    "logoText": "GOS",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://ipgotv.net.br/tv/gmovies/"
+  },
+  {
+    "id": "IMPDTVWorldwide.br",
+    "name": "IMPD TV Worldwide",
+    "logo": "https://i.imgur.com/9dW3AUQ.png",
+    "logoText": "IMP",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://impd.org.br/?tv="
+  },
+  {
+    "id": "ISTV.br",
+    "name": "ISTV",
+    "logo": "https://i.imgur.com/RUKVrOH.png",
+    "logoText": "IST",
+    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.istv.com.br/"
+  },
+  {
+    "id": "JovemPanNews.br",
+    "name": "Jovem Pan News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
+    "logoText": "JOV",
+    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://jovempan.com.br/"
+  },
+  {
+    "id": "KpopTVPlay.br",
+    "name": "KpopTV Play",
+    "logo": "https://i.imgur.com/Tf0vweF.png",
+    "logoText": "KPO",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://kpoptv.live/"
+  },
+  {
+    "id": "Loading.br",
+    "name": "Loading",
+    "logo": "https://i.imgur.com/R0aflu1.png",
+    "logoText": "LOA",
+    "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "MKKWebTV.br",
+    "name": "MKK Web TV",
+    "logo": "https://i.imgur.com/A8Yhtid.png",
+    "logoText": "MKK",
+    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://mkkwebtv.com.br/"
+  },
+  {
+    "id": "MyTimeMovieNetwork.br",
+    "name": "MyTime Movie Network",
+    "logo": "https://i.imgur.com/aiGQtzI.png",
+    "logoText": "MYT",
+    "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://mytimemovienetwork.com/"
+  },
+  {
+    "id": "NickOnline.br",
+    "name": "NickOnline",
+    "logo": "https://x1co.com.br:8443/logo.png",
+    "logoText": "NIC",
+    "url": "https://x1co.com.br/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://x1co.com.br/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://x1co.com.br"
+  },
+  {
+    "id": "NickOnlineMusic.br",
+    "name": "NickOnline Music",
+    "logo": "https://x1co.com.br/musiclogo.png",
+    "logoText": "NIC",
+    "url": "https://two.x1co.com.br/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://two.x1co.com.br/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://two.x1co.com.br"
+  },
+  {
+    "id": "NickOnlineSpongebob.br",
+    "name": "NickOnline Spongebob",
+    "logo": "https://x1co.com.br/logobob.png",
+    "logoText": "NIC",
+    "url": "https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://spongebobnew.x1co.com.br/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://x1co.com.br:2083"
+  },
+  {
+    "id": "NickToonsBrasil.br",
+    "name": "NickToons Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
+    "logoText": "NIC",
+    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.ntoonsbrasil.com.br"
+  },
+  {
+    "id": "NickWeb.br",
+    "name": "NickWeb",
+    "logo": "https://i.ibb.co/Qvxbvk9B/20260422-174151.png",
+    "logoText": "NIC",
+    "url": "https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Animation",
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://live-nickweb.github.io/ao-vivo"
+  },
+  {
+    "id": "NovaEraTV.br",
+    "name": "Nova Era TV",
+    "logo": "https://i.imgur.com/IK3F9Uq.png",
+    "logoText": "NOV",
+    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://novaeratv.net/"
+  },
+  {
+    "id": "NovoTempo.br",
+    "name": "Novo Tempo",
+    "logo": "",
+    "logoText": "NOV",
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "NuevoTiempo.br",
+    "name": "Nuevo Tiempo",
+    "logo": "",
+    "logoText": "NUE",
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.nuevotiempo.org/tv/"
+  },
+  {
+    "id": "PlayTV.br",
+    "name": "Play TV",
+    "logo": "https://i.imgur.com/Ikrj3lk.png",
+    "logoText": "PLA",
+    "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://playtv.com.br/"
+  },
+  {
+    "id": "PlenaTV.br",
+    "name": "Plena TV",
+    "logo": "https://i.imgur.com/lH4RT7b.png",
+    "logoText": "PLE",
+    "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.folha1.com.br/plena_tv"
+  },
+  {
+    "id": "PremiereFC1.br",
+    "name": "Premiere FC 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC2.br",
+    "name": "Premiere FC 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC3.br",
+    "name": "Premiere FC 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC4.br",
+    "name": "Premiere FC 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC5.br",
+    "name": "Premiere FC 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC6.br",
+    "name": "Premiere FC 6",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC7.br",
+    "name": "Premiere FC 7",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PremiereFC8.br",
+    "name": "Premiere FC 8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+    "logoText": "PRE",
+    "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://premierefc.globo.com/"
+  },
+  {
+    "id": "PrimerTV.br",
+    "name": "Primer TV",
+    "logo": "https://i.imgur.com/PMptSP3.png",
+    "logoText": "PRI",
+    "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://primertv.com.br/"
+  },
+  {
+    "id": "RBATV.br",
+    "name": "RBATV",
+    "logo": "https://i.imgur.com/ZWFxlU1.png",
+    "logoText": "RBA",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://rbatv.dol.com.br/"
+  },
+  {
+    "id": "Record.br",
+    "name": "Record",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "logoText": "REC",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://rederecord.r7.com/"
+  },
+  {
+    "id": "RecordNews.br",
+    "name": "Record News",
+    "logo": "https://i.imgur.com/HZDRG0K.png",
+    "logoText": "REC",
+    "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://noticias.r7.com/record-news/"
+  },
+  {
+    "id": "RecordRS.br",
+    "name": "Record RS",
+    "logo": "https://i.imgur.com/JLQWoNc.png",
+    "logoText": "REC",
+    "url": "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.recordtvrs.com.br/"
+  },
+  {
+    "id": "RecordTVBelem.br",
+    "name": "RecordTV Belem",
+    "logo": "https://i.imgur.com/gEEiN10.png",
+    "logoText": "REC",
+    "url": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://recordtv.r7.com/"
+  },
+  {
+    "id": "RecordTVBrasilia.br",
+    "name": "RecordTV Brasilia",
+    "logo": "https://i.imgur.com/PZMas8Y.png",
+    "logoText": "REC",
+    "url": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://noticias.r7.com/brasilia"
+  },
+  {
+    "id": "RecordTVGoias.br",
+    "name": "RecordTV Goias",
+    "logo": "https://i.imgur.com/Fdoax1M.png",
+    "logoText": "REC",
+    "url": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://recordtvgoias.com.br/"
+  },
+  {
+    "id": "RecordTVInteriorSP.br",
+    "name": "RecordTV Interior SP",
+    "logo": "https://i.imgur.com/VcHy0fu.png",
+    "logoText": "REC",
+    "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://recordtv.r7.com/recordtv-interior-sp"
+  },
+  {
+    "id": "RecordTVItapoan.br",
+    "name": "RecordTV Itapoan",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/500px-Logotipo_da_RecordTV_Itapoan.png",
+    "logoText": "REC",
+    "url": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://rederecord.r7.com/"
+  },
+  {
+    "id": "RecordTVRio.br",
+    "name": "RecordTV Rio",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/500px-Logotipo_da_RecordTV_Rio.png",
+    "logoText": "REC",
+    "url": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://recordtvrio.com.br/"
+  },
+  {
+    "id": "RecordTVSaoPaulo.br",
+    "name": "RecordTV Sao Paulo",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png",
+    "logoText": "REC",
+    "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://recordtv.r7.com/"
+  },
+  {
+    "id": "RedeCNTSalvador.br",
+    "name": "Rede CNT Salvador",
+    "logo": "https://i.imgur.com/jcasAmw.png",
+    "logoText": "RED",
+    "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0",
+    "streams": [
+      {
+        "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.cnt.com.br/"
+  },
+  {
+    "id": "RedeGlobo.br",
+    "name": "Rede Globo",
+    "logo": "https://i.imgur.com/O02TF2r.png",
+    "logoText": "RED",
+    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://redeglobo.globo.com/"
+  },
+  {
+    "id": "RedeGospel.br",
+    "name": "Rede Gospel",
+    "logo": "https://i.imgur.com/mttSwgO.png",
+    "logoText": "RED",
+    "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.redegospel.tv.br/"
+  },
+  {
+    "id": "RedeMinas.br",
+    "name": "Rede Minas",
+    "logo": "https://i.imgur.com/MtQWAHv.png",
+    "logoText": "RED",
+    "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://redeminas.tv/"
+  },
+  {
+    "id": "RedeNGT.br",
+    "name": "Rede NGT",
+    "logo": "https://i.imgur.com/ZFN1R4B.png",
+    "logoText": "RED",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://redengt.com.br/"
+  },
+  {
+    "id": "RedeRC.br",
+    "name": "Rede RC",
+    "logo": "https://i.imgur.com/y9dqo3f.png",
+    "logoText": "RED",
+    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "RedeSPTV.br",
+    "name": "Rede SPTV",
+    "logo": "https://i.imgur.com/kh3LGAP.png",
+    "logoText": "RED",
+    "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.redesptv.com.br/"
+  },
+  {
+    "id": "RedeTV.br",
+    "name": "Rede TV!",
+    "logo": "https://i.imgur.com/ZJgD38F.png",
+    "logoText": "RED",
+    "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "RedeTVES.br",
+    "name": "Rede TV! ES",
+    "logo": "https://i.imgur.com/k7vO9Bk.png",
+    "logoText": "RED",
+    "url": "https://streaming.cloudecast.com/hls/redetves/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.cloudecast.com/hls/redetves/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "RedeTVMais.br",
+    "name": "Rede TV! Mais",
+    "logo": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",
+    "logoText": "RED",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "RedeTVParana.br",
+    "name": "RedeTV! Parana",
+    "logo": "https://i.imgur.com/D8R0Af4.png",
+    "logoText": "RED",
+    "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.redetvparana.com.br/"
+  },
+  {
+    "id": "RITTV.br",
+    "name": "RIT TV",
+    "logo": "https://i.imgur.com/Unjs1wi.png",
+    "logoText": "RIT",
+    "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.rittv.com.br/"
+  },
+  {
+    "id": "SantaCeciliaTV.br",
+    "name": "Santa Cecilia TV",
+    "logo": "https://i.imgur.com/KxYsq1d.png",
+    "logoText": "SAN",
+    "url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "SBTCuiaba.br",
+    "name": "SBT Cuiaba",
+    "logo": "https://i.imgur.com/EZJWQ3i.png",
+    "logoText": "SBT",
+    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.sbtmt.com.br/"
+  },
+  {
+    "id": "SBTInterior.br",
+    "name": "SBT Interior",
+    "logo": "https://i.imgur.com/IkZfa4j.png",
+    "logoText": "SBT",
+    "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://sbtinterior.com/"
+  },
+  {
+    "id": "SBTNovaMutum.br",
+    "name": "SBT Nova Mutum",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
+    "logoText": "SBT",
+    "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "SBTRondonopolis.br",
+    "name": "SBT Rondonopolis",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png",
+    "logoText": "SBT",
+    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sbtmt.com.br/"
+  },
+  {
+    "id": "SBTSinop.br",
+    "name": "SBT Sinop",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png",
+    "logoText": "SBT",
+    "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sbtmt.com.br/"
+  },
+  {
+    "id": "SertaoTV.br",
+    "name": "Sertao TV",
+    "logo": "https://i.imgur.com/b5xOCsC.png",
+    "logoText": "SER",
+    "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sertaotvceara.com.br/#/"
+  },
+  {
+    "id": "SESCTV.br",
+    "name": "SESC TV",
+    "logo": "https://i.imgur.com/Mu8O6CV.png",
+    "logoText": "SES",
+    "url": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.sesctv.org.br/"
+  },
+  {
+    "id": "SICTV.br",
+    "name": "SIC TV",
+    "logo": "https://i.imgur.com/mHxQyB2.png",
+    "logoText": "SIC",
+    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "SporTV.br",
+    "name": "SporTV",
+    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
+    "logoText": "SPO",
+    "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sportv.globo.com/"
+  },
+  {
+    "id": "SporTV2.br",
+    "name": "SporTV 2",
+    "logo": "https://i.imgur.com/pBiUnb2.png",
+    "logoText": "SPO",
+    "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sportv.globo.com/"
+  },
+  {
+    "id": "SporTV2Alternativo.br",
+    "name": "SporTV 2 Alternativo",
+    "logo": "https://i.imgur.com/aoMlRgP.png",
+    "logoText": "SPO",
+    "url": "https://stm.sinalmycn.com/19025/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/19025/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sportv.globo.com/"
+  },
+  {
+    "id": "SporTV3.br",
+    "name": "SporTV 3",
+    "logo": "https://i.imgur.com/mWOR8pi.png",
+    "logoText": "SPO",
+    "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sportv.globo.com/"
+  },
+  {
+    "id": "SporTVAlternativo.br",
+    "name": "SporTV Alternativo",
+    "logo": "https://i.imgur.com/8M5dLEb.png",
+    "logoText": "SPO",
+    "url": "https://stm.sinalmycn.com/19024/video.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stm.sinalmycn.com/19024/video.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://sportv.globo.com/"
+  },
+  {
+    "id": "STZTV.br",
+    "name": "STZ TV",
+    "logo": "https://i.imgur.com/SeF2I7q.png",
+    "logoText": "STZ",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news",
+      "culture"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://stztv.org.br/"
+  },
+  {
+    "id": "TCM10HD.br",
+    "name": "TCM 10 HD",
+    "logo": "https://i.imgur.com/aMuMVvB.png",
+    "logoText": "TCM",
+    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TikTokRadioBrasil.br",
+    "name": "TikTok Radio Brasil",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+    "logoText": "TIK",
+    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://pluto.tv/live-tv/tiktok-radio-brasil"
+  },
+  {
+    "id": "TimesBrasil.br",
+    "name": "Times Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
+    "logoText": "TIM",
+    "url": "https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://timesbrasil.com.br/"
+  },
+  {
+    "id": "TVACritica.br",
+    "name": "TV A Critica",
+    "logo": "https://i.imgur.com/j51rBro.png",
+    "logoText": "TV ",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.acritica.com/"
+  },
+  {
+    "id": "TVAFolha.br",
+    "name": "TV A Folha",
+    "logo": "https://i.imgur.com/I7XGMhj.png",
+    "logoText": "TV ",
+    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.jornalafolha.com.br/"
+  },
+  {
+    "id": "TVAldeia.br",
+    "name": "TV Aldeia",
+    "logo": "https://i.imgur.com/rsfnv4Z.png",
+    "logoText": "TV ",
+    "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvaldeia.com/"
+  },
+  {
+    "id": "TVAliancaCatarinense.br",
+    "name": "TV Alianca Catarinense",
+    "logo": "https://i.imgur.com/eqmOhtP.png",
+    "logoText": "TV ",
+    "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvaliancasc.com.br/"
+  },
+  {
+    "id": "TVAlternativa.br",
+    "name": "TV Alternativa",
+    "logo": "https://i.imgur.com/wM9xXhc.png",
+    "logoText": "TV ",
+    "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVAparecida.br",
+    "name": "TV Aparecida",
+    "logo": "https://i.imgur.com/kxrja0X.png",
+    "logoText": "TV ",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.a12.com/tv"
+  },
+  {
+    "id": "TVArapuan.br",
+    "name": "TV Arapuan",
+    "logo": "https://i.imgur.com/3395A2h.png",
+    "logoText": "TV ",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvarapuan.com.br/"
+  },
+  {
+    "id": "TVAratu.br",
+    "name": "TV Aratu",
+    "logo": "https://i.imgur.com/LCETtuk.png",
+    "logoText": "TV ",
+    "url": "https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVAssembleiaCeara.br",
+    "name": "TV Assembleia Ceara",
+    "logo": "https://i.imgur.com/UPa1tjs.png",
+    "logoText": "TV ",
+    "url": "https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.al.ce.gov.br/"
+  },
+  {
+    "id": "TVBahia.br",
+    "name": "TV Bahia",
+    "logo": "https://i.imgur.com/sJOrvHg.png",
+    "logoText": "TV ",
+    "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.redebahia.com.br/empresas/tv/tv-bahia"
+  },
+  {
+    "id": "TVBirigui.br",
+    "name": "TV Birigui",
+    "logo": "https://i.imgur.com/z7VlNLR.png",
+    "logoText": "TV ",
+    "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVBrasil.br",
+    "name": "TV Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",
+    "logoText": "TV ",
+    "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvbrasil.ebc.com.br/"
+  },
+  {
+    "id": "TVBrasilOeste.br",
+    "name": "TV Brasil Oeste",
+    "logo": "https://i.imgur.com/noqGfuy.png",
+    "logoText": "TV ",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.tbomt.com.br/"
+  },
+  {
+    "id": "TVBRICSPortuguese.br",
+    "name": "TV BRICS Portuguese",
+    "logo": "https://i.imgur.com/vLpm8tN.png",
+    "logoText": "TV ",
+    "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVBrusque.br",
+    "name": "TV Brusque",
+    "logo": "https://i.imgur.com/J2EAZPS.png",
+    "logoText": "TV ",
+    "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvbrusque.com.br/"
+  },
+  {
+    "id": "TVCamara.br",
+    "name": "TV Camara",
+    "logo": "https://i.imgur.com/Sdou1Ab.png",
+    "logoText": "TV ",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.camara.leg.br/tv"
+  },
+  {
+    "id": "TVCamara2.br",
+    "name": "TV Camara 2",
+    "logo": "https://i.imgur.com/dHrUG1R.png",
+    "logoText": "TV ",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVCamaraSalvador.br",
+    "name": "TV Camara Salvador",
+    "logo": "https://i.imgur.com/VEXEzSx.png",
+    "logoText": "TV ",
+    "url": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.cms.ba.gov.br/tv-camara"
+  },
+  {
+    "id": "TVCancaoNova.br",
+    "name": "TV Cancao Nova",
+    "logo": "https://i.imgur.com/OaM9hkH.png",
+    "logoText": "TV ",
+    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVCidadedePetropolis.br",
+    "name": "TV Cidade de Petropolis",
+    "logo": "https://i.imgur.com/xUs8gHV.png",
+    "logoText": "TV ",
+    "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVCidadeOeste.br",
+    "name": "TV Cidade Oeste",
+    "logo": "https://i.imgur.com/EmYaxEh.png",
+    "logoText": "TV ",
+    "url": "https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvcidadeoeste.com.br/"
+  },
+  {
+    "id": "TVCidadeVerde.br",
+    "name": "TV Cidade Verde",
+    "logo": "https://i.imgur.com/SysgBqZ.png",
+    "logoText": "TV ",
+    "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://cidadeverde.com/"
+  },
+  {
+    "id": "TVCidadeVerdeCuiaba.br",
+    "name": "TV Cidade Verde Cuiaba",
+    "logo": "https://i.imgur.com/e67h04h.png",
+    "logoText": "TV ",
+    "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVClube.br",
+    "name": "TV Clube",
+    "logo": "https://i.imgur.com/CpXjcyE.png",
+    "logoText": "TV ",
+    "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvclubepe.op9.com.br/"
+  },
+  {
+    "id": "TVComunitaria.br",
+    "name": "TV Comunitaria",
+    "logo": "https://i.imgur.com/uxefHY3.png",
+    "logoText": "TV ",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvcomunitariadf.com/"
+  },
+  {
+    "id": "TVCultura.br",
+    "name": "TV Cultura",
+    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+    "logoText": "TV ",
+    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://cultura.uol.com.br/"
+  },
+  {
+    "id": "TVCuruca.br",
+    "name": "TV Curuca",
+    "logo": "https://i.imgur.com/JdCKNZ4.png",
+    "logoText": "TV ",
+    "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvcurucasp.com.br/"
+  },
+  {
+    "id": "TVdasArtes.br",
+    "name": "TV das Artes",
+    "logo": "https://i.imgur.com/fSWaiKt.png",
+    "logoText": "TV ",
+    "url": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvdasartes.com/"
+  },
+  {
+    "id": "TVDestak.br",
+    "name": "TV Destak",
+    "logo": "https://i.imgur.com/YoCVrav.png",
+    "logoText": "TV ",
+    "url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVDiarioMacapa.br",
+    "name": "TV Diario Macapa",
+    "logo": "https://i.imgur.com/yAW2Z5j.jpg",
+    "logoText": "TV ",
+    "url": "https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.diariodoamapa.com.br/cat/tv-diario/"
+  },
+  {
+    "id": "TVDifusoraLeste.br",
+    "name": "TV Difusora Leste",
+    "logo": "https://i.imgur.com/hEd25Cr.png",
+    "logoText": "TV ",
+    "url": "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://difusoraon.com/tv-difusora-leste/"
+  },
+  {
+    "id": "TVDigitalBirigui.br",
+    "name": "TV Digital Birigui",
+    "logo": "https://i.imgur.com/B5ZTMzY.png",
+    "logoText": "TV ",
+    "url": "http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvdigitalbirigui.com/"
+  },
+  {
+    "id": "TVdoPovo.br",
+    "name": "TV do Povo",
+    "logo": "https://i.imgur.com/58EQ5qX.png",
+    "logoText": "TV ",
+    "url": "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvdopovo.com/"
+  },
+  {
+    "id": "TVEmpire.br",
+    "name": "TV Empire",
+    "logo": "https://i.imgur.com/tT1NVfV.png",
+    "logoText": "TV ",
+    "url": "https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVEncontrodasAguas.br",
+    "name": "TV Encontro das Aguas",
+    "logo": "",
+    "logoText": "TV ",
+    "url": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tveradioencontrodasaguas.com.br/tv-encontro-das-aguas-ao-vivo/"
+  },
+  {
+    "id": "TVEvangelizar.br",
+    "name": "TV Evangelizar",
+    "logo": "https://i.imgur.com/IrYR7Kp.png",
+    "logoText": "TV ",
+    "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.padrereginaldomanzotti.org.br/rec/tv-evangelizar/"
+  },
+  {
+    "id": "TVFuturo.br",
+    "name": "TV Futuro",
+    "logo": "https://i.imgur.com/xonrNBf.png",
+    "logoText": "TV ",
+    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVGideoes.br",
+    "name": "TV Gideoes",
+    "logo": "https://i.imgur.com/dDomKND.png",
+    "logoText": "TV ",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.gideoes.com.br/tv/"
+  },
+  {
+    "id": "TVGraoPara.br",
+    "name": "TV Grao Para",
+    "logo": "https://i.imgur.com/1drg0E9.png",
+    "logoText": "TV ",
+    "url": "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvgraopara.com.br/"
+  },
+  {
+    "id": "TVGuara.br",
+    "name": "TV Guara",
+    "logo": "https://i.imgur.com/8PErNBT.png",
+    "logoText": "TV ",
+    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.redemassa.com.br/"
+  },
+  {
+    "id": "TVInterlagos.br",
+    "name": "TV Interlagos",
+    "logo": "https://i.imgur.com/iuQVDpq.jpg",
+    "logoText": "TV ",
+    "url": "https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVLiberdade.br",
+    "name": "TV Liberdade",
+    "logo": "https://i.imgur.com/W6bHHqE.png",
+    "logoText": "TV ",
+    "url": "https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVLifeAmerica.br",
+    "name": "TV Life America",
+    "logo": "https://i.imgur.com/HZI0ilU.png",
+    "logoText": "TV ",
+    "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvlifeamerica.com/"
+  },
+  {
+    "id": "TVMackenzie.br",
+    "name": "TV Mackenzie",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/960px-TV_Mackenzie_logo.svg.png",
+    "logoText": "TV ",
+    "url": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.mackenzie.br/tv"
+  },
+  {
+    "id": "TVMaisMarica.br",
+    "name": "TV Mais Marica",
+    "logo": "https://i.imgur.com/lgCRX7q.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvmaismarica.com.br/"
+  },
+  {
+    "id": "TVMarajoara.br",
+    "name": "TV Marajoara",
+    "logo": "https://i.imgur.com/9d9vBN7.png",
+    "logoText": "TV ",
+    "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.grupomarajoara.com.br/tv-marajoara/"
+  },
+  {
+    "id": "TVMAX.br",
+    "name": "TV MAX",
+    "logo": "https://i.imgur.com/2Pg0baJ.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMetropole.br",
+    "name": "TV Metropole",
+    "logo": "https://i.imgur.com/bJyjLpg.png",
+    "logoText": "TV ",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVModelo.br",
+    "name": "TV Modelo",
+    "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
+    "logoText": "TV ",
+    "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "entertainment",
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVNatal.br",
+    "name": "TV Natal",
+    "logo": "https://i.imgur.com/wqQmQml.png",
+    "logoText": "TV ",
+    "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "news",
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.tvnatal.com.br/"
+  },
+  {
+    "id": "TVPadreCicero.br",
+    "name": "TV Padre Cicero",
+    "logo": "https://i.imgur.com/Y7b29VG.png",
+    "logoText": "TV ",
+    "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvpadrecicero.com.br/"
+  },
+  {
+    "id": "TVPampa.br",
+    "name": "TV Pampa",
+    "logo": "https://i.imgur.com/Cnc1Mqo.png",
+    "logoText": "TV ",
+    "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvpampa.com.br/"
+  },
+  {
+    "id": "TVPantanalMS.br",
+    "name": "TV Pantanal MS",
+    "logo": "https://i.imgur.com/0FOmktl.png",
+    "logoText": "TV ",
+    "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVParaense.br",
+    "name": "TV Paraense",
+    "logo": "https://duckduckgo.com/i/e408ea02.png",
+    "logoText": "TV ",
+    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "family",
+      "entertainment",
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://portaltvparaense.com.br"
+  },
+  {
+    "id": "TVParanaTurismo.br",
+    "name": "TV Parana Turismo",
+    "logo": "https://i.imgur.com/I6pKoBd.png",
+    "logoText": "TV ",
+    "url": "http://200.189.113.201/hls/tve.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://200.189.113.201/hls/tve.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Travel",
+    "categories": [
+      "travel"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.paranaeducativa.pr.gov.br/modules/conteudo/conteudo.php?conteudo=19"
+  },
+  {
+    "id": "TVPassoFundo.br",
+    "name": "TV Passo Fundo",
+    "logo": "https://i.imgur.com/QFE6TiV.png",
+    "logoText": "TV ",
+    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvpassofundo.com.br/"
+  },
+  {
+    "id": "TVSandegi.br",
+    "name": "TV Sandegi",
+    "logo": "https://i.imgur.com/vJ6ZQSG.png",
+    "logoText": "TV ",
+    "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVSaoRaimundo.br",
+    "name": "TV Sao Raimundo",
+    "logo": "https://i.imgur.com/f34CQIG.png",
+    "logoText": "TV ",
+    "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVSeries.br",
+    "name": "TV Series",
+    "logo": "https://i.imgur.com/Ff5mj0o.png",
+    "logoText": "TV ",
+    "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVSimCachoeiro.br",
+    "name": "TV Sim Cachoeiro",
+    "logo": "https://i.imgur.com/t5oUK3C.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.simnoticias.com.br/ao-vivo-tv-sim-cachoeiro/"
+  },
+  {
+    "id": "TVSimColatina.br",
+    "name": "TV Sim Colatina",
+    "logo": "https://i.imgur.com/t5oUK3C.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.simnoticias.com.br/ao-vivo-tv-sim-colatina/"
+  },
+  {
+    "id": "TVSimSaoMateus.br",
+    "name": "TV Sim Sao Mateus",
+    "logo": "https://i.imgur.com/t5oUK3C.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.simnoticias.com.br/ao-vivo-tv-sim-sao-mateus/"
+  },
+  {
+    "id": "TVSolComunidade.br",
+    "name": "TV Sol Comunidade",
+    "logo": "https://i.imgur.com/5cGnb4r.png",
+    "logoText": "TV ",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVSulBahia.br",
+    "name": "TV Sul Bahia",
+    "logo": "https://i.imgur.com/qM6nMWm.png",
+    "logoText": "TV ",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVSuldeMinas.br",
+    "name": "TV Sul de Minas",
+    "logo": "https://i.imgur.com/hPh8cxK.png",
+    "logoText": "TV ",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvsuldeminas.com.br/"
+  },
+  {
+    "id": "TVTerceiroAnjo.br",
+    "name": "TV Terceiro Anjo",
+    "logo": "https://i.imgur.com/PExKWNv.png",
+    "logoText": "TV ",
+    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVThathi.br",
+    "name": "TV Thathi",
+    "logo": "https://i.imgur.com/w9yKTxE.png",
+    "logoText": "TV ",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVUFG.br",
+    "name": "TV UFG",
+    "logo": "https://i.imgur.com/Yp3dbJo.png",
+    "logoText": "TV ",
+    "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVUFOP.br",
+    "name": "TV UFOP",
+    "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+    "logoText": "TV ",
+    "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Public",
+    "categories": [
+      "public",
+      "education",
+      "culture"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tv.ufop.br/"
+  },
+  {
+    "id": "TVUniversal.br",
+    "name": "TV Universal",
+    "logo": "https://i.imgur.com/TIsk5zN.png",
+    "logoText": "TV ",
+    "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVVicosa.br",
+    "name": "TV Vicosa",
+    "logo": "https://i.imgur.com/TZF55f9.png",
+    "logoText": "TV ",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://fratevi.org.br/"
+  },
+  {
+    "id": "TVVilaReal.br",
+    "name": "TV Vila Real",
+    "logo": "https://i.imgur.com/Z1uWe7g.png",
+    "logoText": "TV ",
+    "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.gazetadigital.com.br/"
+  },
+  {
+    "id": "TVZoom.br",
+    "name": "TV Zoom",
+    "logo": "https://i.imgur.com/jCGrjf5.png",
+    "logoText": "TV ",
+    "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment",
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://tvzoom.com.br/tag/brasil/"
+  },
+  {
+    "id": "TVCRio.br",
+    "name": "TVC-Rio",
+    "logo": "https://i.imgur.com/WDiikWv.png",
+    "logoText": "TVC",
+    "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvcomunitaria.rio/"
+  },
+  {
+    "id": "TVCOMMaceio.br",
+    "name": "TVCOM Maceio",
+    "logo": "https://i.imgur.com/IE7IZzi.png",
+    "logoText": "TVC",
+    "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://tvcommaceio.tv.br/"
+  },
+  {
+    "id": "TVEBahia.br",
+    "name": "TVE Bahia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
+    "logoText": "TVE",
+    "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://www.tve.ba.gov.br/"
+  },
+  {
+    "id": "TVERS.br",
+    "name": "TVE RS",
+    "logo": "https://i.imgur.com/MQ6lJpS.png",
+    "logoText": "TVE",
+    "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture",
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tve.com.br/"
+  },
+  {
+    "id": "TVideoNews.br",
+    "name": "TVideoNews",
+    "logo": "https://i.imgur.com/vstHOYx.png",
+    "logoText": "TVI",
+    "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVitape.br",
+    "name": "TVitape",
+    "logo": "https://i.imgur.com/XeqcwKe.png",
+    "logoText": "TVI",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvitape.com.br/"
+  },
+  {
+    "id": "TVMaticComedy.br",
+    "name": "TVMatic Comedy",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/comedy.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/comedy.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Comedy",
+    "categories": [
+      "comedy"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMaticCrafts.br",
+    "name": "TVMatic Crafts",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/crafts.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/crafts.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMaticFacebook.br",
+    "name": "TVMatic Facebook",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/facebook.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/facebook.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMaticFight.br",
+    "name": "TVMatic Fight",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/fight.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/fight.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMaticFunny.br",
+    "name": "TVMatic Funny",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/funny.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/funny.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVMaticTikTok.br",
+    "name": "TVMatic TikTok",
+    "logo": "https://i.imgur.com/l5PBcKN.png",
+    "logoText": "TVM",
+    "url": "http://cdn.tvmatic.net/tiktok.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://cdn.tvmatic.net/tiktok.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "TVNBN.br",
+    "name": "TVNBN",
+    "logo": "https://i.imgur.com/zoHBxn1.png",
+    "logoText": "TVN",
+    "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.tvnbn.com.br/"
+  },
+  {
+    "id": "UMATV.br",
+    "name": "UMA TV",
+    "logo": "https://i.imgur.com/m0RVb79.png",
+    "logoText": "UMA",
+    "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://www.umatv.com.br/"
+  },
+  {
+    "id": "UnisulTV.br",
+    "name": "Unisul TV",
+    "logo": "https://i.imgur.com/N0TvAFz.png",
+    "logoText": "UNI",
+    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education",
+      "culture"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://unisultv.blogspot.com/"
+  },
+  {
+    "id": "UniTVPortoAlegre.br",
+    "name": "UniTV Porto Alegre",
+    "logo": "https://i.imgur.com/GmA5uuk.png",
+    "logoText": "UNI",
+    "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A."
+  },
+  {
+    "id": "VRTChannel.br",
+    "name": "VRT Channel",
+    "logo": "https://i.imgur.com/crszh3d.png",
+    "logoText": "VRT",
+    "url": "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: http://vrtchannel.tv.br/"
+  },
+  {
+    "id": "VV8TV.br",
+    "name": "VV8 TV",
+    "logo": "https://i.imgur.com/TxHWAeD.png",
+    "logoText": "VV8",
+    "url": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Brazil. Language: N/A. Website: https://vv8.tv.br/"
+  }
+]

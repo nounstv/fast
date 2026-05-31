@@ -1,0 +1,281 @@
+[
+  {
+    "id": "ExodusTV.si",
+    "name": "Exodus TV",
+    "logo": "https://i.imgur.com/WKr5ncQ.png",
+    "logoText": "EXO",
+    "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://www.exodus.si/"
+  },
+  {
+    "id": "FolxSlovenija.si",
+    "name": "Folx Slovenija",
+    "logo": "https://i.imgur.com/RK1IASU.png",
+    "logoText": "FOL",
+    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://folx.network/folx-slovenija-music-television/"
+  },
+  {
+    "id": "GTV.si",
+    "name": "GTV",
+    "logo": "https://i.imgur.com/LHChpid.png",
+    "logoText": "GTV",
+    "url": "http://91.220.221.60/gtv_hls/gtv_03.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://91.220.221.60/gtv_hls/gtv_03.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: http://www.gtv.si/"
+  },
+  {
+    "id": "History.si",
+    "name": "History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "logoText": "HIS",
+    "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://tv2go.t-2.net/tv/epg/1000048"
+  },
+  {
+    "id": "KanalA.si",
+    "name": "Kanal A",
+    "logo": "https://i.imgur.com/JHNpcqF.png",
+    "logoText": "KAN",
+    "url": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://pro-plus.si/"
+  },
+  {
+    "id": "TelevizijaUrslja.si",
+    "name": "Televizija Urslja",
+    "logo": "https://i.imgur.com/PZwdXlN.png",
+    "logoText": "TEL",
+    "url": "http://ott.sgn.net/hls/tvurslja.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ott.sgn.net/hls/tvurslja.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://www.urslja.tv/"
+  },
+  {
+    "id": "TrzicTV.si",
+    "name": "Trzic TV",
+    "logo": "https://i.imgur.com/VZiaoqz.png",
+    "logoText": "TRZ",
+    "url": "https://vpn.video2go.live:444/trzic/tv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vpn.video2go.live:444/trzic/tv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A."
+  },
+  {
+    "id": "TVSLO1.si",
+    "name": "TV SLO 1",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "logoText": "TV ",
+    "url": "http://23.88.66.93/SLO1/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO1/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://www.rtvslo.si/tv"
+  },
+  {
+    "id": "TVSLO2.si",
+    "name": "TV SLO 2",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "logoText": "TV ",
+    "url": "http://23.88.66.93/SLO2/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO2/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://www.rtvslo.si/tv"
+  },
+  {
+    "id": "TVSLO3.si",
+    "name": "TV SLO 3",
+    "logo": "https://i.imgur.com/yPb2FKg.png",
+    "logoText": "TV ",
+    "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://www.rtvslo.si/tv"
+  },
+  {
+    "id": "TVVeseljakGolicaHD.si",
+    "name": "TV Veseljak Golica HD",
+    "logo": "https://i.imgur.com/49VrbSW.png",
+    "logoText": "TV ",
+    "url": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "SI",
+    "countryName": "Slovenia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Slovenia. Language: N/A. Website: https://veseljak.svet24.si/"
+  }
+]

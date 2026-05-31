@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pHriSuinPSVWI4",
+    "name": "Shalom TV",
+    "url": "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8",
+    "category": "Religious",
+    "country": "SR",
+    "countryName": "Suriname",
+    "languages": [
+      "nld"
+    ],
+    "description": "Canal de TV de Suriname. Idioma: nld.",
+    "logoText": "SHA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SQGH8tX9KocSpb",
+    "name": "Trishul Broadcasting Network",
+    "url": "https://live.suricloud.com/hls/tbntv/index.m3u8",
+    "category": "Culture",
+    "country": "SR",
+    "countryName": "Suriname",
+    "languages": [
+      "eng",
+      "hin",
+      "nld"
+    ],
+    "description": "Canal de TV de Suriname. Idioma: eng, hin, nld.",
+    "logoText": "TRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.suricloud.com/hls/tbntv/index.m3u8"
+    ]
+  }
+]

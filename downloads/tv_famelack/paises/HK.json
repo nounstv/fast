@@ -1,0 +1,39 @@
+[
+  {
+    "id": "F2ze7vbKV6XjQT",
+    "name": "KIX",
+    "url": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8",
+    "category": "Entertainment",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "languages": [
+      "eng",
+      "ind",
+      "msa",
+      "zho"
+    ],
+    "description": "Canal de TV de Hong Kong. Idioma: eng, ind, msa, zho.",
+    "logoText": "KIX",
+    "streamCount": 1,
+    "allStreams": [
+      "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8"
+    ]
+  },
+  {
+    "id": "cq6tthzEoEuekR",
+    "name": "Pet Club TV",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "languages": [
+      "yue"
+    ],
+    "description": "Canal de TV de Hong Kong. Idioma: yue.",
+    "logoText": "PET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+    ]
+  }
+]

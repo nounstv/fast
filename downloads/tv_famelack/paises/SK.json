@@ -1,0 +1,328 @@
+[
+  {
+    "id": "Hgr2Yg9Zm1Cgi3",
+    "name": "ducktv",
+    "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+    "category": "Kids",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: eng.",
+    "logoText": "DUC",
+    "streamCount": 3,
+    "allStreams": [
+      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+      "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
+    ]
+  },
+  {
+    "id": "NuK9jsc16AOLPv",
+    "name": "LifeTv",
+    "url": "https://lifetv.mpks.sk/s.m3u8",
+    "category": "Religious",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "LIF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lifetv.mpks.sk/s.m3u8"
+    ]
+  },
+  {
+    "id": "av1TmyA06OQpHy",
+    "name": "MTR",
+    "url": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "MTR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8"
+    ]
+  },
+  {
+    "id": "s95t8oupUnsMzq",
+    "name": "NZTV",
+    "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "NZT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wLfWojGhPQzL73",
+    "name": "Regio TV",
+    "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "hun"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: hun.",
+    "logoText": "REG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "xY2H7QjZ7lrY45",
+    "name": "Senzi",
+    "url": "https://lb.streaming.sk/senzi/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "SEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lb.streaming.sk/senzi/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LO7rHSgznxpZgY",
+    "name": "Televizia Mocenok",
+    "url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NePDHatqqYOqTp",
+    "name": "TV Central",
+    "url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 2,
+    "allStreams": [
+      "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
+      "https://dash4.antik.sk/live/test_central/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ulsMU1MaHTBaTP",
+    "name": "TV DK",
+    "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "IGlZvVTDq5rH62",
+    "name": "TV LocAll",
+    "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash3.antik.sk/live/test_locall/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "M3lLbymxdIiXVf",
+    "name": "TV Mistral",
+    "url": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qN8X967yibchzg",
+    "name": "TV Nitricka",
+    "url": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "KDBDQ4u8C3aqtH",
+    "name": "TV NRSR",
+    "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+    "category": "Legislative",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WVRilFjwdG21N5",
+    "name": "TV Ruzinov",
+    "url": "https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "b5XSCQKaTuYvtJ",
+    "name": "TV Vita",
+    "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+    "category": "Culture",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash3.antik.sk/live/test_vita/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "eX6VWtWd3zsQ1v",
+    "name": "TV8",
+    "url": "https://dash3.antik.sk/live/test_osem/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV8",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash3.antik.sk/live/test_osem/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "B5WV8O5RRK6OVb",
+    "name": "TV9",
+    "url": "https://dash4.antik.sk/live/test_tv9/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TV9",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash4.antik.sk/live/test_tv9/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "lY0NSe1C5uyuBW",
+    "name": "TVT",
+    "url": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+    "category": "Geral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "TVT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5vF3N7IdinbhWc",
+    "name": "Zapadoslovenska TV",
+    "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+    "category": "General",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "languages": [
+      "slk"
+    ],
+    "description": "Canal de TV de Slovakia. Idioma: slk.",
+    "logoText": "ZAP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8"
+    ]
+  }
+]

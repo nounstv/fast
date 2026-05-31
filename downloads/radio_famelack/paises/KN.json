@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d1sA4zl3OiZL8Z",
+    "name": "VON Radio",
+    "url": "https://ais-sa1.streamon.fm/7008_24k.aac",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=streamon.fm",
+    "category": "Talk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "state": "",
+    "tags": "talk",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "CBYUD3kyuYE2QD",
+    "name": "ZIZ Radio",
+    "url": "https://media.slactech.com:8014/stream",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=slactech.com",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  }
+]

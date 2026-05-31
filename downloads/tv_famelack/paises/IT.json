@@ -1,0 +1,2638 @@
+[
+  {
+    "id": "yngiaKgtaE21WQ",
+    "name": "7 RadioVisione",
+    "url": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "7 R",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pro30kPCL5sW43",
+    "name": "7 YOU & ME",
+    "url": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "7 Y",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "y8m70SURUPmxze",
+    "name": "12 TV Parma",
+    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "12 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XwatyYfDCBPOZF",
+    "name": "51 Radio TV",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "51 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "UnocQxyrv9YNqn",
+    "name": "70-80 TV",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "70-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9A1htfCEwiLjFs",
+    "name": "111 TV",
+    "url": "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, ita.",
+    "logoText": "111",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QAWNpXBSxe4wt2",
+    "name": "A2i TV",
+    "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, fra.",
+    "logoText": "A2I",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "AxkHU8DJYXqb2o",
+    "name": "ACI Sport TV",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "category": "Sports",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ACI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
+    ]
+  },
+  {
+    "id": "1nAsZx7oCuohp2",
+    "name": "AltoAdige TV",
+    "url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ALT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "2d4cOi3xUrRR5k",
+    "name": "Antenna 2 TV",
+    "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ANT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qVg6FeIeH4mzo2",
+    "name": "Aurora Arte",
+    "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "category": "Culture",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "AUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Q5wo3yTwHN0sFx",
+    "name": "Azzurra TV",
+    "url": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "AZZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "iLdAAV2yITxzBn",
+    "name": "BBC Drama Italy",
+    "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "BBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "opQlGPPRIgPreO",
+    "name": "BBC Top Gear Italy",
+    "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "BBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "aDSSb0MXYf6HZV",
+    "name": "BeJoy.kids",
+    "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "BEJ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oiQBfbefcaDjm2",
+    "name": "Bom Channel",
+    "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "BOM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "enn4H4qkUlzoNX",
+    "name": "CafeTV24",
+    "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YuBy0QEyEVrO0O",
+    "name": "Calabria TV",
+    "url": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "JiP5cLnzC72htv",
+    "name": "Canale 2 Altamura",
+    "url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6vkQlwc2e5p2Bl",
+    "name": "Canale 7",
+    "url": "https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+      "https://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TFKl67cgddE1qo",
+    "name": "Canale 8",
+    "url": "https://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+      "https://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9wDV0zbgWfmg3Y",
+    "name": "Canale 21 Extra",
+    "url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "YhFooZs42NThoz",
+    "name": "CarinaTV",
+    "url": "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vrlS9LYggqZr3W",
+    "name": "Class CNBC",
+    "url": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8",
+    "category": "Business",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "CLA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "zY8UN9MRRHxEYy",
+    "name": "Company TV",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "COM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+    ]
+  },
+  {
+    "id": "xx78qyG0MBKpmg",
+    "name": "Deejay TV",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "DEE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sFQh4tuTHKqFEp",
+    "name": "DellaTV",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, jpn.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ynzuom28SEfDef",
+    "name": "Deluxe 139",
+    "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "DEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "6jBz2q9Am2AqOo",
+    "name": "DI.TV 80",
+    "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "DI.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
+    "category": "Series",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "DON",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "BrM3wf2aWU1ejo",
+    "name": "Elive TV Brescia",
+    "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ELI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mym6E40kAgg8uT",
+    "name": "Entella TV",
+    "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ENT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uMJ8iorUJpOhZt",
+    "name": "Esperia TV",
+    "url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ESP",
+    "streamCount": 2,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
+      "https://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9WSiayxnGFvm8r",
+    "name": "Etna Espresso Channel",
+    "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ETN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LHpKGFrgNWfJiH",
+    "name": "eTv Marche",
+    "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MwNJJHdEydjilP",
+    "name": "eTv Rete 7",
+    "url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ETV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4iU4p8YB4a2UQU",
+    "name": "Euro TV",
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "EUR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3PQ0eIc5ACKlQF",
+    "name": "FM ITALIA",
+    "url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "FM ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bT0DyxeO3Y36es",
+    "name": "Giornale Radio TV",
+    "url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "GIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Fsy8GZ76VPTJUS",
+    "name": "Giovanni Paolo TV",
+    "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "GIO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uyiyfk5r0UmGtm",
+    "name": "Gold TV",
+    "url": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "GOL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+      "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "GOL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1xnRIVzGMzHUgY",
+    "name": "GRP VERATV",
+    "url": "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "GRP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8"
+    ]
+  },
+  {
+    "id": "Mve6J37YYbHvvV",
+    "name": "Hell's Kitchen Italy",
+    "url": "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "HEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NbbeOMQDvaSlf5",
+    "name": "Icaro TV",
+    "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ICA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "g6nacBZmY3YsUr",
+    "name": "Italia 2",
+    "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ITA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "oBwvurm2qFur1v",
+    "name": "Italia 7",
+    "url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ITA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LJMWlXY7EZt85L",
+    "name": "Italia2TV",
+    "url": "https://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ITA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "R8E994mqmmDshs",
+    "name": "Italian Fishing TV",
+    "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "category": "Outdoor",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ITA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://fms.premio.link/fishingtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "qGCa4GceuRopDr",
+    "name": "Iunior TV",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, ita.",
+    "logoText": "IUN",
+    "streamCount": 2,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+    ]
+  },
+  {
+    "id": "3yI1RuuFvlPWvb",
+    "name": "Juwelo",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8",
+    "category": "Shop",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "deu"
+    ],
+    "description": "Canal de TV de Italy. Idioma: deu.",
+    "logoText": "JUW",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+    ]
+  },
+  {
+    "id": "j1Osxy010FfNXv",
+    "name": "Kiss Kiss Napoli TV",
+    "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "KIS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ugdsT19rRUMRPJ",
+    "name": "Kiss Kiss TV",
+    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "KIS",
+    "streamCount": 3,
+    "allStreams": [
+      "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+      "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8",
+      "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5LLVHmQ8JEsCfJ",
+    "name": "La TR3 Marsala",
+    "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "LA ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "LAZ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QUgozEv0vZrkjK",
+    "name": "Lira TV",
+    "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "LIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "i0LMH6v3VomKrm",
+    "name": "Luna TV",
+    "url": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "LUN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ZF9e1n3GNe54qv",
+    "name": "m2o TV",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "M2O",
+    "streamCount": 1,
+    "allStreams": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hRCPRwYpEDOZ41",
+    "name": "MadeinBO TV",
+    "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
+    "category": "Sports",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "MAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "HaUz9QZwaRXzts",
+    "name": "Maria Vision Italia",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "its"
+    ],
+    "description": "Canal de TV de Italy. Idioma: its.",
+    "logoText": "MAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ffGmMhn32f5osC",
+    "name": "Medjugorje Italia TV",
+    "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "MED",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fR0ICU1okqQxU4",
+    "name": "Minformo TV",
+    "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "MIN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TJTh9T3GBOw5hs",
+    "name": "Mr. Bean Anime Italy",
+    "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "category": "Kids",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "MR.",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vep0J58HudEoW3",
+    "name": "Odeon 24",
+    "url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ODE",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "02hgQBIaeAN9gz",
+    "name": "Onda Novara TV",
+    "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+    ]
+  },
+  {
+    "id": "UtzRJ2DWtCBmbh",
+    "name": "Onda TV",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "OND",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+    ]
+  },
+  {
+    "id": "T0s7Y4K2sYggX7",
+    "name": "Orler TV",
+    "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+    "category": "Culture",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ORL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+    "category": "Culture",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PAC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "zH1wikEA6iyust",
+    "name": "Padre Pio TV",
+    "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rCWYXbGU5lesuk",
+    "name": "Parole di Vita",
+    "url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PAR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Bf229RUVr1fA3u",
+    "name": "Prima Free",
+    "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "S8N3Bm3LD8AIRI",
+    "name": "Prima TV",
+    "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "ozapzgC4Esd46O",
+    "name": "PrimAntenna TV",
+    "url": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1OpgTeLymzHjIU",
+    "name": "Primocanale",
+    "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PRI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QPHo9cwvhZBbgz",
+    "name": "Promovideo TV",
+    "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "PRO",
+    "streamCount": 1,
+    "allStreams": [
+      "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OriOEDLt7tp0cn",
+    "name": "QVC",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "category": "Shop",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "QVC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+    ]
+  },
+  {
+    "id": "wVDMbHInscruLg",
+    "name": "Radio 51 TV",
+    "url": "https://178.32.140.155/canale51/canale51/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://178.32.140.155/canale51/canale51/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "lWiG0XwXki5OWo",
+    "name": "Radio Birikina TV",
+    "url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "0AeHu53Cy2m0HP",
+    "name": "Radio Capital TiVu",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "sF8X6IMP7gtNjw",
+    "name": "Radio Ibiza TV",
+    "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "uNn6ZhcNZueDr9",
+    "name": "Radio Iglesias",
+    "url": "https://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1vFqQwnHb55YkM",
+    "name": "Radio Iglesias Sardegna",
+    "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "DDTD9YdlPl6Ady",
+    "name": "Radio Italia Trend TV",
+    "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "RAD",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
+      "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Fmm6kG9Rsl85sE",
+    "name": "Radio Norba TV",
+    "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8"
+    ]
+  },
+  {
+    "id": "zzAlaihlwtZFpr",
+    "name": "Radio Number One",
+    "url": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Qw8OveH5NJ4HC0",
+    "name": "Radio Piter Pan TV",
+    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "70aquUrXJYO7OT",
+    "name": "Radio Studio Delta TV",
+    "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "OUsOGjUiOquYxg",
+    "name": "Radio Taormina Sicilia",
+    "url": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9DDi3kD1NL1jD0",
+    "name": "Radio Zeta",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "3tbbEhSNSIuttq",
+    "name": "Radiofreccia",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "Ow01MUb56XjNYI",
+    "name": "Rai 1",
+    "url": "https://srv1.adriatelekom.com/Rai1/index.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAI",
+    "streamCount": 2,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/Rai1/index.m3u8",
+      "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "pLY3FvdnGbSkPJ",
+    "name": "Rai 2",
+    "url": "https://srv1.adriatelekom.com/Rai2/index.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/Rai2/index.m3u8"
+    ]
+  },
+  {
+    "id": "gb89vMj4sSblmg",
+    "name": "Rai 3",
+    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "12pVI96AuXJIE6",
+    "name": "Rai Gulp",
+    "url": "https://srv1.adriatelekom.com/RaiGulp/index.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/RaiGulp/index.m3u8"
+    ]
+  },
+  {
+    "id": "LWZDtgK1acZAb3",
+    "name": "Rai Storia",
+    "url": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://srv1.adriatelekom.com/RaiStoria/index.m3u8"
+    ]
+  },
+  {
+    "id": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
+    "url": "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "RAK",
+    "streamCount": 1,
+    "allStreams": [
+      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+    ]
+  },
+  {
+    "id": "mwaE9Of5KjZvBf",
+    "name": "ReggioTV",
+    "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "REG",
+    "streamCount": 1,
+    "allStreams": [
+      "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "E5GXmKOVJA9sSR",
+    "name": "Rete 8",
+    "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QvdvQfwSEIHtyg",
+    "name": "Rete Biella TV",
+    "url": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "NjWedgmgQT0ySg",
+    "name": "Rete Oro",
+    "url": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "EtxTw9IfoXWpQL",
+    "name": "Rete TV Italia",
+    "url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Ra97LkpWJPBaKS",
+    "name": "Reteveneta",
+    "url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RET",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yr5JBg5lH2xLw3",
+    "name": "RTC Telecalabria",
+    "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "yUKu0stbQA0AEl",
+    "name": "RTL 102.5 Napule",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "9uExsMfMV1KdZ8",
+    "name": "RTL 102.5 Traffic",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "5TAuaLJFHkC7G5",
+    "name": "RTL 102.5 TV",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "category": "Music",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+    ]
+  },
+  {
+    "id": "oqN5ACQhB7Jq82",
+    "name": "RTM TV",
+    "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "G0rc8hGKnhYbPx",
+    "name": "RTP",
+    "url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4oXj7UuzIAqTEB",
+    "name": "RTTR Trento",
+    "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "K9gk1bVjNH2IeM",
+    "name": "RTV38",
+    "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "RTV",
+    "streamCount": 2,
+    "allStreams": [
+      "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8",
+      "https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8"
+    ]
+  },
+  {
+    "id": "ZLv6M8x6GdOHFN",
+    "name": "Senato TV",
+    "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+    "category": "Legislative",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SEN",
+    "streamCount": 1,
+    "allStreams": [
+      "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "hLgIEQAqf1wcoc",
+    "name": "Sophia TV",
+    "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SOP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "e4huLQp9M80Lrf",
+    "name": "Sportitalia",
+    "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+    "category": "Sports",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SPO",
+    "streamCount": 2,
+    "allStreams": [
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "DmUTFjCclq9vDQ",
+    "name": "ST Europe Channel",
+    "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
+    "category": "Entertainment",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "ST ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1Ej97eV6LTSzZm",
+    "name": "Super Six",
+    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3WLQIvLWgJCx9b",
+    "name": "Super TV",
+    "url": "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
+    "category": "Series",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SUP",
+    "streamCount": 2,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
+      "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "7mx54EPiDrr5mW",
+    "name": "Super!",
+    "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "SUP",
+    "streamCount": 1,
+    "allStreams": [
+      "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "jHr3gQHmtG7nGu",
+    "name": "T9",
+    "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "T9",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "TapdG3gwdyMX3z",
+    "name": "Taurianova TV",
+    "url": "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TAU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "mzkD1KJ9Z1iIYV",
+    "name": "Tele Liguria Sud",
+    "url": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "GDYOZZhpgVBRgV",
+    "name": "Tele One 16",
+    "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "F0gNZYAr0ECEZ9",
+    "name": "Tele Quattro",
+    "url": "https://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "dao1Lkr9lj7M4V",
+    "name": "TeleArena",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "SQb9dZl1pOj0A0",
+    "name": "Telecolor Lombardia",
+    "url": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QLi5BfwUTlLrmx",
+    "name": "Telefoggia",
+    "url": "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8",
+      "https://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4aSfJLSmTOWMF1",
+    "name": "Telefriuli",
+    "url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "B0q402GKTLgF9q",
+    "name": "Telegela 647",
+    "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
+    "category": "News",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "K8AIJvIPsJ7jPi",
+    "name": "TeleMajg",
+    "url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5SnZ7XUMUV5jdA",
+    "name": "Telemantova",
+    "url": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tuzHx8zwNURtxj",
+    "name": "TeleMia",
+    "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+    ]
+  },
+  {
+    "id": "0D5cDwbmCxPyQV",
+    "name": "TeleMia Extra",
+    "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
+    ]
+  },
+  {
+    "id": "zgpPoxZxMxWpcH",
+    "name": "TeleMistretta",
+    "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4gJgrhrsdZVxS3",
+    "name": "Telemontecarlo",
+    "url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "8KYV4nFejvysEX",
+    "name": "Telepace 1",
+    "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bZLmwi1rLZYaKq",
+    "name": "Telepace 2",
+    "url": "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "fra",
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, fra, ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "wG03qaF80rSneK",
+    "name": "Telepace 3",
+    "url": "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "flIQS0UDvNr4lw",
+    "name": "Telepace 4",
+    "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "eng",
+      "fra",
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: eng, fra, ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "3gcHSvUcu5lNpv",
+    "name": "Telepace Trento",
+    "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Dvtgx9aryU0YG9",
+    "name": "TeleRama",
+    "url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "fPi31GojXVdhWd",
+    "name": "TeleRegione 118",
+    "url": "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "J7sB9N56vSaJtA",
+    "name": "Teleromagna",
+    "url": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "Dl9U0IgvARdklB",
+    "name": "TeleSanDomenico",
+    "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
+    "category": "Religious",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "a1ZGoySJOsRm65",
+    "name": "Teletricolore",
+    "url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "s5u1P4o8oZzOs2",
+    "name": "TLT Molise",
+    "url": "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TLT",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "PoFjoPeTQSvrgP",
+    "name": "TR Sport",
+    "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+    "category": "Sports",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TR ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4lRmmKh0IB2m5u",
+    "name": "TV Campane 1",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8",
+    "category": "General",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://eu1.servers10.com:8081/8032/index.m3u8"
+    ]
+  },
+  {
+    "id": "ZRUGfZkdI2SKM1",
+    "name": "TV Prato",
+    "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8"
+    ]
+  },
+  {
+    "id": "V3YAUI31wWkMua",
+    "name": "TV Qui Modena",
+    "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TV ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "1NuTF64lKWrlRC",
+    "name": "TV7 Benevento",
+    "url": "https://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "TV7",
+    "streamCount": 1,
+    "allStreams": [
+      "https://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "rv3xoOdgvGr5fo",
+    "name": "TV7 Meteo",
+    "url": "https://www.gruppotv7.com:8090/hls/meteo.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "TV7",
+    "streamCount": 1,
+    "allStreams": [
+      "https://www.gruppotv7.com:8090/hls/meteo.m3u8"
+    ]
+  },
+  {
+    "id": "fsNNUTc8HGEMyV",
+    "name": "Umbria TV",
+    "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "UMB",
+    "streamCount": 1,
+    "allStreams": [
+      "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "XnhU7QdcHXrzep",
+    "name": "UniNettuno University TV",
+    "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [
+      "ita"
+    ],
+    "description": "Canal de TV de Italy. Idioma: ita.",
+    "logoText": "UNI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "N3tn7hDt2eE6Rz",
+    "name": "Vevo '90s & '00s Italy",
+    "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "cW8klSRZaF9tAq",
+    "name": "Vevo Pop Italy",
+    "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "VEV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "tIHFUPVxmttiSC",
+    "name": "Yu-Gi-Oh! Italy",
+    "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8",
+    "category": "Geral",
+    "country": "IT",
+    "countryName": "Italy",
+    "languages": [],
+    "description": "Canal de TV de Italy. Idioma: N/A.",
+    "logoText": "YU-",
+    "streamCount": 1,
+    "allStreams": [
+      "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
+    ]
+  }
+]

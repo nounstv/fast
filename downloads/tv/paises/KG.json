@@ -1,0 +1,339 @@
+[
+  {
+    "id": "312Kino.kg",
+    "name": "312 Kino",
+    "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "logoText": "312",
+    "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: http://312tv.kg"
+  },
+  {
+    "id": "312TV.kg",
+    "name": "312 TV",
+    "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+    "logoText": "312",
+    "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: http://312tv.kg"
+  },
+  {
+    "id": "AlaToo24.kg",
+    "name": "Ala-Too 24",
+    "logo": "https://i.imgur.com/vBPmUQA.png",
+    "logoText": "ALA",
+    "url": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://www.utrk.kg/kg/live/tv?channel=42"
+  },
+  {
+    "id": "Balastan.kg",
+    "name": "Balastan",
+    "logo": "https://i.imgur.com/D5ylCiX.png",
+    "logoText": "BAL",
+    "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://www.utrk.kg/kg/live/tv?channel=49"
+  },
+  {
+    "id": "BilimIlim.kg",
+    "name": "Bilim Ilim",
+    "logo": "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
+    "logoText": "BIL",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids",
+      "science"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://eltr.kg/eltr-bilim-ilim/"
+  },
+  {
+    "id": "ElTR.kg",
+    "name": "ElTR",
+    "logo": "https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png",
+    "logoText": "ELT",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://eltr.kg"
+  },
+  {
+    "id": "ManasTV.kg",
+    "name": "Manas TV",
+    "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+    "logoText": "MAN",
+    "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education",
+      "culture",
+      "entertainment"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: http://mediamanas.kg/"
+  },
+  {
+    "id": "Music.kg",
+    "name": "Music",
+    "logo": "https://www.utrk.kg/img/stream/45.png",
+    "logoText": "MUS",
+    "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://www.utrk.kg/kg/live/tv?channel=45"
+  },
+  {
+    "id": "NextTV.kg",
+    "name": "Next TV",
+    "logo": "https://i.imgur.com/9MiwdgD.png",
+    "logoText": "NEX",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A."
+  },
+  {
+    "id": "OshPirim.kg",
+    "name": "Osh Pirim",
+    "logo": "https://i.ibb.co/9VBnyQ1/cropped-white.png",
+    "logoText": "OSH",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://oshpirim.kg"
+  },
+  {
+    "id": "Sport.kg",
+    "name": "Sport",
+    "logo": "https://i.imgur.com/ORCu0w0.png",
+    "logoText": "SPO",
+    "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://www.utrk.kg/kg/live/tv?channel=51"
+  },
+  {
+    "id": "TV1KG.kg",
+    "name": "TV1.KG",
+    "logo": "https://i.imgur.com/Mti9t9C.png",
+    "logoText": "TV1",
+    "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: http://tv1.kg/"
+  },
+  {
+    "id": "TV15.kg",
+    "name": "TV15",
+    "logo": "https://i.ibb.co/1byxRtp/tv15.png",
+    "logoText": "TV1",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://pyramida.kg"
+  },
+  {
+    "id": "UTRK.kg",
+    "name": "UTRK",
+    "logo": "https://i.ibb.co/VJ7cPRH/Xp5clCA.png",
+    "logoText": "UTR",
+    "url": "https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Kyrgyzstan. Language: N/A. Website: https://www.utrk.kg"
+  }
+]

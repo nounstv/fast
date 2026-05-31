@@ -1,0 +1,439 @@
+[
+  {
+    "id": "Canal15.ni",
+    "name": "Canal 15",
+    "logo": "https://i.imgur.com/DGBMuEs.png",
+    "logoText": "CAN",
+    "url": "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Education",
+    "categories": [
+      "education"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A."
+  },
+  {
+    "id": "Canal4.ni",
+    "name": "Canal 4",
+    "logo": "https://i.imgur.com/nhgtZdt.png",
+    "logoText": "CAN",
+    "url": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://canal4.com.ni/"
+  },
+  {
+    "id": "Canal6.ni",
+    "name": "Canal 6",
+    "logo": "https://i.imgur.com/6BWAZdq.png",
+    "logoText": "CAN",
+    "url": "http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://canal6.com.ni/"
+  },
+  {
+    "id": "Canal7Boaco.ni",
+    "name": "Canal 7 Boaco",
+    "logo": "https://i.imgur.com/chXNX9k.jpeg",
+    "logoText": "CAN",
+    "url": "https://cdn.amixtv.com/c7boaco/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.amixtv.com/c7boaco/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A."
+  },
+  {
+    "id": "CanalCvision.ni",
+    "name": "Canal Cvision",
+    "logo": "https://i.imgur.com/WUq3NlG.png",
+    "logoText": "CAN",
+    "url": "https://stream.cvision.live/cvision_stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.cvision.live/cvision_stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://cvision.live/"
+  },
+  {
+    "id": "CDNN23.ni",
+    "name": "CDNN 23",
+    "logo": "https://i.imgur.com/7CNzlB6.png",
+    "logoText": "CDN",
+    "url": "https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://www.cdnn23.com/"
+  },
+  {
+    "id": "EscuchameRadioTV.ni",
+    "name": "Escuchame Radio TV",
+    "logo": "https://i.imgur.com/gt6UvG8.png",
+    "logoText": "ESC",
+    "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://escuchameradio.com/"
+  },
+  {
+    "id": "JBN.ni",
+    "name": "JBN",
+    "logo": "https://i.imgur.com/vFi0FMZ.png",
+    "logoText": "JBN",
+    "url": "https://hdbox.chunklistv.com/live?stream=jbn39",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=jbn39",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://jbn39.com/"
+  },
+  {
+    "id": "MegaBox.ni",
+    "name": "MegaBox",
+    "logo": "https://i.imgur.com/JqaW7Ei.png",
+    "logoText": "MEG",
+    "url": "https://hdbox.chunklistv.com/live?stream=megabox",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=megabox",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://megaboxmusica.com/"
+  },
+  {
+    "id": "MTVChontales.ni",
+    "name": "MTV Chontales",
+    "logo": "https://i.imgur.com/zgUPYdv.png",
+    "logoText": "MTV",
+    "url": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://mtvchontales.com/"
+  },
+  {
+    "id": "OlamMetroTV.ni",
+    "name": "Olam Metro TV",
+    "logo": "https://i.imgur.com/dDZnyUA.jpeg",
+    "logoText": "OLA",
+    "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://olammetro.com/"
+  },
+  {
+    "id": "RadioVisiondeDiosStereo.ni",
+    "name": "Radio Vision de Dios Stereo",
+    "logo": "https://i.imgur.com/ckY8DRW.jpg",
+    "logoText": "RAD",
+    "url": "https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://stereovisiondedios.com/"
+  },
+  {
+    "id": "Telenorte.ni",
+    "name": "Telenorte",
+    "logo": "https://i.imgur.com/rvxjAO6.png",
+    "logoText": "TEL",
+    "url": "http://astrasvip.com:1935/Telenorte/Telenorte/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://astrasvip.com:1935/Telenorte/Telenorte/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: http://telenorte.info"
+  },
+  {
+    "id": "TV45.ni",
+    "name": "TV 45",
+    "logo": "https://i.imgur.com/sI0msrn.png",
+    "logoText": "TV ",
+    "url": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: http://tv45nicaragua.com/"
+  },
+  {
+    "id": "TVONENicaragua.ni",
+    "name": "TVONE Nicaragua",
+    "logo": "https://i.imgur.com/FNk6rdz.png",
+    "logoText": "TVO",
+    "url": "https://hdbox.chunklistv.com/live?stream=tvone",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=tvone",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://tvonenicaragua.com/"
+  },
+  {
+    "id": "VivaTV.ni",
+    "name": "Viva TV",
+    "logo": "https://i.imgur.com/n0buXRa.jpeg",
+    "logoText": "VIV",
+    "url": "https://cdn.amixtv.com/vivatv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn.amixtv.com/vivatv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A."
+  },
+  {
+    "id": "VosTV.ni",
+    "name": "Vos TV",
+    "logo": "https://i.imgur.com/Lbi87xv.png",
+    "logoText": "VOS",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://www.vostv.com.ni/"
+  },
+  {
+    "id": "WTVCanal20.ni",
+    "name": "WTV Canal 20",
+    "logo": "https://i.imgur.com/nb81xeU.png",
+    "logoText": "WTV",
+    "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Nicaragua. Language: N/A. Website: https://wtvnicaragua.com/"
+  }
+]

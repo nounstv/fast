@@ -1,0 +1,245 @@
+[
+  {
+    "id": "DRRamasjang.dk",
+    "name": "DR Ramasjang",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png",
+    "logoText": "DR ",
+    "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.dr.dk/Ramasjang/"
+  },
+  {
+    "id": "DR1.dk",
+    "name": "DR1",
+    "logo": "https://i.imgur.com/OETzsOI.png",
+    "logoText": "DR1",
+    "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.dr.dk/dr1/"
+  },
+  {
+    "id": "DR2.dk",
+    "name": "DR2",
+    "logo": "https://i.imgur.com/7bYtukP.png",
+    "logoText": "DR2",
+    "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.dr.dk/dr2/"
+  },
+  {
+    "id": "DRTV.dk",
+    "name": "DRTV",
+    "logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "logoText": "DRT",
+    "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: https://www.dr.dk/drtv/"
+  },
+  {
+    "id": "KanalHovedstaden.dk",
+    "name": "Kanal Hovedstaden",
+    "logo": "https://i.imgur.com/afujBQs.jpeg",
+    "logoText": "KAN",
+    "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: https://www.kanalhovedstaden.net/"
+  },
+  {
+    "id": "KKRtv.dk",
+    "name": "KKRtv",
+    "logo": "https://i.imgur.com/TbtjWHI.png",
+    "logoText": "KKR",
+    "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: https://kkrtv.dk/"
+  },
+  {
+    "id": "TV2Bornholm.dk",
+    "name": "TV 2/Bornholm",
+    "logo": "https://i.imgur.com/cEOpXU6.png",
+    "logoText": "TV ",
+    "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.tv2bornholm.dk/"
+  },
+  {
+    "id": "TVfromtheDanishParliament.dk",
+    "name": "TV from the Danish Parliament",
+    "logo": "https://i.imgur.com/RqQDUzX.png",
+    "logoText": "TV ",
+    "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: https://www.ft.dk/da/aktuelt/tv-fra-folketinget"
+  },
+  {
+    "id": "TVStorbyen.dk",
+    "name": "TV Storbyen",
+    "logo": "https://i.ibb.co/X5h3hJL/tvstb.png",
+    "logoText": "TV ",
+    "url": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.kanalnordvest.dk/"
+  },
+  {
+    "id": "TVMarineret.dk",
+    "name": "TVMarineret",
+    "logo": "https://i.imgur.com/r1Caske.jpg",
+    "logoText": "TVM",
+    "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "DK",
+    "countryName": "Denmark",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Denmark. Language: N/A. Website: http://www.tvmarineret.org/"
+  }
+]

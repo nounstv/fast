@@ -1,0 +1,628 @@
+[
+  {
+    "id": "APlusIvoire.ci",
+    "name": "A+ Ivoire",
+    "logo": "https://i.imgur.com/yOW0vyP.png",
+    "logoText": "A+ ",
+    "url": "http://69.64.57.208/atv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/atv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.a-plus.com/"
+  },
+  {
+    "id": "A12TV.ci",
+    "name": "A12 TV",
+    "logo": "https://i.imgur.com/JgnjgvF.png",
+    "logoText": "A12",
+    "url": "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://a12television.com/"
+  },
+  {
+    "id": "AfroMagicChannel.ci",
+    "name": "Afro Magic Channel",
+    "logo": "https://i.imgur.com/yQzXErU.png",
+    "logoText": "AFR",
+    "url": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A."
+  },
+  {
+    "id": "AfrocultureTV.ci",
+    "name": "Afroculture TV",
+    "logo": "https://i.imgur.com/bjaZ3kO.png",
+    "logoText": "AFR",
+    "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://myafroculture.com/"
+  },
+  {
+    "id": "BenieTV.ci",
+    "name": "Benie TV",
+    "logo": "https://i.imgur.com/7FXi05e.jpeg",
+    "logoText": "BEN",
+    "url": "https://tv.voozmedia.fun/benietv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.voozmedia.fun/benietv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.benie.tv/"
+  },
+  {
+    "id": "Business24Africa.ci",
+    "name": "Business 24 Africa",
+    "logo": "https://i.imgur.com/zZFl3vy.png",
+    "logoText": "BUS",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Business",
+    "categories": [
+      "business"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.business24tv.com/"
+  },
+  {
+    "id": "DivinAmourTV.ci",
+    "name": "Divin Amour TV",
+    "logo": "https://i.imgur.com/UUSAQET.png",
+    "logoText": "DIV",
+    "url": "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: http://divinamour.tv/"
+  },
+  {
+    "id": "DNTV.ci",
+    "name": "DNTV",
+    "logo": "https://i.imgur.com/Pw1ifln.png",
+    "logoText": "DNT",
+    "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://dntv.ci/"
+  },
+  {
+    "id": "EcclesiaTV.ci",
+    "name": "Ecclesia TV",
+    "logo": "https://i.imgur.com/mgabVFd.png",
+    "logoText": "ECC",
+    "url": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: http://ecclesiatvci.com/"
+  },
+  {
+    "id": "GuideLoveTV.ci",
+    "name": "Guide Love TV",
+    "logo": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
+    "logoText": "GUI",
+    "url": "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://guidelove.ci/"
+  },
+  {
+    "id": "IvoireChannel.ci",
+    "name": "Ivoire Channel",
+    "logo": "https://i.imgur.com/gKbNqQv.png",
+    "logoText": "IVO",
+    "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://ivoirechannel.ci/"
+  },
+  {
+    "id": "LifeTV.ci",
+    "name": "Life TV",
+    "logo": "https://i.imgur.com/iz9qHZk.png",
+    "logoText": "LIF",
+    "url": "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.lifetv.ci/"
+  },
+  {
+    "id": "LMTVFrench.ci",
+    "name": "LM TV French",
+    "logo": "https://i.imgur.com/FVnq2cQ.png",
+    "logoText": "LM ",
+    "url": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.lumieredumonde.tv/"
+  },
+  {
+    "id": "MiracleTVPlus.ci",
+    "name": "Miracle TV+",
+    "logo": "https://i.imgur.com/AQ60OYO.png",
+    "logoText": "MIR",
+    "url": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://miracle-tvplus.com/en/"
+  },
+  {
+    "id": "NCI.ci",
+    "name": "NCI",
+    "logo": "https://i.imgur.com/I3pv69r.png",
+    "logoText": "NCI",
+    "url": "https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.nci.ci/"
+  },
+  {
+    "id": "NovelaChannel.ci",
+    "name": "Novela Channel",
+    "logo": "https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg",
+    "logoText": "NOV",
+    "url": "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A."
+  },
+  {
+    "id": "NTV.ci",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/qqLXdHz.png",
+    "logoText": "NTV",
+    "url": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: http://www.notretelevision.org/"
+  },
+  {
+    "id": "RefletTV.ci",
+    "name": "Reflet TV",
+    "logo": "https://i.imgur.com/EauXR22.png",
+    "logoText": "REF",
+    "url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://reflet.tv/"
+  },
+  {
+    "id": "RTI1.ci",
+    "name": "RTI 1",
+    "logo": "https://i.imgur.com/TybQZQS.png",
+    "logoText": "RTI",
+    "url": "http://69.64.57.208:8080/rti1/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208:8080/rti1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.rti.ci/rti1"
+  },
+  {
+    "id": "RTI2.ci",
+    "name": "RTI 2",
+    "logo": "https://i.imgur.com/73ueXrp.png",
+    "logoText": "RTI",
+    "url": "http://69.64.57.208:8080/rti2/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208:8080/rti2/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.rti.ci/rti2"
+  },
+  {
+    "id": "RTILa3.ci",
+    "name": "RTI La 3",
+    "logo": "https://i.imgur.com/HdNshgF.png",
+    "logoText": "RTI",
+    "url": "http://69.64.57.208/la3/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/la3/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music",
+      "sports"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://www.rti.ci/rti3"
+  },
+  {
+    "id": "RTVC.ci",
+    "name": "RTVC",
+    "logo": "https://i.imgur.com/oXuSkHz.png",
+    "logoText": "RTV",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://rtvc.ci/"
+  },
+  {
+    "id": "SerieMax.ci",
+    "name": "Serie Max",
+    "logo": "https://i.imgur.com/GaRQXHT.png",
+    "logoText": "SER",
+    "url": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Series",
+    "categories": [
+      "series"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A."
+  },
+  {
+    "id": "TVAlBayane.ci",
+    "name": "TV Al Bayane",
+    "logo": "https://i.imgur.com/Xs9oEG8.png",
+    "logoText": "TV ",
+    "url": "http://69.64.57.208/albayanetv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/albayanetv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: http://albayane.ci/"
+  },
+  {
+    "id": "TVLaCapitale.ci",
+    "name": "TV La Capitale",
+    "logo": "https://i.imgur.com/zZJzNjM.jpeg",
+    "logoText": "TV ",
+    "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "CI",
+    "countryName": "Ivory Coast",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Ivory Coast. Language: N/A. Website: https://tvlacapitale.com/"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "SolTV.gq",
+    "name": "SolTV",
+    "logo": "https://i.imgur.com/TJHk6Va.png",
+    "logoText": "SOL",
+    "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "GQ",
+    "countryName": "Equatorial Guinea",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Equatorial Guinea. Language: N/A. Website: https://tv.solmediaeg.com/soltv/"
+  },
+  {
+    "id": "TVGE.gq",
+    "name": "TVGE",
+    "logo": "https://i.imgur.com/iOdHgPd.png",
+    "logoText": "TVG",
+    "url": "http://69.64.57.208/tvge/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tvge/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "GQ",
+    "countryName": "Equatorial Guinea",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Equatorial Guinea. Language: N/A. Website: https://tvgelive.gq/"
+  }
+]

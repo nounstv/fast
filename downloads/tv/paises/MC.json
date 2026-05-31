@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MonacoInfo.mc",
+    "name": "Monaco Info",
+    "logo": "https://i.imgur.com/dIrKYH7.png",
+    "logoText": "MON",
+    "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://monacoinfo.com/"
+  },
+  {
+    "id": "SuperyachtTV.mc",
+    "name": "Superyacht TV",
+    "logo": "https://i.imgur.com/cgjgjE1.png",
+    "logoText": "SUP",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://sy.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Lifestyle",
+    "categories": [
+      "lifestyle"
+    ],
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://superyacht.tv/"
+  },
+  {
+    "id": "TVMonaco.mc",
+    "name": "TV Monaco",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png",
+    "logoText": "TV ",
+    "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MC",
+    "countryName": "Monaco",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://www.tvmonaco.com"
+  }
+]

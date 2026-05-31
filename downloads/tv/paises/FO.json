@@ -1,0 +1,50 @@
+[
+  {
+    "id": "KringvarpForoya.fo",
+    "name": "Kringvarp Foroya",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/KVF_2019.svg",
+    "logoText": "KRI",
+    "url": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FO",
+    "countryName": "Faroe Islands",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Faroe Islands. Language: N/A. Website: https://kvf.fo/"
+  },
+  {
+    "id": "KVFSjonvarp.fo",
+    "name": "KVF Sjonvarp",
+    "logo": "",
+    "logoText": "KVF",
+    "url": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FO",
+    "countryName": "Faroe Islands",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Faroe Islands. Language: N/A. Website: https://kvf.fo/live/1"
+  }
+]

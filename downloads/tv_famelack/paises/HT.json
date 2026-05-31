@@ -1,0 +1,110 @@
+[
+  {
+    "id": "uwTWKsdpHVYtfE",
+    "name": "Haiti News Channel",
+    "url": "https://haititivi.com/website/haitinews/index.m3u8",
+    "category": "News",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "HAI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://haititivi.com/website/haitinews/index.m3u8"
+    ]
+  },
+  {
+    "id": "BeKI8k9qQhkMfs",
+    "name": "Radio Tele 4VEH",
+    "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "category": "Religious",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "DKvBoloLNtwxw9",
+    "name": "Radio Tele Hit",
+    "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+    "category": "Music",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "RAD",
+    "streamCount": 1,
+    "allStreams": [
+      "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "5crJcIoyjElcSC",
+    "name": "RTH-TV2 Gospel",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8",
+    "category": "Religious",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "RTH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "nWm3k0eiDVch0E",
+    "name": "Tele Louange",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+    "category": "Religious",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "TEL",
+    "streamCount": 1,
+    "allStreams": [
+      "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "9dYnjnGkh6Gk0r",
+    "name": "TNH",
+    "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
+    "category": "General",
+    "country": "HT",
+    "countryName": "Haiti",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "description": "Canal de TV de Haiti. Idioma: fra, hat.",
+    "logoText": "TNH",
+    "streamCount": 1,
+    "allStreams": [
+      "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8"
+    ]
+  }
+]

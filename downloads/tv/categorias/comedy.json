@@ -1,0 +1,260 @@
+[
+  {
+    "id": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
+    "category": "Comedy",
+    "country": "CL",
+    "countryName": "Chile",
+    "languages": [
+      "spa"
+    ],
+    "description": "Canal de TV de Chile. Idioma: spa.",
+    "logoText": "13 ",
+    "streamCount": 1,
+    "allStreams": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ]
+  },
+  {
+    "id": "C7SK0S2RgKNZGi",
+    "name": "AFV",
+    "url": "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "AFV",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "grFQ56oSZAzAyP",
+    "name": "Camera Smile TV",
+    "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "CAM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8"
+    ]
+  },
+  {
+    "id": "8j5W4jKa2q9Ms3",
+    "name": "Comedy Dynamics",
+    "url": "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "COM",
+    "streamCount": 3,
+    "allStreams": [
+      "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8",
+      "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
+      "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "QDT0Nt5qZTPoXG",
+    "name": "Comedy Play",
+    "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "category": "Comedy",
+    "country": "RO",
+    "countryName": "Romania",
+    "languages": [
+      "ron"
+    ],
+    "description": "Canal de TV de Romania. Idioma: ron.",
+    "logoText": "COM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "LAzGmzfDmBkZX9",
+    "name": "Fora Tedio TV",
+    "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+    "category": "Comedy",
+    "country": "BR",
+    "countryName": "Brazil",
+    "languages": [
+      "por"
+    ],
+    "description": "Canal de TV de Brazil. Idioma: por.",
+    "logoText": "FOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "vcFYvtoHN0XOiB",
+    "name": "GEM Comedy",
+    "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+    "category": "Comedy",
+    "country": "IR",
+    "countryName": "Iran",
+    "languages": [
+      "fas"
+    ],
+    "description": "Canal de TV de Iran. Idioma: fas.",
+    "logoText": "GEM",
+    "streamCount": 1,
+    "allStreams": [
+      "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202"
+    ]
+  },
+  {
+    "id": "yQMuoatPHbGi75",
+    "name": "Jordan Comedy",
+    "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+    "category": "Comedy",
+    "country": "JO",
+    "countryName": "Jordan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Jordan. Idioma: ara.",
+    "logoText": "JOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "dsB3T5PdHI29GO",
+    "name": "Mystery Science Theater 3000",
+    "url": "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "MYS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
+    ]
+  },
+  {
+    "id": "446xsIHgo8ylMC",
+    "name": "NBC Comedy Vault",
+    "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "NBC",
+    "streamCount": 1,
+    "allStreams": [
+      "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8"
+    ]
+  },
+  {
+    "id": "qFOPNZj5esf6S3",
+    "name": "RiffTrax US",
+    "url": "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "RIF",
+    "streamCount": 1,
+    "allStreams": [
+      "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "bSyZI3uj6B02G3",
+    "name": "Roya Comedy",
+    "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+    "category": "Comedy",
+    "country": "JO",
+    "countryName": "Jordan",
+    "languages": [
+      "ara"
+    ],
+    "description": "Canal de TV de Jordan. Idioma: ara.",
+    "logoText": "ROY",
+    "streamCount": 1,
+    "allStreams": [
+      "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "4VE8AYBTYbd8ii",
+    "name": "Sirippoli TV",
+    "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+    "category": "Comedy",
+    "country": "IN",
+    "countryName": "India",
+    "languages": [
+      "tam"
+    ],
+    "description": "Canal de TV de India. Idioma: tam.",
+    "logoText": "SIR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "kXXPyaWYEhBzfW",
+    "name": "SNL Vault",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "SNL",
+    "streamCount": 2,
+    "allStreams": [
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
+      "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"
+    ]
+  },
+  {
+    "id": "MjP0Gu7jfIZvWL",
+    "name": "TVS Comedy Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
+    "category": "Comedy",
+    "country": "US",
+    "countryName": "United States",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de United States. Idioma: eng.",
+    "logoText": "TVS",
+    "streamCount": 1,
+    "allStreams": [
+      "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+    ]
+  }
+]

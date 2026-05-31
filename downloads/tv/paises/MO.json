@@ -1,0 +1,175 @@
+[
+  {
+    "id": "CanalMacau.mo",
+    "name": "Canal Macau",
+    "logo": "https://i.imgur.com/oFPUZ97.png",
+    "logoText": "CAN",
+    "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: https://www.tdm.com.mo/en/"
+  },
+  {
+    "id": "LotusTV.mo",
+    "name": "Lotus TV",
+    "logo": "https://i.imgur.com/7j8Lnog.png",
+    "logoText": "LOT",
+    "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://www.lotustv.cc/"
+  },
+  {
+    "id": "TDMEntertainment.mo",
+    "name": "TDM Entertainment",
+    "logo": "https://i.imgur.com/7ml2bfx.png",
+    "logoText": "TDM",
+    "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://tdm.com.mo/"
+  },
+  {
+    "id": "TDMInformation.mo",
+    "name": "TDM Information",
+    "logo": "https://i.imgur.com/h7HfsLx.png",
+    "logoText": "TDM",
+    "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://new.tdm.com.mo/c_tv/?ch=info"
+  },
+  {
+    "id": "TDMOuMun.mo",
+    "name": "TDM Ou Mun",
+    "logo": "https://i.imgur.com/qDI3aMp.png",
+    "logoText": "TDM",
+    "url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://new.tdm.com.mo/c_tv/?ch=ctvp"
+  },
+  {
+    "id": "TDMSports.mo",
+    "name": "TDM Sports",
+    "logo": "https://i.imgur.com/AsWLf8S.png",
+    "logoText": "TDM",
+    "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://new.tdm.com.mo/c_tv/?ch=sport"
+  },
+  {
+    "id": "TDMMacauSatellite.mo",
+    "name": "TDM-Macau Satellite",
+    "logo": "https://i.imgur.com/iIfZsD6.png",
+    "logoText": "TDM",
+    "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "MO",
+    "countryName": "Macao",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Macao. Language: N/A. Website: http://new.tdm.com.mo/c_tv/?ch=sat"
+  }
+]

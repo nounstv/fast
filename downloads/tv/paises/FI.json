@@ -1,0 +1,608 @@
+[
+  {
+    "id": "Eveo.fi",
+    "name": "Eveo",
+    "logo": "https://i.imgur.com/fFIq7tY.png",
+    "logoText": "EVE",
+    "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.eveo.fi/"
+  },
+  {
+    "id": "Hero.fi",
+    "name": "Hero",
+    "logo": "https://i.imgur.com/4t5JQLY.png",
+    "logoText": "HER",
+    "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "HimlenTV7.fi",
+    "name": "Himlen TV7",
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "logoText": "HIM",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "Jim.fi",
+    "name": "Jim",
+    "logo": "https://i.imgur.com/PkMgY0K.png",
+    "logoText": "JIM",
+    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://www.jimtv.fi/"
+  },
+  {
+    "id": "JRTVJarviradio.fi",
+    "name": "JRTV Jarviradio",
+    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "logoText": "JRT",
+    "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.jarviradio.fi/"
+  },
+  {
+    "id": "Liv.fi",
+    "name": "Liv",
+    "logo": "https://i.imgur.com/k6NsXBj.png",
+    "logoText": "LIV",
+    "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "MTVAva.fi",
+    "name": "MTV Ava",
+    "logo": "https://i.imgur.com/WxNCiAk.png",
+    "logoText": "MTV",
+    "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.mtv.fi/"
+  },
+  {
+    "id": "MTVSub.fi",
+    "name": "MTV Sub",
+    "logo": "https://i.imgur.com/rmV8LO1.png",
+    "logoText": "MTV",
+    "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "MTVUutiset.fi",
+    "name": "MTV Uutiset",
+    "logo": "https://i.imgur.com/ZO8ShOK.png",
+    "logoText": "MTV",
+    "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.mtvuutiset.fi/"
+  },
+  {
+    "id": "MTV3.fi",
+    "name": "MTV3",
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "logoText": "MTV",
+    "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "http://195.222.7.17:8002/ch352",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.mtv.fi/"
+  },
+  {
+    "id": "NarTV.fi",
+    "name": "Nar-TV",
+    "logo": "https://i.imgur.com/Ht5yePq.png",
+    "logoText": "NAR",
+    "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://nartv.fi/"
+  },
+  {
+    "id": "NationalGeographic.fi",
+    "name": "National Geographic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "logoText": "NAT",
+    "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Documentary",
+    "categories": [
+      "documentary"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://www.natgeotv.com/fi"
+  },
+  {
+    "id": "NavahangTV.fi",
+    "name": "Navahang TV",
+    "logo": "https://i.imgur.com/YteKXJy.png",
+    "logoText": "NAV",
+    "url": "https://hls.navahang.live/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://hls.navahang.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://simahls.wns.live/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.navahang.com/"
+  },
+  {
+    "id": "Nelonen.fi",
+    "name": "Nelonen",
+    "logo": "https://i.imgur.com/BFbCyfY.png",
+    "logoText": "NEL",
+    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://www.nelonen.fi/"
+  },
+  {
+    "id": "NopolaNews.fi",
+    "name": "Nopola News",
+    "logo": "https://i.imgur.com/vDoQaGl.png",
+    "logoText": "NOP",
+    "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.nopolanews.fi/"
+  },
+  {
+    "id": "OnniTV.fi",
+    "name": "Onni TV",
+    "logo": "https://i.imgur.com/Vba4jUk.png",
+    "logoText": "ONN",
+    "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://www.onnitv.fi/"
+  },
+  {
+    "id": "STARChannel.fi",
+    "name": "STAR Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "logoText": "STA",
+    "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://starchannel.fi/"
+  },
+  {
+    "id": "TaevasTV7.fi",
+    "name": "Taevas TV7",
+    "logo": "https://i.imgur.com/usXedIj.png",
+    "logoText": "TAE",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "TaivasTV7.fi",
+    "name": "Taivas TV7",
+    "logo": "https://i.imgur.com/JyJNiXy.png",
+    "logoText": "TAI",
+    "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A."
+  },
+  {
+    "id": "ViaplayTV.fi",
+    "name": "Viaplay TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+    "logoText": "VIA",
+    "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Sports",
+    "categories": [
+      "sports"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://viaplaytv.fi/"
+  },
+  {
+    "id": "YleTeemaFem.fi",
+    "name": "Yle Teema & Fem",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "logoText": "YLE",
+    "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://svenska.yle.fi/yle-fem"
+  },
+  {
+    "id": "YleTV1.fi",
+    "name": "Yle TV1",
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "logoText": "YLE",
+    "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://www.yle.fi/tv1/"
+  },
+  {
+    "id": "YleTV2.fi",
+    "name": "Yle TV2",
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "logoText": "YLE",
+    "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: http://tv2.yle.fi/"
+  },
+  {
+    "id": "YleX.fi",
+    "name": "YleX",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
+    "logoText": "YLE",
+    "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "FI",
+    "countryName": "Finland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Finland. Language: N/A. Website: https://areena.yle.fi/podcastit/ohjelmat/ylex"
+  }
+]

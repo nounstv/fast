@@ -1,0 +1,19 @@
+[
+  {
+    "id": "GhPgMfQiSel48D",
+    "name": "Star 101 FM",
+    "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+    "category": "Music",
+    "country": "GU",
+    "countryName": "Guam",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Guam. Idioma: eng.",
+    "logoText": "STA",
+    "streamCount": 1,
+    "allStreams": [
+      "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
+    ]
+  }
+]

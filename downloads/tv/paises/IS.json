@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Althingi.is",
+    "name": "Althingi",
+    "logo": "https://i.imgur.com/tKNPdea.png",
+    "logoText": "ALT",
+    "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Legislative",
+    "categories": [
+      "legislative"
+    ],
+    "country": "IS",
+    "countryName": "Iceland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Iceland. Language: N/A. Website: https://www.althingi.is/"
+  },
+  {
+    "id": "RUV.is",
+    "name": "RUV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png",
+    "logoText": "RUV",
+    "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "IS",
+    "countryName": "Iceland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Iceland. Language: N/A. Website: https://www.ruv.is/ruv/"
+  },
+  {
+    "id": "RUV2.is",
+    "name": "RUV 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/960px-R%C3%9AV_2_2019_logo.svg.png",
+    "logoText": "RUV",
+    "url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "IS",
+    "countryName": "Iceland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Iceland. Language: N/A. Website: https://www.ruv.is/ruv2/"
+  },
+  {
+    "id": "Visir.is",
+    "name": "Visir",
+    "logo": "https://i.imgur.com/07Vlt6i.jpg",
+    "logoText": "VIS",
+    "url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "IS",
+    "countryName": "Iceland",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Iceland. Language: N/A. Website: https://www.visir.is/"
+  }
+]

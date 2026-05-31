@@ -1,0 +1,500 @@
+[
+  {
+    "id": "BHRT.ba",
+    "name": "BHRT",
+    "logo": "https://i.imgur.com/01bZ5rw.png",
+    "logoText": "BHR",
+    "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A."
+  },
+  {
+    "id": "BHT1.ba",
+    "name": "BHT 1",
+    "logo": "https://i.imgur.com/LEwlEEE.png",
+    "logoText": "BHT",
+    "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
+    "httpReferrer": null,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1",
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://bhrt.ba/"
+  },
+  {
+    "id": "Federalnatelevizija.ba",
+    "name": "Federalna televizija",
+    "logo": "https://i.imgur.com/astdRrE.png",
+    "logoText": "FED",
+    "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.federalna.ba/"
+  },
+  {
+    "id": "Hayat.ba",
+    "name": "Hayat",
+    "logo": "https://i.imgur.com/JugiLHM.png",
+    "logoText": "HAY",
+    "url": "http://158.180.39.89:5033/hayat.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.180.39.89:5033/hayat.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+  },
+  {
+    "id": "HayatFolk.ba",
+    "name": "Hayat Folk",
+    "logo": "https://i.imgur.com/LteJva4.png",
+    "logoText": "HAY",
+    "url": "http://158.180.39.89:5033/folk.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.180.39.89:5033/folk.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+  },
+  {
+    "id": "HayatMusic.ba",
+    "name": "Hayat Music",
+    "logo": "https://i.imgur.com/9p8q1yX.png",
+    "logoText": "HAY",
+    "url": "http://158.180.39.89:5033/music.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.180.39.89:5033/music.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+  },
+  {
+    "id": "HayatPlus.ba",
+    "name": "Hayat Plus",
+    "logo": "https://i.imgur.com/NThsVzJ.png",
+    "logoText": "HAY",
+    "url": "http://158.180.39.89:5033/hayatplus.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.180.39.89:5033/hayatplus.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+  },
+  {
+    "id": "Hayatovci.ba",
+    "name": "Hayatovci",
+    "logo": "https://i.imgur.com/eqd3kvW.png",
+    "logoText": "HAY",
+    "url": "http://158.180.39.89:5033/hayatovci.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://158.180.39.89:5033/hayatovci.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+  },
+  {
+    "id": "Kanal6.ba",
+    "name": "Kanal 6",
+    "logo": "https://i.imgur.com/GGhvR0l.png",
+    "logoText": "KAN",
+    "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://kanal6.ba/"
+  },
+  {
+    "id": "MariaPlusVisionMedjugorje.ba",
+    "name": "Maria+Vision Medjugorje",
+    "logo": "https://i.imgur.com/xUOspBx.png",
+    "logoText": "MAR",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Religious",
+    "categories": [
+      "religious"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.mariavisionmedjugorje.com/"
+  },
+  {
+    "id": "NTVICKakanj.ba",
+    "name": "NTV IC Kakanj",
+    "logo": "https://i.imgur.com/EtaHm2P.png",
+    "logoText": "NTV",
+    "url": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.ntvic.ba/"
+  },
+  {
+    "id": "RTRSplus.ba",
+    "name": "RTRS plus",
+    "logo": "https://i.imgur.com/k06WvYl.png",
+    "logoText": "RTR",
+    "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://plus.rtrs.tv/"
+  },
+  {
+    "id": "RTRSTV.ba",
+    "name": "RTRS TV",
+    "logo": "https://i.imgur.com/2Sgs5gM.png",
+    "logoText": "RTR",
+    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.rtrs.tv/"
+  },
+  {
+    "id": "RTVGlasDrine.ba",
+    "name": "RTV Glas Drine",
+    "logo": "https://i.imgur.com/9NgxOdb.png",
+    "logoText": "RTV",
+    "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general",
+      "music"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://rtvglasdrine.com/"
+  },
+  {
+    "id": "RTVHB.ba",
+    "name": "RTV HB",
+    "logo": "https://i.imgur.com/6FNL8Iv.png",
+    "logoText": "RTV",
+    "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://rtv-hb.com/"
+  },
+  {
+    "id": "RTVZenica.ba",
+    "name": "RTV Zenica",
+    "logo": "https://i.imgur.com/TKUaflB.png",
+    "logoText": "RTV",
+    "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.rtvze.ba/"
+  },
+  {
+    "id": "SuperTV.ba",
+    "name": "Super TV",
+    "logo": "https://i.imgur.com/XYWgd3E.png",
+    "logoText": "SUP",
+    "url": "https://mirtv.club/live/mirtv/index.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://mirtv.club/live/mirtv/index.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.supertelevizija.com/"
+  },
+  {
+    "id": "Televizija5.ba",
+    "name": "Televizija 5",
+    "logo": "https://i.imgur.com/znpvJys.png",
+    "logoText": "TEL",
+    "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.televizija5.ba/"
+  },
+  {
+    "id": "TelevizijaM.ba",
+    "name": "Televizija M",
+    "logo": "https://i.imgur.com/jT95ZEI.png",
+    "logoText": "TEL",
+    "url": "https://live.tv-m.net/hls/stream.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.tv-m.net/hls/stream.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://tv-m.net/"
+  },
+  {
+    "id": "TNTKidsTV.ba",
+    "name": "TNT Kids TV",
+    "logo": "https://i.imgur.com/irTDbpn.png",
+    "logoText": "TNT",
+    "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://tntkids.tv/"
+  },
+  {
+    "id": "TVSlonExtra.ba",
+    "name": "TV Slon Extra",
+    "logo": "https://i.imgur.com/AohYgH1.png",
+    "logoText": "TV ",
+    "url": "http://31.47.0.130:8082",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://31.47.0.130:8082",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A."
+  }
+]

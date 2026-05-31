@@ -1,0 +1,50 @@
+[
+  {
+    "id": "KMEoxitAb2v8np",
+    "name": "Fabulosa 96.7",
+    "url": "https://bostonstreaminge.net/8006/stream",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=bostonstreaminge.net",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "DM",
+    "countryName": "Dominica",
+    "state": "",
+    "tags": "",
+    "language": "spa",
+    "homepage": ""
+  },
+  {
+    "id": "pDURs2nFmpLz3e",
+    "name": "Radio En Ba Mango",
+    "url": "https://s10.myradiostream.com/:4212/listen.mp3",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=myradiostream.com",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "DM",
+    "countryName": "Dominica",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "PKq1QPjmcITfVB",
+    "name": "Voice of Life Radio",
+    "url": "https://cdn.comeseetv.com:8000/vol",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=comeseetv.com",
+    "category": "Religious",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "DM",
+    "countryName": "Dominica",
+    "state": "",
+    "tags": "religious",
+    "language": "eng",
+    "homepage": ""
+  }
+]

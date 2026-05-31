@@ -1,0 +1,34 @@
+[
+  {
+    "id": "WPtGF3GCNvPVME",
+    "name": "BDS Nice Radio SVG",
+    "url": "https://us1.carihost.com:8380/stream",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=carihost.com",
+    "category": "Geral",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "VC",
+    "countryName": "Saint Vincent and the Grenadines",
+    "state": "",
+    "tags": "",
+    "language": "eng",
+    "homepage": ""
+  },
+  {
+    "id": "q6sG3gVMzhGfSw",
+    "name": "Reggae141",
+    "url": "https://hestia2.cdnstream.com/1301_128",
+    "favicon": "https://www.google.com/s2/favicons?sz=128&domain=cdnstream.com",
+    "category": "Reggae",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 0,
+    "country": "VC",
+    "countryName": "Saint Vincent and the Grenadines",
+    "state": "",
+    "tags": "reggae",
+    "language": "eng",
+    "homepage": ""
+  }
+]

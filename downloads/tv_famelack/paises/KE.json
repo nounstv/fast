@@ -1,0 +1,88 @@
+[
+  {
+    "id": "qrF5SmJtak0Ry4",
+    "name": "Akili Kids!",
+    "url": "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8",
+    "category": "Kids",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "AKI",
+    "streamCount": 1,
+    "allStreams": [
+      "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "MdBlLcplSVQXjK",
+    "name": "Family TV",
+    "url": "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
+    "category": "Religious",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "FAM",
+    "streamCount": 2,
+    "allStreams": [
+      "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
+      "https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8"
+    ]
+  },
+  {
+    "id": "0obNTrGtjRCK4a",
+    "name": "K24",
+    "url": "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8",
+    "category": "General",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "K24",
+    "streamCount": 1,
+    "allStreams": [
+      "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
+    ]
+  },
+  {
+    "id": "HmimxNpLzs8JkF",
+    "name": "Morning Cloud TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8",
+    "category": "Religious",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "MOR",
+    "streamCount": 1,
+    "allStreams": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "xv7XuF3Jqnre1p",
+    "name": "YOUNIB Media TV",
+    "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+    "category": "Religious",
+    "country": "KE",
+    "countryName": "Kenya",
+    "languages": [
+      "eng"
+    ],
+    "description": "Canal de TV de Kenya. Idioma: eng.",
+    "logoText": "YOU",
+    "streamCount": 1,
+    "allStreams": [
+      "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,520 @@
+[
+  {
+    "id": "BravoKidsTV.hr",
+    "name": "Bravo! Kids TV",
+    "logo": "https://i.imgur.com/JcJ6fQ9.png",
+    "logoText": "BRA",
+    "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Kids",
+    "categories": [
+      "kids"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://bravo.hr/bravo-kidstv/"
+  },
+  {
+    "id": "BravoTV.hr",
+    "name": "Bravo! TV",
+    "logo": "https://i.imgur.com/FN2J9hv.png",
+    "logoText": "BRA",
+    "url": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://bravo.hr/bravotv/"
+  },
+  {
+    "id": "CMCTV.hr",
+    "name": "CMC TV",
+    "logo": "https://i.imgur.com/FCb7Ag2.png",
+    "logoText": "CMC",
+    "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://cmc.com.hr/"
+  },
+  {
+    "id": "DiadoraTV.hr",
+    "name": "Diadora TV",
+    "logo": "https://i.imgur.com/qZzsASl.png",
+    "logoText": "DIA",
+    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://diadora.tv/"
+  },
+  {
+    "id": "ExtraTV.hr",
+    "name": "Extra TV",
+    "logo": "https://i.imgur.com/5edYPBO.png",
+    "logoText": "EXT",
+    "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://extrafm.hr/extra-tv/"
+  },
+  {
+    "id": "HRT1.hr",
+    "name": "HRT 1",
+    "logo": "https://i.imgur.com/lDSctzX.png",
+    "logoText": "HRT",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.hrt.hr/"
+  },
+  {
+    "id": "HRT2.hr",
+    "name": "HRT 2",
+    "logo": "https://i.imgur.com/yyePcl1.png",
+    "logoText": "HRT",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.hrt.hr/"
+  },
+  {
+    "id": "HRT3.hr",
+    "name": "HRT 3",
+    "logo": "https://i.imgur.com/4OrOJRx.png",
+    "logoText": "HRT",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+        "http_referrer": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+      }
+    ],
+    "category": "Culture",
+    "categories": [
+      "culture",
+      "documentary"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.hrt.hr/"
+  },
+  {
+    "id": "HRT4.hr",
+    "name": "HRT 4",
+    "logo": "https://i.imgur.com/VcNrY0m.png",
+    "logoText": "HRT",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.hrt.hr/"
+  },
+  {
+    "id": "KlapeiTambureTV.hr",
+    "name": "Klape i Tambure TV",
+    "logo": "https://i.imgur.com/sKj3dgc.png",
+    "logoText": "KLA",
+    "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Music",
+    "categories": [
+      "music"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: http://cmc.com.hr/klape-tambure-tv-info/"
+  },
+  {
+    "id": "Klasik.hr",
+    "name": "Klasik",
+    "logo": "https://i.imgur.com/C90BYlb.png",
+    "logoText": "KLA",
+    "url": "https://178.253.194.105/klasiktv/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://178.253.194.105/klasiktv/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Movies",
+    "categories": [
+      "movies"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.klasiktv.com/"
+  },
+  {
+    "id": "LibertasTV.hr",
+    "name": "Libertas TV",
+    "logo": "https://i.imgur.com/4R4fhbd.png",
+    "logoText": "LIB",
+    "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://libertas.tv/"
+  },
+  {
+    "id": "NovaTV.hr",
+    "name": "Nova TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
+    "logoText": "NOV",
+    "url": "https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: http://www.novatv.hr/"
+  },
+  {
+    "id": "OTV.hr",
+    "name": "OTV",
+    "logo": "https://i.imgur.com/67zVdu2.png",
+    "logoText": "OTV",
+    "url": "https://stream.agatin.hr:3559/live/otvlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.agatin.hr:3559/live/otvlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.otv.hr/"
+  },
+  {
+    "id": "RadioTelevizijaBanovina.hr",
+    "name": "Radio Televizija Banovina",
+    "logo": "https://i.imgur.com/gCFgC5D.png",
+    "logoText": "RAD",
+    "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A."
+  },
+  {
+    "id": "SBTV.hr",
+    "name": "SBTV",
+    "logo": "https://i.imgur.com/MIampxZ.png",
+    "logoText": "SBT",
+    "url": "https://live.leveex.hr/hls/live.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://live.leveex.hr/hls/live.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://www.sbtv.hr/"
+  },
+  {
+    "id": "STV.hr",
+    "name": "STV",
+    "logo": "https://i.imgur.com/Z3yRl17.png",
+    "logoText": "STV",
+    "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://stv.hr/"
+  },
+  {
+    "id": "TrendTV.hr",
+    "name": "Trend TV",
+    "logo": "https://i.imgur.com/4SmNISY.jpg",
+    "logoText": "TRE",
+    "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://trend.com.hr/"
+  },
+  {
+    "id": "TVJadran.hr",
+    "name": "TV Jadran",
+    "logo": "https://i.imgur.com/UWMHnOG.png",
+    "logoText": "TV ",
+    "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "News",
+    "categories": [
+      "news"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://tvjadran.hr/"
+  },
+  {
+    "id": "TVNova.hr",
+    "name": "TV Nova",
+    "logo": "https://i.imgur.com/gFjJ7YB.png",
+    "logoText": "TV ",
+    "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "Entertainment",
+    "categories": [
+      "entertainment"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://tvnova.hr/"
+  },
+  {
+    "id": "TVZapad.hr",
+    "name": "TV Zapad",
+    "logo": "https://i.imgur.com/cgCeX12.png",
+    "logoText": "TV ",
+    "url": "http://85.94.67.158/TVZAPAD/index.fmp4.m3u8",
+    "httpReferrer": null,
+    "userAgent": null,
+    "streams": [
+      {
+        "url": "http://85.94.67.158/TVZAPAD/index.fmp4.m3u8",
+        "http_referrer": null,
+        "user_agent": null
+      }
+    ],
+    "category": "General",
+    "categories": [
+      "general"
+    ],
+    "country": "HR",
+    "countryName": "Croatia",
+    "languages": [],
+    "description": "Global IPTV stream. Country: Croatia. Language: N/A. Website: https://zapad.tv/"
+  }
+]
