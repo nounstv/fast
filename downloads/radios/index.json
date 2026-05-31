@@ -1,0 +1,297 @@
+[
+  {
+    "code": "US",
+    "name": "The United States Of America",
+    "stations": 7216
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "stations": 5862
+  },
+  {
+    "code": "RU",
+    "name": "The Russian Federation",
+    "stations": 3056
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "stations": 2524
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "stations": 2452
+  },
+  {
+    "code": "GB",
+    "name": "The United Kingdom Of Great Britain And Northern Ireland",
+    "stations": 2168
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "stations": 2110
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "stations": 2255
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "stations": 2019
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "stations": 1640
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "stations": 1500
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "stations": 1409
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "stations": 1272
+  },
+  {
+    "code": "NL",
+    "name": "The Netherlands",
+    "stations": 1268
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "stations": 1121
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "stations": 1115
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "stations": 1019
+  },
+  {
+    "code": "PH",
+    "name": "The Philippines",
+    "stations": 911
+  },
+  {
+    "code": "AE",
+    "name": "The United Arab Emirates",
+    "stations": 774
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "stations": 763
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "stations": 745
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "stations": 605
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "stations": 587
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "stations": 520
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "stations": 449
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "stations": 395
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "stations": 394
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "stations": 368
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "stations": 362
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "stations": 341
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "stations": 328
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "stations": 320
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "stations": 316
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "stations": 307
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "stations": 293
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "stations": 273
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "stations": 2428
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "stations": 242
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "stations": 239
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "stations": 232
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan, Republic Of China",
+    "stations": 209
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "stations": 199
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "stations": 197
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "stations": 176
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "stations": 167
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "stations": 161
+  },
+  {
+    "code": "VE",
+    "name": "Bolivarian Republic Of Venezuela",
+    "stations": 157
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "stations": 150
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia And Herzegovina",
+    "stations": 143
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "stations": 138
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "stations": 131
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "stations": 129
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "stations": 124
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "stations": 117
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "stations": 115
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "stations": 108
+  },
+  {
+    "code": "DO",
+    "name": "The Dominican Republic",
+    "stations": 107
+  },
+  {
+    "code": "KR",
+    "name": "The Republic Of Korea",
+    "stations": 107
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "stations": 101
+  }
+]
