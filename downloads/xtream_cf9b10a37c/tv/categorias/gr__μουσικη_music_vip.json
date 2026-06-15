@@ -1,0 +1,90 @@
+[
+  {
+    "id": "801563",
+    "name": "##### GR| ΜΟΥΣΙΚΗ/MUSIC VIP #####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/801563.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1714315670",
+    "type": "live"
+  },
+  {
+    "id": "842893",
+    "name": "GR: NR1 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842893.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6556.png?11898",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090849",
+    "type": "live"
+  },
+  {
+    "id": "842892",
+    "name": "GR: ERTFLIX MUSIC ᵁᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842892.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1245.jpg?6757",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090849",
+    "type": "live"
+  },
+  {
+    "id": "842891",
+    "name": "GR: JUST MUSIC ᵁᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842891.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6553.png?81850",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090849",
+    "type": "live"
+  },
+  {
+    "id": "842890",
+    "name": "GR: PANIK TV ᵁᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842890.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1083.jpg?86336",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090848",
+    "type": "live"
+  },
+  {
+    "id": "842889",
+    "name": "GR: MTV HITS ᵁᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842889.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3190.jpg?84659",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090848",
+    "type": "live"
+  },
+  {
+    "id": "842888",
+    "name": "GR: MTV 00S",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842888.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3189.png?32541",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090848",
+    "type": "live"
+  },
+  {
+    "id": "842887",
+    "name": "GR: MTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842887.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?80360",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC VIP",
+    "categoryId": "1227",
+    "epgId": "",
+    "added": "1717090848",
+    "type": "live"
+  }
+]

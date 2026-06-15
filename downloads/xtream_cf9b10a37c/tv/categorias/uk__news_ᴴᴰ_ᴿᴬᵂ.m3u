@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="####### NEWS #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",####### NEWS #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/614580.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC NEWS HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?20760" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC NEWS HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162142.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC NEWS HEVC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?20760" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC NEWS HEVC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162141.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC WORLD NEWS HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?20760" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC WORLD NEWS HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162143.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC PARLAMENT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12068.jpg?6004" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BBC PARLAMENT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622075.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY NEWS HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3124.jpg?91022" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: SKY NEWS HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162155.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: GB NEWS 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13251.jpg?ver=18254" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: GB NEWS 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/272243.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: DW News ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/221.png?87196" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: DW News ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/483652.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: EURONEWS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/418.png?91286" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: EURONEWS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162156.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: ARISE NEWS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8189.jpg?59478" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: ARISE NEWS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/483651.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: AL JAZEERA EN HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1182.jpg?84513" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: AL JAZEERA EN HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162148.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: FRANCE 24 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/338.jpg?92461" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: FRANCE 24 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162150.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: CNN 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?1564" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: CNN 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162147.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: CNBC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/755.png?83128" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: CNBC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162149.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TVC NEWS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8323.jpg?83664" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: TVC NEWS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405526.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: NBC NEWS NOW 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8196.jpg?55816" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: NBC NEWS NOW 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/336319.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: I24 NEWS TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/422.png?38115" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: I24 NEWS TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/630318.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BLOOMBERG HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BLOOMBERG HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162145.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BLOOMBERG EU ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BLOOMBERG EU ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162146.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BLOOMBERG HEVC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: BLOOMBERG HEVC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162144.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: RT NEWS HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/427.png?94255" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: RT NEWS HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162153.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: RT UK HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8546.png?40890" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: RT UK HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162154.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: RT AMERICA HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/427.png?94255" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: RT AMERICA HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162151.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TRT WORLD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/486.png?65880" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: TRT WORLD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162157.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TALK TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?29781" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: TALK TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/351802.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TALK TV HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?29781" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: TALK TV HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/351803.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: CRUISE 1ST  TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6524.png?99227" group-title="UK| NEWS ᴴᴰ/ᴿᴬᵂ",UK: CRUISE 1ST  TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008121.ts

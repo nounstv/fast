@@ -1,0 +1,72 @@
+[
+  {
+    "id": "36153",
+    "name": "PT - Raul Seixas: Eu Sou (2025) (BR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj5ELEhjjupoY9Ffn2wAYUFod2p.jpg",
+    "category": "PT/BR GLOBOPLAY",
+    "categoryId": "1370",
+    "plot": "",
+    "cast": "Ravel Andrade, João Pedro Zappa, Amanda Grimaldi, Caroline Abras, Chandelly Braz, Julia Stockler, João Vitor Silva, Cyria Coentro",
+    "director": "Paulo Morelli",
+    "genre": "Drama",
+    "rating": "9",
+    "lastModified": "1752762504",
+    "type": "series"
+  },
+  {
+    "id": "33612",
+    "name": "PT - Coyote (2021) (US)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+    "category": "PT/BR GLOBOPLAY",
+    "categoryId": "1370",
+    "plot": "Coyote é um misto de drama e ação que versa sobre os conflitos e dilemas morais na fronteira entre os EUA e o México. Ben Clemens, interpretado por Michael Chiklis, é um guarda que passou a sua vida a patrulhar este local. Após 32 anos de serviço, Ben reforma-se e acaba no outro lado da fronteira como Coyote, o nick name mexicano para quem ajuda imigrantes ilegais a fazer a travessia rumo aos EUA. Mas aquilo que lhe pode parecer uma ação digna, rapidamente se transforma num esquema repleto de intrigas muito maior, onde a segurança da sua família será comprometida.",
+    "cast": "Michael Chiklis, Juan Pablo Raba, Adriana Paz, Kristyan Ferrer, Octavio Pisano, Cynthia Kaye McWilliams, Julio Cesar Cedillo, Ma. Elena Bañuelos",
+    "director": "Michael Carnes, Josh Gilbert, David Graziano",
+    "genre": "Drama / Crime",
+    "rating": "8",
+    "lastModified": "1745171832",
+    "type": "series"
+  },
+  {
+    "id": "32673",
+    "name": "PT - A Divisão (2019) (BR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ReYpdqfXc9XrGWQEVeZcFrPNtX.jpg",
+    "category": "PT/BR GLOBOPLAY",
+    "categoryId": "1370",
+    "plot": "Rio de Janeiro, final da década de 1990. O cotidiano das atividades de um grupo de policiais da Divisão Antissequestro do Rio, que organiza forças-tarefas para combater quadrilhas especializadas nesse tipo de crime, cuja ocorrência vem aumentando consideravelmente.",
+    "cast": "Sílvio Guindane, Erom Cordeiro, Ravel Andrade, Andréia Horta, Eduardo Lago, Cissa Guimarães, Cinnara Leal, Roberta Rodrigues",
+    "director": "José Júnior",
+    "genre": "Crime / Drama / Action & Adventure",
+    "rating": "8",
+    "lastModified": "1741874583",
+    "type": "series"
+  },
+  {
+    "id": "32672",
+    "name": "PT - Arcanjo Renegado (2020) (BR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htQ7JUhr477DjWapcDVQc9gRUQ.jpg",
+    "category": "PT/BR GLOBOPLAY",
+    "categoryId": "1370",
+    "plot": "",
+    "cast": "Marcelo Mello Jr., Erika Januza, Álamo Facó, Flávio Bauraqui, Leonardo Brício, Rita Guedes, Léa Garcia, Tatsu Carvalho",
+    "director": "José Júnior",
+    "genre": "Drama / Action & Adventure",
+    "rating": "8",
+    "lastModified": "1763288372",
+    "type": "series"
+  },
+  {
+    "id": "31040",
+    "name": "PT - O Jogo Que Mudou a História (2024) (BR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trc7lqDTPpgvHLin4BDkWNJ6z6C.jpg",
+    "category": "PT/BR GLOBOPLAY",
+    "categoryId": "1370",
+    "plot": "Inspirada em fatos reais, a série retrata o surgimento das facções do narcotráfico no Rio de Janeiro nos anos 70 e a trajetória dos seus personagens.",
+    "cast": "Pedro Wagner, Jonathan Azevedo, Fabrício Assis, Lúcio Mauro Filho, Babu Santana, Breno de Filippo, Otávio Müller, Alli Willow",
+    "director": "Heitor Dhalia, Matias Mariani, Claudio Borrelli",
+    "genre": "Drama / Action & Adventure",
+    "rating": "7",
+    "lastModified": "1738323912",
+    "type": "series"
+  }
+]

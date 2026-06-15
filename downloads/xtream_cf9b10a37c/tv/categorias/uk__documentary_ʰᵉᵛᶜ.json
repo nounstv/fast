@@ -1,0 +1,200 @@
+[
+  {
+    "id": "717721",
+    "name": "### UK DOCUMENTARY HEVC/HD ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717721.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369025",
+    "type": "live"
+  },
+  {
+    "id": "717719",
+    "name": "UK: CRIME INVESTIGATION HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717719.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "CrimeInvestigation.uk",
+    "added": "1708369025",
+    "type": "live"
+  },
+  {
+    "id": "717718",
+    "name": "UK: HISTORY HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717718.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?77583",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "DiscoveryHistory.uk",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717720",
+    "name": "UK: DISCOVERY HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717720.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?13591",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369025",
+    "type": "live"
+  },
+  {
+    "id": "717717",
+    "name": "UK: HISTORY 2 HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717717.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717716",
+    "name": "UK: NAT GEO WILD HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717716.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6658.png?24469",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "NatGeoWild.uk",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717715",
+    "name": "UK: NATIONAL GEO HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717715.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?4690",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "NatGeo.uk",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717714",
+    "name": "UK: BLOOMBERG HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717714.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "BloombergTV.uk",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717713",
+    "name": "UK: TLC HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717713.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?44351",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "TLC.uk",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717712",
+    "name": "### UK DOCUMENTARY HEVC/4K ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717712.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717711",
+    "name": "UK: DISCOVERY HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717711.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369024",
+    "type": "live"
+  },
+  {
+    "id": "717710",
+    "name": "UK: CRIME INVESTIGATION HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717710.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?53935",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "PlaneteJustice.fr",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717709",
+    "name": "UK: NAT GEO WILD HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717709.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "NatGeoWild.uk",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717708",
+    "name": "UK: NATIONAL GEO HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717708.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "NatGeo.uk",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717707",
+    "name": "UK: HISTORY HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717707.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717706",
+    "name": "UK: HISTORY 2 HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717706.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717705",
+    "name": "UK: BLOOMBERG HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717705.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?69851",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "BloombergTV.uk",
+    "added": "1708369023",
+    "type": "live"
+  },
+  {
+    "id": "717704",
+    "name": "UK: TLC HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717704.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?33829",
+    "category": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "categoryId": "1143",
+    "epgId": "TLC.uk",
+    "added": "1708369023",
+    "type": "live"
+  }
+]

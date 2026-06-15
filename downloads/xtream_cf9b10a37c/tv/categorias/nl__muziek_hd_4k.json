@@ -1,0 +1,167 @@
+[
+  {
+    "id": "507455",
+    "name": "##### MUZIEK HD/4K #####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507455.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "",
+    "added": "1690120222",
+    "type": "live"
+  },
+  {
+    "id": "1558",
+    "name": "NL: MTV ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1558.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?98156",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "mtv.nl",
+    "added": "1569504977",
+    "type": "live"
+  },
+  {
+    "id": "317774",
+    "name": "NL: MTV 80s",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/317774.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6534.jpg?5182",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "mtv.nl",
+    "added": "1639805702",
+    "type": "live"
+  },
+  {
+    "id": "97546",
+    "name": "NL: MTV LIVE ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/97546.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?22385",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "mtvlive.nl",
+    "added": "1582812323",
+    "type": "live"
+  },
+  {
+    "id": "18457",
+    "name": "NL: NICK MUSIC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/18457.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12631.jpg?ver=88289",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "nickmusic.nl",
+    "added": "1577890152",
+    "type": "live"
+  },
+  {
+    "id": "18480",
+    "name": "NL: TV 538",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/18480.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12647.jpg?ver=70081",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "tv538.nl",
+    "added": "1577890152",
+    "type": "live"
+  },
+  {
+    "id": "1556",
+    "name": "NL: TV Oranje",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1556.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/654.png?8771",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "tvoranje.nl",
+    "added": "1569504977",
+    "type": "live"
+  },
+  {
+    "id": "1562",
+    "name": "NL: 100% NL TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10077.jpg?70602",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "100nltv.nl",
+    "added": "1569504977",
+    "type": "live"
+  },
+  {
+    "id": "1605",
+    "name": "NL: Mezzo",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1605.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/649.png?9783",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "mezzo.nl",
+    "added": "1569504977",
+    "type": "live"
+  },
+  {
+    "id": "1542",
+    "name": "NL: 192 TV ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1542.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/667.png?41681",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "192tv.nl",
+    "added": "1569504977",
+    "type": "live"
+  },
+  {
+    "id": "345626",
+    "name": "NL: Dance Television HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/345626.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6264.jpg?34083",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "DanceTV.nl",
+    "added": "1650034122",
+    "type": "live"
+  },
+  {
+    "id": "219507",
+    "name": "NL: SLAM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/219507.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12979.jpg?ver=47601",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "slam.nl",
+    "added": "1608000813",
+    "type": "live"
+  },
+  {
+    "id": "219267",
+    "name": "NL: Stingray Lite TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/219267.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12978.png?ver=46351",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "stingraylitetv.nl",
+    "added": "1607945706",
+    "type": "live"
+  },
+  {
+    "id": "592566",
+    "name": "NL: TELE CURACAO ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/592566.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12659.png?85096",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "",
+    "added": "1697056049",
+    "type": "live"
+  },
+  {
+    "id": "97545",
+    "name": "NL: XITE ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/97545.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12662.jpg?ver=7317",
+    "category": "NL| MUZIEK HD/4K",
+    "categoryId": "718",
+    "epgId": "Xite.nl",
+    "added": "1582812323",
+    "type": "live"
+  }
+]

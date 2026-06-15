@@ -1,0 +1,57 @@
+[
+  {
+    "id": "499622",
+    "name": "### JORDAN LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499622.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Animated-Flag-Jordan.gif",
+    "category": "AR| JORDAN LQ ▼ الأردن",
+    "categoryId": "830",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499621",
+    "name": "AR: JORDAN LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499621.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/324.png?59972",
+    "category": "AR| JORDAN LQ ▼ الأردن",
+    "categoryId": "830",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499618",
+    "name": "AR: AMMAN TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499618.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/207.jpg?68864",
+    "category": "AR| JORDAN LQ ▼ الأردن",
+    "categoryId": "830",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499620",
+    "name": "AR: ALMAMLAKA TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499620.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/151.jpg?61766",
+    "category": "AR| JORDAN LQ ▼ الأردن",
+    "categoryId": "830",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499619",
+    "name": "AR: ROYA LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499619.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/154.jpg?97265",
+    "category": "AR| JORDAN LQ ▼ الأردن",
+    "categoryId": "830",
+    "epgId": "RoyalHD.mn",
+    "added": "1688818684",
+    "type": "live"
+  }
+]

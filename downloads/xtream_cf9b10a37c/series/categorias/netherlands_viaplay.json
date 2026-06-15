@@ -1,0 +1,72 @@
+[
+  {
+    "id": "16511",
+    "name": "VP-NL - Dodger",
+    "logo": "https://image.tmdb.org/t/p/original/9ZIuPxQIvVxYi28SNeKWwUsNRQM.jpg",
+    "category": "NETHERLANDS VIAPLAY",
+    "categoryId": "1066",
+    "plot": "Welkom bij de hilarische en spannende avonturen van de Artful Dodger, Fagin en zijn gang vol kleurrijke en fantastische Victoriaanse karakters.",
+    "cast": "Billy Jenkins, Christopher Eccleston, Ellie-May Sheridan",
+    "director": "Rhys Thomas",
+    "genre": "Komedie / Drama",
+    "rating": "6",
+    "lastModified": "1706909704",
+    "type": "series"
+  },
+  {
+    "id": "16510",
+    "name": "VP-NL - Last Light",
+    "logo": "https://image.tmdb.org/t/p/original/AeDgfMz2PE3GkKkN5PeBlzL1fiB.jpg",
+    "category": "NETHERLANDS VIAPLAY",
+    "categoryId": "1066",
+    "plot": "Gescheiden over continenten, moeten petrochemicus Andy Yeats en zijn gezin de dodelijke gevolgen van een plotselinge wereldwijde oliecrisis overleven en het brein achter dit alles vinden.",
+    "cast": "Matthew Fox, Joanne Froggatt, Alyth Ross, Taylor Fay, Amber Rose Revah",
+    "director": "",
+    "genre": "Drama / Sci-Fi & Fantasy",
+    "rating": "6",
+    "lastModified": "1706909699",
+    "type": "series"
+  },
+  {
+    "id": "16509",
+    "name": "VP-NL - Hell on Wheels",
+    "logo": "https://image.tmdb.org/t/p/original/l1BkRx7PAS3BW5w4b3aF63NG4Mx.jpg",
+    "category": "NETHERLANDS VIAPLAY",
+    "categoryId": "1066",
+    "plot": "Het epische verhaal van het Amerika na de burgeroorlog, met de nadruk op Cullen Bohannon, een Zuidelijke soldaat die wraak wil nemen op de Union-soldaten die zijn vrouw hebben vermoord. Zijn reis voert hem naar het westen, naar Hell on Wheels, een gevaarlijke, rauwe, wetteloze smeltkroes van een stad die meereist en de aanleg van de eerste transcontinentale spoorlijn ondersteunt, een technisch hoogstandje dat voor die tijd ongekend was.",
+    "cast": "Anson Mount, Colm Meaney, Robin McLeavy, Christopher Heyerdahl, Phil Burke, Tim Guinee, Angela Zhou, Byron Mann",
+    "director": "Joe Gayton, Tony Gayton",
+    "genre": "Action & Adventure / Drama / Western",
+    "rating": "8",
+    "lastModified": "1706909632",
+    "type": "series"
+  },
+  {
+    "id": "16498",
+    "name": "VP-NL - Darkness: Those Who Kill",
+    "logo": "https://image.tmdb.org/t/p/original/5kjHlWl5oN1fEY26Q8WTmJPpBRb.jpg",
+    "category": "NETHERLANDS VIAPLAY",
+    "categoryId": "1066",
+    "plot": "De zeventienjarige Julie is al zes maanden spoorloos verdwenen. Rechercheur Jan Michelsen is wanhopig omdat hij geen antwoorden kan geven op de vragen van haar moeder. Wanneer het lijk van een meisje van dezelfde leeftijd wordt gevonden en een ander meisje wordt ontvoerd, roept Jan de hulp in van psychologe en profiler Louise Bergstein om de moordenaar beter te leren begrijpen.",
+    "cast": "Natalie Madueño, Simon Sears, Thit Aaberg",
+    "director": "Ina Bruhn",
+    "genre": "Misdaad",
+    "rating": "6",
+    "lastModified": "1706894895",
+    "type": "series"
+  },
+  {
+    "id": "16168",
+    "name": "VP-NL - The Good Doctor",
+    "logo": "https://image.tmdb.org/t/p/w154/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+    "category": "NETHERLANDS VIAPLAY",
+    "categoryId": "1066",
+    "plot": "Een jonge chirurg met autisme en het  Savantsyndroom, Shaun Murphy, verhuist van een klein plaatsje in de Verenigde Staten om te gaan werken in het prestigieuze San Jose St. Bonaventure Hospital. Binnen het ziekenhuis ontstaat de vraag: kan een persoon, die niet de eigenschappen heeft om zich in te leven in andere mensen, wel levens redden? Aaron Glassman, de directeur van het ziekenhuis, probeert zijn collega's ervan te overtuigen dat ze Shaun aan moeten nemen. Shaun gebruikt zijn indrukwekkende medische vaardigheden om levens te redden en zijn sceptische collega's uit te dagen.",
+    "cast": "Freddie Highmore, Paige Spara, Chuku Modu, Richard Schiff",
+    "director": "David Shore",
+    "genre": "Drama",
+    "rating": "9",
+    "lastModified": "1706894671",
+    "type": "series"
+  }
+]

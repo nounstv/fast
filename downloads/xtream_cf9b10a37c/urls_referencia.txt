@@ -1,0 +1,10 @@
+# Xtream Codes - Referência
+# Extraído em 15/06/2026 03:23
+# Servidor: http://cf.business-cdn-8k.com
+# Usuário: cf9b10a37c7c
+
+M3U Playlist:
+http://cf.business-cdn-8k.com/get.php?username=cf9b10a37c7c&password=f4bb9ed47c&type=m3u_plus&output=ts
+
+EPG:
+http://cf.business-cdn-8k.com/xmltv.php?username=cf9b10a37c7c&password=f4bb9ed47c

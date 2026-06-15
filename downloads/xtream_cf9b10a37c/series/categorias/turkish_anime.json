@@ -1,0 +1,44 @@
+[
+  {
+    "id": "19345",
+    "name": "TR - The Grimm Variations (2024) (JP)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmwK3t35OFht8zQQ1XvWWwgQn9P.jpg",
+    "category": "TURKISH ANIME",
+    "categoryId": "2289",
+    "plot": "Grimm kardeşlerin klasik öykülerinden esinlenen bu antolojide, insanın tutkularının karanlık yönlerini ortaya çıkaran korkunç gelişmelerle dolu altı öykü yer alıyor.",
+    "cast": "福圓美里, 鈴木達央, 野島健児",
+    "director": "",
+    "genre": "Animasyon / Bilim Kurgu & Fantazi / Dram / Gizem",
+    "rating": "7",
+    "lastModified": "1777216405",
+    "type": "series"
+  },
+  {
+    "id": "17208",
+    "name": "TR - Yu-Gi-Oh! Capsule Monsters (2006) (US)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pbIbxJPUTf0JqEbq8cPFFISm9X.jpg",
+    "category": "TURKISH ANIME",
+    "categoryId": "2289",
+    "plot": "",
+    "cast": "Dan Green, Gregory Abbey, Wayne Grayson, Maddie Blaustein, Amy Birnbaum",
+    "director": "Kazuki Takahashi",
+    "genre": "Animasyon / Aksiyon & Macera",
+    "rating": "8",
+    "lastModified": "1777216459",
+    "type": "series"
+  },
+  {
+    "id": "10864",
+    "name": "TR - Blue Lock (2022) (JP)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aICTTHECyRwB2pBHm3rAj1SgGg.jpg",
+    "category": "TURKISH ANIME",
+    "categoryId": "2289",
+    "plot": "Japonya'nın Dünya Kupası'nda zafere ulaşma arzusu, Japon Futbol Federasyonu'nun milli takımın yeni forvetini bulmak için yeni ve sıkı bir eğitim programı başlatmasına neden olur. 300 lise oyuncusu bu pozisyon için karşı karşıya getirilir ancak sadece bir tanesi birinci olacaktır. Aralarından kim Japon futbolunda yeni bir çağ başlatacak forvet olacak?",
+    "cast": "浦和希, 海渡翼, 小野友樹, 斉藤壮馬, 諏訪部順一, 島﨑信長, 松岡禎丞",
+    "director": "",
+    "genre": "Animasyon / Aksiyon & Macera / Dram",
+    "rating": "8",
+    "lastModified": "1777216474",
+    "type": "series"
+  }
+]

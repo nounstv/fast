@@ -1,0 +1,90 @@
+[
+  {
+    "id": "912042",
+    "name": "##### SCOTTISH CUP PPV #####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912042.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144910",
+    "type": "live"
+  },
+  {
+    "id": "912041",
+    "name": "Scottish Cup 1: Celtic 15:00 Dunfermline",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912041.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144910",
+    "type": "live"
+  },
+  {
+    "id": "912040",
+    "name": "Scottish Cup 2: Rangers vs Queen’s Park 3:30pm",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912040.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  },
+  {
+    "id": "912039",
+    "name": "Scottish Cup 3: Celtic vs Hibernian 15.00",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912039.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  },
+  {
+    "id": "912038",
+    "name": "Scottish Cup 4: Dundee vs Airdrieonians 15.00",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912038.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  },
+  {
+    "id": "912037",
+    "name": "Scottish Cup 5: Spartans vs Ross County 15.00",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912037.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  },
+  {
+    "id": "912036",
+    "name": "Scottish Cup 6: 20:00 Buckie Thistle vs Dundee United",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912036.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  },
+  {
+    "id": "912035",
+    "name": "Scottish Cup 7: 16.15 Dundee United vs Ayr United",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/912035.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273",
+    "category": "UK| SCOTTISH CUP PPV",
+    "categoryId": "1375",
+    "epgId": "",
+    "added": "1721144909",
+    "type": "live"
+  }
+]

@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="##### JAPAN #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-Japan.gif" group-title="JP| JAPAN HD/4K",##### JAPAN #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/628433.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: ABC (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13621.png?97645" group-title="JP| JAPAN HD/4K",JP: ABC (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962400.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: AF UG NHK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11098.png?39769" group-title="JP| JAPAN HD/4K",JP: AF UG NHK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/628430.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: ANIMAX (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12499.png?4979" group-title="JP| JAPAN HD/4K",JP: ANIMAX (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962339.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS 10 STAR CHANNEL (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15036.png?6161" group-title="JP| JAPAN HD/4K",JP: BS 10 STAR CHANNEL (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962345.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS ASAHI (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12519.jpg?37952" group-title="JP| JAPAN HD/4K",JP: BS ASAHI (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962353.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS FUJI (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12543.jpg?77070" group-title="JP| JAPAN HD/4K",JP: BS FUJI (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962350.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS NTV (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14133.png?30834" group-title="JP| JAPAN HD/4K",JP: BS NTV (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962354.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS TBS (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9683.png?21679" group-title="JP| JAPAN HD/4K",JP: BS TBS (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962352.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: BS TV TOKYO (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15029.png?63645" group-title="JP| JAPAN HD/4K",JP: BS TV TOKYO (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962351.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: DISNEY CHANNEL (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/628.jpg?69053" group-title="JP| JAPAN HD/4K",JP: DISNEY CHANNEL (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962335.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: FISHING VISION (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12451.jpg?2320" group-title="JP| JAPAN HD/4K",JP: FISHING VISION (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962336.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: FUJI TV (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12543.jpg?77070" group-title="JP| JAPAN HD/4K",JP: FUJI TV (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962420.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: FUJI TV HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12543.jpg?77070" group-title="JP| JAPAN HD/4K",JP: FUJI TV HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962428.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: GREEN CHANNEL (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15038.png?62058" group-title="JP| JAPAN HD/4K",JP: GREEN CHANNEL (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962340.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: ID NHK WORLD JAPAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?84052" group-title="JP| JAPAN HD/4K",JP: ID NHK WORLD JAPAN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/628432.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: JCOM BS (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15040.png?47404" group-title="JP| JAPAN HD/4K",JP: JCOM BS (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962334.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: JS SPORT 1 (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15037.png?61365" group-title="JP| JAPAN HD/4K",JP: JS SPORT 1 (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962344.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: JS SPORT 2 (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15037.png?61365" group-title="JP| JAPAN HD/4K",JP: JS SPORT 2 (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962343.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: JS SPORT 3 (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15037.png?61365" group-title="JP| JAPAN HD/4K",JP: JS SPORT 3 (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962342.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: JS SPORT 4 (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15037.png?61365" group-title="JP| JAPAN HD/4K",JP: JS SPORT 4 (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962341.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: KANSAI TV (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15032.jpg?13673" group-title="JP| JAPAN HD/4K",JP: KANSAI TV (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962399.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: MBS (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15030.png?68525" group-title="JP| JAPAN HD/4K",JP: MBS (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962401.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK BS (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15034.png?34328" group-title="JP| JAPAN HD/4K",JP: NHK BS (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962355.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK BS4K (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?41529" group-title="JP| JAPAN HD/4K",JP: NHK BS4K (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962349.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK E (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?35867" group-title="JP| JAPAN HD/4K",JP: NHK E (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962423.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK E HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?35867" group-title="JP| JAPAN HD/4K",JP: NHK E HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962431.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK G (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?35867" group-title="JP| JAPAN HD/4K",JP: NHK G (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962424.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK G HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?35867" group-title="JP| JAPAN HD/4K",JP: NHK G HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962432.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NHK G OSAKA (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?66213" group-title="JP| JAPAN HD/4K",JP: NHK G OSAKA (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962402.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NIHON EIGA SENMON (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15039.png?85281" group-title="JP| JAPAN HD/4K",JP: NIHON EIGA SENMON (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962338.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NTV (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14133.png?5359" group-title="JP| JAPAN HD/4K",JP: NTV (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962422.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: NTV HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14133.png?5359" group-title="JP| JAPAN HD/4K",JP: NTV HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962430.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: SKY A (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14734.jpg?90795" group-title="JP| JAPAN HD/4K",JP: SKY A (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962337.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: SUN (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8493.png?79706" group-title="JP| JAPAN HD/4K",JP: SUN (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962396.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TBS (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9683.png?21679" group-title="JP| JAPAN HD/4K",JP: TBS (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962421.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TBS HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9683.png?21679" group-title="JP| JAPAN HD/4K",JP: TBS HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962429.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TOKYO MX1 (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15029.png?63645" group-title="JP| JAPAN HD/4K",JP: TOKYO MX1 (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962417.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TOKYO MX1 HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15029.png?63645" group-title="JP| JAPAN HD/4K",JP: TOKYO MX1 HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962425.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TV ASAHI (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12519.jpg?37952" group-title="JP| JAPAN HD/4K",JP: TV ASAHI (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962419.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TV ASAHI HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12519.jpg?37952" group-title="JP| JAPAN HD/4K",JP: TV ASAHI HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962427.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TV OSAKA (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15031.jpg?81805" group-title="JP| JAPAN HD/4K",JP: TV OSAKA (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962397.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TV TOKYO (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15029.png?63645" group-title="JP| JAPAN HD/4K",JP: TV TOKYO (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962418.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: TV TOKYO HD (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15029.png?63645" group-title="JP| JAPAN HD/4K",JP: TV TOKYO HD (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962426.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: WOWOW CINEMA (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15035.png?17765" group-title="JP| JAPAN HD/4K",JP: WOWOW CINEMA (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962347.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: WOWOW LIVE (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15035.png?17765" group-title="JP| JAPAN HD/4K",JP: WOWOW LIVE (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962346.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: WOWOW PRIME (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15035.png?17765" group-title="JP| JAPAN HD/4K",JP: WOWOW PRIME (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962348.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: YTV (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15033.jpg?46598" group-title="JP| JAPAN HD/4K",JP: YTV (PRIMEHOME)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1962398.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="JP: ID NHK WORLD PREMIUM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?ver=41555" group-title="JP| JAPAN HD/4K",JP: ID NHK WORLD PREMIUM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/628429.ts

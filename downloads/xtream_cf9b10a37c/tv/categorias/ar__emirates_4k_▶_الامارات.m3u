@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="###### EMIRATES TV ######" tvg-logo="https://cdn.pixabay.com/animation/2022/09/16/16/43/16-43-28-59_512.gif" group-title="AR| EMIRATES 4K ▶ الامارات",###### EMIRATES TV ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251809.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Dubai TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/51.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3082.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Dubai TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/51.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/306245.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Abu Dhabi TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/61.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Abu Dhabi TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3083.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Abu Dhabi TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/61.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Abu Dhabi TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/293969.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Al Emarat TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/55.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Al Emarat TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3086.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Al Emarat TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/55.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Al Emarat TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/293970.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Baynounah TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/63.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Baynounah TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3098.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Baynounah TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/63.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Baynounah TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/498167.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Dubai One 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/69.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai One 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3079.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Dafrah 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/74.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dafrah 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3089.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Fujairah TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/71.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Fujairah TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3093.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Fujairah TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/71.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Fujairah TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/497881.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Sama Dubai 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/76.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Sama Dubai 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4447.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Sama Dubai HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/76.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Sama Dubai HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499135.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Ajman TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/72.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Ajman TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3119.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Ajman TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/72.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Ajman TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/498836.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Sharjah 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/73.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Sharjah 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2325.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Sharjah HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/73.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Sharjah HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/983063.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Sharqiya from Kalba 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1189.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Sharqiya from Kalba 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2323.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: B4U Plus" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/239.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: B4U Plus
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3277.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Almajd General" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd General
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/214818.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Almajd Rawda" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Rawda
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/214816.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Almajd Religious Science" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5017.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Religious Science
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/7140.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Al Wasat TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1200.png?69114" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Al Wasat TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1499685.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: Almajd Space TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Space TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/7138.ts

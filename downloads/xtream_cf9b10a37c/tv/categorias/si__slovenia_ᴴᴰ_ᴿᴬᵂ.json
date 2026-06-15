@@ -1,0 +1,145 @@
+[
+  {
+    "id": "2632",
+    "name": "SI: SPORT TV 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2632.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4000.jpg?ver=66952",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2631",
+    "name": "SI: SPORT TV 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2631.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4010.jpg?9954",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2630",
+    "name": "SI: SPORT TV 3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2630.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4017.jpg?29787",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2633",
+    "name": "SI: Sport Klub 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2633.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "301537",
+    "name": "SL: VESELJAK 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/301537.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10969.png?77173",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1633012893",
+    "type": "live"
+  },
+  {
+    "id": "2636",
+    "name": "SI: SLO 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2636.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4002.jpg?8187",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2635",
+    "name": "SI: SLO 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2635.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4001.png?89845",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2637",
+    "name": "SI: POP TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2637.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4003.jpg?48074",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2638",
+    "name": "SI: Pop Oto",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2638.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4004.png?17114",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2639",
+    "name": "SI: Pop Kino",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2639.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12092.jpg?84772",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694850",
+    "type": "live"
+  },
+  {
+    "id": "2640",
+    "name": "SI: Pop Brio",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2640.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4006.png?41874",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694851",
+    "type": "live"
+  },
+  {
+    "id": "2641",
+    "name": "SI: PLANET TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2641.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4007.jpg?66083",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694851",
+    "type": "live"
+  },
+  {
+    "id": "2642",
+    "name": "SI: KANAL A",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2642.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4008.jpg?92113",
+    "category": "SI| SLOVENIA ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "15",
+    "epgId": "",
+    "added": "1569694851",
+    "type": "live"
+  }
+]

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="### UK KIDS HEVC/HD ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| KIDS ʰᵉᵛᶜ",### UK KIDS HEVC/HD ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717695.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY KIDS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?96359" group-title="UK| KIDS ʰᵉᵛᶜ",UK: SKY KIDS HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717694.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: NICK  HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3795.jpg?48463" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK  HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717692.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: DISNEY JR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6637.png?47944" group-title="UK| KIDS ʰᵉᵛᶜ",UK: DISNEY JR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1739582.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: NICK JR HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/746.png?37597" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK JR HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717693.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: CARTOON NETWORK HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?14401" group-title="UK| KIDS ʰᵉᵛᶜ",UK: CARTOON NETWORK HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717691.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BOOMERANG HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?23160" group-title="UK| KIDS ʰᵉᵛᶜ",UK: BOOMERANG HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717690.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="### UK KIDS HEVC/4K ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| KIDS ʰᵉᵛᶜ",### UK KIDS HEVC/4K ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717689.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY KIDS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?18963" group-title="UK| KIDS ʰᵉᵛᶜ",UK: SKY KIDS HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717688.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: NICK JR HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/746.png?37597" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK JR HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717687.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: NICK HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3795.jpg?3303" group-title="UK| KIDS ʰᵉᵛᶜ",UK: NICK HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717686.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: CARTOON NETWORK HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/752.png?95951" group-title="UK| KIDS ʰᵉᵛᶜ",UK: CARTOON NETWORK HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717685.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BOOMERANG HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?95301" group-title="UK| KIDS ʰᵉᵛᶜ",UK: BOOMERANG HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717684.ts

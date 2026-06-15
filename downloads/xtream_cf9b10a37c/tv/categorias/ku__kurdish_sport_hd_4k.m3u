@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="#### KURDISH SPORT HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Kurdish.gif" group-title="KU| KURDISH SPORT HD/4K",#### KURDISH SPORT HD/4K ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/509118.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: ASTERA SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8464.png?60084" group-title="KU| KURDISH SPORT HD/4K",KU: ASTERA SPORT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/201937.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: DASINYA SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8491.jpg?53746" group-title="KU| KURDISH SPORT HD/4K",KU: DASINYA SPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/202004.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: DUHOK SPORT 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13454.jpg?30401" group-title="KU| KURDISH SPORT HD/4K",KU: DUHOK SPORT 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/381104.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: Euro Kurd HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3303.jpg?89813" group-title="KU| KURDISH SPORT HD/4K",KU: Euro Kurd HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/272567.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: LD SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3314.png?73953" group-title="KU| KURDISH SPORT HD/4K",KU: LD SPORT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/286388.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: SEE SPORT 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7705.png?39143" group-title="KU| KURDISH SPORT HD/4K",KU: SEE SPORT 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380729.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: ZAXO SPORT 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10562.jpg?61283" group-title="KU| KURDISH SPORT HD/4K",KU: ZAXO SPORT 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380931.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="KU: ZHYAR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11143.jpg?45057" group-title="KU| KURDISH SPORT HD/4K",KU: ZHYAR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/201953.ts

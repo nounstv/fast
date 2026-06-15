@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="##### NCAAF #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| NCAAF PPV",##### NCAAF #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/575106.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 01: NC State at Wake Forest 7:30pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 01: NC State at Wake Forest 7:30pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605011.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 02: ESPN2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 02: ESPN2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605010.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 03: ESPNU" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 03: ESPNU
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605009.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 04: ABC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 04: ABC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605008.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 05: CBS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 05: CBS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605007.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 06: FOX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 06: FOX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605006.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 07: NBC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 07: NBC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605005.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 08: ACC NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 08: ACC NETWORK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605004.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 09: BIG TEN NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 09: BIG TEN NETWORK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605003.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 10: BIG TEN NETWORK ALT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 10: BIG TEN NETWORK ALT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605002.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 11: SEC NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 11: SEC NETWORK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605001.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 12: CBSSN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 12: CBSSN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605000.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 13: FS1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 13: FS1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604999.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 14: CW" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 14: CW
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604998.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 15: TNT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 15: TNT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604997.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 16:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 16:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604996.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 17:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 17:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604995.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 18:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 18:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604994.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 19:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 19:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604993.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 20:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 20:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604992.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 21:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 21:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604991.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 22:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 22:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604990.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 23:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 23:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604989.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 24:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 24:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604988.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 25:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 25:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604987.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 26:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 26:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604986.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 27:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 27:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604985.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 28:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 28:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604984.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 29:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 29:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604983.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 30:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 30:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604982.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 31:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 31:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604981.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 32:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 32:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604980.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 33:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 33:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604979.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 34: UAlbany at lowa 6pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 34: UAlbany at lowa 6pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604978.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 35:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 35:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604977.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 36:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 36:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604976.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 37:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 37:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604975.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 38:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 38:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604974.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 39:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 39:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604973.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 40:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 40:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604972.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 41:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 41:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604971.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 42:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 42:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604970.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 43:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 43:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604969.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 44:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 44:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604968.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 45:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 45:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604967.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 46:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 46:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604966.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 47:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 47:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604965.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 48:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 48:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604964.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 49:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 49:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604963.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 50:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 50:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604962.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 51:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 51:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604961.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 52:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 52:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604960.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 53:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 53:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604959.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 54:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 54:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604958.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 55:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 55:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604957.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 56:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 56:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604956.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 57:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 57:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604955.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 58: 7PM North Carolina at Charlotte" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 58: 7PM North Carolina at Charlotte
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604954.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 59:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 59:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604953.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 60:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 60:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604952.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 61:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 61:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604951.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 62:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 62:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604950.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 63:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 63:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604949.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 64:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 64:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604948.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 65:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 65:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604947.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 66:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 66:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604946.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 67:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 67:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604945.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 68:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 68:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604944.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 69:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 69:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604943.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 70:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 70:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604942.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 71:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 71:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604941.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 72:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 72:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604940.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 73:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 73:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604939.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 74:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 74:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604938.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 75:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 75:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604937.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 76:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 76:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604936.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 77:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 77:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604935.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 78:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 78:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604934.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 79:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 79:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604933.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 80:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 80:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604932.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 81:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 81:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604931.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 82:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 82:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604930.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 83:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 83:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604929.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 84:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 84:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604928.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NCAAF 85:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13833.png?ver=6288" group-title="US| NCAAF PPV",NCAAF 85:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604927.ts

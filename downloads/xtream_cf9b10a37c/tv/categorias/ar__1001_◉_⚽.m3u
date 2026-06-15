@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="####### 1001 ◉ #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Animated-Flag-Iraq_%282008-present%29.gif" group-title="AR| 1001 ◉ ⚽",####### 1001 ◉ #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629963.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 1 ◉ ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 1 ◉ ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629962.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 2 ◉ ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 2 ◉ ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629961.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 1 ◉ SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 1 ◉ SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629960.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 2 ◉ SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 2 ◉ SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629959.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 1 ◉ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 1 ◉ ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629958.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AR: LA LIGA 2 ◉ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14657.png?ver=52022" group-title="AR| 1001 ◉ ⚽",AR: LA LIGA 2 ◉ ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1629957.ts

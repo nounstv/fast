@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1003096",
+    "name": "###### TV2 PLAY ᴿᴬᵂ ⁵⁰ᶠᵖˢ ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003096.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Animated-Flag-Norway.gif",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "",
+    "added": "1724373082",
+    "type": "live"
+  },
+  {
+    "id": "1003095",
+    "name": "NO: TV 2 DIREKTE ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003095.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2direkte.no",
+    "added": "1724373082",
+    "type": "live"
+  },
+  {
+    "id": "1003094",
+    "name": "NO: TV 2 ZEBRA ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003094.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2zebra.no",
+    "added": "1724373082",
+    "type": "live"
+  },
+  {
+    "id": "1003093",
+    "name": "NO: TV 2 LIVSSTIL ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003093.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2livsstil.no",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003092",
+    "name": "NO: TV 2 NYHETER ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003092.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2nyheter.no",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003091",
+    "name": "NO: HITS ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003091.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "cmorehits.no",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003090",
+    "name": "NO: SF-KANALEN ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003090.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003089",
+    "name": "NO: STARS ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003089.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003088",
+    "name": "NO: TV 2 SPORT 1 ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003088.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2sport1.no",
+    "added": "1724373081",
+    "type": "live"
+  },
+  {
+    "id": "1003087",
+    "name": "NO: TV 2 SPORT 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003087.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2sport2.no",
+    "added": "1724373080",
+    "type": "live"
+  },
+  {
+    "id": "1003086",
+    "name": "NO: TV 2 SPORT PREMIUM ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003086.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2sportpremium.no",
+    "added": "1724373080",
+    "type": "live"
+  },
+  {
+    "id": "1003085",
+    "name": "NO: TV 2 SPORT PREMIUM 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1003085.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",
+    "category": "NO| TV2 PLAY ᴿᴬᵂ",
+    "categoryId": "1461",
+    "epgId": "tv2sportpremium2.no",
+    "added": "1724373080",
+    "type": "live"
+  }
+]

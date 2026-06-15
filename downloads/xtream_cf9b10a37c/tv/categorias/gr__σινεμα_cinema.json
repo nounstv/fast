@@ -1,0 +1,233 @@
+[
+  {
+    "id": "623117",
+    "name": "#### ΣΙΝΕΜΑ/CINEMA ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/623117.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1700086490",
+    "type": "live"
+  },
+  {
+    "id": "460903",
+    "name": "GR: COSMOTE CINEMA 1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460903.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema1.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460902",
+    "name": "GR: COSMOTE CINEMA 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460902.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema2.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460901",
+    "name": "GR: COSMOTE CINEMA 3 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460901.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema3.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460899",
+    "name": "GR: COSMOTE SERIES",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460899.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotetv.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460900",
+    "name": "GR: COSMOTE SERIES HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460900.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema4.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460904",
+    "name": "GR: OTE SERIES UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460904.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/OTE-TV.jpeg",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460907",
+    "name": "GR: OTECINEMA 1 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460907.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema1.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460906",
+    "name": "GR: OTECINEMA 2 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460906.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema2.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460905",
+    "name": "GR: OTECINEMA 3 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460905.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotecinema3.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  },
+  {
+    "id": "460887",
+    "name": "GR: NOVACINEMA 1 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460887.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novacinema.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460886",
+    "name": "GR: NOVACINEMA 2 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460886.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novacinema.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460885",
+    "name": "GR: NOVACINEMA 3 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460885.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novacinema.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509077",
+    "type": "live"
+  },
+  {
+    "id": "460884",
+    "name": "GR: NOVACINEMA 4 UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460884.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novacinema.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509077",
+    "type": "live"
+  },
+  {
+    "id": "460888",
+    "name": "GR: NOVALIFE UHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460888.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novalife.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460707",
+    "name": "GR: ALERT CHANNEL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460707.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ALERT-CHANNEL-NEWS.jpg",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509026",
+    "type": "live"
+  },
+  {
+    "id": "460897",
+    "name": "GR: FOX CHANNEL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460897.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/foxchannel.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460896",
+    "name": "GR: FOX LIFE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460896.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/foxlifehd.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460803",
+    "name": "GR: VILLAGE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460803.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/village.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509070",
+    "type": "live"
+  },
+  {
+    "id": "545273",
+    "name": "GR: FILME 4 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/545273.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10801.png?83614",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1693911607",
+    "type": "live"
+  },
+  {
+    "id": "460898",
+    "name": "GR: TCM HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460898.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/tcmhd.png",
+    "category": "GR| ΣΙΝΕΜΑ/CINEMA",
+    "categoryId": "966",
+    "epgId": "",
+    "added": "1677509079",
+    "type": "live"
+  }
+]

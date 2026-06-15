@@ -1,0 +1,233 @@
+[
+  {
+    "id": "431199",
+    "name": "###### MLB -1 PPV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/431199.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1672929554",
+    "type": "live"
+  },
+  {
+    "id": "431198",
+    "name": "MLB: MLB NETWORK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/431198.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "MLBNetwork.us",
+    "added": "1672929554",
+    "type": "live"
+  },
+  {
+    "id": "431197",
+    "name": "MLB: MLB NETWORK (US)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/431197.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "MLBNetwork.us",
+    "added": "1672929554",
+    "type": "live"
+  },
+  {
+    "id": "762779",
+    "name": "MLB 01 | Cardinals x Twins start:2026-06-13 19:10:00 stop:2026-06-14 02:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762779.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762778",
+    "name": "MLB 02 | Yankees x Blue Jays start:2026-06-13 20:07:00 stop:2026-06-14 03:20:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762778.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762777",
+    "name": "MLB 03 | Padres x Orioles start:2026-06-13 21:05:00 stop:2026-06-14 04:18:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762777.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762776",
+    "name": "MLB 04 | Mariners x Nationals start:2026-06-13 21:05:00 stop:2026-06-14 04:18:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762776.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762775",
+    "name": "MLB 05 | Marlins x Pirates start:2026-06-13 21:05:00 stop:2026-06-14 04:18:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762775.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762774",
+    "name": "MLB 06 | D-backs x Reds start:2026-06-13 21:10:00 stop:2026-06-14 04:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762774.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762773",
+    "name": "MLB 07 | Tigers x Guardians start:2026-06-13 21:10:00 stop:2026-06-14 04:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762773.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910087",
+    "type": "live"
+  },
+  {
+    "id": "762772",
+    "name": "MLB 08 | Rangers x Red Sox start:2026-06-13 21:10:00 stop:2026-06-14 04:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762772.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762771",
+    "name": "MLB 09 | Braves x Mets start:2026-06-13 21:10:00 stop:2026-06-14 04:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762771.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762770",
+    "name": "MLB 10 | Dodgers x White Sox start:2026-06-13 21:10:00 stop:2026-06-14 04:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762770.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762769",
+    "name": "MLB 11 | Astros x Royals start:2026-06-14 00:10:00 stop:2026-06-14 07:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762769.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762768",
+    "name": "MLB 12 | Phillies x Brewers start:2026-06-14 00:10:00 stop:2026-06-14 07:23:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762768.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762767",
+    "name": "MLB 13 | Cubs x Giants start:2026-06-14 03:05:00 stop:2026-06-14 10:18:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762767.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762766",
+    "name": "MLB 14 | Rays x Angels start:2026-06-14 03:07:00 stop:2026-06-14 10:20:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762766.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762765",
+    "name": "MLB 15 | Rockies x Athletics start:2026-06-14 03:05:00 stop:2026-06-14 10:18:20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762765.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910086",
+    "type": "live"
+  },
+  {
+    "id": "762764",
+    "name": "MLB 16 |",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762764.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910085",
+    "type": "live"
+  },
+  {
+    "id": "762763",
+    "name": "MLB 17 |",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762763.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910085",
+    "type": "live"
+  },
+  {
+    "id": "762762",
+    "name": "MLB 18:",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/762762.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8211.png?ver=9960",
+    "category": "US| MLB PPV",
+    "categoryId": "606",
+    "epgId": "",
+    "added": "1711910085",
+    "type": "live"
+  }
+]

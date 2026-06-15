@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1216553",
+    "name": "####### ESPN SPORT #######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216553.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Brazil.gif",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189022",
+    "type": "live"
+  },
+  {
+    "id": "1513067",
+    "name": "BR: CAZÉTV ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1513067.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1758021109",
+    "type": "live"
+  },
+  {
+    "id": "1704606",
+    "name": "BR: DISNEY+ XSPORTS BRASIL ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1704606.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1764273127",
+    "type": "live"
+  },
+  {
+    "id": "1216552",
+    "name": "BR: DISNEY+ ESPN ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216552.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189022",
+    "type": "live"
+  },
+  {
+    "id": "1216551",
+    "name": "BR: DISNEY+ ESPN 2 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216551.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189022",
+    "type": "live"
+  },
+  {
+    "id": "1216550",
+    "name": "BR: DISNEY+ ESPN 3 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216550.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189022",
+    "type": "live"
+  },
+  {
+    "id": "1216549",
+    "name": "BR: DISNEY+ ESPN 4 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216549.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189022",
+    "type": "live"
+  },
+  {
+    "id": "1216548",
+    "name": "BR: DISNEY+ ESPN 5 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216548.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189021",
+    "type": "live"
+  },
+  {
+    "id": "1216547",
+    "name": "BR: DISNEY+ ESPN 6 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1216547.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7876.jpg?98277",
+    "category": "BR| ESPN SPORT ᴴᴰ",
+    "categoryId": "1666",
+    "epgId": "",
+    "added": "1733189021",
+    "type": "live"
+  }
+]

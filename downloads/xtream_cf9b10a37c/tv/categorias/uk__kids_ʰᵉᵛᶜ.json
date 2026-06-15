@@ -1,0 +1,145 @@
+[
+  {
+    "id": "717695",
+    "name": "### UK KIDS HEVC/HD ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717695.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "",
+    "added": "1708368779",
+    "type": "live"
+  },
+  {
+    "id": "717694",
+    "name": "UK: SKY KIDS HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717694.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?96359",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "SkyKids.uk",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717692",
+    "name": "UK: NICK  HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717692.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3795.jpg?48463",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "1739582",
+    "name": "UK: DISNEY JR HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1739582.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6637.png?47944",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "",
+    "added": "1765354373",
+    "type": "live"
+  },
+  {
+    "id": "717693",
+    "name": "UK: NICK JR HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717693.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/746.png?37597",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "NickJunior.uk",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717691",
+    "name": "UK: CARTOON NETWORK HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717691.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?14401",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "CartoonNetwork.uk",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717690",
+    "name": "UK: BOOMERANG HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717690.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?23160",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "Boomerang.uk",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717689",
+    "name": "### UK KIDS HEVC/4K ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717689.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717688",
+    "name": "UK: SKY KIDS HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717688.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?18963",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "SkyKids.uk",
+    "added": "1708368778",
+    "type": "live"
+  },
+  {
+    "id": "717687",
+    "name": "UK: NICK JR HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717687.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/746.png?37597",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "NickJunior.uk",
+    "added": "1708368777",
+    "type": "live"
+  },
+  {
+    "id": "717686",
+    "name": "UK: NICK HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717686.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3795.jpg?3303",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "",
+    "added": "1708368777",
+    "type": "live"
+  },
+  {
+    "id": "717685",
+    "name": "UK: CARTOON NETWORK HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717685.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/752.png?95951",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "CartoonNetwork.uk",
+    "added": "1708368777",
+    "type": "live"
+  },
+  {
+    "id": "717684",
+    "name": "UK: BOOMERANG HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717684.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?95301",
+    "category": "UK| KIDS ʰᵉᵛᶜ",
+    "categoryId": "1142",
+    "epgId": "Boomerang.uk",
+    "added": "1708368777",
+    "type": "live"
+  }
+]

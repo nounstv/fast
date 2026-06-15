@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1527600",
+    "name": "## NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ ##",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527600.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "",
+    "added": "1758205168",
+    "type": "live"
+  },
+  {
+    "id": "1527599",
+    "name": "NOW: TNT SPORT  ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527599.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?90580",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "",
+    "added": "1758205168",
+    "type": "live"
+  },
+  {
+    "id": "1527598",
+    "name": "NOW: SKY SPORTS MAIN EVENT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527598.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?51065",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "",
+    "added": "1758205168",
+    "type": "live"
+  },
+  {
+    "id": "1527597",
+    "name": "NOW: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527597.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11103.png?52269",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "skysports1uhd.uk",
+    "added": "1758205168",
+    "type": "live"
+  },
+  {
+    "id": "1527596",
+    "name": "NOW: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527596.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14437.jpg?46614",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "skysports2uhd.uk",
+    "added": "1758205168",
+    "type": "live"
+  },
+  {
+    "id": "1527595",
+    "name": "NOW: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1527595.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?35736",
+    "category": "UK| NOW TV SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "categoryId": "1965",
+    "epgId": "skysportsf1.uk",
+    "added": "1758205168",
+    "type": "live"
+  }
+]

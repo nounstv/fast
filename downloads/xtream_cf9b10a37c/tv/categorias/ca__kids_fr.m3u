@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="######## KIDS FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| KIDS FR",######## KIDS FR ########
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/413882.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: BABY TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?86017" group-title="CA| KIDS FR",CA FR: BABY TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412852.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: DISNEY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: DISNEY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412945.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE ACADIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?45292" group-title="CA| KIDS FR",CA FR: ICI TELE ACADIE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412833.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE ALBERTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE ALBERTA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412832.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE CB-YUKON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE CB-YUKON HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412831.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE EST-QUEBEC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6592.jpg?7730" group-title="CA| KIDS FR",CA FR: ICI TELE EST-QUEBEC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412830.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?33300" group-title="CA| KIDS FR",CA FR: ICI TELE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412894.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE MANITOBA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?48010" group-title="CA| KIDS FR",CA FR: ICI TELE MANITOBA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412828.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: ICI TELE SASKATCHEWAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?31812" group-title="CA| KIDS FR",CA FR: ICI TELE SASKATCHEWAN HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412823.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: LA CHAINE DISNEY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?49058" group-title="CA| KIDS FR",CA FR: LA CHAINE DISNEY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412871.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: LA CHAINE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: LA CHAINE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412946.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: LUDIKIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9848.jpg?73817" group-title="CA| KIDS FR",CA FR: LUDIKIDS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412807.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TELEMAGINO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?63391" group-title="CA| KIDS FR",CA FR: TELEMAGINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412924.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TELEMAGINO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?25353" group-title="CA| KIDS FR",CA FR: TELEMAGINO HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412912.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TELETOON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?22052" group-title="CA| KIDS FR",CA FR: TELETOON
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412805.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TELETOON FRENCH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?90842" group-title="CA| KIDS FR",CA FR: TELETOON FRENCH HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412911.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TELETOON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?91314" group-title="CA| KIDS FR",CA FR: TELETOON HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412923.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="CA FR: TIVI 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/846.jpg?93491" group-title="CA| KIDS FR",CA FR: TIVI 5
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412819.ts

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="####### NETFLIX PPV #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| NETFLIX PPV",####### NETFLIX PPV #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1831618.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 01 (FHD@30FPS) EVENTS ONLY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1831617.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 02 (FHD@60FPS) USA EVENTS ONLY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1831616.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 03 (FHD@60FPS) INTERNATIONAL EVENTS ONLY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1831615.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 04 (FHD@60FPS) (LATIN) EVENTS ONLY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1831614.ts

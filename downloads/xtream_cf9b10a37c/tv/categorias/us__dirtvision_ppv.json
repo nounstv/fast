@@ -1,0 +1,123 @@
+[
+  {
+    "id": "605364",
+    "name": "### DIRTVISION PPV HD/4K ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605364.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605373",
+    "name": "Dirtvision Now | 24/7",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605373.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605372",
+    "name": "DIRTVISION 01 : Sycamore Speedway 7:15pm",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605372.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605371",
+    "name": "DIRTVISION 02 : Huset's Speedway 7:25 pm",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605371.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605370",
+    "name": "DIRTVISION 03 :",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605370.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605369",
+    "name": "DIRTVISION 04 :",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605369.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605368",
+    "name": "DIRTVISION 05 :",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605368.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605367",
+    "name": "DIRTVISION 06:",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605367.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605366",
+    "name": "Dirtvision 07:",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605366.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "605365",
+    "name": "Dirtvision 08:",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605365.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1698339266",
+    "type": "live"
+  },
+  {
+    "id": "885470",
+    "name": "Dirtvision 09:",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/885470.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13706.png?ver=78530",
+    "category": "US| DIRTVISION PPV",
+    "categoryId": "925",
+    "epgId": "",
+    "added": "1719581921",
+    "type": "live"
+  }
+]

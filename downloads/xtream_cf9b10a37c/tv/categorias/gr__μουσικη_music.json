@@ -1,0 +1,101 @@
+[
+  {
+    "id": "623114",
+    "name": "#### ΜΟΥΣΙΚΗ/MUSIC ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/623114.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1700086490",
+    "type": "live"
+  },
+  {
+    "id": "460890",
+    "name": "GR: ANT1+ JUST MUSIC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460890.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ANT1-.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509078",
+    "type": "live"
+  },
+  {
+    "id": "460630",
+    "name": "GR: BARAZA TV HD GREEK HITS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460630.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/BARAZA-MUSIC-TV.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509020",
+    "type": "live"
+  },
+  {
+    "id": "460629",
+    "name": "GR: BARAZA TV HD MUSIC DANCE HITS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460629.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/BARAZA-MUSIC-TV.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509020",
+    "type": "live"
+  },
+  {
+    "id": "460715",
+    "name": "GR: BARAZA TV MUSIC HITS 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460715.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/BARAZA-MUSIC-TV.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509027",
+    "type": "live"
+  },
+  {
+    "id": "460733",
+    "name": "GR: CANNALI MUSIC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460733.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/CANALI-MUSIC.jpg",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509029",
+    "type": "live"
+  },
+  {
+    "id": "460662",
+    "name": "GR: MAD TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460662.ts",
+    "logo": "https://i.imgur.com/S0hPYmI.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509023",
+    "type": "live"
+  },
+  {
+    "id": "460587",
+    "name": "GR: MAD GREEKZ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460587.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/MAD-GREEKZ.png",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509016",
+    "type": "live"
+  },
+  {
+    "id": "460804",
+    "name": "GR: MAD HITS/VIRAAL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460804.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/MAD-HITS.jpg",
+    "category": "GR| ΜΟΥΣΙΚΗ/MUSIC",
+    "categoryId": "985",
+    "epgId": "",
+    "added": "1677509070",
+    "type": "live"
+  }
+]

@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="###### PPV HD/4K ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| PPV EVENT",###### PPV HD/4K ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408189.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY BOX OFFICE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: SKY BOX OFFICE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1055598.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY BOX OFFICE SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: SKY BOX OFFICE SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1055597.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY BOX OFFICE HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: SKY BOX OFFICE HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1055596.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY BOX OFFICE 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: SKY BOX OFFICE 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1055595.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TNT SPORTS BOX OFFICE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: TNT SPORTS BOX OFFICE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607054.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TNT SPORTS BOX OFFICE SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: TNT SPORTS BOX OFFICE SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607053.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TNT SPORTS BOX OFFICE HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: TNT SPORTS BOX OFFICE HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607052.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: TNT SPORTS BOX OFFICE 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: TNT SPORTS BOX OFFICE 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607051.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 1 :  FURY vs HALL  6PM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 1 :  FURY vs HALL  6PM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632402.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 2 : FURY vs HALL  6PM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 2 : FURY vs HALL  6PM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632401.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 3 :  FURY vs HALL  6PM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 3 :  FURY vs HALL  6PM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632400.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 4 : FURY vs HALL  6PM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 4 : FURY vs HALL  6PM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632399.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing  05  :  FURY vs HALL  6PM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing  05  :  FURY vs HALL  6PM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632398.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 6: Fury v Makhmudov 19:00" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 6: Fury v Makhmudov 19:00
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632397.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 7: Jake Paul vs Anthony Joshua" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 7: Jake Paul vs Anthony Joshua
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632396.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Boxing 8: Jake Paul vs Anthony Joshua" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 8: Jake Paul vs Anthony Joshua
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632395.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605787.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605786.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605785.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605784.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605783.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605781.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 07 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605780.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 08 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605779.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 09 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605778.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 10 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605782.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 11 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605777.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 12 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605776.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 13 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605775.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 14 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605774.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 15 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605773.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 16 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605772.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 17 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605771.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 18 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605770.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 19 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605769.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 20 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605768.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 21 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605767.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 22 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605766.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 23 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605765.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 24 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605764.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 25 - NO EVENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25 - NO EVENT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605763.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605762.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 27 - OUTDOOR THEATRE Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 27 - OUTDOOR THEATRE Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605761.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 28 - YUMA Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 28 - YUMA Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605760.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 29 - SAHARA Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 29 - SAHARA Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605759.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 30 - MOJAVE Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 30 - MOJAVE Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605758.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 31 - GOBI Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 31 - GOBI Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605757.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 32 - QUASAR Live From Coachella 2026" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 32 - QUASAR Live From Coachella 2026
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605756.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 33 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 33 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605755.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="LIVE EVENT 34 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 34 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605754.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Glastonbury 1 15.45-17.00" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 1 15.45-17.00
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/885469.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Glastonbury 2025 event 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 2025 event 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/885468.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Glastonbury 3 19.00-12.30am" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 3 19.00-12.30am
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/885467.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Glastonbury 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 4
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/885466.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV MMA 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV MMA 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408146.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV MMA 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV MMA 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408147.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV MMA 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV MMA 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408148.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLOW 01" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: WILLOW 01
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408179.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLOW 02" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: WILLOW 02
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408180.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLOW 03" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: WILLOW 03
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408181.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLOW 04" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: WILLOW 04
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408182.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLOW 05" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: WILLOW 05
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408183.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV UFC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV UFC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408184.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV UFC (BK)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV UFC (BK)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408185.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV SPORTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408186.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: PPV FIGHTING" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV FIGHTING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408187.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: ITV PPV HD 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: ITV PPV HD 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/408188.ts

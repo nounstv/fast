@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="###### NHL HD/4K ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| NHL PPV",###### NHL HD/4K ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/430407.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NHL ALTERNATE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",US: NHL ALTERNATE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604332.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NHL NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",US: NHL NETWORK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604331.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL  |  4K -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL  |  4K -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1803789.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 01 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 01 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605196.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 02 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 02 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605195.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 03 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 03 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605194.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 04 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 04 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605193.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 05 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 05 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605192.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 06 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 06 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605191.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 07 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 07 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605190.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 08 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 08 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605189.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 09 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 09 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605188.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 10 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 10 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605187.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 11 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 11 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605186.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 12 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 12 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605185.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 13 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 13 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605184.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 14 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 14 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605183.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 15 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 15 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605182.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 16 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 16 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605181.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 17 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 17 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605180.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="NHL | 18 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL PPV",NHL | 18 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605179.ts

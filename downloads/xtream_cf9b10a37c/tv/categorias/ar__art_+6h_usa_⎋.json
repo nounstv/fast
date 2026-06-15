@@ -1,0 +1,57 @@
+[
+  {
+    "id": "562808",
+    "name": "### ART +6H NA ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/562808.ts",
+    "logo": "",
+    "category": "AR| ART +6H USA ⎋",
+    "categoryId": "813",
+    "epgId": "",
+    "added": "1694851326",
+    "type": "live"
+  },
+  {
+    "id": "183134",
+    "name": "AR: ART HEKAYAT 1 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183134.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/45.jpg",
+    "category": "AR| ART +6H USA ⎋",
+    "categoryId": "813",
+    "epgId": "",
+    "added": "1596806644",
+    "type": "live"
+  },
+  {
+    "id": "183135",
+    "name": "AR: ART HEKAYAT 2 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183135.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/67.jpg",
+    "category": "AR| ART +6H USA ⎋",
+    "categoryId": "813",
+    "epgId": "",
+    "added": "1596806644",
+    "type": "live"
+  },
+  {
+    "id": "183136",
+    "name": "AR: ART AFLAM 1 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183136.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12880.jpg?44291",
+    "category": "AR| ART +6H USA ⎋",
+    "categoryId": "813",
+    "epgId": "",
+    "added": "1596806644",
+    "type": "live"
+  },
+  {
+    "id": "183137",
+    "name": "AR: ART AFLAM 2 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183137.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/56.jpg",
+    "category": "AR| ART +6H USA ⎋",
+    "categoryId": "813",
+    "epgId": "",
+    "added": "1596806644",
+    "type": "live"
+  }
+]

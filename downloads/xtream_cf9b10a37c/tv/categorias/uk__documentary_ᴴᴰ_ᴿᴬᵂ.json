@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1015421",
+    "name": "#### DOCUMENTARY HD/4K ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1015421.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "",
+    "added": "1725311861",
+    "type": "live"
+  },
+  {
+    "id": "162375",
+    "name": "UK: DISCOVERY 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162375.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryChannel.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162387",
+    "name": "UK: DISCOVERY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162387.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryChannel.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162393",
+    "name": "UK: DISCOVERY +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162393.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryChannel.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162388",
+    "name": "UK: DISCOVERY HISTORY ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162388.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryHistory.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162390",
+    "name": "UK: DISCOVERY SCIENCE ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162390.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryScience.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "402152",
+    "name": "UK: DISCOVERY TURBO +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402152.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1663936595",
+    "type": "live"
+  },
+  {
+    "id": "162392",
+    "name": "UK: DISCOVERY TURBO ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162392.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "DiscoveryTurbo.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "402153",
+    "name": "UK: INVESTIGATION DISCOVERY +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402153.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1663936724",
+    "type": "live"
+  },
+  {
+    "id": "162396",
+    "name": "UK: INVESTIGATION DISCOVERY ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162396.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "InvestigationDiscovery.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "402156",
+    "name": "UK: CRIME INVESTIGATION +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402156.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1663937328",
+    "type": "live"
+  },
+  {
+    "id": "402155",
+    "name": "UK: : NATIONAL GEOGRAPHIC +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402155.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1663937211",
+    "type": "live"
+  },
+  {
+    "id": "162380",
+    "name": "UK:: NATIONAL GEOGRAPHIC 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162380.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "NatGeo.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162381",
+    "name": "UK: : NATIONAL GEOGRAPHIC WILD 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162381.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "NatGeoWild.uk",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162378",
+    "name": "UK: HISTORY 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162378.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162379",
+    "name": "UK: HISTORY 2 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162379.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162385",
+    "name": "UK: LOVE NATURE 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162385.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "TS",
+    "added": "1591733478",
+    "type": "live"
+  },
+  {
+    "id": "162384",
+    "name": "UK: SKY NATURE 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162384.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263",
+    "category": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "categoryId": "306",
+    "epgId": "SkyNature.uk",
+    "added": "1591733478",
+    "type": "live"
+  }
+]

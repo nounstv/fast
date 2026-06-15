@@ -1,0 +1,72 @@
+[
+  {
+    "id": "34017",
+    "name": "FI - Farmi Suomi (2020) (FI)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKzwZdkSoyquTvmhfgrCYsBoK4B.jpg",
+    "category": "SUOMI RUUTU",
+    "categoryId": "1918",
+    "plot": "",
+    "cast": "",
+    "director": "",
+    "genre": "",
+    "rating": "0",
+    "lastModified": "1751351185",
+    "type": "series"
+  },
+  {
+    "id": "34024",
+    "name": "FI - Koskinen (2021) (FI)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFdFYSfgV1IOwoWMq2SjWEYPCPu.jpg",
+    "category": "SUOMI RUUTU",
+    "categoryId": "1918",
+    "plot": "Koskinen-sarjassa seurataan komisario Sakari Koskista ja hänen tiimiään Sisä-Suomen poliisin väkivaltaisten rikosten yksikössä. Yksikkö on erittäin kiireinen, sillä pienen henkilöstön resurssit eivät tahdo riittää.",
+    "cast": "Eero Aho, Maria Ylipää, Turkka Mastomäki, Jon Jon Geitel, Martti Syrjä, Riku Suokas, Ville Majamaa, Mari Turunen",
+    "director": "Riku Suokas, Heikki Syrjä",
+    "genre": "Rikos / Draama",
+    "rating": "6",
+    "lastModified": "1751357652",
+    "type": "series"
+  },
+  {
+    "id": "33095",
+    "name": "FI - Madventures (2002) (FI)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e44ZB8kkETZZ1EOTDIRTaVOybzI.jpg",
+    "category": "SUOMI RUUTU",
+    "categoryId": "1918",
+    "plot": "Lähde Riku Rantalan ja Tunna Milonoffin kanssa reppumatkalla maailman ääriin! Matkoilla kohdataan uusia kulttuureita, nähdään uskomattomia paikkoja ja maistetaan todella eksoottisia ruokalajeja. Unohtamatta tietenkin erilaisia loma-aktiviteetteja ja pieniä kepposia. Madventures on taatusti kreisein matkailuohjelma, jota olet ikinä katsonut!",
+    "cast": "Tuomas Milonoff, Riku Rantala",
+    "director": "",
+    "genre": "Dokumentti",
+    "rating": "8",
+    "lastModified": "1751352537",
+    "type": "series"
+  },
+  {
+    "id": "33460",
+    "name": "FI - MobLand (2025) (GB)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+    "category": "SUOMI RUUTU",
+    "categoryId": "1918",
+    "plot": "Kaksi vallasta taistelevaa lontoolaista rikollisperhettä, Harriganit ja Stevensonit, ottavat yhteen tapa tai tule tapetuksi -taistelussa, joka uhkaa kaataa valtakuntia ja tuhota elämiä. Ristitulessa on katuviisas järjestelijä Harry Da Souza, joka on yhtä vaarallinen kuin komeakin. Harry tietää varsin hyvin, mitä uskollisuus merkitsee, kun vastakkaiset osapuolet törmäävät. Rajat ylittyvät valtakuntien noustessa toisiaan vastaan. Ainoa pelastus on asia, josta voi panna henkensä pantiksi: perhe pitää aina yhtä.",
+    "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver, Anson Boon, Geoff Bell, Jasmine Jobson",
+    "director": "Ronan Bennett",
+    "genre": "Rikos / Draama",
+    "rating": "9",
+    "lastModified": "1751358253",
+    "type": "series"
+  },
+  {
+    "id": "29861",
+    "name": "FI - Pohjolan laki (2020) (FI)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0l9d4C4GvpLPr4ns0ZlaY5cu3Q.jpg",
+    "category": "SUOMI RUUTU",
+    "categoryId": "1918",
+    "plot": "Matti on urakiidossa perinteikkäässä ja isossa Bensonin asianajotoimistossa, jossa myös hänen vaimonsa Eeva Benson on osakkaana. Matti on ehdolla nousemaan perheyrityksen johtoon ja kaikki on pedattu kruununprinssin valtaannousua varten, kun tragedia lähipiirissä sysää Matin tekemään radikaalin päätöksen ja siirtymään pienempään lakitoimistoon. Tarkoitus on ollut päästä pois oravanpyörästä, mutta Matin ainoa mukaansa ottama oikeustapaus alkaa paljastua rikosjutuksi, joka asettaa koko Bensonin perheen totuudet uuteen valoon. Pian panoksena ei olekaan vain oikeusjuttu ja päämiesten kohtalot, vaan perheyrityksen ja Matin ja Eevan yhteisen elämän tulevaisuus.",
+    "cast": "",
+    "director": "",
+    "genre": "Draama",
+    "rating": "8",
+    "lastModified": "1751350741",
+    "type": "series"
+  }
+]

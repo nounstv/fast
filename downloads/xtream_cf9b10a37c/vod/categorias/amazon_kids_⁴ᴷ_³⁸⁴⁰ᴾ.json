@@ -1,0 +1,46 @@
+[
+  {
+    "id": "652764",
+    "name": "4K-AMZ - Troop Zero (2019)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/652764.mkv",
+    "logo": "https://www.themoviedb.org/t/p/original/4ukXUS4Cjhj5OlPGnvKNCF5Hwp5.jpg",
+    "category": "AMAZON KIDS ⁴ᴷ ³⁸⁴⁰ᴾ",
+    "categoryId": "1006",
+    "rating": "6.95",
+    "added": "1702916100",
+    "type": "vod"
+  },
+  {
+    "id": "652762",
+    "name": "4K-AMZ - World's First Christmas (2023)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/652762.mkv",
+    "logo": "https://www.themoviedb.org/t/p/original/5NVbhFnb1YAIBHMchMIFgKXOVLK.jpg",
+    "category": "AMAZON KIDS ⁴ᴷ ³⁸⁴⁰ᴾ",
+    "categoryId": "1006",
+    "rating": "7.75",
+    "added": "1702914780",
+    "type": "vod"
+  },
+  {
+    "id": "644769",
+    "name": "4K-AMZ - Merry Little Batman (2023)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/644769.mkv",
+    "logo": "https://www.themoviedb.org/t/p/original/mzHnPcdJxWLI4CC3XlPkA9sKis.jpg",
+    "category": "AMAZON KIDS ⁴ᴷ ³⁸⁴⁰ᴾ",
+    "categoryId": "1006",
+    "rating": "0",
+    "added": "1702031580",
+    "type": "vod"
+  },
+  {
+    "id": "640714",
+    "name": "4K-AMZ - Hotel Transylvania: Transformania (2022)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/640714.mkv",
+    "logo": "https://www.themoviedb.org/t/p/original/w9zBAAEo4Ih0PEAMSI3TcoOlUwY.jpg",
+    "category": "AMAZON KIDS ⁴ᴷ ³⁸⁴⁰ᴾ",
+    "categoryId": "1006",
+    "rating": "6.997",
+    "added": "1701731220",
+    "type": "vod"
+  }
+]

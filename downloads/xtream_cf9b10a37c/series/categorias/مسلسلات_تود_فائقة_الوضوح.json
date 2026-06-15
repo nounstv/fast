@@ -1,0 +1,58 @@
+[
+  {
+    "id": "40568",
+    "name": "4K-TOD - Sorgu (2024) التحقيق",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/durttKJqTFY1Yh2YoVVaqP5pinY.jpg",
+    "category": "مسلسلات تود فائقة الوضوح",
+    "categoryId": "1735",
+    "plot": "عقب وفاة والدها المثيرة للشكوك، تشرع الضابطة جيهان مان أوغلو في محاولة لكشف الحقيقة، وذلك في أثناء تحقيقها سراً في مقتل امرأة شابة؛ مما يجرّها هي وزميلها إلى متاهة من الأسرار والحقائق الخفية...",
+    "cast": "Hazal Kaya, Çağlar Ertuğrul, Boncuk Yilmaz, Melisa Döngel, Deniz Hamzaoğlu, Oktay Çubuk, Umut Kaya, Şehsuvar Aktaş",
+    "director": "Deniz Yorulmazer",
+    "genre": "Drama / Mystery",
+    "rating": "5",
+    "lastModified": "1764769406",
+    "type": "series"
+  },
+  {
+    "id": "40560",
+    "name": "4K-TOD - Zamanın Kapıları (2024) ابواب القدر",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptyaXRf8lvQqh7ZWjLIADBjwUpT.jpg",
+    "category": "مسلسلات تود فائقة الوضوح",
+    "categoryId": "1735",
+    "plot": "في عالم ينجح فيه سنان بين أروقة الفضاء الرقمي ويتجنب التواصل مع الآخرين، بينما تستمتع نيفرا باجتياز المخاطر، يتقاطع مصيرهما ليكشف عن روابط غير محتملة بينهما.",
+    "cast": "Birkan Sokullu, Esra Bilgiç",
+    "director": "",
+    "genre": "Drama",
+    "rating": "8",
+    "lastModified": "1764769409",
+    "type": "series"
+  },
+  {
+    "id": "40541",
+    "name": "4K-TOD - Sarmaşık Zamanı (2023) اوراق النسيان",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaAZRTAP1l5uIMYiZgD3WuNRnbX.jpg",
+    "category": "مسلسلات تود فائقة الوضوح",
+    "categoryId": "1735",
+    "plot": "يتسبب مقتل أرزو في إحداث صدمة في حديقة عدن السكنية، التي يعتقد سكانها الأثرياء والنخبة أنهم محصَّنون ضد العنف. عندما يبدأ التحقيق في وفاتها، تُكشَف أسرارهم الدفينة وينكشف الظلام المختبئ تحت واجهاتهم المصقولة.",
+    "cast": "Burçin Terzioğlu, Onur Tuna, Hazal Türesan, Yiğit Kirazcı, Tilbe Saran, Emre Karayel, Emel Çölgeçen, Özgür Emre Yıldırım",
+    "director": "Savaş Ecevit Korkmaz",
+    "genre": "Drama",
+    "rating": "5",
+    "lastModified": "1764769413",
+    "type": "series"
+  },
+  {
+    "id": "30942",
+    "name": "4K-TOD - سراب",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/231/23060.jpg",
+    "category": "مسلسلات تود فائقة الوضوح",
+    "categoryId": "1735",
+    "plot": "يختفي طفل في السابعة من عمره في ظروف غامضة ويحاول والداه كشف ملابسات ما حدث، ثم يعود الطفل سالمًا لكن يبقى الغموض مستمرًا، بينما تتوالى التحقيقات حول هذا الاختفاء، لتكشف عن حقائق وعلاقات متشابكة تقلب كل شيء رأسًا على عقب",
+    "cast": "خالد النبوي  يسرا اللوزي  هاني عادل  نجلاء بدر  جيهان الشماشرجي  ديامان بو عبود / دياموند بو عبود",
+    "director": "أحمد خالد",
+    "genre": "Drama / Mystery",
+    "rating": "7",
+    "lastModified": "1738144965",
+    "type": "series"
+  }
+]

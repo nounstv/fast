@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7489",
+    "name": "TR - Kırmızı Oda (2020) (TR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMOFLzaYHDVWeFfdW8FV50LizKG.jpg",
+    "category": "TURKISH TV8 SERIES",
+    "categoryId": "1401",
+    "plot": "Psikiyatri kliniğindeki doktorların ve onlara başvuran hastaların hayatlarının anlatılacağı “Kırmızı Oda”da acılar, sevinçler, mutluluk ve hüzünler izleyicinin de ruhunun kapalı kapılarını aralayacak. Hastalar o güne kadar kimselere söyleyemedikleri sırları dile getirirken izleyiciler de kendi bugünleri, geçmişleri ve yarınlarına dair bir şeyler bulacak.",
+    "cast": "Binnur Kaya, Gülçin Kültür Şahin, Baran Can Eraslan",
+    "director": "Gülseren Budayıcıoğlu",
+    "genre": "Dram",
+    "rating": "4",
+    "lastModified": "1777213591",
+    "type": "series"
+  },
+  {
+    "id": "7395",
+    "name": "TR - Annenin Sırrıdır Çocuk (2022) (TR)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYe3n9npGHsgjcCddp58MjtUVxZ.jpg",
+    "category": "TURKISH TV8 SERIES",
+    "categoryId": "1401",
+    "plot": "Her biri geçmişlerinden gelen sırlarla boğuşan iki anne adayının hikayesini takip ediyor.",
+    "cast": "İrem Helvacıoğlu, Selin Yeninci, Engin Öztürk, Olgun Toker, Ahmet Varlı, Sacide Taşaner, Demet Gül, Birgül Ulusoy",
+    "director": "",
+    "genre": "Dram",
+    "rating": "10",
+    "lastModified": "1777212704",
+    "type": "series"
+  }
+]

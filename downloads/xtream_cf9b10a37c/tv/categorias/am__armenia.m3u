@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="#### ARMENIA ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Animated-Flag-Armenia.gif" group-title="AM| ARMENIA",#### ARMENIA ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1573997.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: AMGA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/amga-tv.png" group-title="AM| ARMENIA",ARM: AMGA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443817.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: AABC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/aabc.png" group-title="AM| ARMENIA",ARM: AABC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443816.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: SHANT TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: SHANT TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443814.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: H 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/armpublic.jpg" group-title="AM| ARMENIA",ARM: H 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443805.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: ARMENIA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/armeniatv.png" group-title="AM| ARMENIA",ARM: ARMENIA TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443800.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: ARTN/SHANT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: ARTN/SHANT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443794.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: USA ARM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/usaarm.jpg" group-title="AM| ARMENIA",ARM: USA ARM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443793.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: LIVE NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LIVE-TV.jpeg" group-title="AM| ARMENIA",ARM: LIVE NEWS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443792.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: ARTN" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/mtvhd.png" group-title="AM| ARMENIA",ARM: ARTN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443788.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: 21 TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11930.png?52768" group-title="AM| ARMENIA",ARM: 21 TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443787.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: SHOWXAKAT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/showxakat.jpg" group-title="AM| ARMENIA",ARM: SHOWXAKAT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443783.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: ARMENIEA COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/armeniancomedy.jpg" group-title="AM| ARMENIA",ARM: ARMENIEA COMEDY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443780.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: ARTN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/jantv.jpg" group-title="AM| ARMENIA",ARM: ARTN HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443778.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: TAVA ATV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tavaatv.png" group-title="AM| ARMENIA",ARM: TAVA ATV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443772.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: SHANT PREMIUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: SHANT PREMIUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443764.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: BAZMOC TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ATV-BAZMOC.png" group-title="AM| ARMENIA",ARM: BAZMOC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443763.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: FIVE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FIVE-TV-ARM.png" group-title="AM| ARMENIA",ARM: FIVE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443760.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO VAN FM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VAN-TV.jpeg" group-title="AM| ARMENIA",ARM: RADIO VAN FM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443757.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO AVOL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11429.jpg?85013" group-title="AM| ARMENIA",ARM: RADIO AVOL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654935.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO YAN  FM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11455.png?5663" group-title="AM| ARMENIA",ARM: RADIO YAN  FM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654933.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO BASHDE FM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11425.png?54108" group-title="AM| ARMENIA",ARM: RADIO BASHDE FM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654932.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO TRIL TRAK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11420.png?69417" group-title="AM| ARMENIA",ARM: RADIO TRIL TRAK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654930.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO YEREVANN NIGHTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11414.jpg?62011" group-title="AM| ARMENIA",ARM: RADIO YEREVANN NIGHTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654929.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO PATRIOTIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12492.jpg?49867" group-title="AM| ARMENIA",ARM: RADIO PATRIOTIC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654928.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO YERAZ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12555.png?94146" group-title="AM| ARMENIA",ARM: RADIO YERAZ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654927.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: RADIO AYK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12496.jpg?57894" group-title="AM| ARMENIA",ARM: RADIO AYK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/654926.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: MO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MO-TV.png" group-title="AM| ARMENIA",ARM: MO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443754.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: PANARMENIA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PANARMENIA-TV.jpeg" group-title="AM| ARMENIA",ARM: PANARMENIA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443753.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: YERIDASARTOUTIAN TSAYNE FM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ARMENIA-TV.png" group-title="AM| ARMENIA",ARM: YERIDASARTOUTIAN TSAYNE FM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443752.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: SHANT MUSIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/AZADOUTYOUNTV-HD.png" group-title="AM| ARMENIA",ARM: SHANT MUSIC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443750.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="ARM: SHANT SERIAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/shantserial.jpg" group-title="AM| ARMENIA",ARM: SHANT SERIAL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443749.ts

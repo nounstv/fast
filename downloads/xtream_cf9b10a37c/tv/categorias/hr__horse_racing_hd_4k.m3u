@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="###### HORSE RACING ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Animated-Flag-Croatia.gif" group-title="HR| HORSE RACING HD/4K",###### HORSE RACING ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625900.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: SKY SPORTS RACING ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: SKY SPORTS RACING ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625898.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: SKY SPORTS RACING ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: SKY SPORTS RACING ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625897.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: SKY HORSE TV ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: SKY HORSE TV ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625879.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: SKY RACING 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: SKY RACING 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625891.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: SKY RACING 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: SKY RACING 2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625890.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: FOX SPORTS RACING" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: FOX SPORTS RACING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625899.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: ZIGGO SPORT RACING ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: ZIGGO SPORT RACING ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625889.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: RACING ᴴᴰ " tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: RACING ᴴᴰ 
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625896.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: RACING ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: RACING ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625895.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: RACING.COM MELBOURNE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: RACING.COM MELBOURNE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625894.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: RACING.COM NATIONAL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: RACING.COM NATIONAL ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625893.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: RACING.COM PERTH ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: RACING.COM PERTH ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625892.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: FANDUEL TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",US: FANDUEL TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1036213.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: HORSE COUNTRY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: HORSE COUNTRY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625884.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: HORSE ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: HORSE ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625883.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: HORSE RACES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: HORSE RACES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625882.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: HORSE COUNTRY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: HORSE COUNTRY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625881.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: EQU TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: EQU TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/690109.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: UNIRESAT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: UNIRESAT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285512.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: CLASS HORSE TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: CLASS HORSE TV ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625880.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: PREMIER GREYHOUND RACING ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: PREMIER GREYHOUND RACING ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1021025.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: LADBROKES TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: LADBROKES TV 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678600.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: LADBROKES TV 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: LADBROKES TV 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678601.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: LADBROKES TV 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: LADBROKES TV 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678602.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: WILLIAM HILL LIVE 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",UK: WILLIAM HILL LIVE 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/613975.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: WILLIAM HILL TV 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: WILLIAM HILL TV 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678603.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: WILLIAM HILL TV 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: WILLIAM HILL TV 2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678604.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: WILLIAM HILL TV 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: WILLIAM HILL TV 3 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1021023.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: ATG Live 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: ATG Live 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/680532.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: ATG LIVE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: ATG LIVE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/680533.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: EQUIDA HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: EQUIDA HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/680536.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: DUBAI RACING 1 TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: DUBAI RACING 1 TV ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625888.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: DUBAI RACING 1 TV ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: DUBAI RACING 1 TV ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625887.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: DUBAI RACING 2 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: DUBAI RACING 2 ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625886.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="HR: DUBAI RACING 3 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13730.jpg?ver=78551" group-title="HR| HORSE RACING HD/4K",HR: DUBAI RACING 3 ᵁᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625885.ts

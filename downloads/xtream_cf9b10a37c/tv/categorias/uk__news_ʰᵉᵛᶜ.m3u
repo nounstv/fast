@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="### UK NEWS HEVC/HD ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| NEWS ʰᵉᵛᶜ",### UK NEWS HEVC/HD ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717703.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC NEWS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="UK| NEWS ʰᵉᵛᶜ",UK: BBC NEWS HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717702.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY NEWS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3124.jpg?49138" group-title="UK| NEWS ʰᵉᵛᶜ",UK: SKY NEWS HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717701.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: GB NEWS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13251.jpg?ver=18254" group-title="UK| NEWS ʰᵉᵛᶜ",UK: GB NEWS HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717700.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="### UK NEWS HEVC/4K ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| NEWS ʰᵉᵛᶜ",### UK NEWS HEVC/4K ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717699.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: BBC NEWS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?71635" group-title="UK| NEWS ʰᵉᵛᶜ",UK: BBC NEWS HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717698.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: SKY NEWS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3124.jpg?78087" group-title="UK| NEWS ʰᵉᵛᶜ",UK: SKY NEWS HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717697.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="UK: GB NEWS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13251.jpg?ver=18254" group-title="UK| NEWS ʰᵉᵛᶜ",UK: GB NEWS HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717696.ts

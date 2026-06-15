@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2023536",
+    "name": "FR - Scary Movie (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/2023536.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "5.808",
+    "added": "1780826940",
+    "type": "vod"
+  },
+  {
+    "id": "2019596",
+    "name": "FR - Obsession (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/2019596.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "7.9",
+    "added": "1780567500",
+    "type": "vod"
+  },
+  {
+    "id": "1997500",
+    "name": "FR - The Devil Wears Prada 2 (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/1997500.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "6.663",
+    "added": "1779120660",
+    "type": "vod"
+  },
+  {
+    "id": "1997499",
+    "name": "FR - Mortal Kombat II (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/1997499.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "7.007",
+    "added": "1779120660",
+    "type": "vod"
+  },
+  {
+    "id": "1996011",
+    "name": "FR - Michael (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/1996011.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "7.571",
+    "added": "1779043261",
+    "type": "vod"
+  },
+  {
+    "id": "1928850",
+    "name": "FR - Wedding Nightmare : Deuxième Partie (2026)",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/1928850.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
+    "category": "FR - FILM CAM",
+    "categoryId": "1829",
+    "rating": "7.1",
+    "added": "1776197160",
+    "type": "vod"
+  }
+]

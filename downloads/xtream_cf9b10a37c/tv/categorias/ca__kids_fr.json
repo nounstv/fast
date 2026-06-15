@@ -1,0 +1,211 @@
+[
+  {
+    "id": "413882",
+    "name": "######## KIDS FR ########",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/413882.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666793291",
+    "type": "live"
+  },
+  {
+    "id": "412852",
+    "name": "CA FR: BABY TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412852.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?86017",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470351",
+    "type": "live"
+  },
+  {
+    "id": "412945",
+    "name": "CA FR: DISNEY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412945.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "DisneyChannel.ca",
+    "added": "1666470357",
+    "type": "live"
+  },
+  {
+    "id": "412833",
+    "name": "CA FR: ICI TELE ACADIE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412833.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?45292",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412832",
+    "name": "CA FR: ICI TELE ALBERTA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412832.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412831",
+    "name": "CA FR: ICI TELE CB-YUKON HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412831.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412830",
+    "name": "CA FR: ICI TELE EST-QUEBEC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412830.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6592.jpg?7730",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412894",
+    "name": "CA FR: ICI TELE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412894.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?33300",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470354",
+    "type": "live"
+  },
+  {
+    "id": "412828",
+    "name": "CA FR: ICI TELE MANITOBA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412828.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?48010",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412823",
+    "name": "CA FR: ICI TELE SASKATCHEWAN HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412823.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?31812",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470349",
+    "type": "live"
+  },
+  {
+    "id": "412871",
+    "name": "CA FR: LA CHAINE DISNEY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412871.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?49058",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470352",
+    "type": "live"
+  },
+  {
+    "id": "412946",
+    "name": "CA FR: LA CHAINE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412946.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470357",
+    "type": "live"
+  },
+  {
+    "id": "412807",
+    "name": "CA FR: LUDIKIDS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412807.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9848.jpg?73817",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470347",
+    "type": "live"
+  },
+  {
+    "id": "412924",
+    "name": "CA FR: TELEMAGINO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412924.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?63391",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470356",
+    "type": "live"
+  },
+  {
+    "id": "412912",
+    "name": "CA FR: TELEMAGINO HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412912.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?25353",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "Telemagino.ca",
+    "added": "1666470355",
+    "type": "live"
+  },
+  {
+    "id": "412805",
+    "name": "CA FR: TELETOON",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412805.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?22052",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470347",
+    "type": "live"
+  },
+  {
+    "id": "412911",
+    "name": "CA FR: TELETOON FRENCH HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412911.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?90842",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470355",
+    "type": "live"
+  },
+  {
+    "id": "412923",
+    "name": "CA FR: TELETOON HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412923.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?91314",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "TeletoonFrench.ca",
+    "added": "1666470356",
+    "type": "live"
+  },
+  {
+    "id": "412819",
+    "name": "CA FR: TIVI 5",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412819.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/846.jpg?93491",
+    "category": "CA| KIDS FR",
+    "categoryId": "577",
+    "epgId": "",
+    "added": "1666470348",
+    "type": "live"
+  }
+]

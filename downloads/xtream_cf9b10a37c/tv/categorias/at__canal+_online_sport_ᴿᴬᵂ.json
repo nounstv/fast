@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1174065",
+    "name": "#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1174065.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Austria.gif",
+    "category": "AT| CANAL+ ONLINE SPORT ᴿᴬᵂ",
+    "categoryId": "1630",
+    "epgId": "",
+    "added": "1731242291",
+    "type": "live"
+  },
+  {
+    "id": "1174064",
+    "name": "PLAY+: ORF SPORT+ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1174064.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700",
+    "category": "AT| CANAL+ ONLINE SPORT ᴿᴬᵂ",
+    "categoryId": "1630",
+    "epgId": "",
+    "added": "1731242291",
+    "type": "live"
+  },
+  {
+    "id": "1174063",
+    "name": "PLAY+: SPORT 1 + ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1174063.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700",
+    "category": "AT| CANAL+ ONLINE SPORT ᴿᴬᵂ",
+    "categoryId": "1630",
+    "epgId": "",
+    "added": "1731242291",
+    "type": "live"
+  },
+  {
+    "id": "1174061",
+    "name": "PLAY+: SPORTDIGITAL FUSSBALL ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1174061.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700",
+    "category": "AT| CANAL+ ONLINE SPORT ᴿᴬᵂ",
+    "categoryId": "1630",
+    "epgId": "",
+    "added": "1731242290",
+    "type": "live"
+  },
+  {
+    "id": "1174060",
+    "name": "PLAY+: AUTO MOTOR UND SPORT ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1174060.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700",
+    "category": "AT| CANAL+ ONLINE SPORT ᴿᴬᵂ",
+    "categoryId": "1630",
+    "epgId": "",
+    "added": "1731242290",
+    "type": "live"
+  }
+]

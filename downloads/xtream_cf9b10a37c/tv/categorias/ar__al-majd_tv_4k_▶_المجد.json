@@ -1,0 +1,123 @@
+[
+  {
+    "id": "285926",
+    "name": "###### AL-MAJD TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285926.ts",
+    "logo": "https://i.ibb.co/xt4HmwDd/AL-MAJD-TV.gif",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976519",
+    "type": "live"
+  },
+  {
+    "id": "285939",
+    "name": "AR: AL MAJD KIDS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285939.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13335.jpg?67756",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285934",
+    "name": "AR: AL MAJD MASSA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285934.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/191.png?ver=1797",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285938",
+    "name": "AR: AL MAJD NEWS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285938.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13336.jpg?24753",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "AlMajd.sa",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285928",
+    "name": "AR: AL MAJD QURAN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285928.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13338.jpg?78975",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285937",
+    "name": "AR: AL MAJD RAWDA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285937.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13339.jpg?5463",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285927",
+    "name": "AR: AL MAJD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285927.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285932",
+    "name": "AR: AL MAJD TABEEYA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285932.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12971.png?ver=7266",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "285935",
+    "name": "AR: AL MAJD TAGHRED",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/285935.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12971.png?55622",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1628976601",
+    "type": "live"
+  },
+  {
+    "id": "678354",
+    "name": "AR: Al MAJD ALJAWEED",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/678354.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/310.jpg?18622",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1705222898",
+    "type": "live"
+  },
+  {
+    "id": "214815",
+    "name": "AR: AL MAJD BASMAH",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/214815.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147",
+    "category": "AR| AL-MAJD TV 4K ▶ المجد",
+    "categoryId": "424",
+    "epgId": "",
+    "added": "1606587254",
+    "type": "live"
+  }
+]

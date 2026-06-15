@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1008580",
+    "name": "## COSMOTE FILM 24/7 VIP ##",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008580.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008579",
+    "name": "GR: COSMOTE FILM 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008579.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008578",
+    "name": "GR: COSMOTE ACTION 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008578.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008577",
+    "name": "GR: COSMOTE HORROR 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008577.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008576",
+    "name": "GR: COSMOTE SCI-FI 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008576.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008575",
+    "name": "GR: COSMOTE NETFLIX 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008575.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008574",
+    "name": "GR: COSMOTE NETFLIX 2 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008574.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864013",
+    "type": "live"
+  },
+  {
+    "id": "1008573",
+    "name": "GR: COSMOTE COMEDY 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008573.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864012",
+    "type": "live"
+  },
+  {
+    "id": "1008572",
+    "name": "GR: COSMOTE KIDS 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008572.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864012",
+    "type": "live"
+  },
+  {
+    "id": "1008571",
+    "name": "GR: COSMOTE DOCUMENTARY 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008571.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864012",
+    "type": "live"
+  },
+  {
+    "id": "1008570",
+    "name": "GR: COSMOTE DOCUMENTARY 2 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008570.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13822.png?ver=4025",
+    "category": "GR| COSMOTE FILM 24/7 VIP",
+    "categoryId": "1470",
+    "epgId": "",
+    "added": "1724864012",
+    "type": "live"
+  }
+]

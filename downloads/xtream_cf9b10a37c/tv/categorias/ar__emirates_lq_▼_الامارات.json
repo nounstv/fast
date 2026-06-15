@@ -1,0 +1,123 @@
+[
+  {
+    "id": "499751",
+    "name": "### DUBAI LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499751.ts",
+    "logo": "https://cdn.pixabay.com/animation/2022/09/16/16/43/16-43-28-59_512.gif",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499750",
+    "name": "AR: DUBAI TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499750.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/51.jpg?95182",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "DubaiTV.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499749",
+    "name": "AR: ABU DHABI TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499749.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/61.jpg?17672",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "AbuDhabi.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499748",
+    "name": "AR: AL EMARAT TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499748.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/57.jpg?24563",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "AlEmarat.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499747",
+    "name": "AR: FUJERA LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499747.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/71.png?73544",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499746",
+    "name": "AR: BAYNOUNAH TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499746.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/63.jpg?76643",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499745",
+    "name": "AR: AJMAN TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499745.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/72.jpg?94804",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499740",
+    "name": "AR: AL MASHHAD LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499740.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3117.png?45840",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499744",
+    "name": "AR: SAMA DUBAI LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499744.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/76.jpg?27670",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "SamaDubai.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499741",
+    "name": "AR: ZAD TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499741.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/247.jpg?33196",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499739",
+    "name": "AR: B4U PLUS LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499739.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/239.jpg?67397",
+    "category": "AR| EMIRATES LQ ▼ الامارات",
+    "categoryId": "823",
+    "epgId": "B4UPlus.ae",
+    "added": "1688818684",
+    "type": "live"
+  }
+]

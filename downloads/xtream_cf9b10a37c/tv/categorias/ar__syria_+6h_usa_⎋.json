@@ -1,0 +1,46 @@
+[
+  {
+    "id": "252014",
+    "name": "###### SYRIA +6H  NA ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/252014.ts",
+    "logo": "https://aaru.edu.jo/PublishingImages/Flags/Syria-180-animated-flag-gifs[1].gif",
+    "category": "AR| SYRIA +6H USA ⎋",
+    "categoryId": "800",
+    "epgId": "",
+    "added": "1618575649",
+    "type": "live"
+  },
+  {
+    "id": "177632",
+    "name": "AR: SYRIAN TV HD +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/177632.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/470.png",
+    "category": "AR| SYRIA +6H USA ⎋",
+    "categoryId": "800",
+    "epgId": "",
+    "added": "1596069552",
+    "type": "live"
+  },
+  {
+    "id": "177635",
+    "name": "AR: SYRIA EDUCATION +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/177635.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/33.jpg?37312",
+    "category": "AR| SYRIA +6H USA ⎋",
+    "categoryId": "800",
+    "epgId": "",
+    "added": "1596069552",
+    "type": "live"
+  },
+  {
+    "id": "177636",
+    "name": "AR: LANA TV 4K +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/177636.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/34.jpg?43865",
+    "category": "AR| SYRIA +6H USA ⎋",
+    "categoryId": "800",
+    "epgId": "",
+    "added": "1596069552",
+    "type": "live"
+  }
+]

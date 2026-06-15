@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="###### AUSTRIA ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Austria.gif" group-title="AT| AUSTRIA HD/4K",###### AUSTRIA ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409251.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?74305" group-title="AT| AUSTRIA HD/4K",AT: ORF 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539288.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6514.jpg?3249" group-title="AT| AUSTRIA HD/4K",AT: ORF 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539287.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2B HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6514.jpg?19780" group-title="AT| AUSTRIA HD/4K",AT: ORF2B HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539286.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2K HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6525.jpg?59249" group-title="AT| AUSTRIA HD/4K",AT: ORF2K HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539285.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2N HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2N HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539284.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2O HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2O HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539283.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2S HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2S HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539282.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2St HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2St HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539281.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2T HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2T HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539280.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2V HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2V HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539279.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF2W HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8435.png?74080" group-title="AT| AUSTRIA HD/4K",AT: ORF2W HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539278.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8429.png?33649" group-title="AT| AUSTRIA HD/4K",AT: ORF 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539277.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?39708" group-title="AT| AUSTRIA HD/4K",AT: ORF Sport+ HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/539276.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ATV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/882.jpg?80010" group-title="AT| AUSTRIA HD/4K",AT: ATV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409254.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ATV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/882.jpg?63878" group-title="AT| AUSTRIA HD/4K",AT: ATV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409270.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ATV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3340.png?56575" group-title="AT| AUSTRIA HD/4K",AT: ATV 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409253.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ATV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3340.png?64504" group-title="AT| AUSTRIA HD/4K",AT: ATV 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409269.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AU: ABC news" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12623.png?95445" group-title="AT| AUSTRIA HD/4K",AU: ABC news
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/696400.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: OE 24 TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8391.png?40377" group-title="AT| AUSTRIA HD/4K",AT: OE 24 TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409255.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6517.jpg?34659" group-title="AT| AUSTRIA HD/4K",AT: ORF 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409256.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6514.jpg?99294" group-title="AT| AUSTRIA HD/4K",AT: ORF 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409257.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8429.png?53230" group-title="AT| AUSTRIA HD/4K",AT: ORF 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409258.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: ORF SPORT+ HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?52105" group-title="AT| AUSTRIA HD/4K",AT: ORF SPORT+ HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409259.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: PULS 24" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10554.png?87569" group-title="AT| AUSTRIA HD/4K",AT: PULS 24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409260.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: PULS 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9837.png?95659" group-title="AT| AUSTRIA HD/4K",AT: PULS 4 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409261.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: RTL 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6505.jpg?ver=82934" group-title="AT| AUSTRIA HD/4K",AT: RTL 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409265.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: RTL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/799.jpg?25120" group-title="AT| AUSTRIA HD/4K",AT: RTL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409266.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SAT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/782.jpg?ver=64726" group-title="AT| AUSTRIA HD/4K",AT: SAT 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409262.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SERVUS TV AT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6445.png?17921" group-title="AT| AUSTRIA HD/4K",AT: SERVUS TV AT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409271.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SERVUS TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6445.png?17921" group-title="AT| AUSTRIA HD/4K",AT: SERVUS TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409263.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SFR 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11385.jpg?8176" group-title="AT| AUSTRIA HD/4K",AT: SFR 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409268.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SFR 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11385.jpg?8176" group-title="AT| AUSTRIA HD/4K",AT: SFR 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409267.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409272.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409273.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409274.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409275.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409276.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409277.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: SKY SPORT AUSTRIA 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45911" group-title="AT| AUSTRIA HD/4K",AT: SKY SPORT AUSTRIA 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409278.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: U1 TIROL/ TIROLER HEIMAT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8434.png?53863" group-title="AT| AUSTRIA HD/4K",AT: U1 TIROL/ TIROLER HEIMAT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409279.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="AT: VOX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1287.png?32316" group-title="AT| AUSTRIA HD/4K",AT: VOX HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/409264.ts

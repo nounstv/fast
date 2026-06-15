@@ -1,0 +1,90 @@
+[
+  {
+    "id": "717703",
+    "name": "### UK NEWS HEVC/HD ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717703.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "",
+    "added": "1708368945",
+    "type": "live"
+  },
+  {
+    "id": "717702",
+    "name": "UK: BBC NEWS HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717702.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?67314",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "BBCNews.uk",
+    "added": "1708368945",
+    "type": "live"
+  },
+  {
+    "id": "717701",
+    "name": "UK: SKY NEWS HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717701.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3124.jpg?49138",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "SkyNews.uk",
+    "added": "1708368944",
+    "type": "live"
+  },
+  {
+    "id": "717700",
+    "name": "UK: GB NEWS HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717700.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13251.jpg?ver=18254",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "GBNews.uk",
+    "added": "1708368944",
+    "type": "live"
+  },
+  {
+    "id": "717699",
+    "name": "### UK NEWS HEVC/4K ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717699.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "",
+    "added": "1708368944",
+    "type": "live"
+  },
+  {
+    "id": "717698",
+    "name": "UK: BBC NEWS HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717698.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?71635",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "BBCNews.uk",
+    "added": "1708368944",
+    "type": "live"
+  },
+  {
+    "id": "717697",
+    "name": "UK: SKY NEWS HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717697.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3124.jpg?78087",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "SkyNews.uk",
+    "added": "1708368944",
+    "type": "live"
+  },
+  {
+    "id": "717696",
+    "name": "UK: GB NEWS HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717696.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13251.jpg?ver=18254",
+    "category": "UK| NEWS ʰᵉᵛᶜ",
+    "categoryId": "1145",
+    "epgId": "GBNews.uk",
+    "added": "1708368944",
+    "type": "live"
+  }
+]

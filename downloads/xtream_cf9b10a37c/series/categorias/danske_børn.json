@@ -1,0 +1,30 @@
+[
+  {
+    "id": "42766",
+    "name": "DK - Cirkus Julius (1988) (DK)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSukTWpJ9wxzUU3QQ0aQEj3ujhy.jpg",
+    "category": "DANSKE BØRN",
+    "categoryId": "777",
+    "plot": "Det er december, og Cirkus Julius har søgt vinterly i det gamle sukkerkogeri i Odense. Men midt i det hele får de af vide, at der ikke er penge til huslejen og de må flytte. Sammen forsøger de at samle penge ind så de kan blive boende, men det er ikke nemt når nisserne er på spil med deres drillerier.",
+    "cast": "Henrik Svane, Henrik Broni, Folmer Rubæk, Natalie Birk, Jon Krassel, Hugo Øster Bendtsen, Lisbeth Gajhede, Margrethe Koytu",
+    "director": "",
+    "genre": "Familie / Børn",
+    "rating": "10",
+    "lastModified": "1775240328",
+    "type": "series"
+  },
+  {
+    "id": "38953",
+    "name": "DK - Det store eksperimentet (2016) (NO)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cGYAAHQFvZIXXYH0Nx6urC8suS.jpg",
+    "category": "DANSKE BØRN",
+    "categoryId": "777",
+    "plot": "Professor Primus er på færde igen, og denne gang vil han skabe klimakaos og stoppe alle fremtidige vintre og juleaftener. Det er op til Jacob og børnene at stoppe ham, men vil de lykkes?",
+    "cast": "Ole André Sivertsen, Nina Hjelmkvist, Mathias Thomsen Nesvåg, Leona Makita, Anne Marie Ottersen",
+    "director": "",
+    "genre": "Børn / Familie",
+    "rating": "2",
+    "lastModified": "1761336414",
+    "type": "series"
+  }
+]

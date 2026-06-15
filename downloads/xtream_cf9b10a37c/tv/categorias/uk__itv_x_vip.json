@@ -1,0 +1,189 @@
+[
+  {
+    "id": "1536231",
+    "name": "####### ITV X VIP #######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536231.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536230",
+    "name": "UK: ALL ACTION MOVIES CHANNEL ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536230.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536229",
+    "name": "UK: COMEDY 24/7 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536229.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536228",
+    "name": "UK: ITV 1 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536228.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536227",
+    "name": "UK: ITV 2 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536227.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536226",
+    "name": "UK: ITV 3 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536226.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "itv3.uk",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536225",
+    "name": "UK: ITV 4 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536225.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536224",
+    "name": "UK: ITV BE ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536224.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536223",
+    "name": "UK: ITV SIGNED ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536223.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536222",
+    "name": "UK: ITV X KIDS ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536222.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536221",
+    "name": "UK: LOVE ISLAND 24/7 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536221.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536220",
+    "name": "UK: MIDSOMER MURDERS ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536220.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536219",
+    "name": "UK: REALITY 24/7 ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536219.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536218",
+    "name": "UK: SATURDAY NIGHT EVERY NIGHT! ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536218.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536217",
+    "name": "UK: THE CHASE ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536217.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536216",
+    "name": "UK: TOWIE TV ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536216.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  },
+  {
+    "id": "1536215",
+    "name": "UK: VERA ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1536215.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13811.png?ver=56024",
+    "category": "UK| ITV X VIP",
+    "categoryId": "1244",
+    "epgId": "",
+    "added": "1758280643",
+    "type": "live"
+  }
+]

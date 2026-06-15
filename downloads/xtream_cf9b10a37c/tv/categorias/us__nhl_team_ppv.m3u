@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="##### NHL TEAMS #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| NHL TEAM PPV",##### NHL TEAMS #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604294.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: ANAHEIM DUCKS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: ANAHEIM DUCKS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604293.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: ARIZONA COYOTES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: ARIZONA COYOTES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604292.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: BOSTON BRUINS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: BOSTON BRUINS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604291.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: BUFFALO SABRES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: BUFFALO SABRES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604290.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: CALGARY FLAMES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: CALGARY FLAMES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604289.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: CAROLINA HURRICANES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: CAROLINA HURRICANES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604288.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: CHICAGO BLACKHAWKS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: CHICAGO BLACKHAWKS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604287.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: COLORADO AVALANCHE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: COLORADO AVALANCHE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604286.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: COLUMBUS BLUE JACKETS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: COLUMBUS BLUE JACKETS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604285.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: DALLAS STARS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: DALLAS STARS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604284.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: DETROIT RED WINGS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: DETROIT RED WINGS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604283.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: EDMONTON OILERS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: EDMONTON OILERS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604282.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: FLORIDA PANTHERS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: FLORIDA PANTHERS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604281.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: LOS ANGELES KINGS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: LOS ANGELES KINGS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604280.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: MINNESOTA WILD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: MINNESOTA WILD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604279.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: MONTREAL CANADIENS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: MONTREAL CANADIENS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604278.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NASHVILLE PREDATORS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: NASHVILLE PREDATORS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604277.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NEW JERSEY DEVILS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: NEW JERSEY DEVILS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604276.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NEW YORK ISLANDERS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: NEW YORK ISLANDERS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604275.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: NEW YORK RANGERS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: NEW YORK RANGERS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604274.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: OTTAWA SENATORS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: OTTAWA SENATORS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604273.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: PHILADELPHIA FLYERS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: PHILADELPHIA FLYERS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604272.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: PITTSBURGH PENGUINS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: PITTSBURGH PENGUINS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604271.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: SAN JOSE SHARKS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: SAN JOSE SHARKS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604270.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: ST LOUIS BLUES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: ST LOUIS BLUES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604269.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: TAMPA BAY LIGHTNING" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: TAMPA BAY LIGHTNING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604268.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: TORONTO MAPLE LEAFS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: TORONTO MAPLE LEAFS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604267.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: VANCOUVER CANUCKS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: VANCOUVER CANUCKS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604266.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: VEGAS GOLDEN KNIGHTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: VEGAS GOLDEN KNIGHTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604265.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: WASHINGTON CAPITALS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: WASHINGTON CAPITALS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604264.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="US: WINNIPEG JETS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="US| NHL TEAM PPV",US: WINNIPEG JETS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604263.ts

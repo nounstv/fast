@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="tv" tvg-name="####### TYRONE GAA PPV #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Animated-Flag-Ireland.gif" group-title="IE| TYRONE GAA PPV",####### TYRONE GAA PPV #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025234.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Tyrone Gaa 01: Clann Eireann v Madden" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12622.png?71723" group-title="IE| TYRONE GAA PPV",Tyrone Gaa 01: Clann Eireann v Madden
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025233.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Tyrone Gaa 02: Moortown vs Derrylaughan Sat 5th 3:45pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12622.png?71723" group-title="IE| TYRONE GAA PPV",Tyrone Gaa 02: Moortown vs Derrylaughan Sat 5th 3:45pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025232.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Tyrone Gaa 03: Omagh vs Naomh Colum Cille Sun 6th 1:00pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12622.png?71723" group-title="IE| TYRONE GAA PPV",Tyrone Gaa 03: Omagh vs Naomh Colum Cille Sun 6th 1:00pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025231.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Tyrone Gaa 04: Eoghan Ruadh vs Dungannon Eoghan Ruadh Sun 6th 3:00pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12622.png?71723" group-title="IE| TYRONE GAA PPV",Tyrone Gaa 04: Eoghan Ruadh vs Dungannon Eoghan Ruadh Sun 6th 3:00pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025230.ts
+#EXTINF:-1 tvg-type="tv" tvg-name="Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12622.png?71723" group-title="IE| TYRONE GAA PPV",Tyrone Gaa 05: Killyclogher vs Errigal Ciaran Sun 6th 7:00pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1025229.ts

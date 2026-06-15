@@ -1,0 +1,123 @@
+[
+  {
+    "id": "471465",
+    "name": "SOC - St Kilda - Fremantle 19.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471465.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471464",
+    "name": "SOC - Richmond - Carlton 16.10.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471464.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471463",
+    "name": "SOC- Richmond - Brisbane Lions 31.07.2022",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471463.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471462",
+    "name": "SOC - Hawthorn - Essendon 19.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471462.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "0",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471461",
+    "name": "SOC - Geelong Cats - Sydney Swans 24.09.2022",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471461.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471460",
+    "name": "SOC - Geelong Cats - Collingwood 17.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471460.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471459",
+    "name": "SOC - GWS Giants - Adelaide Crows 19.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471459.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471458",
+    "name": "SOC - Collingwood - Port Adelaide 25.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471458.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "1",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471457",
+    "name": "SOC - Carlton - Geelong Cats 23.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471457.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471456",
+    "name": "SOC - Brisbane Lions - Melbourne Demons 24.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471456.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "",
+    "added": "1680359460",
+    "type": "vod"
+  },
+  {
+    "id": "471455",
+    "name": "SOC - Adelaide Crows - Richmond 25.03.2023",
+    "url": "http://cf.business-cdn-8k.com/movie/cf9b10a37c7c/f4bb9ed47c/471455.mkv",
+    "logo": "http://photo-tmdb.com/stalker_portal/screenshots/138/13734.jpg",
+    "category": "SOCCER AFL",
+    "categoryId": "640",
+    "rating": "0",
+    "added": "1680359460",
+    "type": "vod"
+  }
+]

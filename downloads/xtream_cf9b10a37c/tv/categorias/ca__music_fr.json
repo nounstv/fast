@@ -1,0 +1,134 @@
+[
+  {
+    "id": "413881",
+    "name": "######## MUSIC FR ########",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/413881.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666793291",
+    "type": "live"
+  },
+  {
+    "id": "412953",
+    "name": "CA FR: ARTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412953.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470358",
+    "type": "live"
+  },
+  {
+    "id": "412868",
+    "name": "CA FR: ICI ARTV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412868.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470352",
+    "type": "live"
+  },
+  {
+    "id": "412856",
+    "name": "CA FR: MEZZO LIVE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412856.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11323.jpg?96218",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470351",
+    "type": "live"
+  },
+  {
+    "id": "412815",
+    "name": "CA FR: MUSIC PLUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412815.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9388.jpg?17398",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470348",
+    "type": "live"
+  },
+  {
+    "id": "412810",
+    "name": "CA FR: STINGRAY CLASSICA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412810.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3184.jpg?62030",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470348",
+    "type": "live"
+  },
+  {
+    "id": "412811",
+    "name": "CA FR: STINGRAY HITS! HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412811.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9899.jpg?40533",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470348",
+    "type": "live"
+  },
+  {
+    "id": "412843",
+    "name": "CA FR: TRACE  URBAN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412843.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?85209",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470350",
+    "type": "live"
+  },
+  {
+    "id": "412844",
+    "name": "CA FR: TRACE AFRICA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412844.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8337.jpg?26726",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470350",
+    "type": "live"
+  },
+  {
+    "id": "412842",
+    "name": "CA FR: TRACE NAIJA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412842.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8328.jpg?12011",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470350",
+    "type": "live"
+  },
+  {
+    "id": "412841",
+    "name": "CA FR: TRACE TOCA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412841.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?ver=59308",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470350",
+    "type": "live"
+  },
+  {
+    "id": "412840",
+    "name": "CA FR: TRACE URBAN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412840.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?44745",
+    "category": "CA| MUSIC FR",
+    "categoryId": "581",
+    "epgId": "",
+    "added": "1666470350",
+    "type": "live"
+  }
+]

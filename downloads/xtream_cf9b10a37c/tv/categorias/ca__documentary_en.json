@@ -1,0 +1,101 @@
+[
+  {
+    "id": "414083",
+    "name": "CA EN: ANIMAL PLANET HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414083.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "AnimalPlanet.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414073",
+    "name": "CA EN: CRIME + INVERSTIGATION",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414073.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "CrimeInvestigation.ca",
+    "added": "1666891814",
+    "type": "live"
+  },
+  {
+    "id": "414076",
+    "name": "CA EN: DISCOVERY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414076.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?24942",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "DiscoveryChannel.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414077",
+    "name": "CA EN: DISCOVERY SCIENCE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414077.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49458",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "discoveryscience.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414078",
+    "name": "CA EN: DISCOVERY VELOCITY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414078.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "DiscoveryVelocity.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414090",
+    "name": "CA EN: H2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414090.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "",
+    "added": "1666891816",
+    "type": "live"
+  },
+  {
+    "id": "414091",
+    "name": "CA EN: HISTORY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414091.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/733.jpg?36560",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "historia.ca",
+    "added": "1666891816",
+    "type": "live"
+  },
+  {
+    "id": "414080",
+    "name": "CA EN: NATIONAL GEOGRAPHIC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414080.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "natgeo.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414081",
+    "name": "CA EN: NATIONAL GEOGRAPHIC WILD HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414081.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713",
+    "category": "CA| DOCUMENTARY EN",
+    "categoryId": "588",
+    "epgId": "natgeowild.ca",
+    "added": "1666891815",
+    "type": "live"
+  }
+]

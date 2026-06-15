@@ -1,0 +1,200 @@
+[
+  {
+    "id": "499773",
+    "name": "### MBC LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499773.ts",
+    "logo": "https://i.ibb.co/GfGx9jCj/MBC.gif",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1688818685",
+    "type": "live"
+  },
+  {
+    "id": "499772",
+    "name": "AR: MBC 1 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499772.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1205.jpg?1340",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBC1.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499771",
+    "name": "AR: MBC 2 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499771.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6680.jpg?3233",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBC2.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "505880",
+    "name": "AR: MBC 3 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505880.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/15.png",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  },
+  {
+    "id": "505879",
+    "name": "AR: MBC 4 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505879.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/21.jpg",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  },
+  {
+    "id": "499768",
+    "name": "AR: MBC 5 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499768.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6675.png?54797",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBC5.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499766",
+    "name": "AR: MBC ACTION LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499766.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6677.jpg?14227",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBCAction.sa",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499764",
+    "name": "AR: MBC DRAMA LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499764.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6674.jpg?97243",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBCDramaAr.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "505876",
+    "name": "AR: MBC DRAMA+ LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505876.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  },
+  {
+    "id": "499765",
+    "name": "AR: MBC BOLLYWOOD LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499765.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6670.png?78912",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBCBollywood.sa",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499767",
+    "name": "AR: MBC IRAQ LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499767.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/23.jpg?33078",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBCIraq.iq",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499763",
+    "name": "AR: MBC MAX LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499763.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6664.jpg?80123",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MBCMax.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499762",
+    "name": "AR: MBC MASER 2 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499762.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/22.jpg?28204",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "MbcMasr2.eg",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "505877",
+    "name": "AR: MBC MASER LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505877.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1176.jpg",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  },
+  {
+    "id": "505870",
+    "name": "AR: MBC FM LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505870.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3224.jpg?88612",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  },
+  {
+    "id": "499743",
+    "name": "AR: ZEE ALWAN LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499743.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/167.jpg?55057",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "ZeeAlwan.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "499742",
+    "name": "AR: ZEE AFLAM LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499742.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/156.jpg?21687",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "ZeeAflam.ae",
+    "added": "1688818684",
+    "type": "live"
+  },
+  {
+    "id": "505871",
+    "name": "AR: PANORAMA FM LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505871.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13069.jpg?22452",
+    "category": "AR| MBC LQ ▼ ام بي سي",
+    "categoryId": "821",
+    "epgId": "",
+    "added": "1689886544",
+    "type": "live"
+  }
+]

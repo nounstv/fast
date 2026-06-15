@@ -1,0 +1,90 @@
+[
+  {
+    "id": "251799",
+    "name": "###### JORDAN TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251799.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Animated-Flag-Jordan.gif",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1618487935",
+    "type": "live"
+  },
+  {
+    "id": "4440",
+    "name": "AR: Jordan TV 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4440.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/457.jpg",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "JordanTV.jo",
+    "added": "1570399416",
+    "type": "live"
+  },
+  {
+    "id": "3101",
+    "name": "AR: Almamlaka TV 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3101.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/151.jpg",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1570059011",
+    "type": "live"
+  },
+  {
+    "id": "497948",
+    "name": "AR: Almamlaka TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/497948.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/151.jpg",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1688501984",
+    "type": "live"
+  },
+  {
+    "id": "3236",
+    "name": "AR: Amman TV 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3236.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/207.jpg",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1570059012",
+    "type": "live"
+  },
+  {
+    "id": "499147",
+    "name": "AR: Amman TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499147.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/207.jpg",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1688721366",
+    "type": "live"
+  },
+  {
+    "id": "461175",
+    "name": "AR: Jordan Aman TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/461175.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/457.jpg?57470",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "JordanTV.jo",
+    "added": "1677597637",
+    "type": "live"
+  },
+  {
+    "id": "326934",
+    "name": "AR: Yarmouk",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/326934.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13464.png?51787",
+    "category": "AR| JORDAN 4K ▶ الاردن",
+    "categoryId": "358",
+    "epgId": "",
+    "added": "1644314817",
+    "type": "live"
+  }
+]

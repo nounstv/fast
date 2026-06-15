@@ -1,0 +1,123 @@
+[
+  {
+    "id": "414082",
+    "name": "CA EN: A&E CANADA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414082.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9712.jpg?88579",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "AandE.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414156",
+    "name": "CA EN: ABC SPARK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414156.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12725.jpg?47891",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "ABCSpark.ca",
+    "added": "1666891821",
+    "type": "live"
+  },
+  {
+    "id": "655948",
+    "name": "CA EN: CTV Sudbury HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/655948.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?65288",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "ctvsudbury.ca",
+    "added": "1703276097",
+    "type": "live"
+  },
+  {
+    "id": "414084",
+    "name": "CA EN: LIFETIME HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414084.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?83946",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "LifetimeTV.ca",
+    "added": "1666891815",
+    "type": "live"
+  },
+  {
+    "id": "414209",
+    "name": "CA EN: CMT SD (CA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414209.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1872.jpg?27539",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "CMT.ca",
+    "added": "1666891825",
+    "type": "live"
+  },
+  {
+    "id": "414164",
+    "name": "CA EN: RIDE TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414164.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13058.jpg?19201",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "",
+    "added": "1666891821",
+    "type": "live"
+  },
+  {
+    "id": "414110",
+    "name": "CA EN: SHOWCASE(R)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414110.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?ver=8904",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "Showcase.ca",
+    "added": "1666891817",
+    "type": "live"
+  },
+  {
+    "id": "414109",
+    "name": "CA EN: TCM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414109.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7881.jpg?16221",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "",
+    "added": "1666891817",
+    "type": "live"
+  },
+  {
+    "id": "414062",
+    "name": "CA EN: SUPER CHANNEL FUSE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414062.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?42483",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "SuperChannelFuse.ca",
+    "added": "1666891813",
+    "type": "live"
+  },
+  {
+    "id": "414064",
+    "name": "CA EN: SUPER CHANNEL VAULT HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414064.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?42483",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "SuperChannelVAULT.ca",
+    "added": "1666891814",
+    "type": "live"
+  },
+  {
+    "id": "414063",
+    "name": "CA EN: SUPER CHANNEL HEART & HOME HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414063.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?42483",
+    "category": "CA| CINEMA EN",
+    "categoryId": "584",
+    "epgId": "SuperChannelHeartHome.ca",
+    "added": "1666891814",
+    "type": "live"
+  }
+]

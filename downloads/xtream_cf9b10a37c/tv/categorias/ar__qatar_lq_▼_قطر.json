@@ -1,0 +1,35 @@
+[
+  {
+    "id": "499549",
+    "name": "### QATAR LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499549.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",
+    "category": "AR| QATAR LQ ▼ قطر",
+    "categoryId": "839",
+    "epgId": "",
+    "added": "1688818683",
+    "type": "live"
+  },
+  {
+    "id": "499548",
+    "name": "AR: QATAR TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499548.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg?43099",
+    "category": "AR| QATAR LQ ▼ قطر",
+    "categoryId": "839",
+    "epgId": "QatarTV.qa",
+    "added": "1688818683",
+    "type": "live"
+  },
+  {
+    "id": "499547",
+    "name": "AR: QATAR 2 LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499547.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg?43099",
+    "category": "AR| QATAR LQ ▼ قطر",
+    "categoryId": "839",
+    "epgId": "",
+    "added": "1688818683",
+    "type": "live"
+  }
+]

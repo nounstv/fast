@@ -1,0 +1,79 @@
+[
+  {
+    "id": "251807",
+    "name": "###### QATAR TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251807.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "",
+    "added": "1618487936",
+    "type": "live"
+  },
+  {
+    "id": "4415",
+    "name": "AR: Qatar TV 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4415.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "QatarTV.qa",
+    "added": "1570399416",
+    "type": "live"
+  },
+  {
+    "id": "499144",
+    "name": "AR: Qatar TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499144.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "QatarTV.qa",
+    "added": "1688718324",
+    "type": "live"
+  },
+  {
+    "id": "184832",
+    "name": "AR: Qatar 2 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/184832.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "",
+    "added": "1597675778",
+    "type": "live"
+  },
+  {
+    "id": "499145",
+    "name": "AR: Qatar 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499145.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "",
+    "added": "1688718396",
+    "type": "live"
+  },
+  {
+    "id": "2321",
+    "name": "AR: Rayyan 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2321.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1180.jpg",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "TS",
+    "added": "1569597401",
+    "type": "live"
+  },
+  {
+    "id": "7160",
+    "name": "AR: Al Rayyan Al Qadeem 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/7160.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9417.png",
+    "category": "AR| QATAR 4K ▶ قطر",
+    "categoryId": "363",
+    "epgId": "TS",
+    "added": "1571903628",
+    "type": "live"
+  }
+]
