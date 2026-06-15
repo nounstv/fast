@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SWEDENONDEMAND4K" tvg-name="###### SWEDEN ONDEMAND 4K ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Animated-Flag-Sweden.gif" group-title="Se| Ondemand ᴿᴬᵂ",###### SWEDEN ONDEMAND 4K ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374154.ts
+#EXTINF:-1 tvg-id="Alltdulskar4K.se" tvg-name="Allt du älskar 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Allt du älskar 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385440.ts
+#EXTINF:-1 tvg-id="BasicBitch4K.se" tvg-name="Basic Bitch 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Basic Bitch 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385441.ts
+#EXTINF:-1 tvg-id="Dopamin4K.se" tvg-name="Dopamin 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Dopamin 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385442.ts
+#EXTINF:-1 tvg-id="Fullthus4K.se" tvg-name="Fullt hus 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Fullt hus 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385443.ts
+#EXTINF:-1 tvg-id="HillsongAMegachurchExposed4K.se" tvg-name="Hillsong A Megachurch Exposed 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Hillsong A Megachurch Exposed 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385444.ts
+#EXTINF:-1 tvg-id="Mklarna4K.se" tvg-name="Mäklarna 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Mäklarna 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385445.ts
+#EXTINF:-1 tvg-id="Pappaspojkar4K.se" tvg-name="Pappas pojkar 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=63616" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",Pappas pojkar 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/385446.ts
+#EXTINF:-1 tvg-id="DISNEYBARN14K.se" tvg-name="DISNEY+ BARN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13248.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",DISNEY+ BARN 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374155.ts
+#EXTINF:-1 tvg-id="DISNEYBARN24K.se" tvg-name="DISNEY+ BARN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13248.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",DISNEY+ BARN 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374156.ts
+#EXTINF:-1 tvg-id="APPELBARN14K.se" tvg-name="APPEL+ BARN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13559.png?74853" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",APPEL+ BARN 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374157.ts
+#EXTINF:-1 tvg-id="NETFLIXBARN14K.se" tvg-name="NETFLIX BARN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13252.png?ver=7689" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",NETFLIX BARN 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374158.ts
+#EXTINF:-1 tvg-id="MARVELACTION4K.se" tvg-name="MARVEL ACTION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL ACTION 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374159.ts
+#EXTINF:-1 tvg-id="MARVELADVENTURES4K.se" tvg-name="MARVEL ADVENTURES 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL ADVENTURES 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374160.ts
+#EXTINF:-1 tvg-id="MARVELAVENGERS4K.se" tvg-name="MARVEL AVENGERS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL AVENGERS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374161.ts
+#EXTINF:-1 tvg-id="MARVELCAPTAINAMERICA4K.se" tvg-name="MARVEL CAPTAIN AMERICA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL CAPTAIN AMERICA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374162.ts
+#EXTINF:-1 tvg-id="MARVELDEADPOOL4K.se" tvg-name="MARVEL DEADPOOL 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL DEADPOOL 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374163.ts
+#EXTINF:-1 tvg-id="MARVELIRONMAN4K.se" tvg-name="MARVEL IRON MAN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL IRON MAN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374164.ts
+#EXTINF:-1 tvg-id="MARVELSPIDERMAN4K.se" tvg-name="MARVEL SPIDER MAN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL SPIDER MAN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374165.ts
+#EXTINF:-1 tvg-id="MARVELTHOR4K.se" tvg-name="MARVEL THOR 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL THOR 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374166.ts
+#EXTINF:-1 tvg-id="MARVELXMEN4K.se" tvg-name="MARVEL X MEN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13560.png?99060" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",MARVEL X MEN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374167.ts
+#EXTINF:-1 tvg-id="VIAPLAYFILM14K.se" tvg-name="VIAPLAY FILM 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",VIAPLAY FILM 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374168.ts
+#EXTINF:-1 tvg-id="VIAPLAYFILM24K.se" tvg-name="VIAPLAY FILM 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",VIAPLAY FILM 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374169.ts
+#EXTINF:-1 tvg-id="VIAPLAYFILM34K.se" tvg-name="VIAPLAY FILM 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",VIAPLAY FILM 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374170.ts
+#EXTINF:-1 tvg-id="VIAPLAYFILM44K.se" tvg-name="VIAPLAY FILM 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",VIAPLAY FILM 4 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374171.ts
+#EXTINF:-1 tvg-id="VIAPLAYFILM54K.se" tvg-name="VIAPLAY FILM 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",VIAPLAY FILM 5 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374172.ts
+#EXTINF:-1 tvg-id="NETFLIXFILM14K.se" tvg-name="NETFLIX FILM 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13252.png?ver=7689" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",NETFLIX FILM 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374173.ts
+#EXTINF:-1 tvg-id="NETFLIXFILM24K.se" tvg-name="NETFLIX FILM 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13252.png?ver=7689" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",NETFLIX FILM 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374174.ts
+#EXTINF:-1 tvg-id="APPELFILM14K.se" tvg-name="APPEL+ FILM 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13559.png?74853" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",APPEL+ FILM 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374175.ts
+#EXTINF:-1 tvg-id="DISNEYFILM14K.se" tvg-name="DISNEY+ FILM 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13248.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",DISNEY+ FILM 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374176.ts
+#EXTINF:-1 tvg-id="DISNEYFILM24K.se" tvg-name="DISNEY+ FILM 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13248.png" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",DISNEY+ FILM 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374177.ts
+#EXTINF:-1 tvg-id="HBOFILM14K.se" tvg-name="HBO+ FILM 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13561.png?94849" group-title="Se| Ondemand ᴿᴬᵂ" tvg-country="SE",HBO+ FILM 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/374178.ts

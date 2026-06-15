@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SPORTTV1.si" tvg-name="SPORT TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4000.jpg?ver=66952" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",SPORT TV 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2632.ts
+#EXTINF:-1 tvg-id="SPORTTV2.si" tvg-name="SPORT TV 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4010.jpg?9954" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",SPORT TV 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2631.ts
+#EXTINF:-1 tvg-id="SPORTTV3.si" tvg-name="SPORT TV 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4017.jpg?29787" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",SPORT TV 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2630.ts
+#EXTINF:-1 tvg-id="VESELJAK4K.sl" tvg-name="VESELJAK 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10969.png?77173" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SL",VESELJAK 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/301537.ts
+#EXTINF:-1 tvg-id="SLO1.si" tvg-name="SLO 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4002.jpg?8187" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",SLO 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2636.ts
+#EXTINF:-1 tvg-id="SLO2.si" tvg-name="SLO 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4001.png?89845" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",SLO 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2635.ts
+#EXTINF:-1 tvg-id="POPTV.si" tvg-name="POP TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4003.jpg?48074" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",POP TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2637.ts
+#EXTINF:-1 tvg-id="PopOto.si" tvg-name="Pop Oto" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4004.png?17114" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",Pop Oto
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2638.ts
+#EXTINF:-1 tvg-id="PopKino.si" tvg-name="Pop Kino" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12092.jpg?84772" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",Pop Kino
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2639.ts
+#EXTINF:-1 tvg-id="PopBrio.si" tvg-name="Pop Brio" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4006.png?41874" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",Pop Brio
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2640.ts
+#EXTINF:-1 tvg-id="PLANETTV.si" tvg-name="PLANET TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4007.jpg?66083" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",PLANET TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2641.ts
+#EXTINF:-1 tvg-id="KANALA.si" tvg-name="KANAL A" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4008.jpg?92113" group-title="Si| Slovenia ᴴᴰ/ᴿᴬᵂ" tvg-country="SI",KANAL A
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2642.ts

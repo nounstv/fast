@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GJENERALE" tvg-name="###### GJENERALE ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="Al| Gjenerale",###### GJENERALE ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507781.ts
+#EXTINF:-1 tvg-id="FERMAVIP1.al" tvg-name="FERMA VIP 1" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13962.png?45095" group-title="Al| Gjenerale" tvg-country="AL",FERMA VIP 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1896325.ts
+#EXTINF:-1 tvg-id="FERMAVIP2.al" tvg-name="FERMA VIP 2" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13962.png?45095" group-title="Al| Gjenerale" tvg-country="AL",FERMA VIP 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1896326.ts
+#EXTINF:-1 tvg-id="FERMAVIP1.al" tvg-name="FERMA VIP 1 ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13962.png?45095" group-title="Al| Gjenerale" tvg-country="AL",FERMA VIP 1 ⁽ᴮᴷ⁾
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1896491.ts
+#EXTINF:-1 tvg-id="FERMAVIP2.al" tvg-name="FERMA VIP 2 ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13962.png?45095" group-title="Al| Gjenerale" tvg-country="AL",FERMA VIP 2 ⁽ᴮᴷ⁾
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1896492.ts
+#EXTINF:-1 tvg-id="TOPCHANNEL4K.al" tvg-name="TOP CHANNEL 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3073.png?49435" group-title="Al| Gjenerale" tvg-country="AL",TOP CHANNEL 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294490.ts
+#EXTINF:-1 tvg-id="TOPCHANNELHD.al" tvg-name="TOP CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3073.png?48220" group-title="Al| Gjenerale" tvg-country="AL",TOP CHANNEL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/692754.ts
+#EXTINF:-1 tvg-id="KLAN4K.al" tvg-name="KLAN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3231.png?35840" group-title="Al| Gjenerale" tvg-country="AL",KLAN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/553762.ts
+#EXTINF:-1 tvg-id="KLANHD.al" tvg-name="KLAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3231.png?57331" group-title="Al| Gjenerale" tvg-country="AL",KLAN HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294492.ts
+#EXTINF:-1 tvg-id="KLANPLUS4K.al" tvg-name="KLAN PLUS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3229.png?34640" group-title="Al| Gjenerale" tvg-country="AL",KLAN PLUS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294495.ts
+#EXTINF:-1 tvg-id="VIZIONPLUS4K.al" tvg-name="VIZION PLUS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8530.png?80477" group-title="Al| Gjenerale" tvg-country="AL",VIZION PLUS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/613014.ts
+#EXTINF:-1 tvg-id="VIZIONPLUSHD.al" tvg-name="VIZION PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8530.png?45293" group-title="Al| Gjenerale" tvg-country="AL",VIZION PLUS HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294505.ts
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3158.png?98260" group-title="Al| Gjenerale" tvg-country="AL",RTSH 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294507.ts
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3151.png?34544" group-title="Al| Gjenerale" tvg-country="AL",RTSH 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294508.ts
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="RTSH 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3154.png?18214" group-title="Al| Gjenerale" tvg-country="AL",RTSH 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294509.ts
+#EXTINF:-1 tvg-id="RTSHGJIROKASTRA.al" tvg-name="RTSH GJIROKASTRA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3880.png?19463" group-title="Al| Gjenerale" tvg-country="AL",RTSH GJIROKASTRA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/616160.ts
+#EXTINF:-1 tvg-id="RTK14K.al" tvg-name="RTK 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14129.png?30794" group-title="Al| Gjenerale" tvg-country="AL",RTK 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/588997.ts
+#EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14129.png?30794" group-title="Al| Gjenerale" tvg-country="AL",RTK 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294477.ts
+#EXTINF:-1 tvg-id="RTK2HD.al" tvg-name="RTK 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14130.png?96106" group-title="Al| Gjenerale" tvg-country="AL",RTK 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294478.ts
+#EXTINF:-1 tvg-id="RTK3HD.al" tvg-name="RTK 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14131.png?77456" group-title="Al| Gjenerale" tvg-country="AL",RTK 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294479.ts
+#EXTINF:-1 tvg-id="RTK4HD.al" tvg-name="RTK 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14132.png?5826" group-title="Al| Gjenerale" tvg-country="AL",RTK 4 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294480.ts
+#EXTINF:-1 tvg-id="RTVLLIRID.al" tvg-name="RTV LLIRID" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15065.png?37471" group-title="Al| Gjenerale" tvg-country="AL",RTV LLIRID
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968654.ts
+#EXTINF:-1 tvg-id="KLANKOSOVA.al" tvg-name="KLAN KOSOVA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14134.png?80789" group-title="Al| Gjenerale" tvg-country="AL",KLAN KOSOVA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294486.ts
+#EXTINF:-1 tvg-id="KLANKOSOVA4K.al" tvg-name="KLAN KOSOVA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14134.png?80789" group-title="Al| Gjenerale" tvg-country="AL",KLAN KOSOVA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/599015.ts
+#EXTINF:-1 tvg-id="KLANMACEDONIA.al" tvg-name="KLAN MACEDONIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3240.png?49343" group-title="Al| Gjenerale" tvg-country="AL",KLAN MACEDONIA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294494.ts
+#EXTINF:-1 tvg-id="KTVKOHAVISION4K.al" tvg-name="KTV KOHAVISION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3253.png?54202" group-title="Al| Gjenerale" tvg-country="AL",KTV KOHAVISION 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294481.ts
+#EXTINF:-1 tvg-id="KTV4K.al" tvg-name="KTV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3253.png?36016" group-title="Al| Gjenerale" tvg-country="AL",KTV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/611134.ts
+#EXTINF:-1 tvg-id="ALSATM.al" tvg-name="ALSAT M" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3360.png?47083" group-title="Al| Gjenerale" tvg-country="AL",ALSAT M
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294491.ts
+#EXTINF:-1 tvg-id="ALSATM4K.al" tvg-name="ALSAT M 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3360.png?47083" group-title="Al| Gjenerale" tvg-country="AL",ALSAT M 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/420655.ts
+#EXTINF:-1 tvg-id="RTV21.al" tvg-name="RTV 21" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3140.png?50495" group-title="Al| Gjenerale" tvg-country="AL",RTV 21
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294482.ts
+#EXTINF:-1 tvg-id="RTV214K.al" tvg-name="RTV 21 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3140.png?ver=93477" group-title="Al| Gjenerale" tvg-country="AL",RTV 21 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/599553.ts
+#EXTINF:-1 tvg-id="RTV21MIX4K.al" tvg-name="RTV 21 MIX 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3139.png?60666" group-title="Al| Gjenerale" tvg-country="AL",RTV 21 MIX 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294484.ts
+#EXTINF:-1 tvg-id="RTV21MK.al" tvg-name="RTV 21 MK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3726.png?57375" group-title="Al| Gjenerale" tvg-country="AL",RTV 21 MK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294483.ts
+#EXTINF:-1 tvg-id="T74K.al" tvg-name="T7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3091.png?18050" group-title="Al| Gjenerale" tvg-country="AL",T7 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294489.ts
+#EXTINF:-1 tvg-id="T7HD.al" tvg-name="T7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3091.png?69355" group-title="Al| Gjenerale" tvg-country="AL",T7 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/611888.ts
+#EXTINF:-1 tvg-id="RTVDUKAGJINI.al" tvg-name="RTV DUKAGJINI" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8494.png?63010" group-title="Al| Gjenerale" tvg-country="AL",RTV DUKAGJINI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294487.ts
+#EXTINF:-1 tvg-id="KANAL104K.al" tvg-name="KANAL 10 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10755.png?87785" group-title="Al| Gjenerale" tvg-country="AL",KANAL 10 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/587196.ts
+#EXTINF:-1 tvg-id="KANALI10HD.al" tvg-name="KANALI 10 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10755.png?51609" group-title="Al| Gjenerale" tvg-country="AL",KANALI 10 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294488.ts
+#EXTINF:-1 tvg-id="ATV4K.al" tvg-name="ATV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1116.png?99343" group-title="Al| Gjenerale" tvg-country="AL",ATV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/599534.ts
+#EXTINF:-1 tvg-id="FIRSTCHANNEL.al" tvg-name="FIRST CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3272.png?64133" group-title="Al| Gjenerale" tvg-country="AL",FIRST CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294496.ts
+#EXTINF:-1 tvg-id="Tv14K.al" tvg-name="Tëvë 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11412.png?95033" group-title="Al| Gjenerale" tvg-country="AL",Tëvë 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/518397.ts
+#EXTINF:-1 tvg-id="PRO1TV4K.al" tvg-name="PRO 1 TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3213.png?76010" group-title="Al| Gjenerale" tvg-country="AL",PRO 1 TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/610841.ts
+#EXTINF:-1 tvg-id="NTV4K.al" tvg-name="NTV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14133.png?98504" group-title="Al| Gjenerale" tvg-country="AL",NTV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/578142.ts
+#EXTINF:-1 tvg-id="TVNEWS4K.al" tvg-name="TV NEWS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10998.png?27589" group-title="Al| Gjenerale" tvg-country="AL",TV NEWS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/611135.ts
+#EXTINF:-1 tvg-id="DTVTV.al" tvg-name="DTV TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11010.png?4735" group-title="Al| Gjenerale" tvg-country="AL",DTV TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/294588.ts
+#EXTINF:-1 tvg-id="NEWS244K.al" tvg-name="NEWS 24 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3179.png?66907" group-title="Al| Gjenerale" tvg-country="AL",NEWS 24 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/616166.ts
+#EXTINF:-1 tvg-id="EURONEWS.al" tvg-name="EURO NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/418.png?12388" group-title="Al| Gjenerale" tvg-country="AL",EURO NEWS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/578145.ts
+#EXTINF:-1 tvg-id="TRINGORIGINAL.al" tvg-name="TRING ORIGINAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3060.png?49699" group-title="Al| Gjenerale" tvg-country="AL",TRING ORIGINAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/545383.ts

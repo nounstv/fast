@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LALIGATEAMPPV" tvg-name="### LA LIGA TEAM PPV ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| La Liga Team Ppv",### LA LIGA TEAM PPV ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621408.ts
+#EXTINF:-1 tvg-id="LALIGAREALMADRID4K.uk" tvg-name="LA LIGA - REAL MADRID 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - REAL MADRID 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621407.ts
+#EXTINF:-1 tvg-id="LALIGABARCELONA4K.uk" tvg-name="LA LIGA - BARCELONA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - BARCELONA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621406.ts
+#EXTINF:-1 tvg-id="LALIGAATLETICOMADRID4K.uk" tvg-name="LA LIGA - ATLETICO MADRID 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - ATLETICO MADRID 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621405.ts
+#EXTINF:-1 tvg-id="LALIGAATHLETICBILBAO4K.uk" tvg-name="LA LIGA - ATHLETIC BILBAO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - ATHLETIC BILBAO 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621404.ts
+#EXTINF:-1 tvg-id="LALIGAREALBETIS4K.uk" tvg-name="LA LIGA - REAL BETIS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - REAL BETIS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621402.ts
+#EXTINF:-1 tvg-id="LALIGASEVILLA4K.uk" tvg-name="LA LIGA - SEVILLA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - SEVILLA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621399.ts
+#EXTINF:-1 tvg-id="LALIGAREALSOCIEDAD4K.uk" tvg-name="LA LIGA - REAL SOCIEDAD 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - REAL SOCIEDAD 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621403.ts
+#EXTINF:-1 tvg-id="LALIGAALAVES4K.uk" tvg-name="LA LIGA - ALAVES 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - ALAVES 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621388.ts
+#EXTINF:-1 tvg-id="LALIGAALMERA4K.uk" tvg-name="LA LIGA - ALMERÍA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - ALMERÍA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621389.ts
+#EXTINF:-1 tvg-id="LALIGACADIZ4K.uk" tvg-name="LA LIGA - CADIZ 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - CADIZ 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621390.ts
+#EXTINF:-1 tvg-id="LALIGACELTAVIGO4K.uk" tvg-name="LA LIGA - CELTA VIGO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - CELTA VIGO 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621391.ts
+#EXTINF:-1 tvg-id="LALIGAGETAFE4K.uk" tvg-name="LA LIGA - GETAFE 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - GETAFE 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621392.ts
+#EXTINF:-1 tvg-id="LALIGAGIRONA4K.uk" tvg-name="LA LIGA - GIRONA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - GIRONA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621393.ts
+#EXTINF:-1 tvg-id="LALIGAGRANADA4K.uk" tvg-name="LA LIGA - GRANADA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - GRANADA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621394.ts
+#EXTINF:-1 tvg-id="LALIGALASPALMAS4K.uk" tvg-name="LA LIGA - LAS PALMAS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - LAS PALMAS 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621395.ts
+#EXTINF:-1 tvg-id="LALIGAMALLORCA4K.uk" tvg-name="LA LIGA - MALLORCA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - MALLORCA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621396.ts
+#EXTINF:-1 tvg-id="LALIGAOSASUNA4K.uk" tvg-name="LA LIGA - OSASUNA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - OSASUNA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621397.ts
+#EXTINF:-1 tvg-id="LALIGARAYOVALLECANO4K.uk" tvg-name="LA LIGA - RAYO VALLECANO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - RAYO VALLECANO 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621398.ts
+#EXTINF:-1 tvg-id="LALIGAVALENCIA4K.uk" tvg-name="LA LIGA - VALENCIA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - VALENCIA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621400.ts
+#EXTINF:-1 tvg-id="LALIGAVILLAREAL4K.uk" tvg-name="LA LIGA - VILLAREAL 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - VILLAREAL 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621401.ts
+#EXTINF:-1 tvg-id="LALIGALEGANES4K.uk" tvg-name="LA LIGA - LEGANES 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037" group-title="Uk| La Liga Team Ppv" tvg-country="UK",LA LIGA - LEGANES 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1008137.ts

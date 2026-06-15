@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aNWcalM8ImXSeK" tvg-name="Aruba.TV" group-title="Travel" tvg-country="AW",Aruba.TV
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-id="BdwSSDTGxvneTK" tvg-name="Beach TV Florida & Alabama" group-title="Travel" tvg-country="US",Beach TV Florida & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="u5TLXa7PdNMbh2" tvg-name="Beach TV Key West & Florida Keys" group-title="Travel" tvg-country="US",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RGeO9EbtqaGTGq" tvg-name="Beach TV Myrtle Beach & The Grand Strand" group-title="Travel" tvg-country="US",Beach TV Myrtle Beach & The Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="e2KBiYsFYmCeLC" tvg-name="Beach TV Panama City" group-title="Travel" tvg-country="US",Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="eko7uFhNP2g6vo" tvg-name="Chile Channel" group-title="Travel" tvg-country="CL",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="OAc1RsWsrgVUky" tvg-name="China Travel" group-title="Travel" tvg-country="CN",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="0QTowwNml7pc3D" tvg-name="Costa Rica Channel" group-title="Travel" tvg-country="CR",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="U0CRP1XJWZMip7" tvg-name="Discover Pakistan" group-title="Travel" tvg-country="PK",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="vADDMdGwASejWG" tvg-name="Fun Roads" group-title="Travel" tvg-country="US",Fun Roads
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="LHaPUbDQkhl20K" tvg-name="Go2Travel" group-title="Travel" tvg-country="US",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="681XV5aGJin4Gd" tvg-name="INTRAVEL Philippines" group-title="Travel" tvg-country="PH",INTRAVEL Philippines
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IpMm8lGTn8YwfA" tvg-name="Journy" group-title="Travel" tvg-country="US",Journy
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="3yNWqHOzbbpO53" tvg-name="KNOV-CD 41.1" group-title="Travel" tvg-country="US",KNOV-CD 41.1
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="50fISDUbgXCYss" tvg-name="Living Asia Channel" group-title="Travel" tvg-country="PH",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="goNrMuzefDwskd" tvg-name="Maldives TV" group-title="Travel" tvg-country="MV",Maldives TV
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-id="IG7KP9uOfXV0Z7" tvg-name="OEPM TV" group-title="Travel" tvg-country="DO",OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HuAgGKfyx6NIKq" tvg-name="Palm Beaches TV" group-title="Travel" tvg-country="US",Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-id="K8THRi8hdcH82I" tvg-name="Schladming-Dachstein TV" group-title="Travel" tvg-country="AT",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cfBOOiTtczD84z" tvg-name="Space Live powered by sen" group-title="Travel" tvg-country="UK",Space Live powered by sen
+https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="xCDrIWnNgtribb" tvg-name="Turismo RDTV" group-title="Travel" tvg-country="DO",Turismo RDTV
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-id="gc9aeOkbQG1vYx" tvg-name="Turistik TV" group-title="Travel" tvg-country="MX",Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-id="AOuzDU3o0FoYy3" tvg-name="TV Parana Turismo" group-title="Travel" tvg-country="BR",TV Parana Turismo
+https://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="wOZe5xcKqXHvTH" tvg-name="TVS Travel Network" group-title="Travel" tvg-country="US",TVS Travel Network
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8

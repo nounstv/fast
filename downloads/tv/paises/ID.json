@@ -1,3713 +1,1082 @@
 [
   {
-    "id": "AlWafaTarim.id",
+    "tvgId": "aGem6cqP5Ol9m7",
     "name": "Al Wafa Tarim",
-    "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
-    "logoText": "AL ",
+    "originalName": "Al Wafa Tarim",
     "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://live.alwafatarim.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlBahjahTV.id",
-    "name": "Al-Bahjah TV",
-    "logo": "https://i.imgur.com/52dlDZk.png",
-    "logoText": "AL-",
-    "url": "http://202.150.161.117:8000/play/AlBahjahTV",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.150.161.117:8000/play/AlBahjahTV",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.albahjah.or.id/"
-  },
-  {
-    "id": "AlImanTV.id",
+    "tvgId": "jhyn7Gf0kasCsu",
     "name": "Al-Iman TV",
-    "logo": "https://i.imgur.com/Qj1EFf1.png",
-    "logoText": "AL-",
+    "originalName": "Al-Iman TV",
     "url": "https://tv.aliman.id/aliman/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.aliman.id/aliman/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://aliman.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Allegro.id",
+    "tvgId": "rPF4SFD6oTkHCw",
     "name": "Allegro",
-    "logo": "",
-    "logoText": "ALL",
+    "originalName": "Allegro",
     "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://allegrotelkomvision.renderforestsites.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ananda.id",
+    "tvgId": "XxbPKm432a9aGb",
     "name": "Ananda",
-    "logo": "",
-    "logoText": "ANA",
+    "originalName": "Ananda",
     "url": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://anandatelkomvision.renderforestsites.com/"
-  },
-  {
-    "id": "ANTV.id",
-    "name": "ANTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
-    "logoText": "ANT",
-    "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.antvklik.com/"
-  },
-  {
-    "id": "AshiilTV.id",
-    "name": "Ashiil TV",
-    "logo": "https://i.imgur.com/bTktkcr.png",
-    "logoText": "ASH",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.ashiil.tv/"
-  },
-  {
-    "id": "AsthaTV.id",
-    "name": "Astha TV",
-    "logo": "https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png",
-    "logoText": "AST",
-    "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://asthatv.com"
-  },
-  {
-    "id": "AstroBlitarTV.id",
-    "name": "Astro Blitar TV",
-    "logo": "https://i.imgur.com/rORKbGw.png",
-    "logoText": "AST",
-    "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "AtambuaTV.id",
-    "name": "Atambua TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
-    "logoText": "ATA",
-    "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "BaliTV.id",
-    "name": "Bali TV",
-    "logo": "https://i.imgur.com/uH1Szme.png",
-    "logoText": "BAL",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://balitv.tv/"
-  },
-  {
-    "id": "BalikpapanTV.id",
-    "name": "Balikpapan TV",
-    "logo": "https://i.imgur.com/P3whqna.png",
-    "logoText": "BAL",
-    "url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://balikpapantv.co.id/"
-  },
-  {
-    "id": "BandungTV.id",
-    "name": "Bandung TV",
-    "logo": "https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png",
-    "logoText": "BAN",
-    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://bandungtv.tv/"
-  },
-  {
-    "id": "BanjarTV.id",
-    "name": "Banjar TV",
-    "logo": "https://i.imgur.com/TA76a10.png",
-    "logoText": "BAN",
-    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "BantenTV.id",
-    "name": "Banten TV",
-    "logo": "https://i.imgur.com/tbtF40p.png",
-    "logoText": "BAN",
-    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://bantentv.com/"
-  },
-  {
-    "id": "BatamTV.id",
-    "name": "Batam TV",
-    "logo": "https://i.imgur.com/lo7YXnW.png",
-    "logoText": "BAT",
-    "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://batamtvnews.com/"
-  },
-  {
-    "id": "BeritaSatu.id",
-    "name": "BeritaSatu",
-    "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
-    "logoText": "BER",
-    "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://investor.id/livestream"
-  },
-  {
-    "id": "BiznetAdventure.id",
-    "name": "Biznet Adventure",
-    "logo": "https://i.imgur.com/ZREy4zM.png",
-    "logoText": "BIZ",
-    "url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.biznetvideo.net/"
-  },
-  {
-    "id": "BiznetKids.id",
-    "name": "Biznet Kids",
-    "logo": "https://i.imgur.com/J5QNqJ0.png",
-    "logoText": "BIZ",
-    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.biznetvideo.net/"
-  },
-  {
-    "id": "BiznetLifestyle.id",
-    "name": "Biznet Lifestyle",
-    "logo": "https://i.imgur.com/XqUfQKA.png",
-    "logoText": "BIZ",
-    "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.biznetvideo.net/"
-  },
-  {
-    "id": "BMSTV.id",
-    "name": "BMS TV",
-    "logo": "https://i.imgur.com/snMxng5.png",
-    "logoText": "BMS",
-    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.banyumastv.com/"
-  },
-  {
-    "id": "BNChannel.id",
-    "name": "BN Channel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
-    "logoText": "BN ",
-    "url": "https://flv.intechmedia.net/live/ch112.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flv.intechmedia.net/live/ch112.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://175.158.57.130:8888/stream/channelid/1402218159",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "BRTV.id",
-    "name": "BRTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
-    "logoText": "BRT",
-    "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://brtv.co.id/"
-  },
-  {
-    "id": "BTV.id",
-    "name": "BTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
-    "logoText": "BTV",
-    "url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.beritasatu.tv/"
-  },
-  {
-    "id": "BungoTV.id",
-    "name": "Bungo TV",
-    "logo": "https://i.imgur.com/OrCrtDA.png",
-    "logoText": "BUN",
-    "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.bungotv.com/"
-  },
-  {
-    "id": "CarubanTV.id",
-    "name": "Caruban TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",
-    "logoText": "CAR",
-    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://carubantv.id/"
-  },
-  {
-    "id": "CelebesTV.id",
-    "name": "Celebes TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png",
-    "logoText": "CEL",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.celebesmedia.id/"
-  },
-  {
-    "id": "ChannelJowo.id",
-    "name": "Channel Jowo",
-    "logo": "https://i.imgur.com/fksxiaS.png",
-    "logoText": "CHA",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "CNBCIndonesia.id",
-    "name": "CNBC Indonesia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",
-    "logoText": "CNB",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Business",
-    "categories": [
-      "business"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.cnbcindonesia.com/"
-  },
-  {
-    "id": "DAAITV.id",
-    "name": "DAAI TV",
-    "logo": "https://i.imgur.com/YC7JCHo.png",
-    "logoText": "DAA",
-    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.daaitv.co.id/"
-  },
-  {
-    "id": "DavikaTV.id",
-    "name": "Davika TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png",
-    "logoText": "DAV",
-    "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://davikatv.co/"
-  },
-  {
-    "id": "DensFoodChannel.id",
-    "name": "Dens Food Channel",
-    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",
-    "logoText": "DEN",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Cooking",
-    "categories": [
-      "cooking"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.dens.tv/"
-  },
-  {
-    "id": "DensLifeStyle.id",
-    "name": "Dens Life & Style",
-    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",
-    "logoText": "DEN",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.dens.tv/"
-  },
-  {
-    "id": "DensPlay.id",
-    "name": "Dens Play",
-    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",
-    "logoText": "DEN",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.dens.tv/"
-  },
-  {
-    "id": "DensShowBiz.id",
-    "name": "Dens ShowBiz",
-    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",
-    "logoText": "DEN",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.dens.tv/"
-  },
-  {
-    "id": "DhammaTV.id",
-    "name": "Dhamma TV",
-    "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
-    "logoText": "DHA",
-    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://dhammaweb.tv/"
-  },
-  {
-    "id": "DhohoTV.id",
-    "name": "Dhoho TV",
-    "logo": "https://i.imgur.com/4Khyyfh.png",
-    "logoText": "DHO",
-    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.dhohotv.com/"
-  },
-  {
-    "id": "DMTVMalang.id",
-    "name": "DM TV Malang",
-    "logo": "https://i.imgur.com/3iC41QX.png",
-    "logoText": "DM ",
-    "url": "https://e.siar.us/live/dmtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://e.siar.us/live/dmtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://dmtvmalang.com/"
-  },
-  {
-    "id": "DMITV.id",
-    "name": "DMI TV",
-    "logo": "https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png",
-    "logoText": "DMI",
-    "url": "https://tvstreamcast.com/tawaftv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvstreamcast.com/tawaftv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.dmitv.id/"
-  },
-  {
-    "id": "DutaTV.id",
-    "name": "Duta TV",
-    "logo": "https://i.imgur.com/B4JW54M.png",
-    "logoText": "DUT",
-    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://dutatv.com/"
-  },
-  {
-    "id": "EfarinaTV.id",
-    "name": "Efarina TV",
-    "logo": "https://i.imgur.com/iYTimXh.png",
-    "logoText": "EFA",
-    "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://efarinatv.net/"
-  },
-  {
-    "id": "ElshintaTV.id",
-    "name": "Elshinta TV",
-    "logo": "https://i.imgur.com/x5uoy2H.png",
-    "logoText": "ELS",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.elshinta.tv/"
-  },
-  {
-    "id": "FajarTV.id",
-    "name": "Fajar TV",
-    "logo": "https://i.imgur.com/mkuXxRK.png",
-    "logoText": "FAJ",
-    "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "FicomChannel.id",
-    "name": "Ficom Channel",
     "logo": "",
-    "logoText": "FIC",
+    "category": "Kids",
+    "originalCategory": "Kids",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "o2PfBDwt7tySj4",
+    "name": "Angel TV Indonesia",
+    "originalName": "Angel TV Indonesia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "wgCHFkD8F6PNpc",
+    "name": "Astha TV",
+    "originalName": "Astha TV",
+    "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "YJjt1kMM9xV6J0",
+    "name": "Astro Blitar TV",
+    "originalName": "Astro Blitar TV",
+    "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "KOhwshxakg9PIS",
+    "name": "Banjar TV",
+    "originalName": "Banjar TV",
+    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Oc19gUQD1UBDsM",
+    "name": "Banten TV",
+    "originalName": "Banten TV",
+    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "cRaI25IFiA9iJp",
+    "name": "BMS TV",
+    "originalName": "BMS TV",
+    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "lV8zHLVhKEPFpW",
+    "name": "BRTV",
+    "originalName": "BRTV",
+    "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "u2sCANZ3ft5IKm",
+    "name": "Bungo TV",
+    "originalName": "Bungo TV",
+    "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "csTsVz553duuxV",
+    "name": "Caruban TV",
+    "originalName": "Caruban TV",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "vd1yZSp74MjEYU",
+    "name": "DAAI TV",
+    "originalName": "DAAI TV",
+    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "ksjOnBMCR8R7y0",
+    "name": "Dhamma TV",
+    "originalName": "Dhamma TV",
+    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "baEpAaJEKajwBU",
+    "name": "Dhoho TV",
+    "originalName": "Dhoho TV",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "uXrEKCywSeVE7r",
+    "name": "DM TV Malang",
+    "originalName": "DM TV Malang",
+    "url": "https://e.siar.us/live/dmtv.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "hyCTO5BIpsuj6K",
+    "name": "DMI TV",
+    "originalName": "DMI TV",
+    "url": "https://tvstreamcast.com/tawaftv.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "QsUhnT0pi51wcj",
+    "name": "Duta TV",
+    "originalName": "Duta TV",
+    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Eg0R1qmDu85lEs",
+    "name": "Efarina TV",
+    "originalName": "Efarina TV",
+    "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "swg1noloxNDS5D",
+    "name": "Ficom Channel",
+    "originalName": "Ficom Channel",
     "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.vnews.click/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GarudaTV.id",
+    "tvgId": "LISekcgicAyOGd",
     "name": "Garuda TV",
-    "logo": "https://i.imgur.com/sXsAcZ3.png",
-    "logoText": "GAR",
+    "originalName": "Garuda TV",
     "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.garuda.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GTV.id",
-    "name": "GTV",
-    "logo": "https://i.imgur.com/jjuKnYs.png",
-    "logoText": "GTV",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.gtv.id/"
-  },
-  {
-    "id": "HumaBetangTV.id",
+    "tvgId": "iKRL8braCsStZJ",
     "name": "Huma Betang TV",
-    "logo": "https://i.imgur.com/xBTqOEu.png",
-    "logoText": "HUM",
+    "originalName": "Huma Betang TV",
     "url": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://humabetang.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IAmChannel.id",
-    "name": "I Am Channel",
-    "logo": "https://i.imgur.com/Gg6OcGT.png",
-    "logoText": "I A",
-    "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://iamchannel.org/"
-  },
-  {
-    "id": "IDXChannel.id",
-    "name": "IDX Channel",
-    "logo": "https://i.imgur.com/xPvrcsr.png",
-    "logoText": "IDX",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Business",
-    "categories": [
-      "business"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.idxchannel.com/"
-  },
-  {
-    "id": "IndonesianaTV.id",
+    "tvgId": "4XTEtIon4adh6d",
     "name": "Indonesiana.TV",
-    "logo": "https://i.imgur.com/192wiS1.png",
-    "logoText": "IND",
+    "originalName": "Indonesiana.TV",
     "url": "https://tvstreamcast.com/indonesiana.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvstreamcast.com/indonesiana.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://indonesiana.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Indosiar.id",
-    "name": "Indosiar",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
-    "logoText": "IND",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.indosiar.com/"
-  },
-  {
-    "id": "iNews.id",
-    "name": "iNews",
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "logoText": "INE",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.inews.id/"
-  },
-  {
-    "id": "IzzahTV.id",
+    "tvgId": "T3RkIVyDffmjkr",
     "name": "Izzah TV",
-    "logo": "https://i.imgur.com/my7aqLc.png",
-    "logoText": "IZZ",
+    "originalName": "Izzah TV",
     "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://izzah.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JakTV.id",
-    "name": "Jak TV",
-    "logo": "https://i.imgur.com/xyLLLOi.png",
-    "logoText": "JAK",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://jak-tv.com/"
-  },
-  {
-    "id": "JakartaGlobeNewsChannel.id",
-    "name": "Jakarta Globe News Channel",
-    "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
-    "logoText": "JAK",
-    "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "JambiTV.id",
-    "name": "Jambi TV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
-    "logoText": "JAM",
-    "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://dobrak.id/"
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "logoText": "JAW",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.jawapos.com/"
-  },
-  {
-    "id": "JekTV.id",
-    "name": "Jek TV",
-    "logo": "https://i.imgur.com/wh75d1f.png",
-    "logoText": "JEK",
-    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://stream.jektv.co.id/"
-  },
-  {
-    "id": "JogjaIstimewaTV.id",
-    "name": "Jogja Istimewa TV",
-    "logo": "https://i.imgur.com/VEqQfTu.png",
-    "logoText": "JOG",
-    "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://jitv.jogjaprov.go.id/"
-  },
-  {
-    "id": "JogjaTV.id",
+    "tvgId": "oSWD42bHwHKlIE",
     "name": "Jogja TV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-    "logoText": "JOG",
+    "originalName": "Jogja TV",
     "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://jogjatv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JTV.id",
-    "name": "JTV",
-    "logo": "https://i.imgur.com/mIDWIQk.png",
-    "logoText": "JTV",
-    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://jtv.co.id/"
-  },
-  {
-    "id": "KawanuaTV.id",
-    "name": "Kawanua TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",
-    "logoText": "KAW",
-    "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "KidsTV.id",
-    "name": "Kids TV",
-    "logo": "https://i.imgur.com/B5YiUIP.png",
-    "logoText": "KID",
-    "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.mncchannels.com/micro/Kids-TV"
-  },
-  {
-    "id": "KilisuciTV.id",
+    "tvgId": "Ootv8lcMdtj5Da",
     "name": "Kilisuci TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
-    "logoText": "KIL",
+    "originalName": "Kilisuci TV",
     "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://kstv.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KompasTV.id",
-    "name": "Kompas TV",
-    "logo": "https://i.imgur.com/bD6UHeZ.png",
-    "logoText": "KOM",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.kompas.tv/"
-  },
-  {
-    "id": "KTV.id",
-    "name": "KTV",
-    "logo": "https://i.imgur.com/j3wtaDc.png",
-    "logoText": "KTV",
-    "url": "https://flv.intechmedia.net/live/ch118.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flv.intechmedia.net/live/ch118.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://103.66.62.83:8000/play/a04s/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.ktv.co.id/"
-  },
-  {
-    "id": "LingkarTV.id",
+    "tvgId": "0KL7HXYYAtsJlk",
     "name": "Lingkar TV",
-    "logo": "https://lingkartv.com/assets/img/logo-square.png",
-    "logoText": "LIN",
+    "originalName": "Lingkar TV",
     "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news",
-      "music",
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://lingkartv.com"
-  },
-  {
-    "id": "MadaniTV.id",
-    "name": "Madani TV",
-    "logo": "https://i.imgur.com/8aonQ0v.png",
-    "logoText": "MAD",
-    "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://madani.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MaduTV.id",
+    "tvgId": "ImH0HN1MdNlCn0",
     "name": "Madu TV",
-    "logo": "https://i.imgur.com/cKpgbgW.png",
-    "logoText": "MAD",
+    "originalName": "Madu TV",
     "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://madu.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MagnaChannel.id",
+    "tvgId": "ayjkn7ZDTaMfjh",
     "name": "Magna Channel",
-    "logo": "https://i.imgur.com/tfJo0SO.png",
-    "logoText": "MAG",
+    "originalName": "Magna Channel",
     "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MatrixTVYogyakarta.id",
-    "name": "Matrix TV Yogyakarta",
-    "logo": "https://stream.matrixtv.id/logo",
-    "logoText": "MAT",
-    "url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://stream.matrixtv.id/"
-  },
-  {
-    "id": "MBGTV.id",
-    "name": "MBG TV",
-    "logo": "https://i.imgur.com/t7GsFJN.jpeg",
-    "logoText": "MBG",
-    "url": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://jupnasgizi.com/"
-  },
-  {
-    "id": "MDTV.id",
-    "name": "MDTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
-    "logoText": "MDT",
-    "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://mdtelevision.com/"
-  },
-  {
-    "id": "MetroTV.id",
-    "name": "Metro TV",
-    "logo": "https://i.imgur.com/QnU70NI.png",
-    "logoText": "MET",
-    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.metrotvnews.com/"
-  },
-  {
-    "id": "MGITV.id",
-    "name": "MGI TV",
-    "logo": "https://i.imgur.com/xrNtabe.png",
-    "logoText": "MGI",
-    "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://mgitv.com/"
-  },
-  {
-    "id": "MGSTV.id",
-    "name": "MGSTV",
-    "logo": "https://i.imgur.com/MYU7dsZ.png",
-    "logoText": "MGS",
-    "url": "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://mgstv.co.id/"
-  },
-  {
-    "id": "MNCTV.id",
-    "name": "MNCTV",
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "logoText": "MNC",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://m.rctiplus.com/tv/mnctv"
-  },
-  {
-    "id": "Moji.id",
-    "name": "Moji",
-    "logo": "https://i.imgur.com/mM9zapJ.png",
-    "logoText": "MOJ",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://moji.id/"
-  },
-  {
-    "id": "MQTV.id",
+    "tvgId": "AL5enZ9zRbuM0T",
     "name": "MQTV",
-    "logo": "https://i.imgur.com/d8dQo6E.png",
-    "logoText": "MQT",
+    "originalName": "MQTV",
     "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.mqtv.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MTATV.id",
-    "name": "MTA TV",
-    "logo": "https://i.imgur.com/3kGs7k0.png",
-    "logoText": "MTA",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://mtatv.net/"
-  },
-  {
-    "id": "MusicInformationChannel.id",
+    "tvgId": "L5BvWuf8rlqBr4",
     "name": "Music Information Channel",
-    "logo": "https://i.imgur.com/OUPGCWG.png",
-    "logoText": "MUS",
+    "originalName": "Music Information Channel",
     "url": "https://mic.siar.us/mic/live/mic.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mic.siar.us/mic/live/mic.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://mic-indo.com/live"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MyCinema.id",
-    "name": "My Cinema",
-    "logo": "https://i.imgur.com/BTmcTQO.png",
-    "logoText": "MY ",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://ciptamutu.com/"
-  },
-  {
-    "id": "MyFamily.id",
-    "name": "My Family",
-    "logo": "https://i.imgur.com/IaCmCt9.png",
-    "logoText": "MY ",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Family",
-    "categories": [
-      "family"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.ciptamutu.com/"
-  },
-  {
-    "id": "MyKidz.id",
-    "name": "My Kidz",
-    "logo": "https://i.imgur.com/qzZFU6d.png",
-    "logoText": "MY ",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.ciptamutu.com/"
-  },
-  {
-    "id": "NabawiTV.id",
-    "name": "Nabawi TV",
-    "logo": "https://i.imgur.com/O8WONFB.png",
-    "logoText": "NAB",
-    "url": "http://202.150.161.117:8000/play/NabawiTV",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.150.161.117:8000/play/NabawiTV",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://nabawi.tv/"
-  },
-  {
-    "id": "NusantaraTV.id",
+    "tvgId": "ZAMsD9HhaPz9Bn",
     "name": "Nusantara TV",
-    "logo": "https://i.imgur.com/viun5hj.png",
-    "logoText": "NUS",
+    "originalName": "Nusantara TV",
     "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.nusantaratv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OnlineTVNusantara.id",
-    "name": "Online TV Nusantara",
-    "logo": "https://i.imgur.com/E9CCIpP.jpg",
-    "logoText": "ONL",
-    "url": "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general",
-      "music",
-      "news",
-      "culture"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://indeksnews.com/"
-  },
-  {
-    "id": "PadangTV.id",
-    "name": "Padang TV",
-    "logo": "https://i.imgur.com/EL2BfxY.png",
-    "logoText": "PAD",
-    "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://padangtv.id/"
-  },
-  {
-    "id": "PJTV.id",
-    "name": "PJTV",
-    "logo": "https://i.imgur.com/jxdLWpC.png",
-    "logoText": "PJT",
-    "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.pjtvbandung.com/"
-  },
-  {
-    "id": "PKTV.id",
+    "tvgId": "WBUDfuwdrsRZbo",
     "name": "PKTV",
-    "logo": "https://i.imgur.com/mldv8Sf.png",
-    "logoText": "PKT",
+    "originalName": "PKTV",
     "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://pktvkaltim.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PONTV.id",
-    "name": "PONTV",
-    "logo": "https://i.imgur.com/P5erWzm.png",
-    "logoText": "PON",
-    "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.pontv.id/"
-  },
-  {
-    "id": "PujaTVAceh.id",
-    "name": "Puja TV Aceh",
-    "logo": "https://i.imgur.com/0TqABCL.png",
-    "logoText": "PUJ",
-    "url": "https://v6.siar.us/pujatv/live/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v6.siar.us/pujatv/live/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.pujatvaceh.com/"
-  },
-  {
-    "id": "RadarLampungTV.id",
-    "name": "Radar Lampung TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
-    "logoText": "RAD",
-    "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://radartv.co.id/"
-  },
-  {
-    "id": "RadarTasikmalayaTV.id",
-    "name": "Radar Tasikmalaya TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",
-    "logoText": "RAD",
-    "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://radartasikmalaya.tv/"
-  },
-  {
-    "id": "RajawaliTV.id",
+    "tvgId": "VC5E0MneSZlKkr",
     "name": "Rajawali TV",
-    "logo": "https://i.imgur.com/dlsv1sl.png",
-    "logoText": "RAJ",
+    "originalName": "Rajawali TV",
     "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://175.158.57.130:8888/stream/channelid/412436804",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.rtv.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RakyatBengkuluTV.id",
-    "name": "Rakyat Bengkulu TV",
-    "logo": "https://i.imgur.com/5L2q081.png",
-    "logoText": "RAK",
-    "url": "https://flv.intechmedia.net/live/ch59.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flv.intechmedia.net/live/ch59.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://rbtv.rakyatbengkulu.com/"
-  },
-  {
-    "id": "RCTI.id",
-    "name": "RCTI",
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "logoText": "RCT",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://103.66.62.83:8000/play/a00v/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.rcti.tv/"
-  },
-  {
-    "id": "RCTV.id",
-    "name": "RCTV",
-    "logo": "https://i.imgur.com/CyIlt0y.png",
-    "logoText": "RCT",
-    "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.radarcirebon.tv/"
-  },
-  {
-    "id": "RiauTV.id",
-    "name": "Riau TV",
-    "logo": "https://i.imgur.com/1g8FtJi.png",
-    "logoText": "RIA",
-    "url": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.riautelevisi.com/"
-  },
-  {
-    "id": "RinjaniTV.id",
-    "name": "Rinjani TV",
-    "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-    "logoText": "RIN",
-    "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "RodjaTV.id",
+    "tvgId": "FbrCzMwlpQjYEF",
     "name": "Rodja TV",
-    "logo": "https://i.imgur.com/XwCeHlC.png",
-    "logoText": "ROD",
+    "originalName": "Rodja TV",
     "url": "https://rodjatv.com/rodjatv/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rodjatv.com/rodjatv/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://rodja.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RRINet.id",
+    "tvgId": "4XHmhUHFvR9eAr",
     "name": "RRI Net",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png",
-    "logoText": "RRI",
+    "originalName": "RRI Net",
     "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://rri.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SaktiTV.id",
+    "tvgId": "upoBRy2lldcmNK",
     "name": "Sakti TV",
-    "logo": "https://i.imgur.com/IDNjMfQ.png",
-    "logoText": "SAK",
+    "originalName": "Sakti TV",
     "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.sakti.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SalamTV.id",
+    "tvgId": "SM5dGWTEmeAMrT",
     "name": "Salam TV",
-    "logo": "https://i.imgur.com/00Ifzgo.png",
-    "logoText": "SAL",
+    "originalName": "Salam TV",
     "url": "https://salamtv.siar.us/live/salamtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://salamtv.siar.us/live/salamtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://salamtelevisi.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SaliraTV.id",
+    "tvgId": "qWijccdHGumaJp",
     "name": "Salira TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",
-    "logoText": "SAL",
-    "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.salira.tv:3870/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "lifestyle"
-    ],
+    "originalName": "Salira TV",
+    "url": "https://live.salira.tv:3870/stream/play.m3u8",
+    "logo": "",
+    "category": "Lifestyle",
+    "originalCategory": "Lifestyle",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://salira.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SampitTV.id",
+    "tvgId": "Cx1Butu3HjYB81",
     "name": "Sampit TV",
-    "logo": "https://i.imgur.com/8cFJa8G.png",
-    "logoText": "SAM",
+    "originalName": "Sampit TV",
     "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://sampittv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SangajiTV.id",
-    "name": "Sangaji TV",
-    "logo": "https://i.imgur.com/4rTNT8F.png",
-    "logoText": "SAN",
-    "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://sangajitv.co.id/"
-  },
-  {
-    "id": "SCTV.id",
-    "name": "SCTV",
-    "logo": "https://i.imgur.com/EMmOvnQ.png",
-    "logoText": "SCT",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.sctv.co.id/"
-  },
-  {
-    "id": "SelaparangTV.id",
+    "tvgId": "2XkFMpRoLYu9Ma",
     "name": "Selaparang TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
-    "logoText": "SEL",
+    "originalName": "Selaparang TV",
     "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://selaparangtv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SemarangTV.id",
-    "name": "Semarang TV",
-    "logo": "https://i.imgur.com/KFC2WSB.png",
-    "logoText": "SEM",
-    "url": "http://116.254.112.74/hls/cakralive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://116.254.112.74/hls/cakralive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://semarangtv.tv/"
-  },
-  {
-    "id": "Simpang5TV.id",
-    "name": "Simpang5 TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Simpang5_TV.png",
-    "logoText": "SIM",
-    "url": "http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "SinPoTV.id",
-    "name": "Sin Po TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
-    "logoText": "SIN",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://tv.sinpo.id/"
-  },
-  {
-    "id": "SindoNewsTV.id",
-    "name": "Sindo News TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
-    "logoText": "SIN",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.mncchannels.com/micro/mncnews"
-  },
-  {
-    "id": "SMTV.id",
+    "tvgId": "pJu6TwMXSbyJfF",
     "name": "SMTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
-    "logoText": "SMT",
-    "url": "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://e.siar.us/live/smtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "SMTV",
+    "url": "https://e.siar.us/live/smtv.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SPOTV.id",
-    "name": "SPOTV",
-    "logo": "https://i.imgur.com/HaoVsm5.png",
-    "logoText": "SPO",
-    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "SPOTV2.id",
-    "name": "SPOTV 2",
-    "logo": "https://i.imgur.com/YD8fbTH.png",
-    "logoText": "SPO",
-    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "SriwijayaTV.id",
+    "tvgId": "0cfFq7pSzUjjN2",
     "name": "Sriwijaya TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
-    "logoText": "SRI",
+    "originalName": "Sriwijaya TV",
     "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.sriwijayatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "StaraTV.id",
-    "name": "Stara TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
-    "logoText": "STA",
+    "tvgId": "ig8Heof5b0HbF8",
+    "name": "Stara TV Bandung",
+    "originalName": "Stara TV Bandung",
     "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://bojonegoro.staratv.id/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://jakarta.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://malang.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.staratv.id/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://stream.staratv.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "STV.id",
-    "name": "STV",
-    "logo": "https://i.imgur.com/EIrXgT8.png",
-    "logoText": "STV",
-    "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "KbDB4QEpUzNUxH",
+    "name": "Stara TV Bojonegoro",
+    "originalName": "Stara TV Bojonegoro",
+    "url": "https://bojonegoro.staratv.id/hls/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.stv.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SultraTV.id",
-    "name": "Sultra TV",
-    "logo": "https://i.imgur.com/cmpbNJz.png",
-    "logoText": "SUL",
-    "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "wQh13Um5b8b6uA",
+    "name": "Stara TV Cianjur",
+    "originalName": "Stara TV Cianjur",
+    "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SurabayaTV.id",
+    "tvgId": "ZoNXvmHxoV9FP6",
+    "name": "Stara TV Jakarta",
+    "originalName": "Stara TV Jakarta",
+    "url": "https://jakarta.staratv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "2p68S1VfZNBPKr",
+    "name": "Stara TV Malang",
+    "originalName": "Stara TV Malang",
+    "url": "https://malang.staratv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "VlTqmmCrkrzowb",
+    "name": "Stara TV Parahyangan",
+    "originalName": "Stara TV Parahyangan",
+    "url": "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "JQzmFk2NU8wzUf",
+    "name": "Stara TV Sumedang & Majalengka",
+    "originalName": "Stara TV Sumedang & Majalengka",
+    "url": "https://stream.staratv.id/hls/0/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "6DA4FLoBUvoZ4f",
     "name": "Surabaya TV",
-    "logo": "https://i.imgur.com/jlss2ll.png",
-    "logoText": "SUR",
+    "originalName": "Surabaya TV",
     "url": "https://e.siar.us/live/surabayatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://e.siar.us/live/surabayatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://surabayatv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SurauTV.id",
-    "name": "Surau TV",
-    "logo": "https://i.imgur.com/CKoxcWL.png",
-    "logoText": "SUR",
-    "url": "https://surautv.siar.us/live/surautv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://surautv.siar.us/live/surautv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://surautv.id/"
-  },
-  {
-    "id": "TATV.id",
+    "tvgId": "DoFmcYHnbbjDFG",
     "name": "TATV",
-    "logo": "https://i.imgur.com/1f0EC7t.png",
-    "logoText": "TAT",
+    "originalName": "TATV",
     "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.tatv.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TegarTVLampung.id",
-    "name": "Tegar TV Lampung",
-    "logo": "https://i.imgur.com/0Vp3f2J.png",
-    "logoText": "TEG",
-    "url": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.tegartv.com/"
-  },
-  {
-    "id": "TimorTV.id",
-    "name": "Timor TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
-    "logoText": "TIM",
-    "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "TransTV.id",
-    "name": "Trans TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",
-    "logoText": "TRA",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.transtv.co.id/"
-  },
-  {
-    "id": "Trans7.id",
-    "name": "Trans7",
-    "logo": "https://i.imgur.com/fAbGImS.png",
-    "logoText": "TRA",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.trans7.co.id/"
-  },
-  {
-    "id": "TV9Nusantara.id",
+    "tvgId": "MldkU5TeMLyeQs",
     "name": "TV 9 Nusantara",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
-    "logoText": "TV ",
+    "originalName": "TV 9 Nusantara",
     "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://www.tv9.co.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMu.id",
+    "tvgId": "Pu17TwY3OoDiLo",
     "name": "TV Mu",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
-    "logoText": "TV ",
+    "originalName": "TV Mu",
     "url": "https://e.siar.us/live/tvmu.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://e.siar.us/live/tvmu.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://tvmu.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMUI.id",
-    "name": "TV MUI",
-    "logo": "https://i.imgur.com/vWtViyC.png",
-    "logoText": "TV ",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://mui.or.id/"
-  },
-  {
-    "id": "TVTabalong.id",
+    "tvgId": "Q5bB6xe7tPE7vf",
     "name": "TV Tabalong",
-    "logo": "https://i.imgur.com/2YhDH98.png",
-    "logoText": "TV ",
+    "originalName": "TV Tabalong",
     "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://tv.tabalongkab.go.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVKU.id",
+    "tvgId": "AIvndURhkfCKoa",
     "name": "TVKU",
-    "logo": "https://i.imgur.com/BAklJGy.png",
-    "logoText": "TVK",
+    "originalName": "TVKU",
     "url": "https://tvku.tv/hlsstream/hls/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvku.tv/hlsstream/hls/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://tvku.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tvOne.id",
-    "name": "tvOne",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",
-    "logoText": "TVO",
-    "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.tvonenews.com/"
-  },
-  {
-    "id": "TVRParlemen.id",
-    "name": "TVR Parlemen",
-    "logo": "https://i.imgur.com/2XYpmHL.png",
-    "logoText": "TVR",
-    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
-  },
-  {
-    "id": "TVRI.id",
+    "tvgId": "ItdiUzCLxUhI0G",
     "name": "TVRI",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
-    "logoText": "TVR",
+    "originalName": "TVRI",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "XJ4dEYCzTYDhWM",
+    "name": "TVRI Aceh",
+    "originalName": "TVRI Aceh",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://tvri.go.id/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVRISport.id",
+    "tvgId": "F0wNTAcxVnBo4B",
+    "name": "TVRI Bali",
+    "originalName": "TVRI Bali",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sN4o2leEYvu2mV",
+    "name": "TVRI Bangka Belitung",
+    "originalName": "TVRI Bangka Belitung",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Wl58rN1gU5bK4Q",
+    "name": "TVRI Bengkulu",
+    "originalName": "TVRI Bengkulu",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "4rgiWj82tXQkHf",
+    "name": "TVRI Gorontalo",
+    "originalName": "TVRI Gorontalo",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "tK8jLP45RZVKpL",
+    "name": "TVRI Jakarta",
+    "originalName": "TVRI Jakarta",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "NaUc6ArGQbtf0k",
+    "name": "TVRI Jambi",
+    "originalName": "TVRI Jambi",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "tNmidmZ11402xS",
+    "name": "TVRI Jawa Barat",
+    "originalName": "TVRI Jawa Barat",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sSY5aRAP59glcD",
+    "name": "TVRI Jawa Tengah",
+    "originalName": "TVRI Jawa Tengah",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Hch4jnCIdQX0Fi",
+    "name": "TVRI Jawa Timur",
+    "originalName": "TVRI Jawa Timur",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "mdPE8daQzbZFSj",
+    "name": "TVRI Kalimantan Barat",
+    "originalName": "TVRI Kalimantan Barat",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "V9RgtBNmc3nzI5",
+    "name": "TVRI Kalimantan Selatan",
+    "originalName": "TVRI Kalimantan Selatan",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "YJ98rmQV21LGlF",
+    "name": "TVRI Kalimantan Tengah",
+    "originalName": "TVRI Kalimantan Tengah",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "UZtbdlM4AtLRh4",
+    "name": "TVRI Kalimantan Timur",
+    "originalName": "TVRI Kalimantan Timur",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "aKhPxO0qIJnOmB",
+    "name": "TVRI Lampung",
+    "originalName": "TVRI Lampung",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "xAe3wKMPLdjB8T",
+    "name": "TVRI Maluku",
+    "originalName": "TVRI Maluku",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "4lgXnmhGxV9Mm5",
+    "name": "TVRI North Sulawesi",
+    "originalName": "TVRI North Sulawesi",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "IFuLYd1zf8pEZM",
+    "name": "TVRI North Sumatra",
+    "originalName": "TVRI North Sumatra",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "cfLATw44Elyjwj",
+    "name": "TVRI Nusa Tenggara Barat",
+    "originalName": "TVRI Nusa Tenggara Barat",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "UeJJoisyDzx5D1",
+    "name": "TVRI Nusa Tenggara Timur",
+    "originalName": "TVRI Nusa Tenggara Timur",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "cOrygxH7QFbjGa",
+    "name": "TVRI Papua",
+    "originalName": "TVRI Papua",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "MehwfGmaYpHRPe",
+    "name": "TVRI Riau",
+    "originalName": "TVRI Riau",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "OS0pJpfqrL4sYH",
     "name": "TVRI Sport",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "logoText": "TVR",
+    "originalName": "TVRI Sport",
     "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVRIWorld.id",
+    "tvgId": "cSiW0KDziigtPl",
+    "name": "TVRI Sulawesi Barat",
+    "originalName": "TVRI Sulawesi Barat",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "5BD8NXhLlxGRfy",
+    "name": "TVRI Sulawesi Selatan",
+    "originalName": "TVRI Sulawesi Selatan",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "TDtA1ok3J1ZDYf",
+    "name": "TVRI Sulawesi Tengah",
+    "originalName": "TVRI Sulawesi Tengah",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Z3T1pXv7DuaEVH",
+    "name": "TVRI Sulawesi Tenggara",
+    "originalName": "TVRI Sulawesi Tenggara",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "X4H5Pu8n7KzSfo",
+    "name": "TVRI Sumatera Barat",
+    "originalName": "TVRI Sumatera Barat",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "OiwSD38h5Rq2nc",
+    "name": "TVRI Sumatera Selatan",
+    "originalName": "TVRI Sumatera Selatan",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "m5b5e8rYhGOpbt",
+    "name": "TVRI West Papua",
+    "originalName": "TVRI West Papua",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "ID",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "LOyzBz4raU7KUo",
     "name": "TVRI World",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png",
-    "logoText": "TVR",
+    "originalName": "TVRI World",
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UChannel.id",
-    "name": "U Channel",
-    "logo": "https://i.imgur.com/qxkb0cy.png",
-    "logoText": "U C",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "UM1CVLiIjzrIdV",
+    "name": "TVRI Yogyakarta",
+    "originalName": "TVRI Yogyakarta",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [],
+    "originalCategory": "General",
     "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://www.u-channel.tv/"
-  },
-  {
-    "id": "UBTVBrawijaya.id",
-    "name": "UBTV Brawijaya",
-    "logo": "https://i.imgur.com/BQIi7ko.png",
-    "logoText": "UBT",
-    "url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://tv.ub.ac.id/"
-  },
-  {
-    "id": "UGTV.id",
-    "name": "UGTV",
-    "logo": "https://i.imgur.com/iEKDH26.png",
-    "logoText": "UGT",
-    "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://ugtv.co.id/"
-  },
-  {
-    "id": "VTV.id",
-    "name": "VTV",
-    "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
-    "logoText": "VTV",
-    "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://flv.intechmedia.net/live/ch107.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: https://id.wikipedia.org/wiki/VTV_(Indonesia)"
-  },
-  {
-    "id": "WesalTV.id",
-    "name": "Wesal TV",
-    "logo": "https://i.imgur.com/Uv8RWks.png",
-    "logoText": "WES",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ID",
-    "countryName": "Indonesia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Indonesia. Language: N/A. Website: http://wesaltv.id/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

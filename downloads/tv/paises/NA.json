@@ -1,98 +1,38 @@
 [
   {
-    "id": "NBC1.na",
+    "tvgId": "rVJSf2B79r7M1S",
     "name": "NBC 1",
-    "logo": "https://i.imgur.com/ykQerMH.png",
-    "logoText": "NBC",
+    "originalName": "NBC 1",
     "url": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "NA",
-    "countryName": "Namibia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Namibia. Language: N/A. Website: https://www.nbc.na/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NBC2.na",
+    "tvgId": "zsGelGEGLQM5ya",
     "name": "NBC 2",
-    "logo": "https://i.imgur.com/A6jxUvU.png",
-    "logoText": "NBC",
+    "originalName": "NBC 2",
     "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "NA",
-    "countryName": "Namibia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Namibia. Language: N/A. Website: https://www.nbc.na/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NBC3.na",
+    "tvgId": "ECnN3NWeNbWcGO",
     "name": "NBC 3",
-    "logo": "https://i.imgur.com/7j8Km6e.png",
-    "logoText": "NBC",
+    "originalName": "NBC 3",
     "url": "https://hls2.nbcplus.na/hls/high_nbc3.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls2.nbcplus.na/hls/high_nbc3.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "NA",
-    "countryName": "Namibia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Namibia. Language: N/A. Website: https://www.nbc.na/"
-  },
-  {
-    "id": "NTV.na",
-    "name": "NTV",
-    "logo": "https://i.imgur.com/c7jUmGS.jpg",
-    "logoText": "NTV",
-    "url": "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "NA",
-    "countryName": "Namibia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Namibia. Language: N/A. Website: https://oneuptwo.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

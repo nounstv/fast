@@ -1,1501 +1,530 @@
 [
   {
-    "id": "AguacateTV.ve",
+    "tvgId": "CantinaTVHD.ve",
+    "name": "Cantina TV HD",
+    "originalName": "VE: Cantina TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622003.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8585.png?76072",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ChivacoaTV4K.ve",
+    "name": "Chivacoa TV 4K",
+    "originalName": "VE: Chivacoa TV 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622002.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8580.png?86224",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Globovision.ve",
+    "name": "Globovision",
+    "originalName": "VE: Globovision",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625011.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8330.png?43870",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Italianissimo4K.ve",
+    "name": "Italianissimo 4K",
+    "originalName": "VE: Italianissimo 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621976.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8583.png?37769",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NubehTVHD.ve",
+    "name": "Nubeh TV HD",
+    "originalName": "VE: Nubeh TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621971.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8365.png?44769",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MDATV.ve",
+    "name": "MDA TV",
+    "originalName": "VE: MDA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625010.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8581.png?18829",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MERIDIANO.ve",
+    "name": "MERIDIANO",
+    "originalName": "VE: MERIDIANO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/609701.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8365.png?44769",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OxigenoNetworkHD.ve",
+    "name": "Oxigeno Network HD",
+    "originalName": "VE: Oxigeno Network HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621972.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8372.png?89388",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Panavision4K.ve",
+    "name": "Panavision 4K",
+    "originalName": "VE: Panavision 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621973.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8371.png?53851",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PromarTV.ve",
+    "name": "Promar TV",
+    "originalName": "VE: Promar TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621974.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8358.png?12908",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "IVC.ve",
+    "name": "IVC",
+    "originalName": "VE: IVC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625015.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8355.png?4672",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Telemundo31OrlandoHD.ve",
+    "name": "Telemundo 31 Orlando HD",
+    "originalName": "VE: Telemundo 31 Orlando HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/636027.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9844.jpg?16427",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Telesur4K.ve",
+    "name": "Telesur 4K",
+    "originalName": "VE: Telesur 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/621975.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8338.png?36100",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TRVTV.ve",
+    "name": "TRV TV",
+    "originalName": "VE: TRV TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/625008.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12538.png?54196",
+    "category": "Ve| Venezuela",
+    "originalCategory": "VE| VENEZUELA",
+    "country": "VE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "t2xHdunHhK2Qqc",
     "name": "Aguacate TV",
-    "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
-    "logoText": "AGU",
+    "originalName": "Aguacate TV",
     "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://aguacatetv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlcanceTV.ve",
-    "name": "Alcance TV",
-    "logo": "https://i.imgur.com/veeuqS1.png",
-    "logoText": "ALC",
-    "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://alcancetv.org.ve/"
-  },
-  {
-    "id": "AnzoateguiTV.ve",
-    "name": "Anzoategui TV",
-    "logo": "https://i.imgur.com/SLqrEOz.png",
-    "logoText": "ANZ",
-    "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://anzoategui.tv/"
-  },
-  {
-    "id": "AS3SportTV.ve",
+    "tvgId": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
-    "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
-    "logoText": "AS3",
+    "originalName": "AS3 Sport TV",
     "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AudazTV.ve",
-    "name": "Audaz TV",
-    "logo": "https://i.imgur.com/QtCgtZq.jpg",
-    "logoText": "AUD",
-    "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://audaz.com.ve/"
-  },
-  {
-    "id": "BarinasTV.ve",
-    "name": "Barinas TV",
-    "logo": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png",
-    "logoText": "BAR",
-    "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
-  },
-  {
-    "id": "BTATV.ve",
+    "tvgId": "YWNPX9f8P0Trxq",
     "name": "BTA TV",
-    "logo": "https://i.imgur.com/vygOosC.png",
-    "logoText": "BTA",
+    "originalName": "BTA TV",
     "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://btatv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Canal21Tachira.ve",
+    "tvgId": "ShvwvF1bv7BYEt",
     "name": "Canal 21 Tachira",
-    "logo": "https://i.imgur.com/7Tb7CF4.jpg",
-    "logoText": "CAN",
+    "originalName": "Canal 21 Tachira",
     "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://canal21tachira.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalCdelZulia.ve",
-    "name": "Canal C del Zulia",
-    "logo": "https://i.imgur.com/ew44KOZ.png",
-    "logoText": "CAN",
-    "url": "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://canalc.vercel.app"
-  },
-  {
-    "id": "CanalOnce.ve",
-    "name": "Canal Once",
-    "logo": "https://i.imgur.com/puM9ASa.png",
-    "logoText": "CAN",
-    "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.canal11delzulia.com.ve/"
-  },
-  {
-    "id": "CatatumboTV.ve",
+    "tvgId": "6SYW2B8xTfiTLL",
     "name": "Catatumbo TV",
-    "logo": "https://i.imgur.com/LBI2la0.png",
-    "logoText": "CAT",
+    "originalName": "Catatumbo TV",
     "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://catatumbo.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ChivacoaTVInternacional.ve",
-    "name": "Chivacoa TV Internacional",
-    "logo": "https://i.imgur.com/9rbwZFY.png",
-    "logoText": "CHI",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.chivacoatv.com/"
-  },
-  {
-    "id": "DuacaVision.ve",
-    "name": "DuacaVision",
-    "logo": "https://i.imgur.com/jEqWixv.jpeg",
-    "logoText": "DUA",
-    "url": "https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
-  },
-  {
-    "id": "EXCTV.ve",
-    "name": "EXC TV",
-    "logo": "https://i.imgur.com/Znd1Ml9.png",
-    "logoText": "EXC",
-    "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Science",
-    "categories": [
-      "science"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://lorini.net/exctv/"
-  },
-  {
-    "id": "FortunaTV.ve",
-    "name": "Fortuna TV",
-    "logo": "https://i.imgur.com/RPiTPnK.png",
-    "logoText": "FOR",
-    "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://linktr.ee/tufortunatv"
-  },
-  {
-    "id": "GlobalTV.ve",
-    "name": "GlobalTV",
-    "logo": "https://imgur.com/hzM9D9L.jpg",
-    "logoText": "GLO",
-    "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://globaltvplay.com/"
-  },
-  {
-    "id": "GrandeTV.ve",
-    "name": "Grande TV",
-    "logo": "https://i.imgur.com/jxCirrP.png",
-    "logoText": "GRA",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.grandefmtv.com.ve/television"
-  },
-  {
-    "id": "GuaroTV.ve",
+    "tvgId": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
-    "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
-    "logoText": "GUA",
+    "originalName": "Guaro TV",
     "url": "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "InterTV.ve",
+    "tvgId": "L2vaUyfehZpjxw",
     "name": "Inter TV",
-    "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
-    "logoText": "INT",
+    "originalName": "Inter TV",
     "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://intervenhosting.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IslaTV.ve",
+    "tvgId": "uShK1SgZwLoTJ4",
     "name": "Isla TV",
-    "logo": "https://i.imgur.com/l11Ixhi.jpeg",
-    "logoText": "ISL",
+    "originalName": "Isla TV",
     "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://islatv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Italianissimo.ve",
-    "name": "Italianissimo",
-    "logo": "https://i.imgur.com/JCpbUZB.png",
-    "logoText": "ITA",
-    "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.italianissimotv.com/"
-  },
-  {
-    "id": "KandelaTV.ve",
+    "tvgId": "MIcJy2C1jnLtEJ",
     "name": "KandelaTV",
-    "logo": "https://i.imgur.com/cCFxyIp.jpg",
-    "logoText": "KAN",
+    "originalName": "KandelaTV",
     "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LatinaTV.ve",
+    "tvgId": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
-    "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
-    "logoText": "LAT",
+    "originalName": "Latina TV",
     "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://latinamedios.com/en-vivo-tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LGDTelevision.ve",
+    "tvgId": "JdxBGAz4N8XmqU",
     "name": "LGD Television",
-    "logo": "https://i.imgur.com/a9E0DTY.jpeg",
-    "logoText": "LGD",
+    "originalName": "LGD Television",
     "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MasTalk.ve",
+    "tvgId": "Qn8gdf7Wig6cbP",
     "name": "Mas Talk",
-    "logo": "https://i.imgur.com/unE2LGz.jpg",
-    "logoText": "MAS",
+    "originalName": "Mas Talk",
     "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.venevisionplay.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MeridianoTV.ve",
-    "name": "Meridiano TV",
-    "logo": "https://i.imgur.com/I6gsUqD.png",
-    "logoText": "MER",
-    "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://meridiano.net/"
-  },
-  {
-    "id": "MonagasVision.ve",
-    "name": "Monagas Vision",
-    "logo": "https://i.imgur.com/yfgTa2d.png",
-    "logoText": "MON",
-    "url": "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://monagasvision.com/"
-  },
-  {
-    "id": "NortenaTv.ve",
+    "tvgId": "kE8N5CkT9Xc9Iu",
     "name": "Nortena Tv",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-    "logoText": "NOR",
+    "originalName": "Nortena Tv",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.xn--nortearadio-5db.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OasisTelevision.ve",
-    "name": "Oasis Television",
-    "logo": "https://i.imgur.com/TEr1U90.png",
-    "logoText": "OAS",
-    "url": "http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://oasistelevision.com"
-  },
-  {
-    "id": "OnzaTV.ve",
-    "name": "Onza TV",
-    "logo": "https://i.imgur.com/usrP6T2.png",
-    "logoText": "ONZ",
-    "url": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://onzatv.com/"
-  },
-  {
-    "id": "OxigenoTV.ve",
-    "name": "Oxigeno TV",
-    "logo": "https://i.imgur.com/n3PweBQ.png",
-    "logoText": "OXI",
-    "url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.oxigenonetwork.com/"
-  },
-  {
-    "id": "PlousTV.ve",
+    "tvgId": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
-    "logo": "https://i.imgur.com/OSet4en.png",
-    "logoText": "PLO",
+    "originalName": "Plous TV",
     "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
+    "originalCategory": "Lifestyle",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.ploustv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PortuguesaTelevision.ve",
-    "name": "Portuguesa Television",
-    "logo": "https://i.imgur.com/jHUSfGz.png",
-    "logoText": "POR",
-    "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://portutv.com/"
-  },
-  {
-    "id": "ProclamacionTV.ve",
-    "name": "Proclamacion TV",
-    "logo": "https://i.imgur.com/8dt7awY.jpeg",
-    "logoText": "PRO",
-    "url": "https://video2.getstreamhosting.com:19360/8000/8000.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.getstreamhosting.com:19360/8000/8000.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://proclamaciontv.com/"
-  },
-  {
-    "id": "PromarTV.ve",
+    "tvgId": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
-    "logoText": "PRO",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "PromarTV",
+    "url": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.promar.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ReformaTV.ve",
+    "tvgId": "tJa1zHfUu6eux2",
     "name": "Reforma TV",
-    "logo": "https://i.imgur.com/iZMDddR.png",
-    "logoText": "REF",
+    "originalName": "Reforma TV",
     "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.reformatv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SiembraTV.ve",
+    "tvgId": "8UCD3Qx8hCNOEd",
     "name": "Siembra TV",
-    "logo": "https://i.imgur.com/zRX91Xr.png",
-    "logoText": "SIE",
+    "originalName": "Siembra TV",
     "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://siembratv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SomosTV.ve",
+    "tvgId": "Hf8hQXiCJxWSk6",
     "name": "Somos TV",
-    "logo": "https://i.imgur.com/jOroeJZ.png",
-    "logoText": "SOM",
+    "originalName": "Somos TV",
     "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://corporacionsomos.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TAMTV.ve",
-    "name": "TAM TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
-    "logoText": "TAM",
-    "url": "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://tamtv.com.ve/"
-  },
-  {
-    "id": "TeleAragua.ve",
-    "name": "TeleAragua",
-    "logo": "https://i.imgur.com/jPzcb2S.png",
-    "logoText": "TEL",
-    "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://tla.gob.ve/"
-  },
-  {
-    "id": "Telebocono.ve",
-    "name": "Telebocono",
-    "logo": "https://i.imgur.com/YDE4Jsi.jpg",
-    "logoText": "TEL",
-    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
-  },
-  {
-    "id": "Telecentro.ve",
-    "name": "Telecentro",
-    "logo": "https://i.imgur.com/QtRNfaj.png",
-    "logoText": "TEL",
-    "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://telecentrocanal.com/"
-  },
-  {
-    "id": "Telecolor.ve",
+    "tvgId": "hWlY6DCrbQlbH1",
     "name": "Telecolor",
-    "logo": "https://i.imgur.com/YvdzJHj.png",
-    "logoText": "TEL",
+    "originalName": "Telecolor",
     "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://telecolor.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telesur.ve",
+    "tvgId": "ERqsOEd0yp02p0",
     "name": "Telesur",
-    "logo": "https://i.imgur.com/P50VjRX.png",
-    "logoText": "TEL",
-    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Telesur",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.telesurtv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TelevisoradeOriente.ve",
+    "tvgId": "ZmbVMIEhvhggWw",
+    "name": "Telesur English",
+    "originalName": "Telesur English",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "VE",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1M4Le4GYVDf5Ni",
     "name": "Televisora de Oriente",
-    "logo": "https://i.imgur.com/wFC6Xxq.png",
-    "logoText": "TEL",
+    "originalName": "Televisora de Oriente",
     "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://tvo.com.ve/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TNORadio.ve",
+    "tvgId": "sB2nccFi22vLUq",
     "name": "TNO Radio",
-    "logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
-    "logoText": "TNO",
+    "originalName": "TNO Radio",
     "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://tnoradio.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TorococoTV.ve",
+    "tvgId": "iQsTa6Z2cWc5Ch",
     "name": "Torococo TV",
-    "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
-    "logoText": "TOR",
+    "originalName": "Torococo TV",
     "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://mitorococo.blogspot.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRT.ve",
-    "name": "TRT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
-    "logoText": "TRT",
-    "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://trt.com.ve/"
-  },
-  {
-    "id": "TRV.ve",
-    "name": "TRV",
-    "logo": "https://i.ibb.co/Yt6qyjL/trv.png",
-    "logoText": "TRV",
-    "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://trv.net.ve/"
-  },
-  {
-    "id": "TVAndes.ve",
-    "name": "TV Andes",
-    "logo": "https://i.ibb.co/c1YHQ8K/tvandes.png",
-    "logoText": "TV ",
-    "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.tvandes.com"
-  },
-  {
-    "id": "TVFamilia.ve",
-    "name": "TV Familia",
-    "logo": "https://i.imgur.com/A3bU5e7.png",
-    "logoText": "TV ",
-    "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Family",
-    "categories": [
-      "family"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.tvfamilia.com/"
-  },
-  {
-    "id": "TVOasisMonay.ve",
-    "name": "TV Oasis Monay",
-    "logo": "https://i.imgur.com/hwd7osJ.jpeg",
-    "logoText": "TV ",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A."
-  },
-  {
-    "id": "TVMparati.ve",
+    "tvgId": "XdOMLij5yy08uC",
     "name": "TVM para ti",
-    "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
-    "logoText": "TVM",
+    "originalName": "TVM para ti",
     "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://tvmparati.com.ve/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVS.ve",
-    "name": "TVS",
-    "logo": "https://i.imgur.com/J8ztiAN.png",
-    "logoText": "TVS",
-    "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.lorini.net/tvs/"
-  },
-  {
-    "id": "UN24.ve",
+    "tvgId": "lupM9TqioABtUb",
     "name": "UN24",
-    "logo": "https://i.imgur.com/nGJlulj.png",
-    "logoText": "UN2",
+    "originalName": "UN24",
     "url": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://ultimasnoticias.com.ve/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UniTV.ve",
+    "tvgId": "aPoebbGsPHojms",
     "name": "UniTV",
-    "logo": "https://i.imgur.com/KLGeznX.png",
-    "logoText": "UNI",
+    "originalName": "UniTV",
     "url": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://lorini.net/unitv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ValeTV.ve",
+    "tvgId": "8kq1Mm3sZqGDrk",
     "name": "Vale TV",
-    "logo": "https://i.imgur.com/NMI2Wed.png",
-    "logoText": "VAL",
+    "originalName": "Vale TV",
     "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://valetv.info/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Venevision.ve",
-    "name": "Venevision",
-    "logo": "https://i.imgur.com/gm1m8hW.png",
-    "logoText": "VEN",
-    "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://www.venevision.com/"
-  },
-  {
-    "id": "VenevisionInternacional.ve",
+    "tvgId": "vQEB7AYYN3sTSF",
     "name": "Venevision Internacional",
-    "logo": "https://i.imgur.com/vtGED07.jpg",
-    "logoText": "VEN",
+    "originalName": "Venevision Internacional",
     "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://www.venevisionplay.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VepacoTV.ve",
+    "tvgId": "baPvUzzfHutjpv",
     "name": "Vepaco TV",
-    "logo": "https://i.imgur.com/0bqJksL.png",
-    "logoText": "VEP",
+    "originalName": "Vepaco TV",
     "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: http://vepacotv.com.ve/"
-  },
-  {
-    "id": "VPItv.ve",
-    "name": "VPItv",
-    "logo": "https://i.imgur.com/X5hyKU8.png",
-    "logoText": "VPI",
-    "url": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "VE",
-    "countryName": "Venezuela",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Venezuela. Language: N/A. Website: https://vpitv.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

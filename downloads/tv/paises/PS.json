@@ -1,475 +1,110 @@
 [
   {
-    "id": "AjyalTV.ps",
-    "name": "Ajyal TV",
-    "logo": "https://i.imgur.com/i6Y7beR.jpg",
-    "logoText": "AJY",
-    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://arn.ps/arn-tv"
-  },
-  {
-    "id": "AlMadina.ps",
+    "tvgId": "PtKPvCho1AKJIx",
     "name": "Al Madina",
-    "logo": "https://i.imgur.com/NVOeM3P.png",
-    "logoText": "AL ",
+    "originalName": "Al Madina",
     "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://almadina.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlNajahNews.ps",
+    "tvgId": "1tmOFuhpyGCSup",
     "name": "Al Najah News",
-    "logo": "https://i.imgur.com/c2bwn4G.png",
-    "logoText": "AL ",
+    "originalName": "Al Najah News",
     "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://nn.najah.edu"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlAqsaTV.ps",
-    "name": "Al-Aqsa TV",
-    "logo": "https://i.imgur.com/Z2rfrQ8.png",
-    "logoText": "AL-",
-    "url": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A."
-  },
-  {
-    "id": "FalastiniTV.ps",
-    "name": "Falastini TV",
-    "logo": "https://i.imgur.com/6B3Cims.png",
-    "logoText": "FAL",
-    "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: http://falastini.tv/"
-  },
-  {
-    "id": "HalaRamallah.ps",
-    "name": "Hala Ramallah",
-    "logo": "https://i.ibb.co/swP1FDK/halaramallah-logo.png",
-    "logoText": "HAL",
-    "url": "https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://halaramallahtv.com/"
-  },
-  {
-    "id": "HolyQuranRadioNablus.ps",
-    "name": "Holy Quran Radio Nablus",
-    "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
-    "logoText": "HOL",
-    "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://quran-radio.com"
-  },
-  {
-    "id": "KolalnasTV.ps",
-    "name": "Kolalnas TV",
-    "logo": "https://i.imgur.com/OyMxcRG.png",
-    "logoText": "KOL",
-    "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://kolalnastv.com/"
-  },
-  {
-    "id": "MusawaChannel.ps",
+    "tvgId": "ZCiUSJXZU6vxjw",
     "name": "Musawa Channel",
-    "logo": "https://i.imgur.com/GB2Q9kl.png",
-    "logoText": "MUS",
+    "originalName": "Musawa Channel",
     "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://musawachannel.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NablusTV.ps",
-    "name": "Nablus TV",
-    "logo": "https://i.imgur.com/GoLhaDK.png",
-    "logoText": "NAB",
-    "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://www.nablustv.net/"
-  },
-  {
-    "id": "PalestineEdu.ps",
+    "tvgId": "qHPud6QAjClK6g",
     "name": "Palestine Edu",
-    "logo": "https://i.imgur.com/AwVHXyC.png",
-    "logoText": "PAL",
+    "originalName": "Palestine Edu",
     "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PalestineMubasher.ps",
+    "tvgId": "kMBDQu4FHfVDdk",
     "name": "Palestine Mubasher",
-    "logo": "https://i.imgur.com/68llVTZ.png",
-    "logoText": "PAL",
+    "originalName": "Palestine Mubasher",
     "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://www.pbc.ps/palestinemubasherchannel"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PalestineSatelliteChannel.ps",
+    "tvgId": "fwZ0THu9CrthiO",
     "name": "Palestine Satellite Channel",
-    "logo": "https://i.imgur.com/4B5FvmX.png",
-    "logoText": "PAL",
+    "originalName": "Palestine Satellite Channel",
     "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
-      },
-      {
-        "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://www.pbc.ps/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PalestineToday.ps",
-    "name": "Palestine Today",
-    "logo": "https://i.imgur.com/BS8XXug.png",
-    "logoText": "PAL",
-    "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://paltoday.tv/"
-  },
-  {
-    "id": "RadioAlbaladTV.ps",
-    "name": "Radio Albalad TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
-    "logoText": "RAD",
-    "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A."
-  },
-  {
-    "id": "RajeenTV.ps",
+    "tvgId": "yN7j4xBxGOsptK",
     "name": "Rajeen TV",
-    "logo": "https://i.imgur.com/6Cx22ya.png",
-    "logoText": "RAJ",
+    "originalName": "Rajeen TV",
     "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://www.rajeen.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Raya1.ps",
-    "name": "Raya 1",
-    "logo": "https://www.rayatv.ps/images/logo_tv.png",
-    "logoText": "RAY",
-    "url": "https://htvmada.mada.ps:4443/raya/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://htvmada.mada.ps:4443/raya/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://www.rayatv.ps"
-  },
-  {
-    "id": "ShababFM.ps",
+    "tvgId": "symrkwvSEOlnh3",
     "name": "Shabab FM",
-    "logo": "https://i.imgur.com/4Cyz4Bn.png",
-    "logoText": "SHA",
+    "originalName": "Shabab FM",
     "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A. Website: https://shababfm.ps/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WatarTV.ps",
+    "tvgId": "zJ9zGl534t9s19",
     "name": "Watar TV",
-    "logo": "https://i.imgur.com/jdr22Sk.jpeg",
-    "logoText": "WAT",
-    "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://htvint.mada.ps/orient/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Watar TV",
+    "url": "https://htvint.mada.ps/orient/index.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Palestine. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   }
 ]

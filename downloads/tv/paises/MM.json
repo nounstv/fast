@@ -1,223 +1,26 @@
 [
   {
-    "id": "ChannelK.mm",
-    "name": "Channel K",
-    "logo": "https://i.imgur.com/6PqxuhF.png",
-    "logoText": "CHA",
-    "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://www.channelkmyanmar.com/"
-  },
-  {
-    "id": "DVBTV.mm",
+    "tvgId": "i6vxWElbJaIPBX",
     "name": "DVB TV",
-    "logo": "https://i.imgur.com/VdezHOv.png",
-    "logoText": "DVB",
+    "originalName": "DVB TV",
     "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://burmese.dvb.no/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FortuneTV.mm",
-    "name": "Fortune TV",
-    "logo": "https://i.imgur.com/MM5evnD.png",
-    "logoText": "FOR",
-    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A."
-  },
-  {
-    "id": "MaharTV.mm",
+    "tvgId": "cdsVyojNjKqygk",
     "name": "Mahar TV",
-    "logo": "https://i.imgur.com/ig0QECf.png",
-    "logoText": "MAH",
+    "originalName": "Mahar TV",
     "url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: http://www.mahartv.com/"
-  },
-  {
-    "id": "MNTV.mm",
-    "name": "MN TV",
-    "logo": "https://i.imgur.com/nssm7QK.png",
-    "logoText": "MN ",
-    "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A."
-  },
-  {
-    "id": "MRTV.mm",
-    "name": "MRTV",
-    "logo": "https://i.imgur.com/uyv7oJH.png",
-    "logoText": "MRT",
-    "url": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://mrtv.gov.mm/"
-  },
-  {
-    "id": "MRTV4.mm",
-    "name": "MRTV 4",
-    "logo": "https://i.imgur.com/J4i1VBb.png",
-    "logoText": "MRT",
-    "url": "https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://mrtv.gov.mm/"
-  },
-  {
-    "id": "MRTVEntertainment.mm",
-    "name": "MRTV Entertainment",
-    "logo": "https://i.imgur.com/c9q6oT0.png",
-    "logoText": "MRT",
-    "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://mrtv.gov.mm/"
-  },
-  {
-    "id": "MRTVNRC.mm",
-    "name": "MRTV NRC",
-    "logo": "https://i.imgur.com/5aLFslk.jpg",
-    "logoText": "MRT",
-    "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "MM",
-    "countryName": "Myanmar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Myanmar. Language: N/A. Website: https://mrtv.gov.mm/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SPFLPPV" tvg-name="### SPFL PPV ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| Spfl/Scottish Ppv",### SPFL PPV ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605949.ts
+#EXTINF:-1 tvg-id="SPFLSTMIRRENFC" tvg-name="SPFL: ST. MIRREN FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: ST. MIRREN FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607108.ts
+#EXTINF:-1 tvg-id="SPFLSTJOHNSTONEFC" tvg-name="SPFL: ST. JOHNSTONE FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: ST. JOHNSTONE FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607107.ts
+#EXTINF:-1 tvg-id="SPFLROSSCOUNTYFC" tvg-name="SPFL: ROSS COUNTY FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: ROSS COUNTY FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607106.ts
+#EXTINF:-1 tvg-id="SPFLRANGERSTV" tvg-name="SPFL: RANGERS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: RANGERS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607105.ts
+#EXTINF:-1 tvg-id="SPFLMOTHERWELLFC" tvg-name="SPFL: MOTHERWELL FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: MOTHERWELL FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607104.ts
+#EXTINF:-1 tvg-id="SPFLLIVINGSTONFC" tvg-name="SPFL: LIVINGSTON FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: LIVINGSTON FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607103.ts
+#EXTINF:-1 tvg-id="SPFLKILIMARNOCKFC" tvg-name="SPFL: KILIMARNOCK FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: KILIMARNOCK FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607102.ts
+#EXTINF:-1 tvg-id="SPFLHIBSFC" tvg-name="SPFL: HIBS FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: HIBS FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607101.ts
+#EXTINF:-1 tvg-id="SPFLHEARTSFC" tvg-name="SPFL: HEARTS FC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: HEARTS FC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607100.ts
+#EXTINF:-1 tvg-id="SPFLDUNDEE" tvg-name="SPFL: DUNDEE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: DUNDEE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607099.ts
+#EXTINF:-1 tvg-id="SPFLCELTICTV" tvg-name="SPFL: CELTIC TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: CELTIC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607098.ts
+#EXTINF:-1 tvg-id="SPFLABERDEENFCREDSTV" tvg-name="SPFL: ABERDEEN FC (REDS TV)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL: ABERDEEN FC (REDS TV)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/607097.ts
+#EXTINF:-1 tvg-id="SPELSOCOTTISHPREMFALKIRKFCTV" tvg-name="SPEL: SOCOTTISH PREM : FALKIRK FC TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPEL: SOCOTTISH PREM : FALKIRK FC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1822992.ts
+#EXTINF:-1 tvg-id="SPFL01Rangerstv" tvg-name="SPFL 01: Rangers tv" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 01: Rangers tv
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605948.ts
+#EXTINF:-1 tvg-id="SPFL02" tvg-name="SPFL 02:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 02:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605947.ts
+#EXTINF:-1 tvg-id="SPFL03" tvg-name="SPFL 03:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 03:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605946.ts
+#EXTINF:-1 tvg-id="SPFL04" tvg-name="SPFL 04:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 04:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605945.ts
+#EXTINF:-1 tvg-id="SPFL05" tvg-name="SPFL 05:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 05:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605944.ts
+#EXTINF:-1 tvg-id="SPFL06" tvg-name="SPFL 06:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 06:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605943.ts
+#EXTINF:-1 tvg-id="SPFL07" tvg-name="SPFL 07:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 07:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605942.ts
+#EXTINF:-1 tvg-id="SPFL08" tvg-name="SPFL 08:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 08:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605941.ts
+#EXTINF:-1 tvg-id="SPFL09" tvg-name="SPFL 09:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 09:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605940.ts
+#EXTINF:-1 tvg-id="SPFL10" tvg-name="SPFL 10:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 10:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605939.ts
+#EXTINF:-1 tvg-id="SPFL11" tvg-name="SPFL 11:" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 11:
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605938.ts
+#EXTINF:-1 tvg-id="SPFL12MotherwellvQueensPark1715pm" tvg-name="SPFL 12: Motherwell v Queen's Park |   17:15pm" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="Uk| Spfl/Scottish Ppv",SPFL 12: Motherwell v Queen's Park |   17:15pm
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605937.ts

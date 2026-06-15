@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HONGKONG4KHD" tvg-name="### HONGKONG 4K/HD ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Hong-Kong.gif" group-title="Hk| Hongkong 4K/Hd",### HONGKONG 4K/HD ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791029.ts
+#EXTINF:-1 tvg-id="NOWSPORTS4K13840P.hk" tvg-name="NOW SPORTS 4K 1 3840P" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11096.jpg?55808" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 4K 1 3840P
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791028.ts
+#EXTINF:-1 tvg-id="NOWSPORTS4K23840P.hk" tvg-name="NOW SPORTS 4K 2 3840P" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11100.png?52878" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 4K 2 3840P
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791026.ts
+#EXTINF:-1 tvg-id="NOWSPORTSPRIME4K.hk" tvg-name="NOW SPORTS PRIME 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6129.png?95164" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS PRIME 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791025.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS4K.hk" tvg-name="NOW PREMIER SPORTS  4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6129.png?95164" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS  4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791024.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS14K.hk" tvg-name="NOW PREMIER SPORTS 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9943.png?24665" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791022.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS24K.hk" tvg-name="NOW PREMIER SPORTS 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10054.png?65584" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791021.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS34K.hk" tvg-name="NOW PREMIER SPORTS 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9942.png?54018" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791020.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS44K.hk" tvg-name="NOW PREMIER SPORTS 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10194.png?4665" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 4 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791019.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS54K.hk" tvg-name="NOW PREMIER SPORTS 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10195.png?29689" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 5 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791018.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS64K.hk" tvg-name="NOW PREMIER SPORTS 6 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12535.png?57781" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 6 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791017.ts
+#EXTINF:-1 tvg-id="NOWPREMIERSPORTS74K.hk" tvg-name="NOW PREMIER SPORTS 7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12535.png?57781" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW PREMIER SPORTS 7 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791016.ts
+#EXTINF:-1 tvg-id="NOWSPORTS14K.hk" tvg-name="NOW SPORTS 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11096.jpg?28874" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791015.ts
+#EXTINF:-1 tvg-id="NOWSPORTS24K.hk" tvg-name="NOW SPORTS 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11100.png?10883" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791014.ts
+#EXTINF:-1 tvg-id="NOWSPORTS34K.hk" tvg-name="NOW SPORTS 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10086.jpg?71922" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791013.ts
+#EXTINF:-1 tvg-id="NOWSPORTS44K.hk" tvg-name="NOW SPORTS 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11096.jpg?28750" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 4 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791012.ts
+#EXTINF:-1 tvg-id="NOWSPORTS54K.hk" tvg-name="NOW SPORTS 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10713.jpg?57980" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 5 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791011.ts
+#EXTINF:-1 tvg-id="NOWSPORTS64K.hk" tvg-name="NOW SPORTS 6 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10657.jpg?87394" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 6 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791010.ts
+#EXTINF:-1 tvg-id="NOWSPORTS74K.hk" tvg-name="NOW SPORTS 7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10661.png?94878" group-title="Hk| Hongkong 4K/Hd" tvg-country="HK",NOW SPORTS 7 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/791009.ts

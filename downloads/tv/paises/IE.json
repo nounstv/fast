@@ -1,221 +1,494 @@
 [
   {
-    "id": "F1Channel.ie",
-    "name": "F1 Channel",
-    "logo": "https://i.imgur.com/cjXzWsI.png",
-    "logoText": "F1 ",
-    "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "tvgId": "CLUBBEREVENT1.ie",
+    "name": "CLUBBER EVENT 1",
+    "originalName": "IE: CLUBBER EVENT 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537878.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: https://www.c15.studio/channels/formula-1-channel/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTV.ie",
-    "name": "Oireachtas TV",
-    "logo": "https://i.imgur.com/aC4fsCI.png",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT2.ie",
+    "name": "CLUBBER EVENT 2",
+    "originalName": "IE: CLUBBER EVENT 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537877.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: https://www.oireachtas.ie/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVCommitteeRoom1.ie",
-    "name": "Oireachtas TV Committee Room 1",
-    "logo": "https://i.imgur.com/JLYqKC0.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT3.ie",
+    "name": "CLUBBER EVENT 3",
+    "originalName": "IE: CLUBBER EVENT 3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537876.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVCommitteeRoom2.ie",
-    "name": "Oireachtas TV Committee Room 2",
-    "logo": "https://i.imgur.com/2Wxx2jK.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT4.ie",
+    "name": "CLUBBER EVENT 4",
+    "originalName": "IE: CLUBBER EVENT 4",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537875.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVCommitteeRoom3.ie",
-    "name": "Oireachtas TV Committee Room 3",
-    "logo": "https://i.imgur.com/EoAQeg5.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT5.ie",
+    "name": "CLUBBER EVENT 5",
+    "originalName": "IE: CLUBBER EVENT 5",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537874.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVCommitteeRoom4.ie",
-    "name": "Oireachtas TV Committee Room 4",
-    "logo": "https://i.imgur.com/U9U4rgs.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT6.ie",
+    "name": "CLUBBER EVENT 6",
+    "originalName": "IE: CLUBBER EVENT 6",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537873.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVDailEireann.ie",
-    "name": "Oireachtas TV Dail Eireann",
-    "logo": "https://i.imgur.com/mexKiS0.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT7.ie",
+    "name": "CLUBBER EVENT 7",
+    "originalName": "IE: CLUBBER EVENT 7",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537872.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OireachtasTVSeanadEireann.ie",
-    "name": "Oireachtas TV Seanad Eireann",
-    "logo": "https://i.imgur.com/c5TI2DT.jpg",
-    "logoText": "OIR",
-    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "CLUBBEREVENT8.ie",
+    "name": "CLUBBER EVENT 8",
+    "originalName": "IE: CLUBBER EVENT 8",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537871.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "TG4.ie",
+    "tvgId": "CLUBBEREVENT9.ie",
+    "name": "CLUBBER EVENT 9",
+    "originalName": "IE: CLUBBER EVENT 9",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537870.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT10.ie",
+    "name": "CLUBBER EVENT 10",
+    "originalName": "IE: CLUBBER EVENT 10",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537869.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT11.ie",
+    "name": "CLUBBER EVENT 11",
+    "originalName": "IE: CLUBBER EVENT 11",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537868.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT12.ie",
+    "name": "CLUBBER EVENT 12",
+    "originalName": "IE: CLUBBER EVENT 12",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537867.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT13.ie",
+    "name": "CLUBBER EVENT 13",
+    "originalName": "IE: CLUBBER EVENT 13",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537866.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT14.ie",
+    "name": "CLUBBER EVENT 14",
+    "originalName": "IE: CLUBBER EVENT 14",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537865.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT15.ie",
+    "name": "CLUBBER EVENT 15",
+    "originalName": "IE: CLUBBER EVENT 15",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537864.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT16.ie",
+    "name": "CLUBBER EVENT 16",
+    "originalName": "IE: CLUBBER EVENT 16",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537863.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT17.ie",
+    "name": "CLUBBER EVENT 17",
+    "originalName": "IE: CLUBBER EVENT 17",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537862.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT18.ie",
+    "name": "CLUBBER EVENT 18",
+    "originalName": "IE: CLUBBER EVENT 18",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537861.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT19.ie",
+    "name": "CLUBBER EVENT 19",
+    "originalName": "IE: CLUBBER EVENT 19",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537860.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT20.ie",
+    "name": "CLUBBER EVENT 20",
+    "originalName": "IE: CLUBBER EVENT 20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537859.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT21.ie",
+    "name": "CLUBBER EVENT 21",
+    "originalName": "IE: CLUBBER EVENT 21",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537858.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT22.ie",
+    "name": "CLUBBER EVENT 22",
+    "originalName": "IE: CLUBBER EVENT 22",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537857.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT23.ie",
+    "name": "CLUBBER EVENT 23",
+    "originalName": "IE: CLUBBER EVENT 23",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537856.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT24.ie",
+    "name": "CLUBBER EVENT 24",
+    "originalName": "IE: CLUBBER EVENT 24",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537855.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT25.ie",
+    "name": "CLUBBER EVENT 25",
+    "originalName": "IE: CLUBBER EVENT 25",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537854.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT26.ie",
+    "name": "CLUBBER EVENT 26",
+    "originalName": "IE: CLUBBER EVENT 26",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537853.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT27.ie",
+    "name": "CLUBBER EVENT 27",
+    "originalName": "IE: CLUBBER EVENT 27",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537852.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT28.ie",
+    "name": "CLUBBER EVENT 28",
+    "originalName": "IE: CLUBBER EVENT 28",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537851.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT29.ie",
+    "name": "CLUBBER EVENT 29",
+    "originalName": "IE: CLUBBER EVENT 29",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537850.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT30.ie",
+    "name": "CLUBBER EVENT 30",
+    "originalName": "IE: CLUBBER EVENT 30",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537849.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT31.ie",
+    "name": "CLUBBER EVENT 31",
+    "originalName": "IE: CLUBBER EVENT 31",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537848.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT32.ie",
+    "name": "CLUBBER EVENT 32",
+    "originalName": "IE: CLUBBER EVENT 32",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537847.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT33.ie",
+    "name": "CLUBBER EVENT 33",
+    "originalName": "IE: CLUBBER EVENT 33",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537846.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT34.ie",
+    "name": "CLUBBER EVENT 34",
+    "originalName": "IE: CLUBBER EVENT 34",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537845.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT35.ie",
+    "name": "CLUBBER EVENT 35",
+    "originalName": "IE: CLUBBER EVENT 35",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537844.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT36.ie",
+    "name": "CLUBBER EVENT 36",
+    "originalName": "IE: CLUBBER EVENT 36",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537843.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT37.ie",
+    "name": "CLUBBER EVENT 37",
+    "originalName": "IE: CLUBBER EVENT 37",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537842.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT38.ie",
+    "name": "CLUBBER EVENT 38",
+    "originalName": "IE: CLUBBER EVENT 38",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537841.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT39.ie",
+    "name": "CLUBBER EVENT 39",
+    "originalName": "IE: CLUBBER EVENT 39",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537840.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CLUBBEREVENT40.ie",
+    "name": "CLUBBER EVENT 40",
+    "originalName": "IE: CLUBBER EVENT 40",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1537839.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13705.jpg?ver=14389",
+    "category": "Ie| Clubber Ppv",
+    "originalCategory": "IE| CLUBBER PPV",
+    "country": "IE",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "jE5PruME2i0V9B",
     "name": "TG4",
-    "logo": "https://i.imgur.com/XiAKb4E.png",
-    "logoText": "TG4",
+    "originalName": "TG4",
     "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "IE",
-    "countryName": "Ireland",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ireland. Language: N/A. Website: http://www.tg4.ie/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

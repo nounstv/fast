@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SYRIALOWINTERNET" tvg-name="### SYRIA LOW INTERNET ###" tvg-logo="https://aaru.edu.jo/PublishingImages/Flags/Syria-180-animated-flag-gifs[1].gif" group-title="Ar| Syria Lq ▼ سوريا",### SYRIA LOW INTERNET ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499786.ts
+#EXTINF:-1 tvg-id="SYRIADRAMALQ.ar" tvg-name="SYRIA DRAMA LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1139.jpg?ver=52774" group-title="Ar| Syria Lq ▼ سوريا" tvg-country="AR",SYRIA DRAMA LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499785.ts
+#EXTINF:-1 tvg-id="SAMASYRIALQ.ar" tvg-name="SAMA SYRIA LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/26.jpg?84107" group-title="Ar| Syria Lq ▼ سوريا" tvg-country="AR",SAMA SYRIA LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499781.ts
+#EXTINF:-1 tvg-id="LANATVLQ.ar" tvg-name="LANA TV LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/30.jpg?40015" group-title="Ar| Syria Lq ▼ سوريا" tvg-country="AR",LANA TV LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499780.ts
+#EXTINF:-1 tvg-id="SYRIAEDUCATIONLQ.ar" tvg-name="SYRIA EDUCATION LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/33.jpg?37312" group-title="Ar| Syria Lq ▼ سوريا" tvg-country="AR",SYRIA EDUCATION LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499782.ts

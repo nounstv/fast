@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MACEDONIAVIP" tvg-name="###### MACEDONIA VIP ######" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",###### MACEDONIA VIP ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287460.ts
+#EXTINF:-1 tvg-id="24VESTIHD.mk" tvg-name="24 VESTI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3822.png?58371" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",24 VESTI HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287461.ts
+#EXTINF:-1 tvg-id="ALSATMHD.mk" tvg-name="ALSAT M HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3360.png?47083" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",ALSAT M HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287515.ts
+#EXTINF:-1 tvg-id="ANIMALPLANETMultiSub.mk" tvg-name="ANIMAL PLANET [Multi-Sub]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?7214" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",ANIMAL PLANET [Multi-Sub]
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287514.ts
+#EXTINF:-1 tvg-id="BALKANMUSICHD.mk" tvg-name="BALKAN MUSIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3338.jpg?6934" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",BALKAN MUSIC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287513.ts
+#EXTINF:-1 tvg-id="CINEPLEXHD.mk" tvg-name="CINEPLEX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10162.png?88982" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",CINEPLEX HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287512.ts
+#EXTINF:-1 tvg-id="CINESTARTVPREMIERE1.mk" tvg-name="CINESTAR TV PREMIERE 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6477.png?76462" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",CINESTAR TV PREMIERE 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287511.ts
+#EXTINF:-1 tvg-id="CINESTARTVPREMIERE2.mk" tvg-name="CINESTAR TV PREMIERE 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6477.png?76462" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",CINESTAR TV PREMIERE 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287510.ts
+#EXTINF:-1 tvg-id="DISCOVERYCHANNELMultiSub.mk" tvg-name="DISCOVERY CHANNEL [Multi-Sub]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?30215" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",DISCOVERY CHANNEL [Multi-Sub]
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287509.ts
+#EXTINF:-1 tvg-id="FILMBOXPLUS.mk" tvg-name="FILM BOX PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3285.png?28875" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",FILM BOX PLUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287508.ts
+#EXTINF:-1 tvg-id="FOLKHD.mk" tvg-name="FOLK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3897.jpg?4406" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",FOLK HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287481.ts
+#EXTINF:-1 tvg-id="FOLKKLUBTVHD.mk" tvg-name="FOLK KLUB TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3897.jpg?54795" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",FOLK KLUB TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287507.ts
+#EXTINF:-1 tvg-id="HBO2FHD.mk" tvg-name="HBO 2 FHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3267.jpg?36118" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",HBO 2 FHD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287504.ts
+#EXTINF:-1 tvg-id="HBO3FHD.mk" tvg-name="HBO 3 FHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1918.jpg?86076" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",HBO 3 FHD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287503.ts
+#EXTINF:-1 tvg-id="HBOFHD.mk" tvg-name="HBO FHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?36252" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",HBO FHD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287505.ts
+#EXTINF:-1 tvg-id="HOBBYLOV.mk" tvg-name="HOBBY LOV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13485.jpg?91519" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",HOBBY LOV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287471.ts
+#EXTINF:-1 tvg-id="HUGOTVHD.mk" tvg-name="HUGO TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3216.jpg?19367" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",HUGO TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287502.ts
+#EXTINF:-1 tvg-id="INTVAVSTRALIJAHD.mk" tvg-name="INTV AVSTRALIJA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3114.jpg?90402" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",INTV AVSTRALIJA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287500.ts
+#EXTINF:-1 tvg-id="K3.mk" tvg-name="K3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8528.jpg?19321" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",K3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287467.ts
+#EXTINF:-1 tvg-id="KAFANSKAHD.mk" tvg-name="KAFANSKA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13556.png?6819" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KAFANSKA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287497.ts
+#EXTINF:-1 tvg-id="KANAL5HD.mk" tvg-name="KANAL 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?23351" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KANAL 5 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287462.ts
+#EXTINF:-1 tvg-id="KANAL5PLUSHD.mk" tvg-name="KANAL 5 PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?50077" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KANAL 5 PLUS HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287499.ts
+#EXTINF:-1 tvg-id="KANAL8.mk" tvg-name="KANAL 8" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3820.png?42930" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KANAL 8
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287470.ts
+#EXTINF:-1 tvg-id="KANAL21TV.mk" tvg-name="KANAL 21 TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4730.png?14288" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KANAL 21 TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287498.ts
+#EXTINF:-1 tvg-id="KOHATVHD.mk" tvg-name="KOHA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3243.png?47965" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KOHA TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287494.ts
+#EXTINF:-1 tvg-id="KTVKAVADARCI.mk" tvg-name="KTV KAVADARCI" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3208.png?44483" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",KTV KAVADARCI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287501.ts
+#EXTINF:-1 tvg-id="MAKEDONSKATV.mk" tvg-name="MAKEDONSKA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7899.jpg?50371" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",MAKEDONSKA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287496.ts
+#EXTINF:-1 tvg-id="MEGABITOLAHD.mk" tvg-name="MEGA BITOLA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7893.jpg?2725" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",MEGA BITOLA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287495.ts
+#EXTINF:-1 tvg-id="MPT14K.mk" tvg-name="MPT 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3819.jpg?90947" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",MPT 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/525356.ts
+#EXTINF:-1 tvg-id="MPT2HD.mk" tvg-name="MPT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8377.png?84329" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",MPT 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287490.ts
+#EXTINF:-1 tvg-id="MPT3.mk" tvg-name="MPT 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8374.jpg?5121" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",MPT 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287463.ts
+#EXTINF:-1 tvg-id="NASHATV.mk" tvg-name="NASHA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7776.png?83685" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",NASHA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287468.ts
+#EXTINF:-1 tvg-id="O2OHRIDHD.mk" tvg-name="O2 OHRID HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9952.jpg?55259" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",O2 OHRID HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287506.ts
+#EXTINF:-1 tvg-id="PLANETATVHD.mk" tvg-name="PLANETA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4776.jpg?62011" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",PLANETA TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287487.ts
+#EXTINF:-1 tvg-id="RTV21HD.mk" tvg-name="RTV21 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3249.jpg?45539" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",RTV21 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287517.ts
+#EXTINF:-1 tvg-id="SITELHD.mk" tvg-name="SITEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3823.png?7332" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",SITEL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287464.ts
+#EXTINF:-1 tvg-id="SKYFOLKHD.mk" tvg-name="SKY FOLK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?58663" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",SKY FOLK HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287483.ts
+#EXTINF:-1 tvg-id="SKYFOLKMK.mk" tvg-name="SKYFOLK MK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6485.jpg?84028" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",SKYFOLK MK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287465.ts
+#EXTINF:-1 tvg-id="SUTELTV.mk" tvg-name="SUTEL TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3120.jpg?45886" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",SUTEL TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287469.ts
+#EXTINF:-1 tvg-id="TELMAHD.mk" tvg-name="TELMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3815.png?34929" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TELMA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287480.ts
+#EXTINF:-1 tvg-id="TVKUMANOVO.mk" tvg-name="TV+ KUMANOVO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8521.png?44404" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TV+ KUMANOVO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287489.ts
+#EXTINF:-1 tvg-id="TVNOVA.mk" tvg-name="TV NOVA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7732.png?81983" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TV NOVA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287475.ts
+#EXTINF:-1 tvg-id="TVPLUS.mk" tvg-name="TV PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4743.png?21027" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TV PLUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287485.ts
+#EXTINF:-1 tvg-id="TVSONCE.mk" tvg-name="TV SONCE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3025.png?7806" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TV SONCE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287474.ts
+#EXTINF:-1 tvg-id="TVTERABITOLAHD.mk" tvg-name="TV TERA BITOLA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10593.png?70532" group-title="Mk| Macedonia ᴴᴰ/ᴿᴬᵂ" tvg-country="MK",TV TERA BITOLA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287477.ts

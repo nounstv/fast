@@ -1,1390 +1,350 @@
 [
   {
-    "id": "13SiamThai.th",
+    "tvgId": "fgt71QAXBWF0xr",
     "name": "13 Siam Thai",
-    "logo": "https://i.imgur.com/FvEp1S2.png",
-    "logoText": "13 ",
+    "originalName": "13 Siam Thai",
     "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.13livetv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AtTV.th",
-    "name": "@TV",
-    "logo": "https://files.catbox.moe/6rj9aw.jpg",
-    "logoText": "@TV",
-    "url": "http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://161.82.243.133:8089/HDAttv/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://attvthai.com/"
-  },
-  {
-    "id": "ALTV.th",
-    "name": "ALTV",
-    "logo": "https://i.imgur.com/MCbCSWv.png",
-    "logoText": "ALT",
-    "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.altv.tv/"
-  },
-  {
-    "id": "AmarinTV.th",
-    "name": "Amarin TV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512",
-    "logoText": "AMA",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.amarintv.com/"
-  },
-  {
-    "id": "BoonniyomTV.th",
+    "tvgId": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
-    "logo": "https://i.imgur.com/KvdFCD5.png",
-    "logoText": "BOO",
+    "originalName": "Boonniyom TV",
     "url": "https://live.x2.co.th/live/bntv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.x2.co.th/live/bntv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.boonniyom.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Channel5.th",
+    "tvgId": "Lf5XxACaHEAHOt",
     "name": "Channel 5",
-    "logo": "https://i.imgur.com/wOIaqg7.png",
-    "logoText": "CHA",
+    "originalName": "Channel 5",
     "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://tv5.co.th/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Channel7.th",
-    "name": "Channel 7",
-    "logo": "https://i.imgur.com/SBCIwek.png",
-    "logoText": "CHA",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://wwww.ch7.com/"
-  },
-  {
-    "id": "Channel8.th",
-    "name": "Channel 8",
-    "logo": "https://i.imgur.com/P3c5jAu.png",
-    "logoText": "CHA",
-    "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.thaich8.com/"
-  },
-  {
-    "id": "CoolChannel.th",
+    "tvgId": "Y8LGD9jwVauVkj",
     "name": "Cool Channel",
-    "logo": "https://i.imgur.com/MU4E0A7.png",
-    "logoText": "COO",
+    "originalName": "Cool Channel",
     "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV1.th",
+    "tvgId": "ZPk578ujZjTXPa",
     "name": "DLTV 1",
-    "logo": "https://i.imgur.com/nLzdGeX.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 1",
     "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV1"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV10.th",
-    "name": "DLTV 10",
-    "logo": "https://i.imgur.com/TgN81Zr.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV10"
-  },
-  {
-    "id": "DLTV11.th",
-    "name": "DLTV 11",
-    "logo": "https://i.imgur.com/hFk2b5s.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV11"
-  },
-  {
-    "id": "DLTV12.th",
-    "name": "DLTV 12",
-    "logo": "https://i.imgur.com/ITt6lY7.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV12"
-  },
-  {
-    "id": "DLTV13.th",
-    "name": "DLTV 13",
-    "logo": "https://i.imgur.com/asB5w3v.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV13"
-  },
-  {
-    "id": "DLTV14.th",
-    "name": "DLTV 14",
-    "logo": "https://i.imgur.com/HOjZRNS.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV14"
-  },
-  {
-    "id": "DLTV15.th",
-    "name": "DLTV 15",
-    "logo": "https://i.imgur.com/onJi2b6.png",
-    "logoText": "DLT",
-    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV15"
-  },
-  {
-    "id": "DLTV2.th",
+    "tvgId": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
-    "logo": "https://i.imgur.com/lDBSTfE.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 2",
     "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV2"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV3.th",
+    "tvgId": "Z2nBboETrkSzIa",
     "name": "DLTV 3",
-    "logo": "https://i.imgur.com/wmrxerm.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 3",
     "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV3"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV4.th",
+    "tvgId": "28rjnzXjPjea82",
     "name": "DLTV 4",
-    "logo": "https://i.imgur.com/WkpoQhU.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 4",
     "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV4"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV5.th",
+    "tvgId": "RfFYZpw2B1Tu6O",
     "name": "DLTV 5",
-    "logo": "https://i.imgur.com/J1E89jX.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 5",
     "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV5"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV6.th",
+    "tvgId": "SBNkYWrTHUHlU6",
     "name": "DLTV 6",
-    "logo": "https://i.imgur.com/qeIHWC0.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 6",
     "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV6"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV7.th",
+    "tvgId": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
-    "logo": "https://i.imgur.com/OjYwMe3.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 7",
     "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV7"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV8.th",
+    "tvgId": "AtqNekEK9bqlpP",
     "name": "DLTV 8",
-    "logo": "https://i.imgur.com/xIwn5Ha.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 8",
     "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV8"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DLTV9.th",
+    "tvgId": "ReBKejReML00hL",
     "name": "DLTV 9",
-    "logo": "https://i.imgur.com/yPeSAry.png",
-    "logoText": "DLT",
+    "originalName": "DLTV 9",
     "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.dltv.ac.th/DLTV9"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DopaChannel.th",
-    "name": "Dopa Channel",
-    "logo": "https://i.imgur.com/Z9vxti4.png",
-    "logoText": "DOP",
-    "url": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.comdopa.com/dopachannel/"
-  },
-  {
-    "id": "DramaChannel.th",
-    "name": "Drama Channel",
-    "logo": "https://i.imgur.com/ill1Ux6.png",
-    "logoText": "DRA",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.mvtv.co.th/channel/ramachannel"
-  },
-  {
-    "id": "ETV.th",
-    "name": "ETV",
-    "logo": "https://i.imgur.com/HTnQGcs.png",
-    "logoText": "ETV",
-    "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
+    "originalName": "DLTV 10",
+    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.etvthai.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GMM25.th",
-    "name": "GMM 25",
-    "logo": "https://i.imgur.com/uARba6N.png",
-    "logoText": "GMM",
-    "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "1UZOek5lIzCih6",
+    "name": "DLTV 11",
+    "originalName": "DLTV 11",
+    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.gmm25.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GoodIdeaTV.th",
-    "name": "Good Idea TV",
-    "logo": "https://i.imgur.com/ETgVyTy.png",
-    "logoText": "GOO",
-    "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
+    "originalName": "DLTV 12",
+    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.goodideatv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JKN18.th",
-    "name": "JKN 18",
-    "logo": "https://i.imgur.com/m4nPR2L.png",
-    "logoText": "JKN",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "ZPUnfb9kCWJfnO",
+    "name": "DLTV 13",
+    "originalName": "DLTV 13",
+    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.jknglobal.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LanthungTV.th",
+    "tvgId": "i5UXCyXzVkJ6Kf",
+    "name": "DLTV 14",
+    "originalName": "DLTV 14",
+    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "TH",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sfr4boA9nNaI9M",
+    "name": "DLTV 15",
+    "originalName": "DLTV 15",
+    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "TH",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "229FKBkhihgZiC",
     "name": "Lanthung TV",
-    "logo": "",
-    "logoText": "LAN",
+    "originalName": "Lanthung TV",
     "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A."
-  },
-  {
-    "id": "Mangorn.th",
-    "name": "Mangorn",
     "logo": "",
-    "logoText": "MAN",
-    "url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://161.82.243.133:8089/HDDragon/video.m3u8?token=qp_moaKmgt0xl1",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MayaChannel.th",
-    "name": "Maya Channel",
-    "logo": "https://i.imgur.com/UropueN.png",
-    "logoText": "MAY",
-    "url": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.maya-channel.com/"
-  },
-  {
-    "id": "MCOTHD.th",
+    "tvgId": "7Y9OONvhoyZDMD",
     "name": "MCOT HD",
-    "logo": "https://i.imgur.com/ejPxGmU.png",
-    "logoText": "MCO",
+    "originalName": "MCOT HD",
     "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://tv.mcot.net/mcothd"
-  },
-  {
-    "id": "MediaTV.th",
-    "name": "Media TV",
     "logo": "",
-    "logoText": "MED",
-    "url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
     "category": "General",
-    "categories": [],
+    "originalCategory": "General",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MONO29.th",
-    "name": "MONO 29",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
-    "logoText": "MON",
-    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://mono29.com/"
-  },
-  {
-    "id": "NationTV.th",
-    "name": "Nation TV",
-    "logo": "https://i.imgur.com/h3TY38F.png",
-    "logoText": "NAT",
-    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.nationtv.tv/"
-  },
-  {
-    "id": "News1.th",
+    "tvgId": "ckulPa2dGBuJLP",
     "name": "News1",
+    "originalName": "News1",
+    "url": "https://news1.live14.com/stream/news1.m3u8",
     "logo": "",
-    "logoText": "NEW",
-    "url": "http://news1.live14.com/stream/news1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://news1.live14.com/stream/news1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://news1live.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "One31.th",
-    "name": "One 31",
-    "logo": "https://i.imgur.com/HXFNbuc.png",
-    "logoText": "ONE",
-    "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.one31.net/"
-  },
-  {
-    "id": "PoliceTV.th",
+    "tvgId": "chmBg2GBFNqXoJ",
     "name": "Police TV",
-    "logo": "https://i.imgur.com/GhboFGt.png",
-    "logoText": "POL",
+    "originalName": "Police TV",
     "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.policetv.tv/"
-  },
-  {
-    "id": "RamaChannel.th",
-    "name": "Rama Channel",
-    "logo": "https://i.imgur.com/pnbzE2V.png",
-    "logoText": "RAM",
-    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://med.mahidol.ac.th/ramachannel/"
-  },
-  {
-    "id": "SBBTV.th",
-    "name": "SBB TV",
-    "logo": "https://i.imgur.com/B1tyK1Z.png",
-    "logoText": "SBB",
-    "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.watsanghathan.com/content/5475/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99-sbbtv"
-  },
-  {
-    "id": "SBTTV.th",
-    "name": "SBT TV",
-    "logo": "https://i.imgur.com/rmNDylW.png",
-    "logoText": "SBT",
-    "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A."
-  },
-  {
-    "id": "STOUChannel.th",
-    "name": "STOU Channel",
-    "logo": "https://i.imgur.com/L3T2QZz.png",
-    "logoText": "STO",
-    "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://stouonline.stou.ac.th/tv/"
-  },
-  {
-    "id": "SuwannabhumiChannel.th",
-    "name": "Suwannabhumi Channel",
-    "logo": "https://i.imgur.com/6AGKP0A.png",
-    "logoText": "SUW",
-    "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://suwannabhumi.tv/"
-  },
-  {
-    "id": "ThaiParliamentTelevision.th",
-    "name": "Thai Parliament Television",
-    "logo": "https://i.imgur.com/Okcnmt6.png",
-    "logoText": "THA",
-    "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.tpchannel.org/"
-  },
-  {
-    "id": "ThaiPBS.th",
-    "name": "Thai PBS",
-    "logo": "https://i.imgur.com/CwalZjr.png",
-    "logoText": "THA",
-    "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.thaipbs.or.th/home"
-  },
-  {
-    "id": "Thaiban83.th",
-    "name": "Thaiban 83",
     "logo": "",
-    "logoText": "THA",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.mvtv.co.th/channel/thaiban"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ThairathTV.th",
-    "name": "Thairath TV",
-    "logo": "https://i.imgur.com/qIorZoy.png",
-    "logoText": "THA",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "3GZ46w4Jr2xtDE",
+    "name": "Rama Channel",
+    "originalName": "Rama Channel",
+    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.thairath.co.th/tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TNN16.th",
-    "name": "TNN16",
-    "logo": "https://i.imgur.com/skpvuKq.png",
-    "logoText": "TNN",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "IC0ZQA3k7HadtW",
+    "name": "SBB TV",
+    "originalName": "SBB TV",
+    "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.tnnthailand.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TopNews.th",
-    "name": "Top News",
-    "logo": "https://i.imgur.com/tRFnV9M.png",
-    "logoText": "TOP",
-    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "tvrptnaG6ItFq0",
+    "name": "STOU Channel",
+    "originalName": "STOU Channel",
+    "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.topnews.co.th/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "True4U.th",
-    "name": "True4U",
-    "logo": "https://i.imgur.com/O6Xre1O.png",
-    "logoText": "TRU",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "bvkcq09Cd3U8lf",
+    "name": "Suwannabhumi Channel",
+    "originalName": "Suwannabhumi Channel",
+    "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://true4u.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMuslimThailand.th",
-    "name": "TV Muslim Thailand",
-    "logo": "https://i.imgur.com/aCFpuzW.png",
-    "logoText": "TV ",
-    "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "ztLXAJFpTRNVhe",
+    "name": "Thai Parliament Television",
+    "originalName": "Thai Parliament Television",
+    "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+    "logo": "",
+    "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://tvmuslim.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WhiteChannel.th",
-    "name": "White Channel",
-    "logo": "https://i.imgur.com/Chx0AV9.png",
-    "logoText": "WHI",
-    "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://whitechannel.tv/"
-  },
-  {
-    "id": "WorkpointTV.th",
-    "name": "Workpoint TV",
-    "logo": "https://i.imgur.com/zq6Xshf.png",
-    "logoText": "WOR",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.workpointtv.com/"
-  },
-  {
-    "id": "ZabbChannel.th",
+    "tvgId": "3j6DuTgbZOrvSb",
     "name": "Zabb Channel",
-    "logo": "https://i.imgur.com/4TMtUjW.png",
-    "logoText": "ZAB",
+    "originalName": "Zabb Channel",
     "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: http://www.zabbtv.com/"
-  },
-  {
-    "id": "ZeeNung.th",
-    "name": "Zee Nung",
-    "logo": "https://i.imgur.com/OqlxU7t.png",
-    "logoText": "ZEE",
-    "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TH",
-    "countryName": "Thailand",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Thailand. Language: N/A. Website: https://www.zeenung.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,581 +1,362 @@
 [
   {
-    "id": "AnimaxAsia.sg",
-    "name": "Animax Asia",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
-    "logoText": "ANI",
-    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation"
-    ],
+    "tvgId": "HUBPREMIER2.sg",
+    "name": "HUB PREMIER 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "originalName": "SG: HUB PREMIER 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968710.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15067.png?97755",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.animax-asia.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "AniplusAsia.sg",
+    "tvgId": "HUBPREMIER1.sg",
+    "name": "HUB PREMIER 1 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968709.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15066.png?26106",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER2.sg",
+    "name": "HUB PREMIER 2 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968708.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15067.png?97755",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER3.sg",
+    "name": "HUB PREMIER 3 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968707.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15068.png?32652",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER4.sg",
+    "name": "HUB PREMIER 4 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 4 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968706.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15069.png?81417",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER5.sg",
+    "name": "HUB PREMIER 5 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 5 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968705.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15070.png?54185",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER6.sg",
+    "name": "HUB PREMIER 6 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 6 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968704.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15071.png?35769",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER7.sg",
+    "name": "HUB PREMIER 7 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 7 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968703.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15072.png?97857",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER8.sg",
+    "name": "HUB PREMIER 8 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 8 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968702.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15073.png?39723",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER9.sg",
+    "name": "HUB PREMIER 9 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 9 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968701.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15074.png?76475",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER10.sg",
+    "name": "HUB PREMIER 10 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 10 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968700.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15075.png?48545",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBPREMIER11.sg",
+    "name": "HUB PREMIER 11 ᴿᴬᵂ",
+    "originalName": "SG: HUB PREMIER 11 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968699.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15076.png?95198",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBbeINSPORTS1.sg",
+    "name": "HUB beIN SPORTS 1 ᴿᴬᵂ",
+    "originalName": "SG: HUB beIN SPORTS 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968698.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?7538",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBbeINSPORTS2.sg",
+    "name": "HUB beIN SPORTS 2 ᴿᴬᵂ",
+    "originalName": "SG: HUB beIN SPORTS 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968697.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?32019",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBbeINSPORTS3.sg",
+    "name": "HUB beIN SPORTS 3 ᴿᴬᵂ",
+    "originalName": "SG: HUB beIN SPORTS 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968696.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?75225",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBbeINSPORTS4.sg",
+    "name": "HUB beIN SPORTS 4 ᴿᴬᵂ",
+    "originalName": "SG: HUB beIN SPORTS 4 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968695.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/540.png?77278",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBbeINSPORTS5.sg",
+    "name": "HUB beIN SPORTS 5 ᴿᴬᵂ",
+    "originalName": "SG: HUB beIN SPORTS 5 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968694.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/542.png?30728",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS1.sg",
+    "name": "HUB SPORTS 1 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968693.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS2.sg",
+    "name": "HUB SPORTS 2 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968692.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS3.sg",
+    "name": "HUB SPORTS 3 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968691.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS4.sg",
+    "name": "HUB SPORTS 4 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 4 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968690.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS5.sg",
+    "name": "HUB SPORTS 5 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 5 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968689.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS6.sg",
+    "name": "HUB SPORTS 6 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 6 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968688.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS7.sg",
+    "name": "HUB SPORTS 7 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 7 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968687.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS8.sg",
+    "name": "HUB SPORTS 8 ᴿᴬᵂ",
+    "originalName": "SG: HUB SPORTS 8 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1968686.ts",
+    "logo": "https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUBSPORTS3HD.sg",
+    "name": "HUB SPORTS 3 HD",
+    "originalName": "SG: HUB SPORTS 3 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/852119.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10571.jpg?69130",
+    "category": "Wt| World Cricket",
+    "originalCategory": "WT| WORLD CRICKET",
+    "country": "SG",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "u2iS7uczBAriSJ",
     "name": "Aniplus Asia",
-    "logo": "https://i.imgur.com/Im3MePy.png",
-    "logoText": "ANI",
+    "originalName": "Aniplus Asia",
     "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Animation",
-    "categories": [
-      "animation"
-    ],
+    "originalCategory": "Animation",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.aniplus-asia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AXNAsia.sg",
-    "name": "AXN Asia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "logoText": "AXN",
-    "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.axn-asia.com/"
-  },
-  {
-    "id": "Channel5.sg",
-    "name": "Channel 5",
-    "logo": "https://i.imgur.com/9NKp5aV.png",
-    "logoText": "CHA",
-    "url": "https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://tv.mewatch.sg/en/channel5"
-  },
-  {
-    "id": "Channel8.sg",
-    "name": "Channel 8",
-    "logo": "https://i.imgur.com/6YPZc24.png",
-    "logoText": "CHA",
-    "url": "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://tv.mewatch.sg/zh/channel8"
-  },
-  {
-    "id": "ChannelU.sg",
-    "name": "Channel U",
-    "logo": "https://i.imgur.com/9MzEjoY.png",
-    "logoText": "CHA",
-    "url": "https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://tv.mewatch.sg/zh/channelu"
-  },
-  {
-    "id": "CNA.sg",
+    "tvgId": "gS3BIgZPeKUpbg",
     "name": "CNA",
-    "logo": "https://i.imgur.com/awIDugE.png",
-    "logoText": "CNA",
+    "originalName": "CNA",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.channelnewsasia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNAInternational.sg",
-    "name": "CNA International",
-    "logo": "https://i.imgur.com/xWglicB.png",
-    "logoText": "CNA",
-    "url": "https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.channelnewsasia.com/international"
-  },
-  {
-    "id": "CNAOriginals.sg",
+    "tvgId": "HJhyKYuHh72Bmv",
     "name": "CNA Originals",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",
-    "logoText": "CNA",
+    "originalName": "CNA Originals",
     "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      }
-    ],
+    "logo": "",
     "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
+    "originalCategory": "Documentary",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.channelnewsasia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNBCAsia.sg",
+    "tvgId": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
-    "logoText": "CNB",
+    "originalName": "CNBC Asia",
     "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Business",
-    "categories": [
-      "business"
-    ],
+    "originalCategory": "Business",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.cnbc.com/id/15838789"
-  },
-  {
-    "id": "CrimePlusInvestigationAsia.sg",
-    "name": "Crime + Investigation Asia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
-    "logoText": "CRI",
-    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.citvasia.com/"
-  },
-  {
-    "id": "HITS.sg",
-    "name": "HITS",
-    "logo": "https://i.imgur.com/IM8Gy1l.png",
-    "logoText": "HIT",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.hitstv.com/"
-  },
-  {
-    "id": "HITSMovies.sg",
-    "name": "HITS Movies",
-    "logo": "https://i.imgur.com/kyE3vXf.png",
-    "logoText": "HIT",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.hitstv.com/movies/"
-  },
-  {
-    "id": "KCM.sg",
-    "name": "KCM",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
-    "logoText": "KCM",
-    "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://kcglobalmedia.com/about-us-1"
-  },
-  {
-    "id": "meWATCHLIVE1.sg",
-    "name": "meWATCH LIVE 1",
-    "logo": "https://i.imgur.com/ppxUDxB.png",
-    "logoText": "MEW",
-    "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.mewatch.sg/channels/live-1/97073"
-  },
-  {
-    "id": "NickelodeonAsia.sg",
-    "name": "Nickelodeon Asia",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "logoText": "NIC",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://www.nick.tv/"
-  },
-  {
-    "id": "ROCKAction.sg",
-    "name": "ROCK Action",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "logoText": "ROC",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.rockentertainment.com/our-brands/rock-action"
-  },
-  {
-    "id": "ROCKEntertainment.sg",
-    "name": "ROCK Entertainment",
-    "logo": "https://i.imgur.com/PWzq0aU.png",
-    "logoText": "ROC",
-    "url": "http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.rockentertainment.com/our-brands/rock-entertainment"
-  },
-  {
-    "id": "Suria.sg",
-    "name": "Suria",
-    "logo": "https://i.imgur.com/9xWAwzy.png",
-    "logoText": "SUR",
-    "url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://tv.mewatch.sg/en/suria"
-  },
-  {
-    "id": "TechStorm.sg",
-    "name": "TechStorm",
-    "logo": "https://i.imgur.com/fAprFBJ.png",
-    "logoText": "TEC",
-    "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.techstorm.tv/"
-  },
-  {
-    "id": "Vasantham.sg",
-    "name": "Vasantham",
-    "logo": "https://i.imgur.com/vqVEcuT.png",
-    "logoText": "VAS",
-    "url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: http://tv.mewatch.sg/en/vasantham"
-  },
-  {
-    "id": "ZooMoo.sg",
-    "name": "ZooMoo",
-    "logo": "https://i.imgur.com/ciTJrnl.png",
-    "logoText": "ZOO",
-    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "SG",
-    "countryName": "Singapore",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Singapore. Language: N/A. Website: https://www.zoomoo.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

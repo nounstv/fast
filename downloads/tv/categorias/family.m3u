@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LyB1P5SiU3vOaG" tvg-name="6 Wise Tv" group-title="Family" tvg-country="US",6 Wise Tv
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-id="et5iR1Oc0qBZ3J" tvg-name="AMG TV" group-title="Family" tvg-country="US",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="62oTY1cpZiXnL5" tvg-name="AVA Family" group-title="Family" tvg-country="IQ",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KXpoKCIRUIeAgz" tvg-name="Dove Channel" group-title="Family" tvg-country="US",Dove Channel
+https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="umvB9tV3Rb1OXe" tvg-name="EmanTv" group-title="Family" tvg-country="IQ",EmanTv
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="WfWOCQye5PaNeZ" tvg-name="Estrella Games" group-title="Family" tvg-country="US",Estrella Games
+https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
+#EXTINF:-1 tvg-id="O7kNo7GEugTsdZ" tvg-name="Mixkurdy" group-title="Family" tvg-country="IQ",Mixkurdy
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-id="3SXsiS0bu9wuAn" tvg-name="Positiv TV" group-title="Family" tvg-country="US",Positiv TV
+https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-id="cEFRovhmEVfGx8" tvg-name="Sevimli TV" group-title="Family" tvg-country="UZ",Sevimli TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="oLnLTQ4nnHeCAZ" tvg-name="Soweto TV" group-title="Family" tvg-country="ZA",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="d8wK3YuIEkuIYv" tvg-name="STS Love" group-title="Family" tvg-country="RU",STS Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="Am4Jb6RFmtHHBI" tvg-name="Superscreen TV" group-title="Family" tvg-country="NG",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="u8aySGKNHSMnn1" tvg-name="TVS Family Channel" group-title="Family" tvg-country="US",TVS Family Channel
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8

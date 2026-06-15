@@ -1,246 +1,86 @@
 [
   {
-    "id": "AlSouriyaTV.sy",
-    "name": "Al-Souriya TV",
-    "logo": "https://i.imgur.com/8FILgXT.jpeg",
-    "logoText": "AL-",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Family",
-    "categories": [
-      "family"
-    ],
-    "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: http://www.ortas.online//SyrianTV/"
-  },
-  {
-    "id": "AlalamNewsChannelSyria.sy",
-    "name": "Alalam News Channel Syria",
-    "logo": "https://i.imgur.com/WQKYPKD.png",
-    "logoText": "ALA",
-    "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://alalamsyria.ir/"
-  },
-  {
-    "id": "Althania.sy",
+    "tvgId": "lzj2rgOVC9PJzk",
     "name": "Althania",
-    "logo": "",
-    "logoText": "ALT",
+    "originalName": "Althania",
     "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://www.althania.tv/"
-  },
-  {
-    "id": "DamascusRadio.sy",
-    "name": "Damascus Radio",
     "logo": "",
-    "logoText": "DAM",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "SY",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "nJ79SnxhmuyaOZ",
+    "name": "Damascus Radio",
+    "originalName": "Damascus Radio",
     "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://damasradio.fm"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HalabTodayTV.sy",
+    "tvgId": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
-    "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
-    "logoText": "HAL",
+    "originalName": "Halab Today TV",
     "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://halabtodaytv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RojavaTV.sy",
+    "tvgId": "FguzmgQdpg9XFC",
     "name": "Rojava TV",
-    "logo": "https://i.imgur.com/42noysO.png",
-    "logoText": "ROJ",
+    "originalName": "Rojava TV",
     "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RonahiTV.sy",
-    "name": "Ronahi TV",
-    "logo": "https://i.imgur.com/JSvJpD8.png",
-    "logoText": "RON",
-    "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: http://ronahi.tv/"
-  },
-  {
-    "id": "SyriaOne.sy",
+    "tvgId": "ZUFftFyddSKOYm",
     "name": "Syria One",
-    "logo": "https://tv.syriaone.tv/SyriaONETVB.png",
-    "logoText": "SYR",
+    "originalName": "Syria One",
     "url": "https://live.syriaone.tv/live/syriaone.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.syriaone.tv/live/syriaone.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SyriaTV.sy",
+    "tvgId": "hGJWMD70oUF4Yo",
     "name": "Syria TV",
-    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
-    "logoText": "SYR",
-    "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Syria TV",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://www.syria.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WelatTV.sy",
+    "tvgId": "juxXjhcoxJLbzK",
     "name": "Welat TV",
-    "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
-    "logoText": "WEL",
+    "originalName": "Welat TV",
     "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "SY",
-    "countryName": "Syria",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Syria. Language: N/A. Website: https://www.welattv.net/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

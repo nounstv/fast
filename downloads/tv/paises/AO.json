@@ -1,74 +1,38 @@
 [
   {
-    "id": "KKTV.ao",
+    "tvgId": "mG0AeH9doLAPIb",
     "name": "KK TV",
-    "logo": "https://i.imgur.com/jWOB0oU.png",
-    "logoText": "KK ",
+    "originalName": "KK TV",
     "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "AO",
-    "countryName": "Angola",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Angola. Language: N/A. Website: https://kktv.co.ao/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MuzangalaTV.ao",
+    "tvgId": "HvYJs4nihzTmh7",
     "name": "Muzangala TV",
-    "logo": "https://i.imgur.com/fBeaJoS.png",
-    "logoText": "MUZ",
+    "originalName": "Muzangala TV",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "AO",
-    "countryName": "Angola",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Angola. Language: N/A. Website: https://muzangala.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVZimbo.ao",
+    "tvgId": "WQ6unWGtm0BnT8",
     "name": "TV Zimbo",
-    "logo": "https://i.imgur.com/SFD8CBh.png",
-    "logoText": "TV ",
+    "originalName": "TV Zimbo",
     "url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "AO",
-    "countryName": "Angola",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Angola. Language: N/A. Website: https://www.tvzimbo.ao/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,296 +1,206 @@
 [
   {
-    "id": "P0SviESIGjVMCR",
+    "tvgId": "P0SviESIGjVMCR",
     "name": "3Cat El bunquer",
+    "originalName": "3Cat El bunquer",
     "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "cat"
-    ],
-    "description": "Canal de TV de Spain. Idioma: cat.",
-    "logoText": "3CA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SbKSg1Uc6JQCXF",
+    "tvgId": "SbKSg1Uc6JQCXF",
     "name": "3CatInfo",
+    "originalName": "3CatInfo",
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "cat"
-    ],
-    "description": "Canal de TV de Spain. Idioma: cat.",
-    "logoText": "3CA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "cmUsBmwJXX5DLc",
+    "tvgId": "cmUsBmwJXX5DLc",
     "name": "24 Horas Canarias",
+    "originalName": "24 Horas Canarias",
     "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "24 ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ztnr.rtve.es/ztnr/5473142.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "74QjO5ht7iQnKv",
+    "tvgId": "74QjO5ht7iQnKv",
     "name": "24 Horas Catalunya",
+    "originalName": "24 Horas Catalunya",
     "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: cat, spa.",
-    "logoText": "24 ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ztnr.rtve.es/ztnr/4952053.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Fv2fpsvbcUPHP8",
+    "tvgId": "Fv2fpsvbcUPHP8",
     "name": "Aragon TV Internacional",
+    "originalName": "Aragon TV Internacional",
     "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "ARA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MkDG8x514T8qvl",
+    "tvgId": "MkDG8x514T8qvl",
     "name": "Bon Dia TV",
+    "originalName": "Bon Dia TV",
     "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "cat"
-    ],
-    "description": "Canal de TV de Spain. Idioma: cat.",
-    "logoText": "BON",
-    "streamCount": 2,
-    "allStreams": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CTfUhDJ1psN0TH",
+    "tvgId": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
+    "originalName": "Canal Extremadura Satelite",
     "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "bz12XPJ3d34chR",
+    "tvgId": "bz12XPJ3d34chR",
     "name": "Canal Sur 2",
+    "originalName": "Canal Sur 2",
     "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WsnjAbyAewcp2y",
+    "tvgId": "WsnjAbyAewcp2y",
     "name": "Canal Sur Andalucia",
+    "originalName": "Canal Sur Andalucia",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 2,
-    "allStreams": [
-      "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
-      "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Pf3Zsb1GIIiXjl",
+    "tvgId": "Pf3Zsb1GIIiXjl",
     "name": "Canal Sur Noticias",
+    "originalName": "Canal Sur Noticias",
     "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Qfv5oZJyTVO7ql",
+    "tvgId": "Qfv5oZJyTVO7ql",
     "name": "Clan Internacional",
+    "originalName": "Clan Internacional",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CLA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HMkADRVzF88Xlb",
+    "tvgId": "HMkADRVzF88Xlb",
     "name": "CMM TV",
+    "originalName": "CMM TV",
     "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CMM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "pILTgjKOONeKEW",
+    "tvgId": "pILTgjKOONeKEW",
     "name": "El 33 Originals",
+    "originalName": "El 33 Originals",
     "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "cat"
-    ],
-    "description": "Canal de TV de Spain. Idioma: cat.",
-    "logoText": "EL ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ry2G3plOdgjsxG",
+    "tvgId": "ry2G3plOdgjsxG",
     "name": "ETB Events 1",
+    "originalName": "ETB Events 1",
     "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "eus",
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: eus, spa.",
-    "logoText": "ETB",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn1.etbon.eus/oc1/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qCNy2ojifNspg9",
+    "tvgId": "qCNy2ojifNspg9",
     "name": "FomixTV",
+    "originalName": "FomixTV",
     "url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "FOM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VC0mpDqFEWjXwB",
+    "tvgId": "VC0mpDqFEWjXwB",
     "name": "Galicia TV Europa",
+    "originalName": "Galicia TV Europa",
     "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "glg"
-    ],
-    "description": "Canal de TV de Spain. Idioma: glg.",
-    "logoText": "GAL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://crtvg-europa.flumotion.cloud/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HhUtzRJjCR6lUu",
+    "tvgId": "HhUtzRJjCR6lUu",
     "name": "TV UFOP",
+    "originalName": "TV UFOP",
     "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+    "logo": "",
     "category": "Public",
+    "originalCategory": "Public",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://app.tvufop.com.br/hls/tvufop.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

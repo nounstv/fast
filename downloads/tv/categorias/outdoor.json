@@ -1,430 +1,230 @@
 [
   {
-    "id": "aYAhxfge3884Ci",
-    "name": "Agro TV",
-    "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
-    "category": "Outdoor",
-    "country": "BG",
-    "countryName": "Bulgaria",
-    "languages": [
-      "bul"
-    ],
-    "description": "Canal de TV de Bulgaria. Idioma: bul.",
-    "logoText": "AGR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-    ]
-  },
-  {
-    "id": "g5kkuBi9J5OPSY",
-    "name": "Agro TV",
-    "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
-    "category": "Outdoor",
-    "country": "RO",
-    "countryName": "Romania",
-    "languages": [
-      "ron"
-    ],
-    "description": "Canal de TV de Romania. Idioma: ron.",
-    "logoText": "AGR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
-    ]
-  },
-  {
-    "id": "ILvQMuRPiCHupS",
+    "tvgId": "ILvQMuRPiCHupS",
     "name": "AKC TV",
+    "originalName": "AKC TV",
     "url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "AKC",
-    "streamCount": 2,
-    "allStreams": [
-      "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
-      "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "G1NnGv2sFMTgSA",
+    "tvgId": "G1NnGv2sFMTgSA",
     "name": "AKC TV Meet the Breeds",
+    "originalName": "AKC TV Meet the Breeds",
     "url": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "AKC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "rw9JWiek5a27wf",
+    "tvgId": "rw9JWiek5a27wf",
     "name": "AKC TV Puppies",
+    "originalName": "AKC TV Puppies",
     "url": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "AKC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sPitwPVtngUuVb",
+    "tvgId": "sPitwPVtngUuVb",
     "name": "ARDB TV",
+    "originalName": "ARDB TV",
     "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "KH",
-    "countryName": "Cambodia",
-    "languages": [
-      "khm"
-    ],
-    "description": "Canal de TV de Cambodia. Idioma: khm.",
-    "logoText": "ARD",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "jDP6MUrSN5cKSo",
+    "tvgId": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
+    "originalName": "DD Kisan",
     "url": "https://cdn-6.pishow.tv/live/9/master.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "hin"
-    ],
-    "description": "Canal de TV de India. Idioma: hin.",
-    "logoText": "DD ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "wphelUchf8A8QX",
+    "tvgId": "wphelUchf8A8QX",
     "name": "Duck Hunting TV",
+    "originalName": "Duck Hunting TV",
     "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DUC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "8MkrJaxHtTluMW",
+    "tvgId": "8MkrJaxHtTluMW",
     "name": "El Mundo del Campo",
+    "originalName": "El Mundo del Campo",
     "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Colombia. Idioma: spa.",
-    "logoText": "EL ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TKlUtkeJbMnBT7",
+    "tvgId": "TKlUtkeJbMnBT7",
     "name": "Horse & Country TV",
+    "originalName": "Horse & Country TV",
     "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "AU",
-    "countryName": "Australia",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Australia. Idioma: eng.",
-    "logoText": "HOR",
-    "streamCount": 2,
-    "allStreams": [
-      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "R8E994mqmmDshs",
+    "tvgId": "R8E994mqmmDshs",
     "name": "Italian Fishing TV",
+    "originalName": "Italian Fishing TV",
     "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "IT",
-    "countryName": "Italy",
-    "languages": [
-      "ita"
-    ],
-    "description": "Canal de TV de Italy. Idioma: ita.",
-    "logoText": "ITA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://fms.premio.link/fishingtv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lQWrqWxPSBgWUI",
-    "name": "Love Nature",
-    "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-    "category": "Outdoor",
-    "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "bul",
-      "ces",
-      "eng",
-      "hun",
-      "rus",
-      "spa",
-      "tur",
-      "zho"
-    ],
-    "description": "Canal de TV de Canada. Idioma: bul, ces, eng, hun, rus, spa, tur, zho.",
-    "logoText": "LOV",
-    "streamCount": 3,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-      "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "j56bM55OvfqWlx",
+    "tvgId": "j56bM55OvfqWlx",
     "name": "Love Nature 4K",
+    "originalName": "Love Nature 4K",
     "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng.",
-    "logoText": "LOV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "skmeLVfBwTzGbY",
+    "tvgId": "skmeLVfBwTzGbY",
     "name": "Ohotnik i rybolov",
+    "originalName": "Ohotnik i rybolov",
     "url": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "OHO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "S9c0VGY1z6Bbp9",
+    "tvgId": "S9c0VGY1z6Bbp9",
     "name": "Outdoor America",
+    "originalName": "Outdoor America",
     "url": "https://d1e354daam8g5r.cloudfront.net/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OUT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://d1e354daam8g5r.cloudfront.net/playlist.m3u8",
-      "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yWx96N1LT28ilx",
+    "tvgId": "yWx96N1LT28ilx",
     "name": "Outdoor Channel",
+    "originalName": "Outdoor Channel",
     "url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OUT",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-      "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "P1PoD5jjT64Mum",
+    "tvgId": "P1PoD5jjT64Mum",
     "name": "Outside TV",
+    "originalName": "Outside TV",
     "url": "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OUT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-      "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LP8ozNzGCQn1Jz",
+    "tvgId": "LP8ozNzGCQn1Jz",
     "name": "PursuitUP",
+    "originalName": "PursuitUP",
     "url": "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "PUR",
-    "streamCount": 3,
-    "allStreams": [
-      "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
-      "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "0mEe54Ekw1mj61",
+    "tvgId": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
+    "originalName": "Swamiji TV American",
     "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "AT",
-    "countryName": "Austria",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Austria. Idioma: eng.",
-    "logoText": "SWA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5ZPKeEUbFRktME",
+    "tvgId": "5ZPKeEUbFRktME",
     "name": "Swamiji TV Australian",
+    "originalName": "Swamiji TV Australian",
     "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "AT",
-    "countryName": "Austria",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Austria. Idioma: eng.",
-    "logoText": "SWA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FJL8QhoyygdV5z",
+    "tvgId": "FJL8QhoyygdV5z",
     "name": "Swamiji TV European",
+    "originalName": "Swamiji TV European",
     "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "AT",
-    "countryName": "Austria",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Austria. Idioma: eng.",
-    "logoText": "SWA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lOEoXHnp8Sj0dx",
+    "tvgId": "lOEoXHnp8Sj0dx",
     "name": "UMC TV",
+    "originalName": "UMC TV",
     "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+    "logo": "",
     "category": "Outdoor",
+    "originalCategory": "Outdoor",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Colombia. Idioma: spa.",
-    "logoText": "UMC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "zi0G4CpWbSYUlF",
-    "name": "WaterBear",
-    "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
-    "category": "Outdoor",
-    "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "WAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "TO1BuEtXll4T9g",
-    "name": "Waypoint TV",
-    "url": "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8",
-    "category": "Outdoor",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "WAY",
-    "streamCount": 3,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8",
-      "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8",
-      "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

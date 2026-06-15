@@ -1,1726 +1,734 @@
 [
   {
-    "id": "100NEWS.ua",
-    "name": "100% NEWS",
-    "logo": "https://i.imgur.com/bSXKdK5.png",
-    "logoText": "100",
-    "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news",
-      "business"
-    ],
+    "tvgId": "1PLUS1.ua",
+    "name": "1PLUS1",
+    "originalName": "UA: 1PLUS1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441643.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/1plus1.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.100news.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ApostropheTV.ua",
-    "name": "Apostrophe TV",
-    "logo": "https://i.imgur.com/LCXvbQX.png",
-    "logoText": "APO",
-    "url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "1PLUS1INTERNATIONAL.ua",
+    "name": "1PLUS1 INTERNATIONAL",
+    "originalName": "UA: 1PLUS1 INTERNATIONAL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441642.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/1plus1international.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://apostrophe.ua/ua/tv"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ArmyTV.ua",
-    "name": "Army TV",
-    "logo": "https://i.imgur.com/pGByjbh.png",
-    "logoText": "ARM",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "22.ua",
+    "name": "2 2",
+    "originalName": "UA: 2 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441641.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/2-2.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://armyfm.com.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ATR.ua",
-    "name": "ATR",
-    "logo": "https://i.imgur.com/lRJAXC7.png",
-    "logoText": "ATR",
-    "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
-    "streams": [
-      {
-        "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "tvgId": "2PLUS2.ua",
+    "name": "2PLUS2",
+    "originalName": "UA: 2PLUS2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441640.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/2plus2.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://atr.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Avers.ua",
-    "name": "Avers",
-    "logo": "https://i.imgur.com/rHHz94D.png",
-    "logoText": "AVE",
-    "url": "https://avers.pp.ua/hls/efir.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avers.pp.ua/hls/efir.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "5KANALUKRAINA.ua",
+    "name": "5KANAL UKRAINA",
+    "originalName": "UA: 5KANAL UKRAINA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441639.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/5kanal.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.volynnews.com/avers/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BaltaTV.ua",
-    "name": "Balta TV",
-    "logo": "https://cdn.teleon.tv/logo/balta-tv-ua.png",
-    "logoText": "BAL",
-    "url": "http://194.50.51.34/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://194.50.51.34/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "7KANALHD.ua",
+    "name": "7 KANAL HD",
+    "originalName": "UA: 7 KANAL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441638.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/kanal7.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://balta.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BamBarBiaTV.ua",
-    "name": "BamBarBia.TV",
-    "logo": "https://i.imgur.com/zdRvy87.png",
-    "logoText": "BAM",
-    "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Travel",
-    "categories": [
-      "travel"
-    ],
+    "tvgId": "ATRHD.ua",
+    "name": "ATR HD",
+    "originalName": "UA: ATR HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441637.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/atr.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://bambarbia.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Channel11.ua",
-    "name": "Channel 11",
-    "logo": "https://i.imgur.com/y78saaG.png",
-    "logoText": "CHA",
-    "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
-    "streams": [
-      {
-        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "ENTERFILM.ua",
+    "name": "ENTERFILM",
+    "originalName": "UA: ENTERFILM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441636.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/enterfilm.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://11tv.dp.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Channel24.ua",
-    "name": "Channel 24",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-    "logoText": "CHA",
-    "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "ESPRESOTV.ua",
+    "name": "ESPRESOTV",
+    "originalName": "UA: ESPRESOTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441635.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/espresotv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://24tv.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Channel5.ua",
-    "name": "Channel 5",
-    "logo": "https://i.imgur.com/a9JJXPk.png",
-    "logoText": "CHA",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "ICTV.ua",
+    "name": "ICTV",
+    "originalName": "UA: ICTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441634.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ictv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://5.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Channel7Ukraine.ua",
-    "name": "Channel 7 Ukraine",
-    "logo": "https://i.imgur.com/9Ll0BIo.png",
-    "logoText": "CHA",
-    "url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "SPORT1.ua",
+    "name": "SPORT 1",
+    "originalName": "UA: SPORT 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441633.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/SPORT-1.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://7kanal.com.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ChPinfo.ua",
-    "name": "ChP info",
-    "logo": "https://i.imgur.com/2cYzroj.png",
-    "logoText": "CHP",
-    "url": "http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "SPORT2.ua",
+    "name": "SPORT 2",
+    "originalName": "UA: SPORT 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441632.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/SPORT-2.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://magnolia-tv.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "DniproTV.ua",
-    "name": "Dnipro TV",
-    "logo": "https://i.imgur.com/mbPTVh1.png",
-    "logoText": "DNI",
-    "url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "SETANTASPORT4K.ua",
+    "name": "SETANTA SPORT 4K",
+    "originalName": "UA: SETANTA SPORT 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441631.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/SETANTA-SPORT.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://dnipro.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "DonbassOnline.ua",
-    "name": "Donbass Online",
-    "logo": "https://i.imgur.com/8h3kOI1.png",
-    "logoText": "DON",
-    "url": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "SETANTASPORTPLUS4K.ua",
+    "name": "SETANTA SPORT PLUS 4K",
+    "originalName": "UA: SETANTA SPORT PLUS 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441630.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/SETANTA-SPORT-PLUS.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.donbas-online.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "DonechchynaTV.ua",
-    "name": "Donechchyna TV",
-    "logo": "https://i.imgur.com/CuOzM8n.png",
-    "logoText": "DON",
-    "url": "https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "INDIGO.ua",
+    "name": "INDIGO",
+    "originalName": "UA: INDIGO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441629.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/indigo.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.dtv.dn.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EkoTV.ua",
-    "name": "Eko TV",
-    "logo": "https://i.imgur.com/WovATGb.png",
-    "logoText": "EKO",
-    "url": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "Science",
-    "categories": [
-      "science"
-    ],
+    "tvgId": "INTER.ua",
+    "name": "INTER",
+    "originalName": "UA: INTER",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441628.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/inter.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://eco-tv.com.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EspresoTV.ua",
-    "name": "Espreso TV",
-    "logo": "https://i.imgur.com/xNatV8K.png",
-    "logoText": "ESP",
-    "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "K1.ua",
+    "name": "K1",
+    "originalName": "UA: K1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441627.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/k1.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://espreso.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EWTNUkraine.ua",
-    "name": "EWTN Ukraine",
-    "logo": "",
-    "logoText": "EWT",
-    "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "K2.ua",
+    "name": "K2",
+    "originalName": "UA: K2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441626.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/k2.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://ewtn.org.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "FirstBusiness.ua",
-    "name": "First Business",
-    "logo": "https://i.imgur.com/0wotE9n.png",
-    "logoText": "FIR",
-    "url": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Business",
-    "categories": [
-      "business"
-    ],
+    "tvgId": "KRT.ua",
+    "name": "KRT",
+    "originalName": "UA: KRT",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441625.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/krt.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://fbc.net.ua/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "FREEDOM.ua",
-    "name": "FREEDOM",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
-    "logoText": "FRE",
-    "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "KVARTALTV.ua",
+    "name": "KVARTAL TV",
+    "originalName": "UA: KVARTAL TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441624.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/kvartaltv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tvfreedom.io/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GIT.ua",
-    "name": "GIT",
-    "logo": "https://i.imgur.com/b5K5Uwh.png",
-    "logoText": "GIT",
-    "url": "https://stream.uagit.tv/gittv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.uagit.tv/gittv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "M1.ua",
+    "name": "M1",
+    "originalName": "UA: M1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441623.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/m1.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://uagit.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Glas.ua",
-    "name": "Glas",
-    "logo": "https://i.imgur.com/l5FEP9w.png",
-    "logoText": "GLA",
-    "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://glas.org.ua/"
-  },
-  {
-    "id": "HersonPlyus.ua",
-    "name": "Herson Plyus",
-    "logo": "https://i.imgur.com/DKDVoyD.png",
-    "logoText": "HER",
-    "url": "http://46.175.163.130/ks_plus/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.175.163.130/ks_plus/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://khersontv.com/"
-  },
-  {
-    "id": "HopeChannelUkraine.ua",
-    "name": "Hope Channel Ukraine",
-    "logo": "https://i.imgur.com/mUx2P29.png",
-    "logoText": "HOP",
-    "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tv.hope.ua/"
-  },
-  {
-    "id": "IUAtv.ua",
-    "name": "I-UA.tv",
-    "logo": "https://i.imgur.com/t1OABVZ.png",
-    "logoText": "I-U",
-    "url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://i-ua.tv/"
-  },
-  {
-    "id": "IRT.ua",
-    "name": "IRT",
-    "logo": "https://i.imgur.com/tDTUIRm.png",
-    "logoText": "IRT",
-    "url": "http://91.193.128.233:1935/live/irt.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://91.193.128.233:1935/live/irt.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.irt.ua/"
-  },
-  {
-    "id": "IT3.ua",
-    "name": "IT3",
-    "logo": "https://i.imgur.com/8rNbbY7.png",
-    "logoText": "IT3",
-    "url": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://it3.online/"
-  },
-  {
-    "id": "ITV.ua",
-    "name": "ITV",
-    "logo": "https://i.imgur.com/NZdT9yJ.png",
-    "logoText": "ITV",
-    "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://itvmg.com/tv"
-  },
-  {
-    "id": "IzmailTV.ua",
-    "name": "Izmail TV",
-    "logo": "https://i.imgur.com/CxsUpGz.png",
-    "logoText": "IZM",
-    "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://izmailtv.com/"
-  },
-  {
-    "id": "Kyiv.ua",
-    "name": "Kyiv",
-    "logo": "https://i.imgur.com/TVuCY4N.png",
-    "logoText": "KYI",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tv.kyiv.media/"
-  },
-  {
-    "id": "LanetTV.ua",
-    "name": "Lanet.TV",
-    "logo": "https://i.imgur.com/Jdy4SoG.png",
-    "logoText": "LAN",
-    "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://lanet.tv/"
-  },
-  {
-    "id": "Lugansk24.ua",
-    "name": "Lugansk 24",
-    "logo": "https://i.imgur.com/AihoVc0.png",
-    "logoText": "LUG",
-    "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.gtrklnr.com/"
-  },
-  {
-    "id": "M2.ua",
+    "tvgId": "M2.ua",
     "name": "M2",
-    "logo": "https://i.imgur.com/AfcBWCg.png",
-    "logoText": "M2",
-    "url": "https://live.m2.tv/hls3/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.m2.tv/hls3/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalName": "UA: M2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441622.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/m2.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://m2.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MistoPlus.ua",
-    "name": "Misto+",
-    "logo": "https://i.imgur.com/NHjg1Jm.png",
-    "logoText": "MIS",
-    "url": "http://93.78.206.172:8080/stream3/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://93.78.206.172:8080/stream3/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "MAXXITV.ua",
+    "name": "MAXXI TV",
+    "originalName": "UA: MAXXI TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441621.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/maxxitv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MEGA.ua",
+    "name": "MEGA",
+    "originalName": "UA: MEGA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441620.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/mega.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MILADYTELEVISION.ua",
+    "name": "MILADY TELEVISION",
+    "originalName": "UA: MILADY TELEVISION",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441619.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/MILADY-TELEVISION.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NEWSNETWORK.ua",
+    "name": "NEWS NETWORK",
+    "originalName": "UA: NEWS NETWORK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441618.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/newsnetworkukraine.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NIKIKIDS.ua",
+    "name": "NIKI KIDS",
+    "originalName": "UA: NIKI KIDS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441617.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/nikikids.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NLOTV.ua",
+    "name": "NLOTV",
+    "originalName": "UA: NLOTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441616.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/nlotv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NOVYKANAL.ua",
+    "name": "NOVY KANAL",
+    "originalName": "UA: NOVY KANAL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441615.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/novychannel.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PESHIY.ua",
+    "name": "PESHIY",
+    "originalName": "UA: PESHIY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441614.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/PESHIY-.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RADA.ua",
+    "name": "RADA",
+    "originalName": "UA: RADA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441613.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/rada.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SONCETV.ua",
+    "name": "SONCE TV",
+    "originalName": "UA: SONCE TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441612.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/sonceua.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "STB.ua",
+    "name": "STB",
+    "originalName": "UA: STB",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441611.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/stb.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SHANTNEWSHD.ua",
+    "name": "SHANT NEWS HD",
+    "originalName": "UA: SHANT NEWS HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443813.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/shantnews.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SHANTMUSICHD.ua",
+    "name": "SHANT MUSIC HD",
+    "originalName": "UA: SHANT MUSIC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443811.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/shantmusic.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TET.ua",
+    "name": "TET",
+    "originalName": "UA: TET",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441610.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/tet.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TYSA1.ua",
+    "name": "TYSA 1",
+    "originalName": "UA: TYSA 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441609.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/TYSA-1.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UATV.ua",
+    "name": "UA TV",
+    "originalName": "UA: UA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441608.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/uatv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UKRAINA.ua",
+    "name": "UKRAINA",
+    "originalName": "UA: UKRAINA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441607.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ukraina.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UNIANTV.ua",
+    "name": "UNIAN TV",
+    "originalName": "UA: UNIAN TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441606.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/uniantv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VINTAGETV.ua",
+    "name": "VINTAGE TV",
+    "originalName": "UA: VINTAGE TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441605.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/vintagetv.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "XSPORT.ua",
+    "name": "X SPORT",
+    "originalName": "UA: X SPORT",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441604.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/xsport.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "EUROHD.ua",
+    "name": "EURO HD",
+    "originalName": "UA: EURO HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443799.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/armeniaeuro.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "H1PUBLIC.ua",
+    "name": "H 1 PUBLIC",
+    "originalName": "UA: H 1 PUBLIC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/443807.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/armpublic.jpg",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ZOOM.ua",
+    "name": "ZOOM",
+    "originalName": "UA: ZOOM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/441603.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/zoom.png",
+    "category": "Uk| Ukraine Hd/4K",
+    "originalCategory": "UK| UKRAINE HD/4K",
+    "country": "UA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "c0P17Flme7SKg4",
+    "name": "Channel 7 Ukraine",
+    "originalName": "Channel 7 Ukraine",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://irt.pl.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NTKTV.ua",
+    "tvgId": "1noDMwg9YAlG9Y",
+    "name": "Espreso TV",
+    "originalName": "Espreso TV",
+    "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "UA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "mIGSyXqUZvMvq1",
+    "name": "EWTN Ukraine",
+    "originalName": "EWTN Ukraine",
+    "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "UA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "QgJCPkx1daMycI",
+    "name": "FREEDOM",
+    "originalName": "FREEDOM",
+    "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "UA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "WoGHZ2NiobEniJ",
+    "name": "Izmail TV",
+    "originalName": "Izmail TV",
+    "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "UA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "yrSBjf9gfsWeUo",
+    "name": "Lanet.TV",
+    "originalName": "Lanet.TV",
+    "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "UA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "yuVSQWMuHA1KqE",
     "name": "NTK TV",
-    "logo": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",
-    "logoText": "NTK",
+    "originalName": "NTK TV",
     "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.ntktv.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ObozrevatelTV.ua",
-    "name": "Obozrevatel TV",
-    "logo": "https://i.imgur.com/ubldSBv.png",
-    "logoText": "OBO",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.obozrevatel.com/tv"
-  },
-  {
-    "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
-    "name": "Obshchestvennoe Nezavisimoe Televidenie",
-    "logo": "https://i.imgur.com/jFP50g2.png",
-    "logoText": "OBS",
-    "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.onttv.com.ua/"
-  },
-  {
-    "id": "OrbitaTV.ua",
-    "name": "Orbita TV",
-    "logo": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",
-    "logoText": "ORB",
-    "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://orbita.dn.ua/"
-  },
-  {
-    "id": "OTV.ua",
-    "name": "OTV",
-    "logo": "https://i.imgur.com/TkGGGAj.png",
-    "logoText": "OTV",
-    "url": "http://91.193.128.233:1935/live/otv.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://91.193.128.233:1935/live/otv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://o-tv.tv/"
-  },
-  {
-    "id": "PershiyXTVMedia.ua",
-    "name": "Pershiy XTV Media",
-    "logo": "https://i.imgur.com/M7oDym3.png",
-    "logoText": "PER",
-    "url": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://trk1tv.xtvmedia.pp.ua/"
-  },
-  {
-    "id": "Pershyi.ua",
-    "name": "Pershyi",
-    "logo": "https://i.imgur.com/osTQLED.png",
-    "logoText": "PER",
-    "url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36"
-      },
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tv.suspilne.media/"
-  },
-  {
-    "id": "PershyiZahidnyi.ua",
-    "name": "Pershyi Zahidnyi",
-    "logo": "https://i.imgur.com/SnljTbR.png",
-    "logoText": "PER",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://1zahid.com/"
-  },
-  {
-    "id": "PervyygorodskoyOdessa.ua",
-    "name": "Pervyy gorodskoy. Odessa",
-    "logo": "https://i.imgur.com/8qdc6aO.png",
-    "logoText": "PER",
-    "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://1tv.od.ua/"
-  },
-  {
-    "id": "PravdaTUT.ua",
-    "name": "PravdaTUT",
-    "logo": "https://i.imgur.com/gvgFoFB.png",
-    "logoText": "PRA",
-    "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
-    "streams": [
-      {
-        "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      },
-      {
-        "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://pravdatut.ua/"
-  },
-  {
-    "id": "Priamyi.ua",
-    "name": "Priamyi",
-    "logo": "https://i.imgur.com/sEdzw80.png",
-    "logoText": "PRI",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://prm.ua/"
-  },
-  {
-    "id": "PTV.ua",
+    "tvgId": "BbQTAaHxQO2kHl",
     "name": "PTV",
-    "logo": "https://i.imgur.com/WDHoSVz.png",
-    "logoText": "PTV",
+    "originalName": "PTV",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://ptv.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadaTV.ua",
-    "name": "Rada TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
-    "logoText": "RAD",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://www.rada.gov.ua/"
-  },
-  {
-    "id": "RenomeTV.ua",
-    "name": "Renome TV",
-    "logo": "https://i.imgur.com/qL1uNlW.png",
-    "logoText": "REN",
-    "url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://www.mediaholding100.com/"
-  },
-  {
-    "id": "Reporter.ua",
-    "name": "Reporter",
-    "logo": "https://i.imgur.com/LyA3kBR.png",
-    "logoText": "REP",
-    "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://reporter.od.ua/"
-  },
-  {
-    "id": "Rivne1.ua",
+    "tvgId": "Ow650uw0Y3b6my",
     "name": "Rivne 1",
-    "logo": "https://i.imgur.com/ytz7jYV.png",
-    "logoText": "RIV",
+    "originalName": "Rivne 1",
     "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://rivne1.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SferaTV.ua",
+    "tvgId": "WUpQwb5AVqMclc",
     "name": "Sfera-TV",
-    "logo": "https://i.imgur.com/S1h1t0G.png",
-    "logoText": "SFE",
-    "url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      }
-    ],
+    "originalName": "Sfera-TV",
+    "url": "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://sfera-tv.com.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SK1.ua",
-    "name": "SK 1",
-    "logo": "https://i.imgur.com/XiXwr5h.png",
-    "logoText": "SK ",
-    "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://sk1.tv/"
-  },
-  {
-    "id": "Skrypinua.ua",
-    "name": "Skrypin.ua",
-    "logo": "https://i.imgur.com/XtG3rfj.png",
-    "logoText": "SKR",
-    "url": "https://open-cdn.lanet.tv/play/skrypin.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://open-cdn.lanet.tv/play/skrypin.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://skrypin.ua/"
-  },
-  {
-    "id": "SonataTV.ua",
-    "name": "Sonata TV",
-    "logo": "https://i.imgur.com/0IZ6pgN.png",
-    "logoText": "SON",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://sonata.tv/"
-  },
-  {
-    "id": "SuspilneKrym.ua",
-    "name": "Suspilne. Krym",
-    "logo": "https://i.imgur.com/m7znCes.png",
-    "logoText": "SUS",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://crimea.suspilne.media/"
-  },
-  {
-    "id": "SuspilneKultura.ua",
-    "name": "Suspilne. Kultura",
-    "logo": "https://i.imgur.com/hHMJV8e.png",
-    "logoText": "SUS",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36"
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://suspilne.media/culture/"
-  },
-  {
-    "id": "SuspilneKyiv.ua",
-    "name": "Suspilne. Kyiv",
-    "logo": "https://i.imgur.com/MeR1dJw.png",
-    "logoText": "SUS",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "curl/8.16.0",
-    "streams": [
-      {
-        "url": "https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "curl/8.16.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://central.suspilne.media/"
-  },
-  {
-    "id": "TelekanalRAI.ua",
+    "tvgId": "Pqrkg7U9owFXx2",
     "name": "Telekanal RAI",
-    "logo": "https://i.imgur.com/Ouv51WB.png",
-    "logoText": "TEL",
+    "originalName": "Telekanal RAI",
     "url": "https://stream.rai.ua/rai/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.rai.ua/rai/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://rai.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Televsesvit.ua",
-    "name": "Televsesvit",
-    "logo": "https://i.imgur.com/ygexoKO.png",
-    "logoText": "TEL",
-    "url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://www.televsesvit.ua/"
-  },
-  {
-    "id": "Ternopil1.ua",
-    "name": "Ternopil 1",
-    "logo": "https://i.imgur.com/f5EtIzV.png",
-    "logoText": "TER",
-    "url": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://ternopil1.com"
-  },
-  {
-    "id": "TISTV.ua",
+    "tvgId": "KNtnaXZuhjC6uj",
     "name": "TIS TV",
-    "logo": "https://i.imgur.com/jDaoUt5.png",
-    "logoText": "TIS",
+    "originalName": "TIS TV",
     "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://www.tistv.news/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TretiyCifrovoy.ua",
+    "tvgId": "CcIIP6g1fBAGPV",
     "name": "Tretiy Cifrovoy",
-    "logo": "https://i.imgur.com/UOgmTkP.png",
-    "logoText": "TRE",
+    "originalName": "Tretiy Cifrovoy",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://tretiy.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRKAleks.ua",
-    "name": "TRK Aleks",
-    "logo": "https://i.imgur.com/1uW5ex8.png",
-    "logoText": "TRK",
-    "url": "http://46.46.112.223/live/livestream1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.46.112.223/live/livestream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://alexua.tv/"
-  },
-  {
-    "id": "TRKIldana.ua",
-    "name": "TRK Ildana",
-    "logo": "https://i.imgur.com/cN7VRYv.png",
-    "logoText": "TRK",
-    "url": "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
-    "streams": [
-      {
-        "url": "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://ildana.tv/"
-  },
-  {
-    "id": "TUSO.ua",
+    "tvgId": "WcoZqsaKguXix1",
     "name": "TUSO",
-    "logo": "https://i.imgur.com/kb4B9wN.png",
-    "logoText": "TUS",
+    "originalName": "TUSO",
     "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
-    "streams": [
-      {
-        "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
-      }
-    ],
+    "logo": "",
     "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "originalCategory": "Shop",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tuso.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TV7Plus.ua",
-    "name": "TV7+",
-    "logo": "https://i.imgur.com/PcTDZ8e.png",
-    "logoText": "TV7",
-    "url": "https://tv7plus.com/hls/tv7_site.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv7plus.com/hls/tv7_site.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: http://tv7plus.com/"
-  },
-  {
-    "id": "TVA.ua",
+    "tvgId": "TSbUr1OhqLkxuT",
     "name": "TVA",
-    "logo": "https://i.imgur.com/PtTQ5lv.png",
-    "logoText": "TVA",
-    "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "TVA",
+    "url": "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://tva.ua/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ViasatKino.ua",
-    "name": "Viasat Kino",
-    "logo": "https://i.imgur.com/io0WAkA.png",
-    "logoText": "VIA",
-    "url": "http://89.254.128.5:22280/viasat_kino/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://89.254.128.5:22280/viasat_kino/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://viasat.com.ua/channel/ViasatKinohd"
-  },
-  {
-    "id": "ViasatKinoAction.ua",
-    "name": "Viasat Kino Action",
-    "logo": "https://i.imgur.com/HwsNIDK.png",
-    "logoText": "VIA",
-    "url": "http://89.254.128.5:22280/viasat_kino_action/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://89.254.128.5:22280/viasat_kino_action/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://viasat.com.ua/channel/Viasat_Kino_Action"
-  },
-  {
-    "id": "Z.ua",
+    "tvgId": "ZWMy6L1tUWrepR",
     "name": "Z",
-    "logo": "https://i.imgur.com/E5aV5aa.png",
-    "logoText": "Z",
+    "originalName": "Z",
     "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "UA",
-    "countryName": "Ukraine",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ukraine. Language: N/A. Website: https://ztv.zp.ua/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,0 +1,561 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SPEZIAL" tvg-name="######## SPEZIAL ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" group-title="Ru| Russian Hd/4K",######## SPEZIAL ########
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439489.ts
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/A1.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",A1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439488.ts
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/A2.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",A2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439487.ts
+#EXTINF:-1 tvg-id="AMC.ru" tvg-name="AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/amc.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439486.ts
+#EXTINF:-1 tvg-id="AMEDIA.ru" tvg-name="AMEDIA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/AMEDIA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439485.ts
+#EXTINF:-1 tvg-id="AMEDIA2.ru" tvg-name="AMEDIA 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/amedia2.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439484.ts
+#EXTINF:-1 tvg-id="AMEDIAHIT.ru" tvg-name="AMEDIA HIT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/amediahit.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA HIT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439483.ts
+#EXTINF:-1 tvg-id="AMEDIAPREMIUM.ru" tvg-name="AMEDIA PREMIUM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/amediapremium.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA PREMIUM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439482.ts
+#EXTINF:-1 tvg-id="AMEDIAPREMIUMHD.ru" tvg-name="AMEDIA PREMIUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/amediapremium.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA PREMIUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439481.ts
+#EXTINF:-1 tvg-id="ANIMALPLANETHD.ru" tvg-name="ANIMAL PLANET HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/animalplanethdrussian.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ANIMAL PLANET HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439480.ts
+#EXTINF:-1 tvg-id="ANIMALFAMILYHD.ru" tvg-name="ANIMAL FAMILY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANIMAL-KINGDOM.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ANIMAL FAMILY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439479.ts
+#EXTINF:-1 tvg-id="ANIMALPLANET.ru" tvg-name="ANIMAL PLANET" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/animalplanet.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ANIMAL PLANET
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439478.ts
+#EXTINF:-1 tvg-id="BOLLYWOOD.ru" tvg-name="BOLLYWOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bollywoodtv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOLLYWOOD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439477.ts
+#EXTINF:-1 tvg-id="BOLLYWOODHD.ru" tvg-name="BOLLYWOOD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bollywoodhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOLLYWOOD HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439476.ts
+#EXTINF:-1 tvg-id="DAVINCILEARNING.ru" tvg-name="DAVINCI LEARNING" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/davincilearning.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DAVINCI LEARNING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439474.ts
+#EXTINF:-1 tvg-id="DIKAYAOKHOTAHD.ru" tvg-name="DIKAYA OKHOTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DIKAYA-OKHOTA-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DIKAYA OKHOTA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439473.ts
+#EXTINF:-1 tvg-id="DIKAYARYBALKAHD.ru" tvg-name="DIKAYA RYBALKA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DIKAYA-RYBALKA-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DIKAYA RYBALKA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439472.ts
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL.ru" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoverychannel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISCOVERY CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439471.ts
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCEHD.ru" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoverysciencehd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISCOVERY SCIENCE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439468.ts
+#EXTINF:-1 tvg-id="DISCOVERYSHOWCASEHD.ru" tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoveryshowcasehd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISCOVERY SHOWCASE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439467.ts
+#EXTINF:-1 tvg-id="DISCOVERYDTX.ru" tvg-name="DISCOVERY DTX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DISCOVERY-DTX.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISCOVERY DTX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439466.ts
+#EXTINF:-1 tvg-id="DISCOVERYIDXTRAHD.ru" tvg-name="DISCOVERY ID XTRA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DISCOVERY-ID-XTRA-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISCOVERY ID XTRA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439465.ts
+#EXTINF:-1 tvg-id="EDAHD.ru" tvg-name="EDA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EDA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",EDA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439464.ts
+#EXTINF:-1 tvg-id="EGOISTTV.ru" tvg-name="EGOIST TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EGOIST-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",EGOIST TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439463.ts
+#EXTINF:-1 tvg-id="ETV.ru" tvg-name="E TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/etv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",E TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439462.ts
+#EXTINF:-1 tvg-id="EUREKAHD.ru" tvg-name="EUREKA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUREKA-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",EUREKA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439461.ts
+#EXTINF:-1 tvg-id="FASHIONTELEVISION.ru" tvg-name="FASHION TELEVISION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/fashiontelevision.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FASHION TELEVISION
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439460.ts
+#EXTINF:-1 tvg-id="FINELIVING.ru" tvg-name="FINE LIVING" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/fineliving.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FINE LIVING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439459.ts
+#EXTINF:-1 tvg-id="FOX.ru" tvg-name="FOX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/fox.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FOX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439458.ts
+#EXTINF:-1 tvg-id="FOXHD.ru" tvg-name="FOX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FOX HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439457.ts
+#EXTINF:-1 tvg-id="GLAZAMITURISTA.ru" tvg-name="GLAZAMI TURISTA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GLAZAMI-TURISTA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",GLAZAMI TURISTA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439455.ts
+#EXTINF:-1 tvg-id="GLAZELLAHD.ru" tvg-name="GLAZELLA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GLAZELLA-.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",GLAZELLA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439454.ts
+#EXTINF:-1 tvg-id="HISTORYHD.ru" tvg-name="HISTORY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HISTORY-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",HISTORY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439452.ts
+#EXTINF:-1 tvg-id="HOLLYWOOD.ru" tvg-name="HOLLYWOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hollywood.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",HOLLYWOOD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439451.ts
+#EXTINF:-1 tvg-id="ICONCERTS.ru" tvg-name="ICONCERTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/iconcerts.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ICONCERTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439450.ts
+#EXTINF:-1 tvg-id="ILLUZIONPLUS.ru" tvg-name="ILLUZION PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ILLUZION-PLUS.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ILLUZION PLUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439447.ts
+#EXTINF:-1 tvg-id="NOSTALGIJA.ru" tvg-name="NOSTALGIJA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOSTALGIJA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NOSTALGIJA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439446.ts
+#EXTINF:-1 tvg-id="ISTORIYA.ru" tvg-name="ISTORIYA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ISTORYA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ISTORIYA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439445.ts
+#EXTINF:-1 tvg-id="JIVITV.ru" tvg-name="JIVI TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/JIVI-.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",JIVI TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439444.ts
+#EXTINF:-1 tvg-id="KRIKTV.ru" tvg-name="KRIK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KRIK-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KRIK TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439443.ts
+#EXTINF:-1 tvg-id="KUCHNIATV.ru" tvg-name="KUCHNIA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KUCHNIA-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KUCHNIA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439442.ts
+#EXTINF:-1 tvg-id="KUHNYATV.ru" tvg-name="KUHNYA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KUHNYA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KUHNYA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439441.ts
+#EXTINF:-1 tvg-id="NATGEOWILD.ru" tvg-name="NAT GEO WILD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/natgeowild.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NAT GEO WILD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439439.ts
+#EXTINF:-1 tvg-id="NATGEOWILDHD.ru" tvg-name="NAT GEO WILD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/natgeowildhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NAT GEO WILD HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439438.ts
+#EXTINF:-1 tvg-id="NAUKA20.ru" tvg-name="NAUKA 2 0" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NAUKA-2-0.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NAUKA 2 0
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439435.ts
+#EXTINF:-1 tvg-id="NSTTV.ru" tvg-name="NST TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/nst.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NST TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439434.ts
+#EXTINF:-1 tvg-id="OHOTAIRYBALKA.ru" tvg-name="OHOTA I RYBALKA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OHOTA-I-RYBALKA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",OHOTA I RYBALKA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439433.ts
+#EXTINF:-1 tvg-id="OHOTNIKIRYBOLOVHD.ru" tvg-name="OHOTNIK I RYBOLOV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OHOTNIK-I-RYBOLOV-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",OHOTNIK I RYBOLOV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439432.ts
+#EXTINF:-1 tvg-id="ORUZHIE.ru" tvg-name="ORUZHIE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ORUZHIE.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ORUZHIE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439431.ts
+#EXTINF:-1 tvg-id="PARAMOUNTCHANNEL.ru" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/paramountchannel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PARAMOUNT CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439430.ts
+#EXTINF:-1 tvg-id="PARAMOUNTCOMEDY.ru" tvg-name="PARAMOUNT COMEDY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/paramountcomedy.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PARAMOUNT COMEDY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439429.ts
+#EXTINF:-1 tvg-id="PRIKLYUCHENIYAHD.ru" tvg-name="PRIKLYUCHENIYA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PRIKLYUCHENIYA-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PRIKLYUCHENIYA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439428.ts
+#EXTINF:-1 tvg-id="PRODVIJENIE.ru" tvg-name="PRODVIJENIE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PRODVIJENIE.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",PRODVIJENIE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439427.ts
+#EXTINF:-1 tvg-id="PSIHOLOGIA21.ru" tvg-name="PSIHOLOGIA 21" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PSIHOLOGIA-21.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PSIHOLOGIA 21
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439426.ts
+#EXTINF:-1 tvg-id="PYATITKANAL.ru" tvg-name="PYATIT KANAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PYATIT-KANAL.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",PYATIT KANAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439425.ts
+#EXTINF:-1 tvg-id="TELEKAFE.ru" tvg-name="TELEKAFE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TELEKAFE.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TELEKAFE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439424.ts
+#EXTINF:-1 tvg-id="STYLE.ru" tvg-name="STYLE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STYLE-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",STYLE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439423.ts
+#EXTINF:-1 tvg-id="RUSSKIJILLUZION.ru" tvg-name="RUSSKIJILLUZION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKIJ-ILLUZION.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKIJILLUZION
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439422.ts
+#EXTINF:-1 tvg-id="SETHD.ru" tvg-name="SET HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyentertainmenttvhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SET HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439421.ts
+#EXTINF:-1 tvg-id="SHOKIRUYUSCHEE.ru" tvg-name="SHOKIRUYUSCHEE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SHOKIRUYUSCHEE.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",SHOKIRUYUSCHEE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439420.ts
+#EXTINF:-1 tvg-id="SHOTTV.ru" tvg-name="SHOT TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SHOT-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SHOT TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439419.ts
+#EXTINF:-1 tvg-id="SONYCHANNEL.ru" tvg-name="SONY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonychannel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SONY CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439418.ts
+#EXTINF:-1 tvg-id="SONYSCIFI.ru" tvg-name="SONY SCI-FI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyscifi.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SONY SCI-FI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439417.ts
+#EXTINF:-1 tvg-id="SONYTB.ru" tvg-name="SONY TB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyturbo.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SONY TB
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439416.ts
+#EXTINF:-1 tvg-id="SONYTURBO.ru" tvg-name="SONY TURBO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyturbo.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SONY TURBO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439415.ts
+#EXTINF:-1 tvg-id="SOVERSHENNOSEKRETNO.ru" tvg-name="SOVERSHENNO SEKRETNO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SOVERSHENNO-SEKRETNO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SOVERSHENNO SEKRETNO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439414.ts
+#EXTINF:-1 tvg-id="TIJI.ru" tvg-name="TIJI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tiji.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TIJI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439413.ts
+#EXTINF:-1 tvg-id="TLCHD.ru" tvg-name="TLC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tlchd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TLC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439411.ts
+#EXTINF:-1 tvg-id="TLUMHD.ru" tvg-name="TLUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TLUM-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TLUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439410.ts
+#EXTINF:-1 tvg-id="TRAVEL.ru" tvg-name="TRAVEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/travel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TRAVEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439409.ts
+#EXTINF:-1 tvg-id="TRAVELADVENTUREHD.ru" tvg-name="TRAVEL+ADVENTURE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TRAVEL-+-ADVENTURE.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TRAVEL+ADVENTURE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439408.ts
+#EXTINF:-1 tvg-id="TRAVELADVENTURE.ru" tvg-name="TRAVEL ADVENTURE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TRAVEL-+-ADVENTURE.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TRAVEL ADVENTURE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439407.ts
+#EXTINF:-1 tvg-id="TRAVELHD.ru" tvg-name="TRAVEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/travelhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TRAVEL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439406.ts
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV3-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439405.ts
+#EXTINF:-1 tvg-id="TV1000.ru" tvg-name="TV1000" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV1000.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439404.ts
+#EXTINF:-1 tvg-id="TV1000ACTION.ru" tvg-name="TV1000 ACTION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV1000_Action.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000 ACTION
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439403.ts
+#EXTINF:-1 tvg-id="TV1000COMEDYHD.ru" tvg-name="TV1000 COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV1000.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000 COMEDY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439402.ts
+#EXTINF:-1 tvg-id="TV1000MEGAHITHD.ru" tvg-name="TV1000 MEGAHIT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv1000.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000 MEGAHIT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439401.ts
+#EXTINF:-1 tvg-id="TV1000PREMIUMHD.ru" tvg-name="TV1000 PREMIUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV1000_PREMIUM_HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000 PREMIUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439400.ts
+#EXTINF:-1 tvg-id="TV1000RUSSKOJEKINO.ru" tvg-name="TV1000 RUSSKOJE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv1000russiankino.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV1000 RUSSKOJE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439399.ts
+#EXTINF:-1 tvg-id="WORLDFASHION.ru" tvg-name="WORLD FASHION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/worldfashionchannel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",WORLD FASHION
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439398.ts
+#EXTINF:-1 tvg-id="ZAGORODNAYAZHIZN.ru" tvg-name="ZAGORODNAYA ZHIZN" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZAGORODNAYA-ZHIZN.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZAGORODNAYA ZHIZN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439397.ts
+#EXTINF:-1 tvg-id="ZAGORODNOJAJIZN.ru" tvg-name="ZAGORODNOJA JIZN" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZAGORODNAYA-ZHIZN.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZAGORODNOJA JIZN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439396.ts
+#EXTINF:-1 tvg-id="ZAGORODNIYHDINT.ru" tvg-name="ZAGORODNIY HD INT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZAGORODNIY.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZAGORODNIY HD INT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439395.ts
+#EXTINF:-1 tvg-id="ZAGORODNIY.ru" tvg-name="ZAGORODNIY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZAGORODNIY.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZAGORODNIY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439394.ts
+#EXTINF:-1 tvg-id="VIASATEXPLOREHD.ru" tvg-name="VIASAT EXPLORE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VIASAT-EXPLORER-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIASAT EXPLORE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439393.ts
+#EXTINF:-1 tvg-id="VIASATHISTORYHD.ru" tvg-name="VIASAT HISTORY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VIASAT-HISTORY-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIASAT HISTORY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439390.ts
+#EXTINF:-1 tvg-id="VIASATSPORT.ru" tvg-name="VIASAT SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/viasatsport.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIASAT SPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439388.ts
+#EXTINF:-1 tvg-id="VIASATSPORTHD.ru" tvg-name="VIASAT SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VIASAT-SPORT-HD.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIASAT SPORT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439387.ts
+#EXTINF:-1 tvg-id="VIASATTV1000RUSSKOEKINO.ru" tvg-name="VIASAT TV1000 RUSSKOEKINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV1000.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIASAT TV1000 RUSSKOEKINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439386.ts
+#EXTINF:-1 tvg-id="VIPCOMEDYHD.ru" tvg-name="VIP COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/vipcomedy.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIP COMEDY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439385.ts
+#EXTINF:-1 tvg-id="VIPMEGAHITHD.ru" tvg-name="VIP MEGAHIT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/vipmegahit.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIP MEGAHIT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439384.ts
+#EXTINF:-1 tvg-id="VIPPREMIERE.ru" tvg-name="VIP PREMIERE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/vippremiere.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIP PREMIERE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439383.ts
+#EXTINF:-1 tvg-id="VIPSERIAL.ru" tvg-name="VIP SERIAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VIP-SERIAL.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",VIP SERIAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439382.ts
+#EXTINF:-1 tvg-id="ZOOPARK.ru" tvg-name="ZOOPARK" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZOOPARK.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZOOPARK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439381.ts
+#EXTINF:-1 tvg-id="ZEETV.ru" tvg-name="ZEE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/zeetv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZEE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439380.ts
+#EXTINF:-1 tvg-id="TVXXI.ru" tvg-name="TV XXI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-XXI.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TV XXI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439379.ts
+#EXTINF:-1 tvg-id="UTV.ru" tvg-name="U TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/utv.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",U TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439378.ts
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/utv.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",U
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439377.ts
+#EXTINF:-1 tvg-id="24TECHNO.ru" tvg-name="24 TECHNO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/24-TECHNO-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",24 TECHNO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439376.ts
+#EXTINF:-1 tvg-id="5KANALRU.ru" tvg-name="5 KANAL RU" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/5kanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",5 KANAL RU
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439375.ts
+#EXTINF:-1 tvg-id="AHOMEOFHBO2HD.ru" tvg-name="A HOME OF HBO 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hbo2hd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",A HOME OF HBO 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439374.ts
+#EXTINF:-1 tvg-id="AMEDIAHOMEOFHBO1HD.ru" tvg-name="AMEDIA HOME OF HBO 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hbo1hd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AMEDIA HOME OF HBO 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439373.ts
+#EXTINF:-1 tvg-id="BOBERTV.ru" tvg-name="BOBER TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BOBER-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOBER TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439372.ts
+#EXTINF:-1 tvg-id="BOKSTV.ru" tvg-name="BOKS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BOKS-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOKS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439371.ts
+#EXTINF:-1 tvg-id="DOCTORHD.ru" tvg-name="DOCTOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOCTOR-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOCTOR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439370.ts
+#EXTINF:-1 tvg-id="DOJDHD.ru" tvg-name="DOJD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOJD-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOJD HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439369.ts
+#EXTINF:-1 tvg-id="DOMKINOPREMIUMHD.ru" tvg-name="DOM KINO PREMIUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/domkinopremium.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOM KINO PREMIUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439368.ts
+#EXTINF:-1 tvg-id="DOMASHNIEJIVOTNIE.ru" tvg-name="DOMASHNIE JIVOTNIE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOMASHNIY.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOMASHNIE JIVOTNIE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439367.ts
+#EXTINF:-1 tvg-id="DOMASHNIY7.ru" tvg-name="DOMASHNIY +7" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOMASHNIY.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOMASHNIY +7
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439366.ts
+#EXTINF:-1 tvg-id="FENIXKINO.ru" tvg-name="FENIX+ KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FENIKS+KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FENIX+ KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439365.ts
+#EXTINF:-1 tvg-id="KINOSERIJAHD.ru" tvg-name="KINOSERIJA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOSERIJA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOSERIJA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439362.ts
+#EXTINF:-1 tvg-id="KTNOTV.ru" tvg-name="KTNO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KTN-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KTNO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439361.ts
+#EXTINF:-1 tvg-id="KTOESTKTO.ru" tvg-name="KTO EST KTO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/kto.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KTO EST KTO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439360.ts
+#EXTINF:-1 tvg-id="LUXURIWORLD.ru" tvg-name="LUXURI WORLD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LUXURI-WORLD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",LUXURI WORLD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439359.ts
+#EXTINF:-1 tvg-id="M1GLOBAL.ru" tvg-name="M1 GLOBAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/m1global.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",M1 GLOBAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439358.ts
+#EXTINF:-1 tvg-id="MIRSERIALA.ru" tvg-name="MIR SERIALA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/mirseriala.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MIR SERIALA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439357.ts
+#EXTINF:-1 tvg-id="MULYTIMANIYA.ru" tvg-name="MULYTIMANIYA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MULTIMANIA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MULYTIMANIYA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439356.ts
+#EXTINF:-1 tvg-id="NASHERODNOEKINO.ru" tvg-name="NASHE RODNOE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NASHE-RODNOEKINO.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",NASHE RODNOE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439355.ts
+#EXTINF:-1 tvg-id="PARAMOUNTCOMEDYHD.ru" tvg-name="PARAMOUNT COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/paramountcomedy.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PARAMOUNT COMEDY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439354.ts
+#EXTINF:-1 tvg-id="PERVIYAVTOMOBILNIYHD.ru" tvg-name="PERVIY AVTOMOBILNIY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/perviykanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PERVIY AVTOMOBILNIY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439353.ts
+#EXTINF:-1 tvg-id="PERVIYKANALEUROPE.ru" tvg-name="PERVIY KANAL EUROPE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/perviykanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PERVIY KANAL EUROPE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439352.ts
+#EXTINF:-1 tvg-id="PERVIYOBRAZOVATELNIY.ru" tvg-name="PERVIY OBRAZOVATELNIY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PERVIY-OBRAZOVATELNIY.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",PERVIY OBRAZOVATELNIY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439351.ts
+#EXTINF:-1 tvg-id="RETROTV.ru" tvg-name="RETRO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RETRO-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RETRO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439350.ts
+#EXTINF:-1 tvg-id="RTVI.ru" tvg-name="RTVI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rtvi.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RTVI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439349.ts
+#EXTINF:-1 tvg-id="RUSSKIJBESTSELLER.ru" tvg-name="RUSSKIJ BESTSELLER" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKIJ-BESTSELLER.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKIJ BESTSELLER
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439348.ts
+#EXTINF:-1 tvg-id="STSBALTIC.ru" tvg-name="STS BALTIC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sts.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",STS BALTIC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439347.ts
+#EXTINF:-1 tvg-id="SUPER.ru" tvg-name="SUPER" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SUPER!.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SUPER
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439346.ts
+#EXTINF:-1 tvg-id="USADBATV.ru" tvg-name="USADBA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/USADBA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",USADBA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439345.ts
+#EXTINF:-1 tvg-id="VOPROSIIOTVETI.ru" tvg-name="VOPROSI I OTVETI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VOPROSI-I-OTVETI.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",VOPROSI I OTVETI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439344.ts
+#EXTINF:-1 tvg-id="H2HD.ru" tvg-name="H 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/H2--HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",H 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439656.ts
+#EXTINF:-1 tvg-id="RUSSIAMATCHPREMIERHD.ru" tvg-name="RUSSIA MATCH PREMIER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSIA-MATCH-PREMIER.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSIA MATCH PREMIER HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439654.ts
+#EXTINF:-1 tvg-id="PERVIYKANALHD.ru" tvg-name="PERVIY KANAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/perviykanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PERVIY KANAL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439653.ts
+#EXTINF:-1 tvg-id="PERVIYKANAL.ru" tvg-name="PERVIY KANAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/perviykanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PERVIY KANAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439652.ts
+#EXTINF:-1 tvg-id="MOSKVA24.ru" tvg-name="MOSKVA 24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MOSKVA-24.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MOSKVA 24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439649.ts
+#EXTINF:-1 tvg-id="SAINTPETERBURG.ru" tvg-name="SAINT PETERBURG" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SAINT-PETERBURG.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",SAINT PETERBURG
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439646.ts
+#EXTINF:-1 tvg-id="CURRENTTIMEHD.ru" tvg-name="CURRENTTIME HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/currenttime.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",CURRENTTIME HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439645.ts
+#EXTINF:-1 tvg-id="ROSSIYA1HD.ru" tvg-name="ROSSIYA 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ROSSIYA-1.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ROSSIYA 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439644.ts
+#EXTINF:-1 tvg-id="ROSSIYA1.ru" tvg-name="ROSSIYA 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ROSSIYA-1.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ROSSIYA 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439643.ts
+#EXTINF:-1 tvg-id="RTRPLANETA.ru" tvg-name="RTR PLANETA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rtrplaneta.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RTR PLANETA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439642.ts
+#EXTINF:-1 tvg-id="ROSSIYA24.ru" tvg-name="ROSSIYA-24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rossiya24.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ROSSIYA-24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439641.ts
+#EXTINF:-1 tvg-id="RUSSIAK.ru" tvg-name="RUSSIA K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSIA-К.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSIA K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439640.ts
+#EXTINF:-1 tvg-id="VREMYA.ru" tvg-name="VREMYA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/VREMYA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",VREMYA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439639.ts
+#EXTINF:-1 tvg-id="365DNEI.ru" tvg-name="365 DNEI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/365-DNEI.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",365 DNEI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439638.ts
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RBK-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RBK TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439637.ts
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-name="RTG HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RTG-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RTG HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439636.ts
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RTG-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RTG TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439635.ts
+#EXTINF:-1 tvg-id="RTHD.ru" tvg-name="RT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rthd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439634.ts
+#EXTINF:-1 tvg-id="RTDOC.ru" tvg-name="RT DOC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rtdoc.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RT DOC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439633.ts
+#EXTINF:-1 tvg-id="NTVHD.ru" tvg-name="NTV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ntvhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NTV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439632.ts
+#EXTINF:-1 tvg-id="NTVMIR.ru" tvg-name="NTV MIR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ntvmir.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NTV MIR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439631.ts
+#EXTINF:-1 tvg-id="HTB.ru" tvg-name="HTB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HTB.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",HTB
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439630.ts
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rentv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",REN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439629.ts
+#EXTINF:-1 tvg-id="PEHTB.ru" tvg-name="PEH TB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PEH-TB.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",PEH TB
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439628.ts
+#EXTINF:-1 tvg-id="TNT7.ru" tvg-name="TNT +7" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TNT.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TNT +7
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439627.ts
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tnt4.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TNT4
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439626.ts
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TNT.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TNT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439625.ts
+#EXTINF:-1 tvg-id="TNTHD.ru" tvg-name="TNT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tnthd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TNT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439624.ts
+#EXTINF:-1 tvg-id="THT.ru" tvg-name="THT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tht.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",THT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439623.ts
+#EXTINF:-1 tvg-id="THT4.ru" tvg-name="THT4" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/051tht4.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",THT4
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439622.ts
+#EXTINF:-1 tvg-id="DOZD.ru" tvg-name="DOZD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/dozhdtv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOZD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439621.ts
+#EXTINF:-1 tvg-id="TVCI.ru" tvg-name="TVCI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tvci.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",TVCI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439620.ts
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sts.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",STS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439619.ts
+#EXTINF:-1 tvg-id="STSKIDS.ru" tvg-name="STS KIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sts.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",STS KIDS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439618.ts
+#EXTINF:-1 tvg-id="CTCLOVE.ru" tvg-name="CTC LOVE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CTC-LOVE.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",CTC LOVE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439617.ts
+#EXTINF:-1 tvg-id="MIRHD.ru" tvg-name="MIR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MIR-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MIR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439616.ts
+#EXTINF:-1 tvg-id="MIR.ru" tvg-name="MIR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MIR-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MIR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439615.ts
+#EXTINF:-1 tvg-id="MIR24.ru" tvg-name="MIR24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MIR-24.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MIR24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439614.ts
+#EXTINF:-1 tvg-id="PYATNITSA.ru" tvg-name="PYATNITSA!" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/pyatnitsainternational.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",PYATNITSA!
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439613.ts
+#EXTINF:-1 tvg-id="8KANALRU.ru" tvg-name="8KANAL RU" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/8kanal.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",8KANAL RU
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439612.ts
+#EXTINF:-1 tvg-id="SARAFAN.ru" tvg-name="SARAFAN" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sarafan.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SARAFAN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439611.ts
+#EXTINF:-1 tvg-id="CHE.ru" tvg-name="CHE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CHE-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",CHE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439608.ts
+#EXTINF:-1 tvg-id="HIT.ru" tvg-name="HIT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HIT-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",HIT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439607.ts
+#EXTINF:-1 tvg-id="MAMA.ru" tvg-name="MAMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAMA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MAMA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439606.ts
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KVN-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KVN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439605.ts
+#EXTINF:-1 tvg-id="SERIAL.ru" tvg-name="SERIAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SERIAL-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",SERIAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439604.ts
+#EXTINF:-1 tvg-id="KOMEDIJATV.ru" tvg-name="KOMEDIJA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KOMEDIJA-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KOMEDIJA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439603.ts
+#EXTINF:-1 tvg-id="NASHELIUBIMOJEKINO.ru" tvg-name="NASHE LIUBIMOJE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NASHE-LIUBIMOJE-KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NASHE LIUBIMOJE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439601.ts
+#EXTINF:-1 tvg-id="NASHENOVOEKINO.ru" tvg-name="NASHE NOVOE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NASHE-NOVOE-KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",NASHE NOVOE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439600.ts
+#EXTINF:-1 tvg-id="NASHERODNOEKINO.ru" tvg-name="NASHE RODNOEKINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NASHE-RODNOEKINO.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",NASHE RODNOEKINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439599.ts
+#EXTINF:-1 tvg-id="RTVINASHEKINO.ru" tvg-name="RTVI NASHE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rtvi.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RTVI NASHE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439597.ts
+#EXTINF:-1 tvg-id="LUBIMOEKINO.ru" tvg-name="LUBIMOE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LUBIMOE-KINO.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",LUBIMOE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439596.ts
+#EXTINF:-1 tvg-id="DOMASHNIY.ru" tvg-name="DOMASHNIY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOMASHNIY.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOMASHNIY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439595.ts
+#EXTINF:-1 tvg-id="DOMKINO.ru" tvg-name="DOM KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DOM-KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOM KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439594.ts
+#EXTINF:-1 tvg-id="DOMKINOPREMIUMHD.ru" tvg-name="DOMKINO PREMIUM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/domkinopremium.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOMKINO PREMIUM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439593.ts
+#EXTINF:-1 tvg-id="DORAMA.ru" tvg-name="DORAMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DORAMA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DORAMA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439592.ts
+#EXTINF:-1 tvg-id="EVROKINO.ru" tvg-name="EVROKINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/evrokino.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",EVROKINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439591.ts
+#EXTINF:-1 tvg-id="CINEMA.ru" tvg-name="CINEMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cinema.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",CINEMA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439590.ts
+#EXTINF:-1 tvg-id="KINOHIT.ru" tvg-name="KINOHIT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOHIT.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOHIT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439589.ts
+#EXTINF:-1 tvg-id="KINOKOMEDIJATV.ru" tvg-name="KINOKOMEDIJA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOKOMEDIJA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOKOMEDIJA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439588.ts
+#EXTINF:-1 tvg-id="KINOMIX.ru" tvg-name="KINOMIX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOMIX-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOMIX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439587.ts
+#EXTINF:-1 tvg-id="KINOPOKAZ2HD.ru" tvg-name="KINOPOKAZ 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOPOKAZ-2-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOPOKAZ 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439586.ts
+#EXTINF:-1 tvg-id="KINOPREMIERAHD.ru" tvg-name="KINOPREMIERA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOPREMIERA-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOPREMIERA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439585.ts
+#EXTINF:-1 tvg-id="KINOSERIJA.ru" tvg-name="KINOSERIJA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOSERIJA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOSERIJA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439584.ts
+#EXTINF:-1 tvg-id="KINOSVIDANIE.ru" tvg-name="KINOSVIDANIE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KINOSVIDANIE.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINOSVIDANIE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439583.ts
+#EXTINF:-1 tvg-id="KINOTV.ru" tvg-name="KINO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/kinotv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KINO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439582.ts
+#EXTINF:-1 tvg-id="MUZHSKOEKINO.ru" tvg-name="MUZHSKOE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MUZHSKOE-KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MUZHSKOE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439581.ts
+#EXTINF:-1 tvg-id="DOCUBOXHD.ru" tvg-name="DOCUBOX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/docuboxhd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DOCUBOX HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439580.ts
+#EXTINF:-1 tvg-id="OSTROSYUZHETNOYEKINOHD.ru" tvg-name="OSTROSYUZHETNOYE KINO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OSTROSYUZHETNOYE-KINO-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",OSTROSYUZHETNOYE KINO HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439579.ts
+#EXTINF:-1 tvg-id="INDIJSKOEKINO.ru" tvg-name="INDIJSKOE KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/INDIJSKOE-KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",INDIJSKOE KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439578.ts
+#EXTINF:-1 tvg-id="RUSSKAYAKOMEDIA.ru" tvg-name="RUSSKAYA KOMEDIA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKAYA-KOMEDIA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKAYA KOMEDIA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439577.ts
+#EXTINF:-1 tvg-id="RUSSKIYDETEKTIV.ru" tvg-name="RUSSKIY DETEKTIV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKIY-DETEKTIV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKIY DETEKTIV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439576.ts
+#EXTINF:-1 tvg-id="RUSSKIJROMAN.ru" tvg-name="RUSSKIJ ROMAN" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKIJ-ROMAN.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKIJ ROMAN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439575.ts
+#EXTINF:-1 tvg-id="FENIKSKINO.ru" tvg-name="FENIKS+KINO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FENIKS+KINO.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FENIKS+KINO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439574.ts
+#EXTINF:-1 tvg-id="STRASHNOE.ru" tvg-name="STRASHNOE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STRASHNOE-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",STRASHNOE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439573.ts
+#EXTINF:-1 tvg-id="MORSKOI.ru" tvg-name="MORSKOI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MORSKOI.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MORSKOI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439572.ts
+#EXTINF:-1 tvg-id="ZVEZDA.ru" tvg-name="ZVEZDA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ZVEZDA-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ZVEZDA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439571.ts
+#EXTINF:-1 tvg-id="KIDS" tvg-name="######## KIDS ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" group-title="Ru| Russian Hd/4K",######## KIDS ########
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439570.ts
+#EXTINF:-1 tvg-id="DETSKIJ.ru" tvg-name="DETSKIJ" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DETSKIJ.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DETSKIJ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439569.ts
+#EXTINF:-1 tvg-id="DETSKIYMIR.ru" tvg-name="DETSKIY MIR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DETSKIY-MIR.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DETSKIY MIR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439568.ts
+#EXTINF:-1 tvg-id="KARUSEL.ru" tvg-name="KARUSEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KARUSEL-.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",KARUSEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439567.ts
+#EXTINF:-1 tvg-id="MULT.ru" tvg-name="MULT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/mult.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MULT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439566.ts
+#EXTINF:-1 tvg-id="MULTIMANIA.ru" tvg-name="MULTIMANIA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MULTIMANIA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MULTIMANIA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439565.ts
+#EXTINF:-1 tvg-id="MULTIMUZIKA.ru" tvg-name="MULT I MUZIKA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MULT-I-MUZIKA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MULT I MUZIKA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439564.ts
+#EXTINF:-1 tvg-id="GOSTIAHUSKAZKI.ru" tvg-name="GOSTIAH U SKAZKI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GOSTIAH-U-SKAZKI.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",GOSTIAH U SKAZKI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439563.ts
+#EXTINF:-1 tvg-id="KAPITANFANTASTIKA.ru" tvg-name="KAPITAN FANTASTIKA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KAPITAN-FANTASTIKA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KAPITAN FANTASTIKA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439562.ts
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ru" tvg-name="DISNEY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneychannel.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",DISNEY CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439557.ts
+#EXTINF:-1 tvg-id="BOOMERANGTV.ru" tvg-name="BOOMERANG TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/boomerangtv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOOMERANG TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439556.ts
+#EXTINF:-1 tvg-id="JIMJAM.ru" tvg-name="JIM JAM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/jimjam.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",JIM JAM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439555.ts
+#EXTINF:-1 tvg-id="JIMJAM.ru" tvg-name="JIMJAM" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/jimjam.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",JIMJAM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439554.ts
+#EXTINF:-1 tvg-id="STRANA.ru" tvg-name="STRANA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STRANA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",STRANA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439553.ts
+#EXTINF:-1 tvg-id="GULLI.ru" tvg-name="GULLI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/gulli.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",GULLI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439552.ts
+#EXTINF:-1 tvg-id="2X2.ru" tvg-name="2X2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/2X2.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",2X2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439551.ts
+#EXTINF:-1 tvg-id="ANI.ru" tvg-name="ANI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANI-TV.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ANI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439550.ts
+#EXTINF:-1 tvg-id="O.ru" tvg-name="O!" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/otv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",O!
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439549.ts
+#EXTINF:-1 tvg-id="MUSIC" tvg-name="######## MUSIC ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" group-title="Ru| Russian Hd/4K",######## MUSIC ########
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439548.ts
+#EXTINF:-1 tvg-id="1HD.ru" tvg-name="1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/1-HD.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439547.ts
+#EXTINF:-1 tvg-id="MUZ.ru" tvg-name="MUZ" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MUZ-.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MUZ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439546.ts
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/rutv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RU TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439545.ts
+#EXTINF:-1 tvg-id="TNTMUSIC.ru" tvg-name="TNT MUSIC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TNT-MUSIC.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TNT MUSIC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439544.ts
+#EXTINF:-1 tvg-id="RUSSIANMUSICBOX.ru" tvg-name="RUSSIAN MUSICBOX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSIAN-MUSICBOX.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSIAN MUSICBOX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439543.ts
+#EXTINF:-1 tvg-id="EUROPAPLUSTV.ru" tvg-name="EUROPA PLUS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPA-PLUS-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",EUROPA PLUS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439542.ts
+#EXTINF:-1 tvg-id="FIRSTMUSICCHANNEL1BYHD.ru" tvg-name="FIRST MUSIC CHANNEL 1BY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FIRST-MUSIC-CHANNEL.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",FIRST MUSIC CHANNEL 1BY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439541.ts
+#EXTINF:-1 tvg-id="BRIDGEHD.ru" tvg-name="BRIDGE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BRIDGE-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BRIDGE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439540.ts
+#EXTINF:-1 tvg-id="BRIDGETV.ru" tvg-name="BRIDGE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BRIDGE-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BRIDGE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439539.ts
+#EXTINF:-1 tvg-id="BRIDGETVRUSSKIYHIT.ru" tvg-name="BRIDGE TV RUSSKIY HIT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BRIDGE-TV-HITS.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BRIDGE TV RUSSKIY HIT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439538.ts
+#EXTINF:-1 tvg-id="MTVLIVEHD.ru" tvg-name="MTV LIVE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/mtvlivehd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MTV LIVE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439535.ts
+#EXTINF:-1 tvg-id="MYZENTVHD.ru" tvg-name="MYZEN TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/myzentv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MYZEN TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439534.ts
+#EXTINF:-1 tvg-id="ENGLISHCLUB.ru" tvg-name="ENGLISH CLUB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/englishclub.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",ENGLISH CLUB
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439533.ts
+#EXTINF:-1 tvg-id="MCMTOP.ru" tvg-name="MCM TOP" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/mcmtop.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MCM TOP
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439532.ts
+#EXTINF:-1 tvg-id="LAMINOR.ru" tvg-name="LA MINOR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LA-MINOR.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",LA MINOR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439531.ts
+#EXTINF:-1 tvg-id="MUZIKAPERVOGO.ru" tvg-name="MUZIKA PERVOGO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MUZIKA-PERVOGO.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MUZIKA PERVOGO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439530.ts
+#EXTINF:-1 tvg-id="DANGETV.ru" tvg-name="DANGE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DANGE-TV.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",DANGE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439529.ts
+#EXTINF:-1 tvg-id="SHANSONTV.ru" tvg-name="SHANSON TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/shansontv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SHANSON TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439528.ts
+#EXTINF:-1 tvg-id="SPORT" tvg-name="######## SPORT ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" group-title="Ru| Russian Hd/4K",######## SPORT ########
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439527.ts
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KHL-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KHL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439526.ts
+#EXTINF:-1 tvg-id="KHLHD.ru" tvg-name="KHL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KHL-.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KHL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439525.ts
+#EXTINF:-1 tvg-id="BOXTV.ru" tvg-name="BOX TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BOX-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",BOX TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439524.ts
+#EXTINF:-1 tvg-id="ABTO24.ru" tvg-name="ABTO24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ABTO-24.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",ABTO24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439523.ts
+#EXTINF:-1 tvg-id="AUTO24.ru" tvg-name="AUTO 24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/AUTO-24.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AUTO 24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439522.ts
+#EXTINF:-1 tvg-id="AUTOPLUS.ru" tvg-name="AUTO PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/AUTO-PLUS.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",AUTO PLUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439521.ts
+#EXTINF:-1 tvg-id="EUROSPORT.ru" tvg-name="EUROSPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/Eurosport.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",EUROSPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439520.ts
+#EXTINF:-1 tvg-id="EUROSPORTHD.ru" tvg-name="EUROSPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosporthd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",EUROSPORT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439519.ts
+#EXTINF:-1 tvg-id="EUROSPORT2HD.ru" tvg-name="EUROSPORT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosport2hd.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",EUROSPORT 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439518.ts
+#EXTINF:-1 tvg-id="MOTORSPORTTV.ru" tvg-name="MOTORSPORT TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/motorsporttv.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MOTORSPORT TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439517.ts
+#EXTINF:-1 tvg-id="EXTREMESPORTS.ru" tvg-name="EXTREME SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EXTREME-SPORTS.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",EXTREME SPORTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439516.ts
+#EXTINF:-1 tvg-id="RUSSKIYEXTRIMHD.ru" tvg-name="RUSSKIY EXTRIM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RUSSKIY-EXTRIM-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",RUSSKIY EXTRIM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439515.ts
+#EXTINF:-1 tvg-id="MATCHTV.ru" tvg-name="MATCH TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439513.ts
+#EXTINF:-1 tvg-id="MATCHBOEC.ru" tvg-name="MATCHBOEC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCHBOEC.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCHBOEC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439512.ts
+#EXTINF:-1 tvg-id="MATCHIGRAHD.ru" tvg-name="MATCH IGRA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-IGRA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH IGRA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439511.ts
+#EXTINF:-1 tvg-id="MATCHSTRANA.ru" tvg-name="MATCH STRANA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-STRANA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH STRANA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439510.ts
+#EXTINF:-1 tvg-id="MATCHARENA.ru" tvg-name="MATCH ARENA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-ARENA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH ARENA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439509.ts
+#EXTINF:-1 tvg-id="MATCHARENAHD.ru" tvg-name="MATCH ARENA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-ARENA.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH ARENA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439508.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL1HD.ru" tvg-name="MATCH FOOTBALL 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-1.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439507.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL2HD.ru" tvg-name="MATCH FOOTBALL 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-2.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439506.ts
+#EXTINF:-1 tvg-id="MATCHFUTBOL2HD.ru" tvg-name="MATCH! FUTBOL 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-2.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH! FUTBOL 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439505.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL2.ru" tvg-name="MATCH FOOTBALL 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-2.jpeg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439504.ts
+#EXTINF:-1 tvg-id="MATCHFUTBOL3HD.ru" tvg-name="MATCH! FUTBOL 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-3.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH! FUTBOL 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439503.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL3HD.ru" tvg-name="MATCH FOOTBALL 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-3.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439502.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL3.ru" tvg-name="MATCH FOOTBALL 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-3.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439501.ts
+#EXTINF:-1 tvg-id="MATCHHD.ru" tvg-name="MATCH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-TV.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439500.ts
+#EXTINF:-1 tvg-id="MATCHNASHSPORT.ru" tvg-name="MATCH NASH SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-NASH-SPORT.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH NASH SPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439499.ts
+#EXTINF:-1 tvg-id="MATCHBOEC.ru" tvg-name="MATCH BOEC" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCHBOEC.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH BOEC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439498.ts
+#EXTINF:-1 tvg-id="MATCHFOOTBALL1.ru" tvg-name="MATCH FOOTBALL 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH!-FUTBOL-1.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH FOOTBALL 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439497.ts
+#EXTINF:-1 tvg-id="MATCHIGRA.ru" tvg-name="MATCH IGRA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MATCH-IGRA.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",MATCH IGRA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439496.ts
+#EXTINF:-1 tvg-id="TELEKANALFUTBOL.ru" tvg-name="TELEKANAL FUTBOL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TELEKANAL-FUTBOL.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",TELEKANAL FUTBOL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439495.ts
+#EXTINF:-1 tvg-id="SETANTASPORT.ru" tvg-name="SETANTA SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/setantasport.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SETANTA SPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439494.ts
+#EXTINF:-1 tvg-id="KONNIYMIRHD.ru" tvg-name="KONNIY MIR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KONNIY-MIR-HD.jpg" group-title="Ru| Russian Hd/4K" tvg-country="RU",KONNIY MIR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439493.ts
+#EXTINF:-1 tvg-id="SETANTASPORT14K.ru" tvg-name="SETANTA SPORT 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/SETANTA-SPORTS1.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SETANTA SPORT 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439492.ts
+#EXTINF:-1 tvg-id="SETANTASPORT2.ru" tvg-name="SETANTA SPORT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/setantasport.png" group-title="Ru| Russian Hd/4K" tvg-country="RU",SETANTA SPORT 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/439491.ts

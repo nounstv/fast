@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="31U63I8METsDXI" tvg-name="BBC News HD" group-title="Top news" tvg-country="UK",BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="1sgSucEcZPpZQV" tvg-name="CBS News 24/7" group-title="Top news" tvg-country="US",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="GqdJfmTvg6EO3X" tvg-name="CGTN" group-title="Top news" tvg-country="CN",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="oTQxI54nBGEd6Z" tvg-name="France 24 English" group-title="Top news" tvg-country="FR",France 24 English
+https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bt1m1v4h1CmExI" tvg-name="NHK World-Japan" group-title="Top news" tvg-country="JP",NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="7cwJKMK6fPevgm" tvg-name="RT" group-title="Top news" tvg-country="RU",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="egFyCvci4RMv2r" tvg-name="TRT World" group-title="Top news" tvg-country="TR",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="hbdW5jPBuqVJNb" tvg-name="WION" group-title="Top news" tvg-country="IN",WION
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8

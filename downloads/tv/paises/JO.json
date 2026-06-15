@@ -1,550 +1,146 @@
 [
   {
-    "id": "AlerthAlnabawiChannel.jo",
-    "name": "Alerth Alnabawi Channel",
-    "logo": "https://i.imgur.com/iYibJxK.png",
-    "logoText": "ALE",
-    "url": "http://82.212.74.2:8000/live/7307.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://82.212.74.2:8000/live/7307.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
-  },
-  {
-    "id": "AlhaqeqaAldawlia.jo",
-    "name": "Alhaqeqa Aldawlia",
-    "logo": "",
-    "logoText": "ALH",
-    "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.factjo.com/Pages.aspx?id=6"
-  },
-  {
-    "id": "AltaghierTV.jo",
+    "tvgId": "4f1EFJwCPB3ths",
     "name": "Altaghier TV",
-    "logo": "https://i.imgur.com/YTyCBvB.png",
-    "logoText": "ALT",
+    "originalName": "Altaghier TV",
     "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://altaghier.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AmmanTV.jo",
+    "tvgId": "pmWQ07XSqyy8GG",
     "name": "Amman TV",
-    "logo": "https://i.imgur.com/5l7kw0b.png",
-    "logoText": "AMM",
+    "originalName": "Amman TV",
     "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://ammantv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanArchive.jo",
+    "tvgId": "6FpSz42sPdEMNz",
     "name": "Jordan Archive",
-    "logo": "https://i.imgur.com/8UrCl4k.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Archive",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanComedy.jo",
+    "tvgId": "yQMuoatPHbGi75",
     "name": "Jordan Comedy",
-    "logo": "https://i.imgur.com/DuwwoO2.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Comedy",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Comedy",
-    "categories": [
-      "comedy"
-    ],
+    "originalCategory": "Comedy",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanDrama.jo",
+    "tvgId": "v4Dbw80p8X5RYF",
     "name": "Jordan Drama",
-    "logo": "https://i.imgur.com/gvIAEsJ.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Drama",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanKitchen.jo",
+    "tvgId": "CPUFPutREQebmN",
     "name": "Jordan Kitchen",
-    "logo": "https://i.imgur.com/B45qcQX.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Kitchen",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Cooking",
-    "categories": [
-      "cooking"
-    ],
+    "originalCategory": "Cooking",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanSongs.jo",
+    "tvgId": "u6ZkGLLqixazm2",
     "name": "Jordan Songs",
-    "logo": "https://i.imgur.com/1DE7Gmw.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Songs",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanSport.jo",
+    "tvgId": "5y6EYwtqdTyabX",
     "name": "Jordan Sport",
-    "logo": "https://i.imgur.com/2EmrZPQ.png",
-    "logoText": "JOR",
-    "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://93.184.10.248/JordanSport/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Jordan Sport",
+    "url": "https://93.184.10.248/JordanSport/index.m3u8",
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanTourism.jo",
+    "tvgId": "qKAl8NiXFdyK7W",
     "name": "Jordan Tourism",
-    "logo": "https://i.imgur.com/gpeIoU9.png",
-    "logoText": "JOR",
+    "originalName": "Jordan Tourism",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JordanTV.jo",
+    "tvgId": "30l6X98ALn4Bjb",
     "name": "Jordan TV",
-    "logo": "https://i.imgur.com/0XozB5N.png",
-    "logoText": "JOR",
+    "originalName": "Jordan TV",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.jrtv.gov.jo/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KaifaTV.jo",
-    "name": "Kaifa TV",
-    "logo": "https://i.imgur.com/zGGeSQg.png",
-    "logoText": "KAI",
-    "url": "http://82.212.74.2:8000/live/7311.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://82.212.74.2:8000/live/7311.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: http://www.kaifatv.com/"
-  },
-  {
-    "id": "MelodyFM.jo",
-    "name": "Melody FM",
-    "logo": "https://i.imgur.com/J8omcNz.png",
-    "logoText": "MEL",
-    "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://melody-fm.com/"
-  },
-  {
-    "id": "RadioFannJordanStudio.jo",
-    "name": "Radio Fann Jordan Studio",
-    "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
-    "logoText": "RAD",
-    "url": "http://45.63.116.205/hls2/stream1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.63.116.205/hls2/stream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
-  },
-  {
-    "id": "RadioYaqeenJordanCityView.jo",
-    "name": "Radio Yaqeen Jordan City View",
-    "logo": "https://i.imgur.com/wHOQU0R.png",
-    "logoText": "RAD",
-    "url": "http://45.63.116.205/hls4/stream1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.63.116.205/hls4/stream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
-  },
-  {
-    "id": "RotanaRadioJordanStudio.jo",
-    "name": "Rotana Radio Jordan Studio",
-    "logo": "https://i.imgur.com/xGDjlp5.png",
-    "logoText": "ROT",
-    "url": "http://45.63.116.205/hls/stream1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.63.116.205/hls/stream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
-  },
-  {
-    "id": "RotanaTarabJordanCityView.jo",
-    "name": "Rotana Tarab Jordan City View",
-    "logo": "https://i.imgur.com/NjgOBts.png",
-    "logoText": "ROT",
-    "url": "http://45.63.116.205/hls3/stream1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.63.116.205/hls3/stream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A."
-  },
-  {
-    "id": "RoyaComedy.jo",
-    "name": "Roya Comedy",
-    "logo": "https://i.imgur.com/oIThcM8.png",
-    "logoText": "ROY",
-    "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Comedy",
-    "categories": [
-      "comedy"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.roya.tv/"
-  },
-  {
-    "id": "RoyaDrama.jo",
+    "tvgId": "vosJ1MimmKjovt",
     "name": "Roya Drama",
-    "logo": "https://i.imgur.com/V7I0MVf.png",
-    "logoText": "ROY",
+    "originalName": "Roya Drama",
     "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Series",
-    "categories": [
-      "series"
-    ],
+    "originalCategory": "Series",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.roya.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RoyaKids.jo",
-    "name": "Roya Kids",
-    "logo": "https://i.imgur.com/acuCGF8.png",
-    "logoText": "ROY",
-    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.roya.tv/"
-  },
-  {
-    "id": "RoyaKidsOriginals.jo",
+    "tvgId": "AnJeMRVilOxANP",
     "name": "Roya Kids Originals",
-    "logo": "https://i.imgur.com/acuCGF8.png",
-    "logoText": "ROY",
+    "originalName": "Roya Kids Originals",
     "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.roya.tv/"
-  },
-  {
-    "id": "RoyaKitchen.jo",
-    "name": "Roya Kitchen",
-    "logo": "https://i.imgur.com/lWfh8pP.png",
-    "logoText": "ROY",
-    "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Cooking",
-    "categories": [
-      "cooking"
-    ],
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jordan. Language: N/A. Website: https://www.roya.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

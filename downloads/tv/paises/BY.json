@@ -1,268 +1,86 @@
 [
   {
-    "id": "Belarus2.by",
+    "tvgId": "pnA6yb0AQTRKeR",
     "name": "Belarus-2",
-    "logo": "https://i.imgur.com/BpEHpPS.png",
-    "logoText": "BEL",
+    "originalName": "Belarus-2",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://belarus2.by/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Belarus24.by",
-    "name": "Belarus-24",
-    "logo": "https://i.imgur.com/BP7tY6F.png",
-    "logoText": "BEL",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://31.148.48.15/Belarus_24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: https://belarus24.by/"
-  },
-  {
-    "id": "Belarus3.by",
+    "tvgId": "VtHTEOxTK0CD0C",
     "name": "Belarus-3",
-    "logo": "https://i.imgur.com/JkcDycn.png",
-    "logoText": "BEL",
+    "originalName": "Belarus-3",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://www.3belarus.by/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Belarus5.by",
+    "tvgId": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
-    "logo": "https://i.imgur.com/NJsRFud.png",
-    "logoText": "BEL",
-    "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Belarus-5",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://tvr.by/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FirstMusicChannel.by",
-    "name": "First Music Channel",
-    "logo": "https://i.imgur.com/YdyFJrl.png",
-    "logoText": "FIR",
-    "url": "http://hz1.teleport.cc/HLS/SD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://hz1.teleport.cc/HLS/SD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://rtmp.one.by:1300",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://hz1.teleport.cc/HLS/HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://rtmp.one.by:1200",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://1mus.com/"
-  },
-  {
-    "id": "FirstMusicChannelRussia.by",
-    "name": "First Music Channel Russia",
-    "logo": "https://i.imgur.com/rEo7nR1.png",
-    "logoText": "FIR",
-    "url": "http://rtmp.one.by:2200",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://rtmp.one.by:2200",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://rtmp.one.by:2300",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://bozztv.com/dvrfl05/gin-1muscom/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://1mus.com/"
-  },
-  {
-    "id": "ONT.by",
-    "name": "ONT",
-    "logo": "https://i.imgur.com/LbHdHEk.png",
-    "logoText": "ONT",
-    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: https://ont.by/"
-  },
-  {
-    "id": "PerviyInformationniy.by",
-    "name": "Perviy Informationniy",
-    "logo": "https://i.imgur.com/eIiXRAI.png",
-    "logoText": "PER",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "Fzrfx3wDU4y6Uc",
+    "name": "Belarus-24",
+    "originalName": "Belarus-24",
+    "url": "https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: https://news.by/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "STV.by",
-    "name": "STV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png",
-    "logoText": "STV",
-    "url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "sLUJ6TnLS6Lwbj",
+    "name": "BelRos",
+    "originalName": "BelRos",
+    "url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Belarus. Language: N/A. Website: http://ctv.by/"
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "esaPDq84VF68oV",
+    "name": "Perviy Informationniy",
+    "originalName": "Perviy Informationniy",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "BY",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "iVRQOIdUpv5uQH",
+    "name": "STV",
+    "originalName": "STV",
+    "url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "BY",
+    "type": "live",
+    "source": "famelack"
   }
 ]

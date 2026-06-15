@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H2CDIH8qBgxAa8" tvg-name="CJ OnStyle" group-title="Shop" tvg-country="KR",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="nwjpk1GgnvBj65" tvg-name="CJ OnStyle+" group-title="Shop" tvg-country="KR",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="1urxVFjg7HoQcm" tvg-name="Expo Channel" group-title="Shop" tvg-country="AU",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="sNGgqsLaPmiNb6" tvg-name="Fashion Finds" group-title="Shop" tvg-country="US",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-id="k9Z5raN5ubTZep" tvg-name="Gems TV" group-title="Shop" tvg-country="UK",Gems TV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BHUk7W2sHiMZn9" tvg-name="Gongyoung Home Shopping" group-title="Shop" tvg-country="KR",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KWubgLKIN9lBtR" tvg-name="Handystar" group-title="Shop" tvg-country="DE",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="00SFFti9BYGccf" tvg-name="HSE" group-title="Shop" tvg-country="DE",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="soxgLbqzLAaHgC" tvg-name="HSE Extra" group-title="Shop" tvg-country="DE",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="fglFXMh5Qykdut" tvg-name="HSE Trend" group-title="Shop" tvg-country="DE",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="wy5bdbG6nJxwPp" tvg-name="HSN East" group-title="Shop" tvg-country="US",HSN East
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="hPYkUwXZsiqjFa" tvg-name="HSN West" group-title="Shop" tvg-country="US",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="VE36pxWHeOz9JJ" tvg-name="HSN2" group-title="Shop" tvg-country="US",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="JdXXEWHEkhS0rD" tvg-name="Hyundai Home Shopping" group-title="Shop" tvg-country="KR",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-id="UShqKN6AAa2tbY" tvg-name="Hyundai Home Shopping + Shop" group-title="Shop" tvg-country="KR",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FduEDCfi40g7V8" tvg-name="In the Kitchen" group-title="Shop" tvg-country="US",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="3yI1RuuFvlPWvb" tvg-name="Juwelo" group-title="Shop" tvg-country="IT",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 tvg-id="hkGnYbKbnHGzDM" tvg-name="KaufBei TV" group-title="Shop" tvg-country="DE",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1 tvg-id="nfUMYUgBEhhJaP" tvg-name="Lao SV TV" group-title="Shop" tvg-country="VN",Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GYggfQq3olGvXb" tvg-name="Lao-Thai TV" group-title="Shop" tvg-country="VN",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="xgn0FUKlpDXRRt" tvg-name="Lotte Home Shopping" group-title="Shop" tvg-country="KR",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="6c1onCC872cpGK" tvg-name="Lotte OneTV" group-title="Shop" tvg-country="KR",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="mVxVh0IAxmzQFX" tvg-name="LS TV" group-title="Shop" tvg-country="LA",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VuVzz3cHZwcEIp" tvg-name="Magnat" group-title="Shop" tvg-country="RU",Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-id="GPfN3XUpvverSy" tvg-name="NS Shop+" group-title="Shop" tvg-country="KR",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="XSj8RLmWub2bay" tvg-name="OnTV4U" group-title="Shop" tvg-country="US",OnTV4U
+https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-id="oETlnLpYEDyNKk" tvg-name="QVC Beauty" group-title="Shop" tvg-country="UK",QVC Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-id="fjSGlqw7i730Sx" tvg-name="QVC Extra" group-title="Shop" tvg-country="UK",QVC Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-id="9pJLwysdUgUtW3" tvg-name="QVC Style" group-title="Shop" tvg-country="UK",QVC Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-id="yLB43ge13jrHoP" tvg-name="Red TV Shop" group-title="Shop" tvg-country="BO",Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="fnE13NFNokanvE" tvg-name="Shinsegae TV Shopping" group-title="Shop" tvg-country="KR",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="VFHPY4Y8ToG3zS" tvg-name="Shop Channel" group-title="Shop" tvg-country="JP",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="hiABpRG1XhgOmb" tvg-name="Shopping NT" group-title="Shop" tvg-country="KR",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="P3wFK2is4nhE2c" tvg-name="Tea TV" group-title="Shop" tvg-country="VN",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="U5azpF1869TOgk" tvg-name="TJC" group-title="Shop" tvg-country="UK",TJC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+#EXTINF:-1 tvg-id="WcoZqsaKguXix1" tvg-name="TUSO" group-title="Shop" tvg-country="UA",TUSO
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+#EXTINF:-1 tvg-id="7nKa9JiGwBmOWZ" tvg-name="TVS Consumer Direct" group-title="Shop" tvg-country="US",TVS Consumer Direct
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+#EXTINF:-1 tvg-id="I3kjTb3ubS1fvS" tvg-name="TVSN" group-title="Shop" tvg-country="AU",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="gh2TkRWTUyBId2" tvg-name="Uniquely Thai" group-title="Shop" tvg-country="VN",Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="4If9DGlBIwVH9j" tvg-name="W Shopping" group-title="Shop" tvg-country="KR",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="UduqqsC4bcIebm" tvg-name="Yuvelirochka" group-title="Shop" tvg-country="RU",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8

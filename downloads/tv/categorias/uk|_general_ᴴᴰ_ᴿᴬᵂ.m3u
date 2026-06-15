@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GENERALHD4K" tvg-name="#### GENERAL HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ",#### GENERAL HD/4K ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1015349.ts
+#EXTINF:-1 tvg-id="BBCONELONDON4K.uk" tvg-name="BBC ONE LONDON 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11987.jpg?90172" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE LONDON 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/497001.ts
+#EXTINF:-1 tvg-id="BBC1HD.uk" tvg-name="BBC 1 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?38263" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 1 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162096.ts
+#EXTINF:-1 tvg-id="BBC2HD.uk" tvg-name="BBC 2 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?20708" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 2 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162098.ts
+#EXTINF:-1 tvg-id="BBC3CBBCHD.uk" tvg-name="BBC 3 / CBBC HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12033.jpg?67015" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 3 / CBBC HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162100.ts
+#EXTINF:-1 tvg-id="BBC4CBEEBIES4K.uk" tvg-name="BBC 4 / CBEEBIES 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12018.jpg?74474" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 4 / CBEEBIES 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162102.ts
+#EXTINF:-1 tvg-id="ITV1HD.uk" tvg-name="ITV 1 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 1 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162104.ts
+#EXTINF:-1 tvg-id="ITV14K.uk" tvg-name="ITV 1 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 1 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162105.ts
+#EXTINF:-1 tvg-id="ITV11.uk" tvg-name="ITV 1 +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?20593" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 1 +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/283547.ts
+#EXTINF:-1 tvg-id="ITV2HD.uk" tvg-name="ITV 2 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 2 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162106.ts
+#EXTINF:-1 tvg-id="ITV24K.uk" tvg-name="ITV 2 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 2 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/852426.ts
+#EXTINF:-1 tvg-id="ITV3HD.uk" tvg-name="ITV 3 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?8727" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 3 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162108.ts
+#EXTINF:-1 tvg-id="ITV4HD.uk" tvg-name="ITV 4 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?5226" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 4 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162110.ts
+#EXTINF:-1 tvg-id="ITVBEHD.uk" tvg-name="ITV BE HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV BE HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162112.ts
+#EXTINF:-1 tvg-id="CHANNEL44K.uk" tvg-name="CHANNEL 4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162113.ts
+#EXTINF:-1 tvg-id="CHANNEL54K.uk" tvg-name="CHANNEL 5 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 5 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162114.ts
+#EXTINF:-1 tvg-id="E44K.uk" tvg-name="E4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",E4 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162115.ts
+#EXTINF:-1 tvg-id="E41.uk" tvg-name="E4 +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",E4 +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/632691.ts
+#EXTINF:-1 tvg-id="4SEVEN.uk" tvg-name="4SEVEN ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13013.jpg?56118" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",4SEVEN ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162117.ts
+#EXTINF:-1 tvg-id="CBBC4K.uk" tvg-name="CBBC 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13012.jpg?83523" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CBBC 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162116.ts
+#EXTINF:-1 tvg-id="ALIBI4K.uk" tvg-name="ALIBI 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42058" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ALIBI 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162118.ts
+#EXTINF:-1 tvg-id="BBC14K.uk" tvg-name="BBC 1 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?78071" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 1 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162120.ts
+#EXTINF:-1 tvg-id="BBC24K.uk" tvg-name="BBC 2 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?52905" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 2 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162121.ts
+#EXTINF:-1 tvg-id="BBC34K.uk" tvg-name="BBC 3 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12033.jpg?19160" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 3 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162122.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC 4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12018.jpg?77371" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC 4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162123.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?42491" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162124.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?34141" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 2 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162125.ts
+#EXTINF:-1 tvg-id="ITV21.uk" tvg-name="ITV 2+1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?34141" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 2+1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162126.ts
+#EXTINF:-1 tvg-id="ITV34K.uk" tvg-name="ITV 3 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?42932" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 3 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162127.ts
+#EXTINF:-1 tvg-id="ITV31.uk" tvg-name="ITV 3+1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?42932" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 3+1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162128.ts
+#EXTINF:-1 tvg-id="ITV44K.uk" tvg-name="ITV 4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?51320" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 4 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162129.ts
+#EXTINF:-1 tvg-id="ITV41.uk" tvg-name="ITV 4+1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?51320" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV 4+1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162130.ts
+#EXTINF:-1 tvg-id="ITVQUIZ4K.uk" tvg-name="ITV QUIZ 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14685.png?50962" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV QUIZ 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692712.ts
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CITV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162133.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",E4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162135.ts
+#EXTINF:-1 tvg-id="ALIBI1.uk" tvg-name="ALIBI +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42058" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ALIBI +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162134.ts
+#EXTINF:-1 tvg-id="CHANNEL5.uk" tvg-name="CHANNEL 5 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 5 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162136.ts
+#EXTINF:-1 tvg-id="CHANNEL4.uk" tvg-name="CHANNEL 4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162137.ts
+#EXTINF:-1 tvg-id="CHANNEL51.uk" tvg-name="CHANNEL 5 +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 5 +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162138.ts
+#EXTINF:-1 tvg-id="BBCBritHD.uk" tvg-name="BBC Brit HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?ver=74237" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC Brit HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414041.ts
+#EXTINF:-1 tvg-id="BBCEarthHD.uk" tvg-name="BBC Earth HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?33746" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC Earth HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414042.ts
+#EXTINF:-1 tvg-id="RTDOCUMENTRYHD.uk" tvg-name="RT DOCUMENTRY HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/427.png?94255" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",RT DOCUMENTRY HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162152.ts
+#EXTINF:-1 tvg-id="FOODNETWORK.uk" tvg-name="FOOD NETWORK ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",FOOD NETWORK ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162159.ts
+#EXTINF:-1 tvg-id="FOODNETWORK1.uk" tvg-name="FOOD NETWORK +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",FOOD NETWORK +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162160.ts
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12211.jpg?58948" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HGTV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162162.ts
+#EXTINF:-1 tvg-id="HGTV1.uk" tvg-name="HGTV +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13003.jpg?99826" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HGTV +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402179.ts
+#EXTINF:-1 tvg-id="BBCONENIHD.uk" tvg-name="BBC ONE NI HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE NI HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162166.ts
+#EXTINF:-1 tvg-id="BBCONEWALESHD.uk" tvg-name="BBC ONE WALES HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE WALES HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162167.ts
+#EXTINF:-1 tvg-id="BBCTWOWALESHD.uk" tvg-name="BBC TWO WALES HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?32555" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC TWO WALES HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162170.ts
+#EXTINF:-1 tvg-id="BBCTWOHD.uk" tvg-name="BBC TWO HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?32555" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC TWO HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162171.ts
+#EXTINF:-1 tvg-id="LONDONLIVE.uk" tvg-name="LONDON LIVE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12007.jpg?1707" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",LONDON LIVE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162174.ts
+#EXTINF:-1 tvg-id="BBCALBA.uk" tvg-name="BBC ALBA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12039.jpg?31265" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ALBA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162175.ts
+#EXTINF:-1 tvg-id="BBCONECAMBRIDGE.uk" tvg-name="BBC ONE CAMBRIDGE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE CAMBRIDGE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162176.ts
+#EXTINF:-1 tvg-id="BBCONECHANNELISLAND.uk" tvg-name="BBC ONE CHANNEL ISLAND ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE CHANNEL ISLAND ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162177.ts
+#EXTINF:-1 tvg-id="BBCONEEASTW.uk" tvg-name="BBC ONE EAST W ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE EAST W ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162178.ts
+#EXTINF:-1 tvg-id="BBCONEOXFORD.uk" tvg-name="BBC ONE OXFORD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE OXFORD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162181.ts
+#EXTINF:-1 tvg-id="BBCONESCOTHD.uk" tvg-name="BBC ONE SCOT HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?17770" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE SCOT HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162182.ts
+#EXTINF:-1 tvg-id="BBCONESCOT.uk" tvg-name="BBC ONE SCOT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?17770" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE SCOT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162183.ts
+#EXTINF:-1 tvg-id="BBCONEYORKS.uk" tvg-name="BBC ONE YORKS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE YORKS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162184.ts
+#EXTINF:-1 tvg-id="BBCONESOUTHEAST.uk" tvg-name="BBC ONE SOUTH EAST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE SOUTH EAST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162185.ts
+#EXTINF:-1 tvg-id="BBCONESOUTHWEST.uk" tvg-name="BBC ONE SOUTH WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE SOUTH WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162186.ts
+#EXTINF:-1 tvg-id="BBCONEWEST.uk" tvg-name="BBC ONE WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162187.ts
+#EXTINF:-1 tvg-id="BBCONEYKLI.uk" tvg-name="BBC ONE YK LI ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE YK LI ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162188.ts
+#EXTINF:-1 tvg-id="BBCONEEASTMIDLANDS.uk" tvg-name="BBC ONE EAST MIDLANDS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE EAST MIDLANDS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162189.ts
+#EXTINF:-1 tvg-id="BBCONEWESTMIDLANDS.uk" tvg-name="BBC ONE WEST MIDLANDS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE WEST MIDLANDS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162190.ts
+#EXTINF:-1 tvg-id="BBCONENORTHWEST.uk" tvg-name="BBC ONE NORTH WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE NORTH WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162191.ts
+#EXTINF:-1 tvg-id="BBCONENORTHEASTCAM.uk" tvg-name="BBC ONE NORTH EAST& CAM ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE NORTH EAST& CAM ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162193.ts
+#EXTINF:-1 tvg-id="BBCONEWALES4K.uk" tvg-name="BBC ONE WALES 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE WALES 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162194.ts
+#EXTINF:-1 tvg-id="BBCTWONORTHERNIRELAND.uk" tvg-name="BBC TWO NORTHERN IRELAND ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?32555" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC TWO NORTHERN IRELAND ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162195.ts
+#EXTINF:-1 tvg-id="BBCSCOTLANDHD.uk" tvg-name="BBC SCOTLAND HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?17770" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC SCOTLAND HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162221.ts
+#EXTINF:-1 tvg-id="BBCONESCOTLANDHD.uk" tvg-name="BBC ONE SCOTLAND HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?86377" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC ONE SCOTLAND HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162223.ts
+#EXTINF:-1 tvg-id="BBCTWOSCOTLAND.uk" tvg-name="BBC TWO SCOTLAND ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?17770" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC TWO SCOTLAND ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162196.ts
+#EXTINF:-1 tvg-id="BBCTWOWALES.uk" tvg-name="BBC TWO WALES ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?32555" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BBC TWO WALES ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162197.ts
+#EXTINF:-1 tvg-id="CHANNEL4LONDON.uk" tvg-name="CHANNEL 4 LONDON ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 LONDON ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162198.ts
+#EXTINF:-1 tvg-id="CHANNEL4MIDLANDS.uk" tvg-name="CHANNEL 4 MIDLANDS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 MIDLANDS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162199.ts
+#EXTINF:-1 tvg-id="CHANNEL4NORTH.uk" tvg-name="CHANNEL 4 NORTH ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 NORTH ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162200.ts
+#EXTINF:-1 tvg-id="CHANNEL4SCOTLAND1.uk" tvg-name="CHANNEL 4 SCOTLAND +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 SCOTLAND +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162201.ts
+#EXTINF:-1 tvg-id="CHANNEL4SOUTHEAST1.uk" tvg-name="CHANNEL 4 SOUTH & EAST +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 SOUTH & EAST +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162202.ts
+#EXTINF:-1 tvg-id="ITVLONDON4K.uk" tvg-name="ITV LONDON 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?82105" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV LONDON 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162203.ts
+#EXTINF:-1 tvg-id="ITVLONDON.uk" tvg-name="ITV LONDON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?82105" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV LONDON
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1107838.ts
+#EXTINF:-1 tvg-id="ITVGRANADA.uk" tvg-name="ITV GRANADA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV GRANADA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162205.ts
+#EXTINF:-1 tvg-id="ITVANGLIAEAST.uk" tvg-name="ITV ANGLIA EAST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV ANGLIA EAST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162209.ts
+#EXTINF:-1 tvg-id="ITVANGLIATVWEST.uk" tvg-name="ITV ANGLIA TV WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV ANGLIA TV WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162210.ts
+#EXTINF:-1 tvg-id="ITVWESTCOUNTRYWEST.uk" tvg-name="ITV WESTCOUNTRY WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV WESTCOUNTRY WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162211.ts
+#EXTINF:-1 tvg-id="ITVWESTCOUNTRYSOUTHWEST.uk" tvg-name="ITV WESTCOUNTRY SOUTH WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV WESTCOUNTRY SOUTH WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162212.ts
+#EXTINF:-1 tvg-id="ITVCENTRALWEST.uk" tvg-name="ITV CENTRAL WEST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV CENTRAL WEST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162215.ts
+#EXTINF:-1 tvg-id="ITVCENTRALEAST.uk" tvg-name="ITV CENTRAL EAST ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV CENTRAL EAST ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162216.ts
+#EXTINF:-1 tvg-id="ITVTYNETEES.uk" tvg-name="ITV TYNE TEES ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV TYNE TEES ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162217.ts
+#EXTINF:-1 tvg-id="TalkTV4K.uk" tvg-name="Talk TV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?63955" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",Talk TV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/813352.ts
+#EXTINF:-1 tvg-id="UkITVChannelIslands4K" tvg-name="Uk:  ITV Channel Islands 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?53458" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ",Uk:  ITV Channel Islands 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/813351.ts
+#EXTINF:-1 tvg-id="ITVWALES.uk" tvg-name="ITV WALES ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV WALES ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162218.ts
+#EXTINF:-1 tvg-id="ITVBORDERSCOTLAND.uk" tvg-name="ITV BORDER SCOTLAND ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV BORDER SCOTLAND ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162225.ts
+#EXTINF:-1 tvg-id="DAYSTARHD.uk" tvg-name="DAYSTAR HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12077.jpg?76070" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DAYSTAR HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162252.ts
+#EXTINF:-1 tvg-id="SKYATLANTIC4K.uk" tvg-name="SKY ATLANTIC 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?75615" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY ATLANTIC 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162253.ts
+#EXTINF:-1 tvg-id="SKYARTS4K.uk" tvg-name="SKY ARTS 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?87266" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY ARTS 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162254.ts
+#EXTINF:-1 tvg-id="SKYWITNESSHD.uk" tvg-name="SKY WITNESS HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34714" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY WITNESS HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162255.ts
+#EXTINF:-1 tvg-id="SKYHISTORY1.uk" tvg-name="SKY HISTORY +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12188.jpg?19713" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY HISTORY +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/751652.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL4K.uk" tvg-name="COMEDY CENTRAL 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?81881" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",COMEDY CENTRAL 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162257.ts
+#EXTINF:-1 tvg-id="EDEN4K.uk" tvg-name="EDEN 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",EDEN 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162258.ts
+#EXTINF:-1 tvg-id="GOLD4K.uk" tvg-name="GOLD 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GOLD 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162260.ts
+#EXTINF:-1 tvg-id="BLAZE4K.uk" tvg-name="BLAZE 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11264.jpg?24105" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BLAZE 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162259.ts
+#EXTINF:-1 tvg-id="SYFY4K.uk" tvg-name="SYFY 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?66168" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SYFY 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162262.ts
+#EXTINF:-1 tvg-id="TCM4K.uk" tvg-name="TCM 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7881.jpg?64415" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",TCM 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162264.ts
+#EXTINF:-1 tvg-id="FILM44K.uk" tvg-name="FILM 4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1929.jpg?34588" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",FILM 4 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162266.ts
+#EXTINF:-1 tvg-id="DAVE4K.uk" tvg-name="DAVE 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DAVE 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162267.ts
+#EXTINF:-1 tvg-id="MORE44K.uk" tvg-name="MORE 4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",MORE 4 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162268.ts
+#EXTINF:-1 tvg-id="STV4K.uk" tvg-name="STV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12119.jpg?15988" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",STV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162270.ts
+#EXTINF:-1 tvg-id="UTV4K.uk" tvg-name="UTV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8316.jpg?19907" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",UTV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162271.ts
+#EXTINF:-1 tvg-id="UTVHD.uk" tvg-name="UTV HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8316.jpg?19907" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",UTV HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/588744.ts
+#EXTINF:-1 tvg-id="AMC4K.uk" tvg-name="AMC 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?4817" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",AMC 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162273.ts
+#EXTINF:-1 tvg-id="QUEST4K.uk" tvg-name="QUEST 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12026.jpg?96614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QUEST 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162272.ts
+#EXTINF:-1 tvg-id="PARAMOUNTHD.uk" tvg-name="PARAMOUNT HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?53355" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",PARAMOUNT HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162274.ts
+#EXTINF:-1 tvg-id="QuestRed1.uk" tvg-name="Quest Red +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12784.jpg?95632" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",Quest Red +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162275.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL.uk" tvg-name="COMEDY CENTRAL ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?81881" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",COMEDY CENTRAL ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162277.ts
+#EXTINF:-1 tvg-id="COMEDYCENTXTRA1.uk" tvg-name="COMEDY CENT XTRA+1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?81881" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",COMEDY CENT XTRA+1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162278.ts
+#EXTINF:-1 tvg-id="GOLD1.uk" tvg-name="GOLD +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GOLD +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162281.ts
+#EXTINF:-1 tvg-id="MORE4.uk" tvg-name="MORE4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",MORE4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162282.ts
+#EXTINF:-1 tvg-id="DAVE.uk" tvg-name="DAVE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DAVE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162284.ts
+#EXTINF:-1 tvg-id="EDEN.uk" tvg-name="EDEN ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",EDEN ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162285.ts
+#EXTINF:-1 tvg-id="EDEN1.uk" tvg-name="EDEN +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",EDEN +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162286.ts
+#EXTINF:-1 tvg-id="EENTERTAINMENT.uk" tvg-name="E! ENTERTAINMENT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?40398" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",E! ENTERTAINMENT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162287.ts
+#EXTINF:-1 tvg-id="HORRORCHANNEL.uk" tvg-name="HORROR CHANNEL ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12148.jpg?13628" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HORROR CHANNEL ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162289.ts
+#EXTINF:-1 tvg-id="HORRORCHANNEL1.uk" tvg-name="HORROR CHANNEL +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12148.jpg?13628" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HORROR CHANNEL +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162290.ts
+#EXTINF:-1 tvg-id="HORRORXTRA.uk" tvg-name="HORROR XTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12143.png?7738" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HORROR XTRA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/483645.ts
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5 STAR ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12145.jpg?17495" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 STAR ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162291.ts
+#EXTINF:-1 tvg-id="5STAR1.uk" tvg-name="5 STAR+1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12145.jpg?17495" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 STAR+1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162292.ts
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5 SELECT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12151.jpg?23904" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 SELECT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162293.ts
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12147.jpg?30724" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 USA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162294.ts
+#EXTINF:-1 tvg-id="5USA1.uk" tvg-name="5 USA +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12147.jpg?30724" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 USA +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162295.ts
+#EXTINF:-1 tvg-id="CBSJUSTICE.uk" tvg-name="CBS JUSTICE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CBS JUSTICE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162296.ts
+#EXTINF:-1 tvg-id="CBSDRAMA.uk" tvg-name="CBS DRAMA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CBS DRAMA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162297.ts
+#EXTINF:-1 tvg-id="CBSREALITY.uk" tvg-name="CBS REALITY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CBS REALITY ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162298.ts
+#EXTINF:-1 tvg-id="CBSREALITY1.uk" tvg-name="CBS REALITY +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CBS REALITY +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162299.ts
+#EXTINF:-1 tvg-id="DRAMA.uk" tvg-name="DRAMA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12158.jpg?93807" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DRAMA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162300.ts
+#EXTINF:-1 tvg-id="DRAMA1.uk" tvg-name="DRAMA + 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3947.jpg?67791" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DRAMA + 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/764559.ts
+#EXTINF:-1 tvg-id="CHALLENGE.uk" tvg-name="CHALLENGE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12132.jpg?36172" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHALLENGE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162302.ts
+#EXTINF:-1 tvg-id="YESTERDAY.uk" tvg-name="YESTERDAY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12140.jpg?5862" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",YESTERDAY ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162301.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12157.jpg?21465" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",S4C ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162306.ts
+#EXTINF:-1 tvg-id="REALLY.uk" tvg-name="REALLY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13014.jpg?67123" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",REALLY ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162307.ts
+#EXTINF:-1 tvg-id="REALITYXTRAIE.uk" tvg-name="REALITY XTRA IE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3873.jpg?ver=17148" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",REALITY XTRA IE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/483648.ts
+#EXTINF:-1 tvg-id="QVCUK.uk" tvg-name="QVC UK ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12354.jpg?8211" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QVC UK ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162309.ts
+#EXTINF:-1 tvg-id="QVCBEAUTY.uk" tvg-name="QVC BEAUTY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12354.jpg?8211" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QVC BEAUTY ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162310.ts
+#EXTINF:-1 tvg-id="QVCEXTRA.uk" tvg-name="QVC EXTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12354.jpg?8211" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QVC EXTRA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162311.ts
+#EXTINF:-1 tvg-id="QVCSTYLE.uk" tvg-name="QVC STYLE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12354.jpg?8211" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QVC STYLE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162312.ts
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/812.jpg?92844" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DMAX ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162313.ts
+#EXTINF:-1 tvg-id="DMAX1.uk" tvg-name="DMAX +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/812.jpg?92844" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",DMAX +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162314.ts
+#EXTINF:-1 tvg-id="PBSAMERICA.uk" tvg-name="PBS AMERICA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12149.jpg?1808" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",PBS AMERICA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162315.ts
+#EXTINF:-1 tvg-id="BESTDIRECT.uk" tvg-name="BEST DIRECT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12784.jpg?95632" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",BEST DIRECT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162316.ts
+#EXTINF:-1 tvg-id="CRAFTEXTRA.uk" tvg-name="CRAFT EXTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13017.jpg?81719" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CRAFT EXTRA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162318.ts
+#EXTINF:-1 tvg-id="GEMSTV.uk" tvg-name="GEMS TV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1236.jpg?81694" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GEMS TV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162319.ts
+#EXTINF:-1 tvg-id="GREATMYSTERY.uk" tvg-name="GREAT MYSTERY" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15161.jpg?40407" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GREAT MYSTERY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2003531.ts
+#EXTINF:-1 tvg-id="QUEST1.uk" tvg-name="QUEST +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12026.jpg?96614" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",QUEST +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162321.ts
+#EXTINF:-1 tvg-id="JMLDIRECT.uk" tvg-name="JML DIRECT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13018.jpg?19240" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",JML DIRECT ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162320.ts
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8376.jpg?99203" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",TJC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162323.ts
+#EXTINF:-1 tvg-id="TVWAREHOUSE.uk" tvg-name="TV WAREHOUSE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12000.jpg?71641" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",TV WAREHOUSE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162324.ts
+#EXTINF:-1 tvg-id="PICKTV.uk" tvg-name="PICK TV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12136.png?10088" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",PICK TV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/304722.ts
+#EXTINF:-1 tvg-id="5ActionHD.uk" tvg-name="5 Action HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10564.jpg?70844" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",5 Action HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/646005.ts
+#EXTINF:-1 tvg-id="E4EXTRA.uk" tvg-name="E4 EXTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12105.jpg?32422" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",E4 EXTRA ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/646004.ts
+#EXTINF:-1 tvg-id="NewVisionARYWORLD.uk" tvg-name="New Vision / ARY WORLD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12034.jpg?43505" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",New Vision / ARY WORLD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/751633.ts
+#EXTINF:-1 tvg-id="Oireachtas.uk" tvg-name="Oireachtas ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6334.png?34921" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",Oireachtas ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/751621.ts
+#EXTINF:-1 tvg-id="ITVMERIDIAN4K.uk" tvg-name="ITV MERIDIAN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?5974" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV MERIDIAN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1173563.ts
+#EXTINF:-1 tvg-id="ITVYorkshire4K.uk" tvg-name="ITV Yorkshire 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?5974" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ITV Yorkshire 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1173049.ts
+#EXTINF:-1 tvg-id="MORE41.uk" tvg-name="MORE 4+1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",MORE 4+1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/904776.ts
+#EXTINF:-1 tvg-id="ANIMALPLANET4K.uk" tvg-name="ANIMAL PLANET 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?4170" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ANIMAL PLANET 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162376.ts
+#EXTINF:-1 tvg-id="SKYDOCUMENTARIES4K.uk" tvg-name="SKY DOCUMENTARIES 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?45779" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY DOCUMENTARIES 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162382.ts
+#EXTINF:-1 tvg-id="CRIMEINVESTIGATION4K.uk" tvg-name="CRIME INVESTIGATION 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CRIME INVESTIGATION 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162377.ts
+#EXTINF:-1 tvg-id="ANIMALPLNT1.uk" tvg-name="ANIMAL PLNT +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?4170" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ANIMAL PLNT +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162397.ts
+#EXTINF:-1 tvg-id="TRAVELCHANNEL.uk" tvg-name="TRAVEL CHANNEL ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12210.jpg?84721" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",TRAVEL CHANNEL ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162395.ts
+#EXTINF:-1 tvg-id="ID1.uk" tvg-name="ID +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/622.jpg?96000" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ID +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162400.ts
+#EXTINF:-1 tvg-id="COURTTV.uk" tvg-name="COURT TV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13520.jpg?17706" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",COURT TV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342033.ts
+#EXTINF:-1 tvg-id="IDEALWORLD4K.uk" tvg-name="IDEAL WORLD 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",IDEAL WORLD 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342032.ts
+#EXTINF:-1 tvg-id="IDEALWORLDHD.uk" tvg-name="IDEAL WORLD HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",IDEAL WORLD HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342031.ts
+#EXTINF:-1 tvg-id="IDEALWORLD.uk" tvg-name="IDEAL WORLD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",IDEAL WORLD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342030.ts
+#EXTINF:-1 tvg-id="TOGETHER.uk" tvg-name="TOGETHER ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13516.jpg?53025" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",TOGETHER ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342024.ts
+#EXTINF:-1 tvg-id="HIGHSTREETTV1.uk" tvg-name="HIGH STREET TV 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HIGH STREET TV 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342023.ts
+#EXTINF:-1 tvg-id="HIGHSTREETTV2.uk" tvg-name="HIGH STREET TV 2 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HIGH STREET TV 2 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342022.ts
+#EXTINF:-1 tvg-id="HIGHSTREETTV3.uk" tvg-name="HIGH STREET TV 3 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HIGH STREET TV 3 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342021.ts
+#EXTINF:-1 tvg-id="HIGHSTREETTV4.uk" tvg-name="HIGH STREET TV 4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HIGH STREET TV 4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342020.ts
+#EXTINF:-1 tvg-id="HIGHSTREETTV5.uk" tvg-name="HIGH STREET TV 5 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HIGH STREET TV 5 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342019.ts
+#EXTINF:-1 tvg-id="WWATCH4K.uk" tvg-name="W! - WATCH 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?94136" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",W! - WATCH 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342017.ts
+#EXTINF:-1 tvg-id="SKYREPLAY.uk" tvg-name="SKY REPLAY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3127.jpg?86882" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",SKY REPLAY ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342016.ts
+#EXTINF:-1 tvg-id="LOVEWORLD4K.uk" tvg-name="LOVE WORLD 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7850.jpg?95231" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",LOVE WORLD 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/342015.ts
+#EXTINF:-1 tvg-id="GREATCLASSIC.uk" tvg-name="GREAT CLASSIC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GREAT CLASSIC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/339841.ts
+#EXTINF:-1 tvg-id="GREATTV.uk" tvg-name="GREAT TV ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GREAT TV ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/339840.ts
+#EXTINF:-1 tvg-id="FANDUELOHIO.uk" tvg-name="FANDUEL OHIO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11099.jpg?85811" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",FANDUEL OHIO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/336320.ts
+#EXTINF:-1 tvg-id="HOBBYMAKER.uk" tvg-name="HOBBY MAKER ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13485.jpg?93581" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",HOBBY MAKER ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/336317.ts
+#EXTINF:-1 tvg-id="CHANNEL41.uk" tvg-name="CHANNEL 4 +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?48358" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CHANNEL 4 +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405370.ts
+#EXTINF:-1 tvg-id="GODCHANNEL.uk" tvg-name="GOD CHANNEL ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8461.jpg?62245" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",GOD CHANNEL ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405368.ts
+#EXTINF:-1 tvg-id="WATCH1.uk" tvg-name="WATCH +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?84168" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",WATCH +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405367.ts
+#EXTINF:-1 tvg-id="LEGEND.uk" tvg-name="LEGEND ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12537.png?55310" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",LEGEND ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405366.ts
+#EXTINF:-1 tvg-id="STVNORTH.uk" tvg-name="STV NORTH ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3112.jpg?83316" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",STV NORTH ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405365.ts
+#EXTINF:-1 tvg-id="ATN.uk" tvg-name="ATN ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1267.png?22944" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",ATN ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/405364.ts
+#EXTINF:-1 tvg-id="RTEONE1.uk" tvg-name="RTE ONE +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?42966" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",RTE ONE +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402157.ts
+#EXTINF:-1 tvg-id="CREATEANDCRAFT4K.uk" tvg-name="CREATE AND CRAFT 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8563.jpg?36094" group-title="Uk| General ᴴᴰ/ᴿᴬᵂ" tvg-country="UK",CREATE AND CRAFT 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402180.ts

@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GENERAL" tvg-name="#### ΓΕΝΙΚΟΣ/GENERAL ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif" group-title="Gr| Γενικος/General",#### ΓΕΝΙΚΟΣ/GENERAL ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460820.ts
+#EXTINF:-1 tvg-id="EPT14K.gr" tvg-name="EPT 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept1.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 1 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460772.ts
+#EXTINF:-1 tvg-id="EPT1HD.gr" tvg-name="EPT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept1.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460773.ts
+#EXTINF:-1 tvg-id="EPT24K.gr" tvg-name="EPT 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept2.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 2 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460770.ts
+#EXTINF:-1 tvg-id="EPT2HD.gr" tvg-name="EPT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept2.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460771.ts
+#EXTINF:-1 tvg-id="EPT34K.gr" tvg-name="EPT 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EPT-3.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 3 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460768.ts
+#EXTINF:-1 tvg-id="EPT3HD.gr" tvg-name="EPT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EPT-3.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",EPT 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460769.ts
+#EXTINF:-1 tvg-id="EPTWORLDHD.gr" tvg-name="EPT WORLD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/epthd.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPT WORLD HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460767.ts
+#EXTINF:-1 tvg-id="ERTNEWS.gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/ujTPC3J.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",ERT NEWS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460675.ts
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7928.jpg?26905" group-title="Gr| Γενικος/General" tvg-country="GR",ANT 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341625.ts
+#EXTINF:-1 tvg-id="ALPHABK.gr" tvg-name="ALPHA (BK)" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ALPHA-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",ALPHA (BK)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460765.ts
+#EXTINF:-1 tvg-id="ALPHA4K.gr" tvg-name="ALPHA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ALPHA-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",ALPHA 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460766.ts
+#EXTINF:-1 tvg-id="MEGACHANNEL.gr" tvg-name="MEGA CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MEGA-HD.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",MEGA CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460750.ts
+#EXTINF:-1 tvg-id="MEGACHANNEL4K.gr" tvg-name="MEGA CHANNEL 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MEGA-HD.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",MEGA CHANNEL 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460751.ts
+#EXTINF:-1 tvg-id="MEGACHANNELHD.gr" tvg-name="MEGA CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MEGA-HD.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",MEGA CHANNEL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460752.ts
+#EXTINF:-1 tvg-id="SKAI.gr" tvg-name="SKAI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SKAI-GR.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",SKAI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460755.ts
+#EXTINF:-1 tvg-id="SKAI4K.gr" tvg-name="SKAI 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SKAI-GR.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",SKAI 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460756.ts
+#EXTINF:-1 tvg-id="SKAIHD.gr" tvg-name="SKAI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SKAI-GR.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",SKAI HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460757.ts
+#EXTINF:-1 tvg-id="STAR.gr" tvg-name="STAR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-TV-HD.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",STAR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460759.ts
+#EXTINF:-1 tvg-id="STAR4K.gr" tvg-name="STAR 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-TV-HD.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",STAR 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460760.ts
+#EXTINF:-1 tvg-id="STARHD.gr" tvg-name="STAR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-TV-HD.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",STAR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460761.ts
+#EXTINF:-1 tvg-id="EURONEWS.gr" tvg-name="EURONEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EURONEWS-GREECE.png" group-title="Gr| Γενικος/General" tvg-country="GR",EURONEWS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460703.ts
+#EXTINF:-1 tvg-id="EXTRACHANNEL.gr" tvg-name="EXTRA CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EXTRA-CYPRUS.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",EXTRA CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460613.ts
+#EXTINF:-1 tvg-id="EXTRAGR.gr" tvg-name="EXTRA GR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EXTRA-.png" group-title="Gr| Γενικος/General" tvg-country="GR",EXTRA GR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460708.ts
+#EXTINF:-1 tvg-id="ACTION24.gr" tvg-name="ACTION 24" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ACTION-24.png" group-title="Gr| Γενικος/General" tvg-country="GR",ACTION 24
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460745.ts
+#EXTINF:-1 tvg-id="ALFA.gr" tvg-name="ALFA" tvg-logo="https://i.imgur.com/39l3uRU.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",ALFA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460693.ts
+#EXTINF:-1 tvg-id="ALIBI4K.gr" tvg-name="ALIBI 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?24618" group-title="Gr| Γενικος/General" tvg-country="GR",ALIBI 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/545271.ts
+#EXTINF:-1 tvg-id="ALPHASATNA.gr" tvg-name="ALPHA SAT (NA)" tvg-logo="http://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png" group-title="Gr| Γενικος/General" tvg-country="GR",ALPHA SAT (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460780.ts
+#EXTINF:-1 tvg-id="ANT1COMEDY.gr" tvg-name="ANT1+ COMEDY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="Gr| Γενικος/General" tvg-country="GR",ANT1+ COMEDY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460891.ts
+#EXTINF:-1 tvg-id="ANT1DRAMA.gr" tvg-name="ANT1+ DRAMA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="Gr| Γενικος/General" tvg-country="GR",ANT1+ DRAMA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460892.ts
+#EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ART-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",ART
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460692.ts
+#EXTINF:-1 tvg-id="ATTICATV.gr" tvg-name="ATTICA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ATTICA-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",ATTICA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460698.ts
+#EXTINF:-1 tvg-id="AXELOOSTV.gr" tvg-name="AXELOOS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/AXELOS.png" group-title="Gr| Γενικος/General" tvg-country="GR",AXELOOS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460728.ts
+#EXTINF:-1 tvg-id="AXELWOSTV.gr" tvg-name="AXELWOS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/AXELOS.png" group-title="Gr| Γενικος/General" tvg-country="GR",AXELWOS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460690.ts
+#EXTINF:-1 tvg-id="BANANATV.gr" tvg-name="BANANA TV" tvg-logo="https://i.imgur.com/RwETfPc.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",BANANA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460689.ts
+#EXTINF:-1 tvg-id="BBCWORLD.gr" tvg-name="BBC WORLD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcworld.png" group-title="Gr| Γενικος/General" tvg-country="GR",BBC WORLD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460628.ts
+#EXTINF:-1 tvg-id="BCI24NEWS.gr" tvg-name="BCI 24 NEWS" tvg-logo="https://i.imgur.com/aZpv6l9.png" group-title="Gr| Γενικος/General" tvg-country="GR",BCI 24 NEWS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460688.ts
+#EXTINF:-1 tvg-id="BESTTV.gr" tvg-name="BEST TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/best.png" group-title="Gr| Γενικος/General" tvg-country="GR",BEST TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460627.ts
+#EXTINF:-1 tvg-id="CANNALITVHD.gr" tvg-name="CANNALI TV HD" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="Gr| Γενικος/General" tvg-country="GR",CANNALI TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460687.ts
+#EXTINF:-1 tvg-id="CBSREALITY.gr" tvg-name="CBS REALITY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CBS-REALITY.png" group-title="Gr| Γενικος/General" tvg-country="GR",CBS REALITY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460894.ts
+#EXTINF:-1 tvg-id="CHANNEL9.gr" tvg-name="CHANNEL 9" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/channel9.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",CHANNEL 9
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460686.ts
+#EXTINF:-1 tvg-id="CHOICE.gr" tvg-name="CHOICE" tvg-logo="https://i.imgur.com/6Yr0Axp.png" group-title="Gr| Γενικος/General" tvg-country="GR",CHOICE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460685.ts
+#EXTINF:-1 tvg-id="CRETA.gr" tvg-name="CRETA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-CRETA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",CRETA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460622.ts
+#EXTINF:-1 tvg-id="CRETATV.gr" tvg-name="CRETA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-CRETA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",CRETA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460749.ts
+#EXTINF:-1 tvg-id="CRIMEINVESTIGATIONHD.gr" tvg-name="CRIME+ INVESTIGATION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/crimeplusinvestigationchannel.png" group-title="Gr| Γενικος/General" tvg-country="GR",CRIME+ INVESTIGATION HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460814.ts
+#EXTINF:-1 tvg-id="DAVE4K.gr" tvg-name="DAVE 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?3778" group-title="Gr| Γενικος/General" tvg-country="GR",DAVE 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/545272.ts
+#EXTINF:-1 tvg-id="DELTATV.gr" tvg-name="DELTA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DELTA-tv.png" group-title="Gr| Γενικος/General" tvg-country="GR",DELTA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460682.ts
+#EXTINF:-1 tvg-id="DIKTYO1.gr" tvg-name="DIKTYO 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DIKTYO-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",DIKTYO 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460621.ts
+#EXTINF:-1 tvg-id="DIKTYOTV.gr" tvg-name="DIKTYO TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DIKTYO-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",DIKTYO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460713.ts
+#EXTINF:-1 tvg-id="DTX.gr" tvg-name="DTX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/dtx.png" group-title="Gr| Γενικος/General" tvg-country="GR",DTX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460620.ts
+#EXTINF:-1 tvg-id="DW.gr" tvg-name="DW" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/dw.png" group-title="Gr| Γενικος/General" tvg-country="GR",DW
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460619.ts
+#EXTINF:-1 tvg-id="EENTERTAINMENTHD.gr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",E! ENTERTAINMENT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460895.ts
+#EXTINF:-1 tvg-id="E44K.gr" tvg-name="E4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?12892" group-title="Gr| Γενικος/General" tvg-country="GR",E4 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/545270.ts
+#EXTINF:-1 tvg-id="EKKLHSIATVHD.gr" tvg-name="EKKLHSIA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/EKKLHSIA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",EKKLHSIA TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460680.ts
+#EXTINF:-1 tvg-id="ELLADATV.gr" tvg-name="ELLADA TV" tvg-logo="https://i.imgur.com/eOGdFgW.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",ELLADA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460679.ts
+#EXTINF:-1 tvg-id="ELLASTV.gr" tvg-name="ELLAS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ELLAS-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",ELLAS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460618.ts
+#EXTINF:-1 tvg-id="ENACHANNEL.gr" tvg-name="ENA CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/enachannel.png" group-title="Gr| Γενικος/General" tvg-country="GR",ENA CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460677.ts
+#EXTINF:-1 tvg-id="EPSILON.gr" tvg-name="EPSILON" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/epsilon.png" group-title="Gr| Γενικος/General" tvg-country="GR",EPSILON
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460617.ts
+#EXTINF:-1 tvg-id="EPSILONTV.gr" tvg-name="EPSILON TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EPSILON-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",EPSILON TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460676.ts
+#EXTINF:-1 tvg-id="FAROSONAIR1.gr" tvg-name="FAROS ON AIR 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FAROS-ON-AIR.png" group-title="Gr| Γενικος/General" tvg-country="GR",FAROS ON AIR 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460717.ts
+#EXTINF:-1 tvg-id="FAROSTVCY.gr" tvg-name="FAROS TV CY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/FAROS.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",FAROS TV CY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460673.ts
+#EXTINF:-1 tvg-id="FASHION.gr" tvg-name="FASHION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/fashiontv.png" group-title="Gr| Γενικος/General" tvg-country="GR",FASHION
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460612.ts
+#EXTINF:-1 tvg-id="GALAXYGR.gr" tvg-name="GALAXY GR" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/galaxy.png" group-title="Gr| Γενικος/General" tvg-country="GR",GALAXY GR
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460611.ts
+#EXTINF:-1 tvg-id="GREEKTVLONDON.gr" tvg-name="GREEK TV LONDON" tvg-logo="https://i.imgur.com/YhwbcwE.png" group-title="Gr| Γενικος/General" tvg-country="GR",GREEK TV LONDON
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460671.ts
+#EXTINF:-1 tvg-id="GREEKVOICE.gr" tvg-name="GREEK VOICE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GREEK-VOICE.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",GREEK VOICE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460610.ts
+#EXTINF:-1 tvg-id="GROOVY.gr" tvg-name="GROOVY" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="Gr| Γενικος/General" tvg-country="GR",GROOVY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460669.ts
+#EXTINF:-1 tvg-id="HELLENICTV.gr" tvg-name="HELLENIC TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HELLENIC-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",HELLENIC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460609.ts
+#EXTINF:-1 tvg-id="HLEKTRATV.gr" tvg-name="HLEKTRA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HLEKTRA-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",HLEKTRA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460712.ts
+#EXTINF:-1 tvg-id="HPEIROSTV.gr" tvg-name="HPEIROS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/HPEIROS-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",HPEIROS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460710.ts
+#EXTINF:-1 tvg-id="IDX.gr" tvg-name="IDX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/idx.png" group-title="Gr| Γενικος/General" tvg-country="GR",IDX
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460608.ts
+#EXTINF:-1 tvg-id="IONIANCHANNEL.gr" tvg-name="IONIAN CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ionianchannel.png" group-title="Gr| Γενικος/General" tvg-country="GR",IONIAN CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460667.ts
+#EXTINF:-1 tvg-id="IONIANTV.gr" tvg-name="IONIAN TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/IONIAN-TV-GR.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",IONIAN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460730.ts
+#EXTINF:-1 tvg-id="IRIDATV.gr" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="Gr| Γενικος/General" tvg-country="GR",IRIDA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460666.ts
+#EXTINF:-1 tvg-id="KANALI9.gr" tvg-name="KANALI 9" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KANALI-9.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",KANALI 9
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460704.ts
+#EXTINF:-1 tvg-id="KONTRA.gr" tvg-name="KONTRA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KONTRA-.png" group-title="Gr| Γενικος/General" tvg-country="GR",KONTRA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460664.ts
+#EXTINF:-1 tvg-id="KONTRATV.gr" tvg-name="KONTRA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KONTRA-.png" group-title="Gr| Γενικος/General" tvg-country="GR",KONTRA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460747.ts
+#EXTINF:-1 tvg-id="KONTRATV4K.gr" tvg-name="KONTRA TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KONTRA-.png" group-title="Gr| Γενικος/General" tvg-country="GR",KONTRA TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460748.ts
+#EXTINF:-1 tvg-id="KPHTHTV.gr" tvg-name="KPHTH TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/KPHTH-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",KPHTH TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460663.ts
+#EXTINF:-1 tvg-id="LIVETV.gr" tvg-name="LIVE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LIVE-TV.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",LIVE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460605.ts
+#EXTINF:-1 tvg-id="LUXETVHD.gr" tvg-name="LUXE.TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/luxetv.png" group-title="Gr| Γενικος/General" tvg-country="GR",LUXE.TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460732.ts
+#EXTINF:-1 tvg-id="LYCHNOS.gr" tvg-name="LYCHNOS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GREECE.png" group-title="Gr| Γενικος/General" tvg-country="GR",LYCHNOS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460731.ts
+#EXTINF:-1 tvg-id="MAGICTV.gr" tvg-name="MAGIC TV" tvg-logo="https://i.imgur.com/kjhj78D.png" group-title="Gr| Γενικος/General" tvg-country="GR",MAGIC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460661.ts
+#EXTINF:-1 tvg-id="MAROUSSIOTIKATV.gr" tvg-name="MAROUSSIOTIKA TV" tvg-logo="https://i.imgur.com/8coUyPX.png" group-title="Gr| Γενικος/General" tvg-country="GR",MAROUSSIOTIKA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460660.ts
+#EXTINF:-1 tvg-id="MEGACOSMOSHD.gr" tvg-name="MEGA COSMOS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/MEGA-COSMOS.png" group-title="Gr| Γενικος/General" tvg-country="GR",MEGA COSMOS HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460779.ts
+#EXTINF:-1 tvg-id="MESOGEIOSTV.gr" tvg-name="MESOGEIOS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MESOGEIOS-TV.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",MESOGEIOS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460604.ts
+#EXTINF:-1 tvg-id="MESSATIDATV.gr" tvg-name="MESSATIDA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/GREEK-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",MESSATIDA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460603.ts
+#EXTINF:-1 tvg-id="MESSINIATV.gr" tvg-name="MESSINIA TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",MESSINIA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460658.ts
+#EXTINF:-1 tvg-id="MONTREALGREEKTV.gr" tvg-name="MONTREAL GREEK TV" tvg-logo="https://i.imgur.com/y58Jkj8.png" group-title="Gr| Γενικος/General" tvg-country="GR",MONTREAL GREEK TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460657.ts
+#EXTINF:-1 tvg-id="MOODRADIO.gr" tvg-name="MOODRADIO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/france/MOODRADIO.png" group-title="Gr| Γενικος/General" tvg-country="GR",MOODRADIO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460782.ts
+#EXTINF:-1 tvg-id="MPAXALOTV.gr" tvg-name="MPAXALO TV" tvg-logo="https://i.imgur.com/B7YOyLN.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",MPAXALO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460656.ts
+#EXTINF:-1 tvg-id="NASATV.gr" tvg-name="NASA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/nasatv.png" group-title="Gr| Γενικος/General" tvg-country="GR",NASA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460601.ts
+#EXTINF:-1 tvg-id="NAUTICAL.gr" tvg-name="NAUTICAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NAUTICAL-CHANNEL.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",NAUTICAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460600.ts
+#EXTINF:-1 tvg-id="NEATV.gr" tvg-name="NEA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NEA-TV-XANIA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",NEA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460599.ts
+#EXTINF:-1 tvg-id="NEATVXANIA.gr" tvg-name="NEA TV XANIA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NEA-TV-XANIA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",NEA TV XANIA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460699.ts
+#EXTINF:-1 tvg-id="NOTIOITV.gr" tvg-name="NOTIOI TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",NOTIOI TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460653.ts
+#EXTINF:-1 tvg-id="ODYSSEYNA.gr" tvg-name="ODYSSEY (NA)" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/ODYSSEY.png" group-title="Gr| Γενικος/General" tvg-country="GR",ODYSSEY (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460777.ts
+#EXTINF:-1 tvg-id="ONECHANNEL.gr" tvg-name="ONE CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ONE-CHANNEL.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",ONE CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460695.ts
+#EXTINF:-1 tvg-id="ONETVHD.gr" tvg-name="ONE TV HD" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",ONE TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460651.ts
+#EXTINF:-1 tvg-id="OPENBEYOND.gr" tvg-name="OPEN BEYOND" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/openbeyond.png" group-title="Gr| Γενικος/General" tvg-country="GR",OPEN BEYOND
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460753.ts
+#EXTINF:-1 tvg-id="OPENBEYONDHD.gr" tvg-name="OPEN BEYOND HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/openbeyond.png" group-title="Gr| Γενικος/General" tvg-country="GR",OPEN BEYOND HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460754.ts
+#EXTINF:-1 tvg-id="PANATHINAIKOS.gr" tvg-name="PANATHINAIKOS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PANATHINAIKOS-FC.png" group-title="Gr| Γενικος/General" tvg-country="GR",PANATHINAIKOS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460774.ts
+#EXTINF:-1 tvg-id="PANIKTV.gr" tvg-name="PANIK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PANIK-TV.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",PANIK TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460597.ts
+#EXTINF:-1 tvg-id="PAOKTV.gr" tvg-name="PAOK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/898.jpg?32618" group-title="Gr| Γενικος/General" tvg-country="GR",PAOK TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460775.ts
+#EXTINF:-1 tvg-id="PLP.gr" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="Gr| Γενικος/General" tvg-country="GR",PLP
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460649.ts
+#EXTINF:-1 tvg-id="RISE.gr" tvg-name="RISE" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RISE-TV.png" group-title="Gr| Γενικος/General" tvg-country="GR",RISE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460595.ts
+#EXTINF:-1 tvg-id="SAMIAKITV.gr" tvg-name="SAMIAKI TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SAMIAKI-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",SAMIAKI TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460646.ts
+#EXTINF:-1 tvg-id="STARKENTRIKISELLADAS.gr" tvg-name="STAR KENTRIKIS ELLADAS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="Gr| Γενικος/General" tvg-country="GR",STAR KENTRIKIS ELLADAS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460758.ts
+#EXTINF:-1 tvg-id="SUPERB.gr" tvg-name="SUPER B" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SUPER-B.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",SUPER B
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460642.ts
+#EXTINF:-1 tvg-id="THRAKINET.gr" tvg-name="THRAKI NET" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/THRAKI-NET.png" group-title="Gr| Γενικος/General" tvg-country="GR",THRAKI NET
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460700.ts
+#EXTINF:-1 tvg-id="THRAKINET.gr" tvg-name="THRAKINET" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/THRAKI-NET.png" group-title="Gr| Γενικος/General" tvg-country="GR",THRAKINET
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460641.ts
+#EXTINF:-1 tvg-id="TILEEPILOGES.gr" tvg-name="TILE EPILOGES" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TILE-EPILOGES.png" group-title="Gr| Γενικος/General" tvg-country="GR",TILE EPILOGES
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460593.ts
+#EXTINF:-1 tvg-id="TILEMOUSIKI.gr" tvg-name="TILEMOUSIKI" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TILEMOUSIKI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460639.ts
+#EXTINF:-1 tvg-id="TOPCHANNEL.gr" tvg-name="TOP CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/topchannel.png" group-title="Gr| Γενικος/General" tvg-country="GR",TOP CHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460592.ts
+#EXTINF:-1 tvg-id="TRTTV.gr" tvg-name="TRT TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TRT-TV.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",TRT TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460591.ts
+#EXTINF:-1 tvg-id="TRTVOLOS.gr" tvg-name="TRT VOLOS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TRT-VOLOS.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TRT VOLOS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460705.ts
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv100.png" group-title="Gr| Γενικος/General" tvg-country="GR",TV 100
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460637.ts
+#EXTINF:-1 tvg-id="TVCRETA.gr" tvg-name="TV CRETA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-CRETA.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TV CRETA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460706.ts
+#EXTINF:-1 tvg-id="TVFILLOPOLI.gr" tvg-name="TV FILLOPOLI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-FILLOPOLI.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TV FILLOPOLI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460716.ts
+#EXTINF:-1 tvg-id="TVFILOPOLI.gr" tvg-name="TV FILOPOLI" tvg-logo="https://i.imgur.com/3UTMBVx.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TV FILOPOLI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460636.ts
+#EXTINF:-1 tvg-id="TVGOLD.gr" tvg-name="TV GOLD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TV-GOLD.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",TV GOLD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460711.ts
+#EXTINF:-1 tvg-id="VOULI.gr" tvg-name="VOULI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LATINO/VOULI.png" group-title="Gr| Γενικος/General" tvg-country="GR",VOULI
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460635.ts
+#EXTINF:-1 tvg-id="VOULITVCY.gr" tvg-name="VOULI TV CY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LATINO/VOULI.png" group-title="Gr| Γενικος/General" tvg-country="GR",VOULI TV CY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460634.ts
+#EXTINF:-1 tvg-id="VOULITV2.gr" tvg-name="VOULI TV2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LATINO/VOULI.png" group-title="Gr| Γενικος/General" tvg-country="GR",VOULI TV2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460633.ts
+#EXTINF:-1 tvg-id="VOULITV3.gr" tvg-name="VOULI TV3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LATINO/VOULI.png" group-title="Gr| Γενικος/General" tvg-country="GR",VOULI TV3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460632.ts
+#EXTINF:-1 tvg-id="XALASTRATV.gr" tvg-name="XALASTRA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/XALASTRA-TV.jpeg" group-title="Gr| Γενικος/General" tvg-country="GR",XALASTRA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460590.ts
+#EXTINF:-1 tvg-id="XALAZITV.gr" tvg-name="XALAZI TV" tvg-logo="https://i.imgur.com/xDaUhJH.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",XALAZI TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460631.ts
+#EXTINF:-1 tvg-id="ANT1HD.gr" tvg-name="ANT1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="Gr| Γενικος/General" tvg-country="GR",ANT1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460764.ts
+#EXTINF:-1 tvg-id="MAKEDONIATV.gr" tvg-name="MAKEDONIA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAKEDONIA-TV.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",MAKEDONIA TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460744.ts
+#EXTINF:-1 tvg-id="MAKEDONIATVHD.gr" tvg-name="MAKEDONIA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAKEDONIA-TV-HD.jpg" group-title="Gr| Γενικος/General" tvg-country="GR",MAKEDONIA TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460746.ts

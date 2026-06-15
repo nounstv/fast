@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="yjR0KcAL5erp0S" tvg-name="ADN TV+" group-title="Animation" tvg-country="FR",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="peEcGaZySDZRVf" tvg-name="Animation+" group-title="Animation" tvg-country="US",Animation+
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="7UHEij0gHfh2GK" tvg-name="Animax Asia India" group-title="Animation" tvg-country="IN",Animax Asia India
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="hkDzNHa7Mm4MEd" tvg-name="Anime Vision" group-title="Animation" tvg-country="ES",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-id="Zue327U2SxgoQE" tvg-name="Anime Vision Classics" group-title="Animation" tvg-country="ES",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="6jwIdmT15n1Yze" tvg-name="Anime x HIDIVE" group-title="Animation" tvg-country="US",Anime x HIDIVE
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="u2iS7uczBAriSJ" tvg-name="Aniplus Asia" group-title="Animation" tvg-country="SG",Aniplus Asia
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="LRgPxcQZ9T6wh6" tvg-name="EnerGeek" group-title="Animation" tvg-country="CL",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="Fho666tDNHtuPI" tvg-name="EnerGeek FAN" group-title="Animation" tvg-country="CL",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="c4f5dB2f1HZXBV" tvg-name="FilmRise Anime" group-title="Animation" tvg-country="US",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ntF6dI5Mg2NTKt" tvg-name="Geekdot" group-title="Animation" tvg-country="BR",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="BHktLaXb4NGD72" tvg-name="Gong" group-title="Animation" tvg-country="FR",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Jzx7zjDJMZVMTI" tvg-name="KMBY-LD 27.5" group-title="Animation" tvg-country="US",KMBY-LD 27.5
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="VsE7ydvbu6o7hE" tvg-name="Naruto US" group-title="Animation" tvg-country="US",Naruto US
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8

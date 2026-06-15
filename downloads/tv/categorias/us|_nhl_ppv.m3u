@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHLHD4K" tvg-name="###### NHL HD/4K ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="Us| Nhl Ppv",###### NHL HD/4K ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/430407.ts
+#EXTINF:-1 tvg-id="NHLALTERNATE.us" tvg-name="NHL ALTERNATE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv" tvg-country="US",NHL ALTERNATE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/604332.ts
+#EXTINF:-1 tvg-id="NHL4K" tvg-name="NHL  |  4K -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL  |  4K -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1803789.ts
+#EXTINF:-1 tvg-id="NHL01" tvg-name="NHL | 01 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 01 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605196.ts
+#EXTINF:-1 tvg-id="NHL02" tvg-name="NHL | 02 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 02 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605195.ts
+#EXTINF:-1 tvg-id="NHL03" tvg-name="NHL | 03 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 03 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605194.ts
+#EXTINF:-1 tvg-id="NHL04" tvg-name="NHL | 04 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 04 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605193.ts
+#EXTINF:-1 tvg-id="NHL05" tvg-name="NHL | 05 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 05 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605192.ts
+#EXTINF:-1 tvg-id="NHL06" tvg-name="NHL | 06 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 06 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605191.ts
+#EXTINF:-1 tvg-id="NHL07" tvg-name="NHL | 07 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 07 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605190.ts
+#EXTINF:-1 tvg-id="NHL08" tvg-name="NHL | 08 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 08 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605189.ts
+#EXTINF:-1 tvg-id="NHL09" tvg-name="NHL | 09 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 09 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605188.ts
+#EXTINF:-1 tvg-id="NHL10" tvg-name="NHL | 10 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 10 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605187.ts
+#EXTINF:-1 tvg-id="NHL11" tvg-name="NHL | 11 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 11 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605186.ts
+#EXTINF:-1 tvg-id="NHL12" tvg-name="NHL | 12 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 12 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605185.ts
+#EXTINF:-1 tvg-id="NHL13" tvg-name="NHL | 13 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 13 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605184.ts
+#EXTINF:-1 tvg-id="NHL14" tvg-name="NHL | 14 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 14 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605183.ts
+#EXTINF:-1 tvg-id="NHL15" tvg-name="NHL | 15 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 15 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605182.ts
+#EXTINF:-1 tvg-id="NHL16" tvg-name="NHL | 16 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 16 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605181.ts
+#EXTINF:-1 tvg-id="NHL17" tvg-name="NHL | 17 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 17 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605180.ts
+#EXTINF:-1 tvg-id="NHL18" tvg-name="NHL | 18 -" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8187.png?ver=79755" group-title="Us| Nhl Ppv",NHL | 18 -
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/605179.ts

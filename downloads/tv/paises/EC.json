@@ -1,2000 +1,614 @@
 [
   {
-    "id": "AmericaEstereoGuayaquil.ec",
+    "tvgId": "1PJE0RldSK4FL3",
     "name": "America Estereo Guayaquil",
-    "logo": "https://i.imgur.com/gUqKymM.png",
-    "logoText": "AME",
+    "originalName": "America Estereo Guayaquil",
     "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.americaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AmericaEstereoIbarra.ec",
+    "tvgId": "S4rLEDzjcTuaYb",
     "name": "America Estereo Ibarra",
-    "logo": "https://i.imgur.com/gUqKymM.png",
-    "logoText": "AME",
+    "originalName": "America Estereo Ibarra",
     "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.americaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AmericaEstereoQuito.ec",
+    "tvgId": "y1pSHIh9PqpE80",
     "name": "America Estereo Quito",
-    "logo": "https://i.imgur.com/gUqKymM.png",
-    "logoText": "AME",
+    "originalName": "America Estereo Quito",
     "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.americaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AmericaEstereoTulcan.ec",
+    "tvgId": "9rZVPlxNd1hrQ9",
     "name": "America Estereo Tulcan",
-    "logo": "https://i.imgur.com/gUqKymM.png",
-    "logoText": "AME",
+    "originalName": "America Estereo Tulcan",
     "url": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.americaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AntenaUnoRadiovideo.ec",
+    "tvgId": "8Bv8hcX2tNuzZb",
     "name": "Antena Uno Radiovideo",
-    "logo": "https://i.imgur.com/PCN6iZJ.png",
-    "logoText": "ANT",
+    "originalName": "Antena Uno Radiovideo",
     "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.antenauno.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Asomavision.ec",
+    "tvgId": "foqtQhn0xjFGsZ",
     "name": "Asomavision",
-    "logo": "https://i.imgur.com/VqwyCV1.png",
-    "logoText": "ASO",
+    "originalName": "Asomavision",
     "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.asomavision.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AustralTV.ec",
+    "tvgId": "wNDe4JNBUCreJE",
     "name": "Austral TV",
-    "logo": "https://i.imgur.com/zgGuCYL.png",
-    "logoText": "AUS",
+    "originalName": "Austral TV",
     "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.australtv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BacanTeVeo.ec",
+    "tvgId": "2sQYSoPrPdaYxc",
     "name": "Bacan Te Veo",
-    "logo": "https://i.imgur.com/m1LK6rY.png",
-    "logoText": "BAC",
+    "originalName": "Bacan Te Veo",
     "url": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://bacanteveo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalSur.ec",
-    "name": "Canal Sur",
-    "logo": "https://i.imgur.com/LMoIpU2.jpg",
-    "logoText": "CAN",
-    "url": "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.loja.gob.ec/contenido/canal-sur"
-  },
-  {
-    "id": "CaprichoTV.ec",
+    "tvgId": "XNa5AM5I0Mvv8Q",
     "name": "Capricho TV",
-    "logo": "https://i.imgur.com/eUoj9bG.png",
-    "logoText": "CAP",
+    "originalName": "Capricho TV",
     "url": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.caprichotvradio.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CiracuTV.ec",
+    "tvgId": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
-    "logo": "https://i.imgur.com/mkf2TJ6.png",
-    "logoText": "CIR",
+    "originalName": "Ciracu TV",
     "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://ciracu.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ClicTV.ec",
-    "name": "Clic TV",
-    "logo": "https://i.imgur.com/bvSLm9U.png",
-    "logoText": "CLI",
-    "url": "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://clictv.ec/"
-  },
-  {
-    "id": "ColoradosVisionTV.ec",
-    "name": "Colorados Vision TV",
-    "logo": "https://i.imgur.com/vfCTmZv.png",
-    "logoText": "COL",
-    "url": "http://177.234.247.66:9975/ColoradosTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://177.234.247.66:9975/ColoradosTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://coloradosvision.com/"
-  },
-  {
-    "id": "CuriquingueTV.ec",
+    "tvgId": "uvYhuImFYPqlJm",
     "name": "Curiquingue TV",
-    "logo": "https://i.imgur.com/oukGx28.png",
-    "logoText": "CUR",
+    "originalName": "Curiquingue TV",
     "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://curiquinguetv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DuendeTv.ec",
-    "name": "Duende Tv",
-    "logo": "https://i.imgur.com/6125FPV.jpg",
-    "logoText": "DUE",
-    "url": "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://duendetv.com/"
-  },
-  {
-    "id": "DuranTV.ec",
-    "name": "Duran TV",
-    "logo": "https://i.imgur.com/8k8DsBL.png",
-    "logoText": "DUR",
-    "url": "https://cloudvideo.servers10.com:8081/8074/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8074/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://durantv.com.ec/"
-  },
-  {
-    "id": "EcotelTV.ec",
+    "tvgId": "zHfJMORTmUY70P",
     "name": "Ecotel TV",
-    "logo": "https://i.imgur.com/pVlZUSV.png",
-    "logoText": "ECO",
+    "originalName": "Ecotel TV",
     "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.ecotel.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EcuadorTV.ec",
+    "tvgId": "tigrgO7qLeNlDI",
+    "name": "Ecuador Comunicación",
+    "originalName": "Ecuador Comunicación",
+    "url": "https://eu1.servers10.com:8081/8298/index.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "EC",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "DUbDXmBZU3srKm",
     "name": "Ecuador TV",
-    "logo": "https://i.imgur.com/hj6EYwe.png",
-    "logoText": "ECU",
+    "originalName": "Ecuador TV",
     "url": "https://samson.streamerr.co:8081/shogun/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://samson.streamerr.co:8081/shogun/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://ecuadortv.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EcuaMundoRadioTV.ec",
-    "name": "EcuaMundo Radio TV",
-    "logo": "https://i.imgur.com/EMe5oWn.jpg",
-    "logoText": "ECU",
-    "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://ecuamundoradiotv.com/"
-  },
-  {
-    "id": "Ecuavisa.ec",
-    "name": "Ecuavisa",
-    "logo": "https://i.imgur.com/Hl5wowk.png",
-    "logoText": "ECU",
+    "tvgId": "PTQFFWtSbaHuZ3",
+    "name": "Ecuavisa Guayaquil",
+    "originalName": "Ecuavisa Guayaquil",
     "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.ecuavisa.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EducaTV.ec",
+    "tvgId": "In4LvC44XoPkwN",
+    "name": "Ecuavisa Quito",
+    "originalName": "Ecuavisa Quito",
+    "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "EC",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sJtHUQ2FEosClO",
     "name": "Educa TV",
-    "logo": "https://i.imgur.com/nDRVsIc.png",
-    "logoText": "EDU",
+    "originalName": "Educa TV",
     "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://educa.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ElSolNetworkTV.ec",
+    "tvgId": "c6puAkcPu1cmVK",
     "name": "El Sol Network TV",
-    "logo": "https://i.imgur.com/TIH3zlP.png",
-    "logoText": "EL ",
+    "originalName": "El Sol Network TV",
     "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://elsolnetworktv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FMMundo.ec",
+    "tvgId": "XUbd7x9yt2DTFl",
     "name": "FM Mundo",
-    "logo": "https://i.imgur.com/1nNnYQO.png",
-    "logoText": "FM ",
+    "originalName": "FM Mundo",
     "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://fmmundo.com/fm-mundo-live/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Gamavision.ec",
-    "name": "Gamavision",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
-    "logoText": "GAM",
-    "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.gamavision.com.ec/"
-  },
-  {
-    "id": "GM7Digital.ec",
-    "name": "GM7 Digital",
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg",
-    "logoText": "GM7",
-    "url": "https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.vivalivetv.com/channel/gm7-digital"
-  },
-  {
-    "id": "HechosEcuador.ec",
-    "name": "Hechos Ecuador",
-    "logo": "https://i.imgur.com/koMQZNX.png",
-    "logoText": "HEC",
-    "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.hechosecuador.com/"
-  },
-  {
-    "id": "IeanJesusEcuador.ec",
+    "tvgId": "IpJn6TkjLhDwxt",
     "name": "IeanJesus Ecuador",
-    "logo": "https://i.imgur.com/TyckDSV.png",
-    "logoText": "IEA",
+    "originalName": "IeanJesus Ecuador",
     "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://ieanjesus.org.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ImperioTVCanal6.ec",
-    "name": "Imperio TV Canal 6",
-    "logo": "https://i.imgur.com/NrsNljx.png",
-    "logoText": "IMP",
-    "url": "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://imperiotvcanal6.blogspot.com/"
-  },
-  {
-    "id": "InfinitaTV.ec",
+    "tvgId": "2m0gEtXYdWeCIN",
     "name": "Infinita TV",
-    "logo": "https://i.imgur.com/1nHxdkR.png",
-    "logoText": "INF",
+    "originalName": "Infinita TV",
     "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IntiTV.ec",
-    "name": "Inti TV",
-    "logo": "https://i.imgur.com/2WirGqb.png",
-    "logoText": "INT",
-    "url": "https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://inti.tv/"
-  },
-  {
-    "id": "KasterweyMedia.ec",
-    "name": "Kasterwey Media",
-    "logo": "https://kasterweymedia.com/wp-content/uploads/2026/05/favicon.png",
-    "logoText": "KAS",
-    "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://kasterweymedia.com"
-  },
-  {
-    "id": "KCHTV.ec",
-    "name": "KCHTV",
-    "logo": "https://i.imgur.com/CwQmZm7.jpeg",
-    "logoText": "KCH",
-    "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://kchtv.com/"
-  },
-  {
-    "id": "LaNuevaRadioTV977.ec",
+    "tvgId": "BQiZCJpf4JlMdt",
     "name": "La Nueva Radio TV 97.7",
-    "logo": "https://i.imgur.com/19FN4Lp.png",
-    "logoText": "LA ",
+    "originalName": "La Nueva Radio TV 97.7",
     "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://www.lanuevaradiotv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaPerlaRadioTV.ec",
+    "tvgId": "L7QnCoaelggBZN",
     "name": "La Perla Radio TV",
-    "logo": "https://i.imgur.com/8wDMgmB.jpg",
-    "logoText": "LA ",
+    "originalName": "La Perla Radio TV",
     "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://radiolaperlatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LatacungaTV.ec",
+    "tvgId": "9Sf0ejjNeAblBj",
     "name": "LatacungaTV",
-    "logo": "https://i.imgur.com/YjgYYH3.png",
-    "logoText": "LAT",
+    "originalName": "LatacungaTV",
     "url": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.latacungatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LoretoTV.ec",
+    "tvgId": "2UL8hACEyKl0pF",
     "name": "Loreto TV",
-    "logo": "https://i.imgur.com/3qGSAT3.png",
-    "logoText": "LOR",
+    "originalName": "Loreto TV",
     "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://loretotv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MagicaTv.ec",
-    "name": "Magica Tv",
-    "logo": "https://i.imgur.com/h4FQuIz.jpg",
-    "logoText": "MAG",
-    "url": "https://magicatv.4pu.com/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://magicatv.4pu.com/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://magicatv.ec/"
-  },
-  {
-    "id": "MajestadTelevision.ec",
+    "tvgId": "y0sG32hXHAVy2Q",
     "name": "Majestad Television",
-    "logo": "https://i.imgur.com/d1GWRnm.png",
-    "logoText": "MAJ",
+    "originalName": "Majestad Television",
     "url": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://majestadtv.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MakroDigitalTelevision.ec",
+    "tvgId": "E3rLmWg3JB8sKD",
     "name": "MakroDigital Television",
-    "logo": "https://makrodigitaltelevision.com/logo.jpg",
-    "logoText": "MAK",
+    "originalName": "MakroDigital Television",
     "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://makrodigitaltelevision.com"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Manavision.ec",
+    "tvgId": "EwK4bC43UwqpBP",
     "name": "Manavision",
-    "logo": "https://i.imgur.com/mZkW342.png",
-    "logoText": "MAN",
+    "originalName": "Manavision",
     "url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.manavision.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MarcaTV.ec",
-    "name": "Marca TV",
-    "logo": "https://i.imgur.com/ez1NxwJ.jpg",
-    "logoText": "MAR",
-    "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://marcatv.ec/"
-  },
-  {
-    "id": "MarioPintoTV.ec",
-    "name": "Mario Pinto TV",
-    "logo": "https://i.imgur.com/9rU6yWo.jpg",
-    "logoText": "MAR",
-    "url": "https://eu1.servers10.com:8081/8028/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8028/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://mpnoticias.com.ec/"
-  },
-  {
-    "id": "MelRadioTV.ec",
+    "tvgId": "6NiB9jvMcOgHX5",
     "name": "Mel Radio TV",
-    "logo": "https://i.imgur.com/uu8Clh2.png",
-    "logoText": "MEL",
+    "originalName": "Mel Radio TV",
     "url": "https://eu1.servers10.com:8081/8334/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8334/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://melradioytv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MetropoliMediosTV.ec",
+    "tvgId": "nZf5oRgjRdisx5",
     "name": "Metropoli Medios TV",
-    "logo": "https://i.imgur.com/yID5T2S.jpg",
-    "logoText": "MET",
+    "originalName": "Metropoli Medios TV",
     "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://metropolimedios.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MulticanalCatamayo.ec",
+    "tvgId": "uyqGhNahms3fZ0",
     "name": "Multicanal Catamayo",
-    "logo": "https://i.imgur.com/IHKBGmu.png",
-    "logoText": "MUL",
+    "originalName": "Multicanal Catamayo",
     "url": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://tv.multicanalcatamayo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Nortvision.ec",
-    "name": "Nortvision",
-    "logo": "https://i.imgur.com/MLzcPgT.jpg",
-    "logoText": "NOR",
-    "url": "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://nortvision.tv/"
-  },
-  {
-    "id": "NukaTV.ec",
+    "tvgId": "3fhKvFdZfWzhRP",
     "name": "Nuka TV",
-    "logo": "https://i.imgur.com/4r2Ycju.png",
-    "logoText": "NUK",
+    "originalName": "Nuka TV",
     "url": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://nukatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OndasQuevedenasTV.ec",
+    "tvgId": "DJafyWQQqWpDV3",
     "name": "Ondas Quevedenas TV",
-    "logo": "https://i.imgur.com/K9pW0LA.jpeg",
-    "logoText": "OND",
+    "originalName": "Ondas Quevedenas TV",
     "url": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OromarTV.ec",
+    "tvgId": "LRZplckRTbzRYe",
     "name": "Oromar TV",
-    "logo": "https://i.imgur.com/j5Vvxd5.png",
-    "logoText": "ORO",
+    "originalName": "Oromar TV",
     "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://oromartv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PantallaClasicaEC.ec",
-    "name": "Pantalla Clasica EC",
-    "logo": "https://i.imgur.com/mhbERF9.jpg",
-    "logoText": "PAN",
-    "url": "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.radiopasionecuador.com/"
-  },
-  {
-    "id": "PJDigitalRadioTV.ec",
-    "name": "PJ Digital Radio TV",
-    "logo": "https://i.imgur.com/m92oDuB.png",
-    "logoText": "PJ ",
-    "url": "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A."
-  },
-  {
-    "id": "PlanetaChannel.ec",
-    "name": "Planeta Channel",
-    "logo": "https://i.imgur.com/XyBKaXI.png",
-    "logoText": "PLA",
-    "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://planetaradiotv.com/"
-  },
-  {
-    "id": "PlusTV.ec",
+    "tvgId": "xWGjAVSP39eb8X",
     "name": "Plus TV",
-    "logo": "https://i.imgur.com/TZqOINg.png",
-    "logoText": "PLU",
+    "originalName": "Plus TV",
     "url": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://plustv.com.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PuruwaTV.ec",
+    "tvgId": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
-    "logo": "https://i.imgur.com/CYldC2R.png",
-    "logoText": "PUR",
+    "originalName": "Puruwa TV",
     "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioAlegria985FM.ec",
-    "name": "Radio Alegria 98.5 FM",
-    "logo": "https://i.imgur.com/N00aS3x.png",
-    "logoText": "RAD",
-    "url": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://radioalegriafm.com/"
-  },
-  {
-    "id": "RadioBonita1067.ec",
+    "tvgId": "zXlX9cxqgTkhd2",
     "name": "Radio Bonita 106.7",
-    "logo": "https://i.imgur.com/IvZtqyz.png",
-    "logoText": "RAD",
+    "originalName": "Radio Bonita 106.7",
     "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.bonitalamana.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioCuencaEstereo.ec",
+    "tvgId": "2b995oga1yYqLK",
     "name": "Radio Cuenca Estereo",
-    "logo": "https://i.imgur.com/qZzSOeU.png",
-    "logoText": "RAD",
+    "originalName": "Radio Cuenca Estereo",
     "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://radiocuencaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioFantastica989FM.ec",
-    "name": "Radio Fantastica 98.9 FM",
-    "logo": "https://i.imgur.com/mpcIbrH.jpg",
-    "logoText": "RAD",
-    "url": "http://190.107.232.9:8082/livestream/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://190.107.232.9:8082/livestream/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://www.radiofantasticatulcan.com"
-  },
-  {
-    "id": "RadioImpacto2.ec",
-    "name": "Radio Impacto 2",
-    "logo": "https://i.imgur.com/YvK1hm7.png",
-    "logoText": "RAD",
-    "url": "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://impactosatelital.com/"
-  },
-  {
-    "id": "RadioMonumentalTV.ec",
+    "tvgId": "QpaipzMOWMjyyR",
     "name": "Radio Monumental TV",
-    "logo": "https://i.imgur.com/a97MaV2.png",
-    "logoText": "RAD",
+    "originalName": "Radio Monumental TV",
     "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.radiomonumental1510.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RedTVEVentanas.ec",
+    "tvgId": "xVqW7TFhiaRWy0",
     "name": "Red TVE Ventanas",
-    "logo": "https://i.imgur.com/Pzf2ZAW.png",
-    "logoText": "RED",
+    "originalName": "Red TVE Ventanas",
     "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTRTV.ec",
+    "tvgId": "SaGLTOGoC0bQPx",
     "name": "RTRTV",
-    "logo": "https://i.imgur.com/dvP2yqB.png",
-    "logoText": "RTR",
+    "originalName": "RTRTV",
     "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://rtrtv.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTS.ec",
-    "name": "RTS",
-    "logo": "https://i.imgur.com/PML8cJA.png",
-    "logoText": "RTS",
-    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://www.rts.com.ec/"
-  },
-  {
-    "id": "RTU.ec",
+    "tvgId": "0Vw6NdTRGURL25",
     "name": "RTU",
-    "logo": "https://i.imgur.com/1OWvMP4.png",
-    "logoText": "RTU",
+    "originalName": "RTU",
     "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://canalrtu.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTV.ec",
+    "tvgId": "8GS07KlJ6wtlsy",
     "name": "RTV",
-    "logo": "https://i.imgur.com/DzxGHRZ.png",
-    "logoText": "RTV",
+    "originalName": "RTV",
     "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.rtvcanaloficial.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SenalPositivaTV.ec",
+    "tvgId": "ACRkzgbJZz2pww",
     "name": "Senal Positiva TV",
-    "logo": "https://i.imgur.com/flbMpMP.png",
-    "logoText": "SEN",
+    "originalName": "Senal Positiva TV",
     "url": "https://eu1.servers10.com:8081/8108/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8108/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://senalpositiva.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SonoOndaTV.ec",
+    "tvgId": "gU9qpItJjz9ZDd",
     "name": "Sono Onda TV",
-    "logo": "https://i.imgur.com/HWHeqWY.png",
-    "logoText": "SON",
+    "originalName": "Sono Onda TV",
     "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://sonoonda.com/tv-online/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Teleamazonas.ec",
-    "name": "Teleamazonas",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
-    "logoText": "TEL",
-    "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.teleamazonas.com/"
-  },
-  {
-    "id": "Telemar.ec",
+    "tvgId": "3TCmSy7n4qBhND",
     "name": "Telemar",
-    "logo": "https://i.imgur.com/0vX9oJF.png",
-    "logoText": "TEL",
+    "originalName": "Telemar",
     "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://telemartv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TelepremierPlus.ec",
-    "name": "Telepremier Plus",
-    "logo": "https://i.imgur.com/F7ZPcvb.png",
-    "logoText": "TEL",
-    "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://telepremier.ec/"
-  },
-  {
-    "id": "Telerama.ec",
-    "name": "Telerama",
-    "logo": "https://i.imgur.com/whIRrjo.png",
-    "logoText": "TEL",
-    "url": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.telerama.ec/"
-  },
-  {
-    "id": "Telesucesos.ec",
-    "name": "Telesucesos",
-    "logo": "https://i.imgur.com/D1BBTv8.png",
-    "logoText": "TEL",
-    "url": "https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://www.telesucesos.net/"
-  },
-  {
-    "id": "TVCisne.ec",
+    "tvgId": "CY38SV2i5DFUTV",
     "name": "TV Cisne",
-    "logo": "https://i.imgur.com/xIuFSnx.png",
-    "logoText": "TV ",
+    "originalName": "TV Cisne",
     "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.tvcisne.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVColorCanal36.ec",
+    "tvgId": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
-    "logo": "https://i.imgur.com/QJW6khK.jpg",
-    "logoText": "TV ",
+    "originalName": "TV Color Canal 36",
     "url": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://tvcolorcanal36.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVLegislativa.ec",
-    "name": "TV Legislativa",
-    "logo": "https://i.imgur.com/3Y6Lp5l.png",
-    "logoText": "TV ",
-    "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: http://tvl.asambleanacional.gob.ec/"
-  },
-  {
-    "id": "TVUniversalEcuador.ec",
+    "tvgId": "LfL7xtgZtyuyhr",
     "name": "TV Universal Ecuador",
-    "logo": "https://i.imgur.com/TIsk5zN.png",
-    "logoText": "TV ",
+    "originalName": "TV Universal Ecuador",
     "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.universal.org.ec/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVC.ec",
-    "name": "TVC",
-    "logo": "https://i.imgur.com/zhdIwlm.png",
-    "logoText": "TVC",
-    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.tvc.com.ec/"
-  },
-  {
-    "id": "UEBITVOnline.ec",
-    "name": "UEBI TV Online",
-    "logo": "https://i.imgur.com/Tf0BF2q.jpg",
-    "logoText": "UEB",
-    "url": "https://ventaxtv.com:3575/live/uebilive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ventaxtv.com:3575/live/uebilive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://uebi.online/"
-  },
-  {
-    "id": "UNIANDESTV.ec",
+    "tvgId": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
-    "logo": "https://i.imgur.com/1rluyB7.png",
-    "logoText": "UNI",
+    "originalName": "UNIANDES TV",
     "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://uniandestv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UnsionTV.ec",
-    "name": "Unsion TV",
-    "logo": "https://i.imgur.com/HQGBqGU.png",
-    "logoText": "UNS",
-    "url": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://unsion.tv/"
-  },
-  {
-    "id": "VitoTVO.ec",
-    "name": "VitoTVO",
-    "logo": "https://i.imgur.com/QoJ2gD0.png",
-    "logoText": "VIT",
-    "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://vitotvo.com/"
-  },
-  {
-    "id": "VosyTV.ec",
+    "tvgId": "9TUqw93GWA6FwZ",
     "name": "Vos y TV",
-    "logo": "https://i.imgur.com/294FDCB.png",
-    "logoText": "VOS",
+    "originalName": "Vos y TV",
     "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.vosytv.com/"
-  },
-  {
-    "id": "ZaracayTV.ec",
-    "name": "Zaracay TV",
-    "logo": "https://i.imgur.com/6q0Gp9R.png",
-    "logoText": "ZAR",
-    "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Ecuador. Language: N/A. Website: https://www.zaracaytv.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

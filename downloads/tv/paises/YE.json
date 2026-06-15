@@ -1,120 +1,38 @@
 [
   {
-    "id": "AlMasirah.ye",
+    "tvgId": "pNzTqn1VuRMufb",
     "name": "Al Masirah",
-    "logo": "https://i.imgur.com/V055t5e.png",
-    "logoText": "AL ",
+    "originalName": "Al Masirah",
     "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "YE",
-    "countryName": "Yemen",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Yemen. Language: N/A. Website: https://www.masirahtv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlMasirahMubacher.ye",
+    "tvgId": "j1LVoh3tQmO0Bh",
     "name": "Al Masirah Mubacher",
-    "logo": "https://i.imgur.com/0xHb3XM.jpg",
-    "logoText": "AL ",
+    "originalName": "Al Masirah Mubacher",
     "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "YE",
-    "countryName": "Yemen",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Yemen. Language: N/A. Website: https://www.masirahtv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlSahatTV.ye",
+    "tvgId": "lsCpzWr0KhAo1G",
     "name": "Al-Sahat TV",
-    "logo": "https://i.imgur.com/UVndAta.png",
-    "logoText": "AL-",
+    "originalName": "Al-Sahat TV",
     "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "YE",
-    "countryName": "Yemen",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Yemen. Language: N/A. Website: https://alsahattv.com.ye/live.php"
-  },
-  {
-    "id": "YemenShababChannel.ye",
-    "name": "Yemen Shabab Channel",
-    "logo": "https://i.imgur.com/H5Oi2NS.png",
-    "logoText": "YEM",
-    "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "YE",
-    "countryName": "Yemen",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Yemen. Language: N/A. Website: https://yemenshabab.net/"
-  },
-  {
-    "id": "YemenTodayTV.ye",
-    "name": "Yemen Today TV",
-    "logo": "https://i.imgur.com/8TzcJu5.png",
-    "logoText": "YEM",
-    "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "YE",
-    "countryName": "Yemen",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Yemen. Language: N/A. Website: http://www.yementoday.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

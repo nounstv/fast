@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WORLDOFCOOKING4K" tvg-name="#### WORLD OF COOKING 4K ####" group-title="Cooking",#### WORLD OF COOKING 4K ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622854.ts
+#EXTINF:-1 tvg-id=".ar" tvg-name="البيت الدمشقي" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12424.jpg?417" group-title="Cooking" tvg-country="AR",البيت الدمشقي
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622853.ts
+#EXTINF:-1 tvg-id=".ar" tvg-name="الشيف عمر" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12397.png?28004" group-title="Cooking" tvg-country="AR",الشيف عمر
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622852.ts
+#EXTINF:-1 tvg-id="1.ar" tvg-name="شيف بالبيت 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8408.png?27847" group-title="Cooking" tvg-country="AR",شيف بالبيت 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622851.ts
+#EXTINF:-1 tvg-id="2.ar" tvg-name="شيف بالبيت 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12385.jpg?52782" group-title="Cooking" tvg-country="AR",شيف بالبيت 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622850.ts
+#EXTINF:-1 tvg-id=".ar" tvg-name="عا للبناني" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12383.jpg?97258" group-title="Cooking" tvg-country="AR",عا للبناني
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622849.ts
+#EXTINF:-1 tvg-id=".ar" tvg-name="عجين وطحين" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3856.jpg?97024" group-title="Cooking" tvg-country="AR",عجين وطحين
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622848.ts
+#EXTINF:-1 tvg-id=".ar" tvg-name="ملح وسكر" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8421.jpg?78800" group-title="Cooking" tvg-country="AR",ملح وسكر
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622847.ts
+#EXTINF:-1 tvg-id="1.ar" tvg-name="منال العالم 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740" group-title="Cooking" tvg-country="AR",منال العالم 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622846.ts
+#EXTINF:-1 tvg-id="2.ar" tvg-name="منال العالم 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740" group-title="Cooking" tvg-country="AR",منال العالم 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622845.ts
+#EXTINF:-1 tvg-id="3.ar" tvg-name="منال العالم 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740" group-title="Cooking" tvg-country="AR",منال العالم 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622844.ts
+#EXTINF:-1 tvg-id="4.ar" tvg-name="منال العالم 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740" group-title="Cooking" tvg-country="AR",منال العالم 4
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622843.ts
+#EXTINF:-1 tvg-id="UScHhHKQkcsuIt" tvg-name="BBC Food" group-title="Cooking" tvg-country="US",BBC Food
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="cfDYrj4f7xSqqH" tvg-name="bon appetit" group-title="Cooking" tvg-country="US",bon appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="qZ2q0f5qkl9NEZ" tvg-name="Chef Champion" group-title="Cooking" tvg-country="US",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="Knc0z9OmSpjhaI" tvg-name="Chef Roc Show" group-title="Cooking" tvg-country="US",Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-id="rt3pDKAk1yMoRc" tvg-name="City Eden Recepty Gurmana" group-title="Cooking" tvg-country="RU",City Eden Recepty Gurmana
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-id="h07WOJZbzIu3Iu" tvg-name="Cooking Panda" group-title="Cooking" tvg-country="US",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-id="LmsSgThYErX3rA" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-country="US",Gordon Ramsay's Hell's Kitchen
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:-1 tvg-id="mHg6rpXR6VaVXj" tvg-name="Hello Taste" group-title="Cooking" tvg-country="RO",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="ERhS0NAqvOPlMN" tvg-name="Hungry" group-title="Cooking" tvg-country="US",Hungry
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CPUFPutREQebmN" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-country="JO",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="zSi1ovpu9pEJVa" tvg-name="Mad Dog and Merrill" group-title="Cooking" tvg-country="US",Mad Dog and Merrill
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-id="AU79Q982Hd3lD2" tvg-name="Tastemade en Espanol" group-title="Cooking" tvg-country="US",Tastemade en Espanol
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hAcFI08ZNbAHCM" tvg-name="Tastemade International" group-title="Cooking" tvg-country="US",Tastemade International
+https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8

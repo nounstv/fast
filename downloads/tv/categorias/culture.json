@@ -1,1095 +1,698 @@
 [
   {
-    "id": "qrJk7Z0w2ndHZn",
+    "tvgId": "qrJk7Z0w2ndHZn",
     "name": "13C",
+    "originalName": "13C",
     "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Chile. Idioma: spa.",
-    "logoText": "13C",
-    "streamCount": 1,
-    "allStreams": [
-      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SUz6ZlewrjG9Ml",
+    "tvgId": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
+    "originalName": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [
-      "kaz"
-    ],
-    "description": "Canal de TV de Kazakhstan. Idioma: kaz.",
-    "logoText": "ABA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lk0uWzuq5z3huX",
+    "tvgId": "lk0uWzuq5z3huX",
     "name": "Afro Magic Channel",
+    "originalName": "Afro Magic Channel",
     "url": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CI",
-    "countryName": "Ivory Coast",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de Ivory Coast. Idioma: fra.",
-    "logoText": "AFR",
-    "streamCount": 2,
-    "allStreams": [
-      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
-      "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "n4RrCqsrdFtghH",
+    "tvgId": "n4RrCqsrdFtghH",
     "name": "Afroculture TV",
+    "originalName": "Afroculture TV",
     "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CI",
-    "countryName": "Ivory Coast",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de Ivory Coast. Idioma: fra.",
-    "logoText": "AFR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Y2dtfZFJHxfB6A",
+    "tvgId": "Y2dtfZFJHxfB6A",
     "name": "AMP 2",
+    "originalName": "AMP 2",
     "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "AMP",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "d4L8PBtWXj8rtD",
+    "tvgId": "d4L8PBtWXj8rtD",
     "name": "AsiriTV",
+    "originalName": "AsiriTV",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "PE",
-    "countryName": "Peru",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Peru. Idioma: spa.",
-    "logoText": "ASI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qVg6FeIeH4mzo2",
+    "tvgId": "qVg6FeIeH4mzo2",
     "name": "Aurora Arte",
+    "originalName": "Aurora Arte",
     "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IT",
-    "countryName": "Italy",
-    "languages": [
-      "ita"
-    ],
-    "description": "Canal de TV de Italy. Idioma: ita.",
-    "logoText": "AUR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VtHTEOxTK0CD0C",
+    "tvgId": "VtHTEOxTK0CD0C",
     "name": "Belarus-3",
+    "originalName": "Belarus-3",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "BY",
-    "countryName": "Belarus",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Belarus. Idioma: rus.",
-    "logoText": "BEL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "bYTvtLA2rlhnbu",
+    "tvgId": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
+    "originalName": "Bonaire.tv",
     "url": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "description": "Canal de TV de Bonaire. Idioma: nld, pap.",
-    "logoText": "BON",
-    "streamCount": 1,
-    "allStreams": [
-      "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5b9R7v4eVMOgWj",
+    "tvgId": "5b9R7v4eVMOgWj",
     "name": "BX Arts",
+    "originalName": "BX Arts",
     "url": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BX ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HuKbcFSSELNiGB",
+    "tvgId": "HuKbcFSSELNiGB",
     "name": "BX Culture",
+    "originalName": "BX Culture",
     "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BX ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "XHxGpxMeodxqTd",
+    "tvgId": "XHxGpxMeodxqTd",
     "name": "C Malayalam TV",
+    "originalName": "C Malayalam TV",
     "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "mal"
-    ],
-    "description": "Canal de TV de Canada. Idioma: mal.",
-    "logoText": "C M",
-    "streamCount": 1,
-    "allStreams": [
-      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QtyIEE9DZnKUAu",
+    "tvgId": "QtyIEE9DZnKUAu",
     "name": "Canal 17 RTVD",
+    "originalName": "Canal 17 RTVD",
     "url": "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "DO",
-    "countryName": "Dominican Republic",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "h25WUyBe4528fW",
+    "tvgId": "h25WUyBe4528fW",
     "name": "Channel S",
+    "originalName": "Channel S",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "ben",
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: ben, eng.",
-    "logoText": "CHA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "eDESw3Ox4wXwbn",
+    "tvgId": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
+    "originalName": "Chiloe Red 25",
     "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Chile. Idioma: spa.",
-    "logoText": "CHI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "m1fqGkSb3kQ4GK",
+    "tvgId": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
+    "originalName": "Ciracu TV",
     "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Ecuador. Idioma: spa.",
-    "logoText": "CIR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "glCzEHKt380JpA",
+    "tvgId": "glCzEHKt380JpA",
     "name": "DD Bharati",
+    "originalName": "DD Bharati",
     "url": "https://cdn-1.pishow.tv/live/10/master.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "hin"
-    ],
-    "description": "Canal de TV de India. Idioma: hin.",
-    "logoText": "DD ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://cdn-1.pishow.tv/live/10/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "gc561GHCvbklWe",
+    "tvgId": "gc561GHCvbklWe",
     "name": "DD Punjabi",
+    "originalName": "DD Punjabi",
     "url": "https://cdn-4.pishow.tv/live/24/master.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "pan"
-    ],
-    "description": "Canal de TV de India. Idioma: pan.",
-    "logoText": "DD ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://cdn-4.pishow.tv/live/24/master.m3u8",
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QtZoQSlu8071bX",
+    "tvgId": "QtZoQSlu8071bX",
     "name": "Eawaz TV",
+    "originalName": "Eawaz TV",
     "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "urd"
-    ],
-    "description": "Canal de TV de Canada. Idioma: urd.",
-    "logoText": "EAW",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "b4DxI8ch5wAZzU",
+    "tvgId": "b4DxI8ch5wAZzU",
     "name": "EBS",
+    "originalName": "EBS",
     "url": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "ET",
-    "countryName": "Ethiopia",
-    "languages": [
-      "amh",
-      "eng"
-    ],
-    "description": "Canal de TV de Ethiopia. Idioma: amh, eng.",
-    "logoText": "EBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
-    "category": "Culture",
-    "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng",
-      "tam"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng, tam.",
-    "logoText": "EET",
-    "streamCount": 1,
-    "allStreams": [
-      "https://eu.streamjo.com/eetlive/eettv.m3u8"
-    ]
-  },
-  {
-    "id": "f5Yx0yGiPGMvvv",
+    "tvgId": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
+    "originalName": "Flowers TV USA",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "mal"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, mal.",
-    "logoText": "FLO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "dDSDIqhhvZTJ7J",
+    "tvgId": "dDSDIqhhvZTJ7J",
     "name": "FNX",
+    "originalName": "FNX",
     "url": "https://fnx.lls.pbs.org/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "FNX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://fnx.lls.pbs.org/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "2QHwYMt2XZKYvG",
-    "name": "Fox Soul",
-    "url": "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8",
-    "category": "Culture",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "FOX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
-    ]
-  },
-  {
-    "id": "y9tmDdGOMUn9pB",
+    "tvgId": "y9tmDdGOMUn9pB",
     "name": "Garshom TV",
+    "originalName": "Garshom TV",
     "url": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "mal"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: mal.",
-    "logoText": "GAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "duSXiulPj9T5qC",
+    "tvgId": "duSXiulPj9T5qC",
     "name": "Guaymate TV",
+    "originalName": "Guaymate TV",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "DO",
-    "countryName": "Dominican Republic",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
-    "logoText": "GUA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "waVMWHYlkj0xMU",
+    "tvgId": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
+    "originalName": "Hamaika Telebista",
     "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "HAM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WknJSHyVxUbWNW",
+    "tvgId": "WknJSHyVxUbWNW",
     "name": "HarPal Geo",
+    "originalName": "HarPal Geo",
     "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "PK",
-    "countryName": "Pakistan",
-    "languages": [
-      "urd"
-    ],
-    "description": "Canal de TV de Pakistan. Idioma: urd.",
-    "logoText": "HAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5lk4jRIz7MHSbE",
+    "tvgId": "5lk4jRIz7MHSbE",
     "name": "Hmong Star TV",
+    "originalName": "Hmong Star TV",
     "url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "hmn",
-      "vie"
-    ],
-    "description": "Canal de TV de United States. Idioma: hmn, vie.",
-    "logoText": "HMO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JIUy4A1E1JuhXc",
+    "tvgId": "JIUy4A1E1JuhXc",
     "name": "Holvoet TV",
+    "originalName": "Holvoet TV",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Chile. Idioma: spa.",
-    "logoText": "HOL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9zPq4BsfegnAtl",
+    "tvgId": "9zPq4BsfegnAtl",
     "name": "Hyder TV",
+    "originalName": "Hyder TV",
     "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "hin"
-    ],
-    "description": "Canal de TV de Canada. Idioma: hin.",
-    "logoText": "HYD",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WDEjDpDWifIyr0",
+    "tvgId": "WDEjDpDWifIyr0",
     "name": "Imai TV",
+    "originalName": "Imai TV",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "LK",
-    "countryName": "Sri Lanka",
-    "languages": [
-      "tam"
-    ],
-    "description": "Canal de TV de Sri Lanka. Idioma: tam.",
-    "logoText": "IMA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NizIVwktpxksyc",
+    "tvgId": "NizIVwktpxksyc",
     "name": "Jin TV",
+    "originalName": "Jin TV",
     "url": "https://live.jintv.org/medialive/jintv.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "kur"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: kur.",
-    "logoText": "JIN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.jintv.org/medialive/jintv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qp46ccpG1UGKBD",
+    "tvgId": "qp46ccpG1UGKBD",
     "name": "KIIO-LD 10.4",
+    "originalName": "KIIO-LD 10.4",
     "url": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "hye"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, hye.",
-    "logoText": "KII",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MFBhdF22oHPsQx",
+    "tvgId": "MFBhdF22oHPsQx",
     "name": "Komala TV",
+    "originalName": "Komala TV",
     "url": "https://komhls.wns.live/hls/stream.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "SE",
-    "countryName": "Sweden",
-    "languages": [
-      "kur"
-    ],
-    "description": "Canal de TV de Sweden. Idioma: kur.",
-    "logoText": "KOM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://komhls.wns.live/hls/stream.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "x84vEYjClS3UTx",
+    "tvgId": "x84vEYjClS3UTx",
     "name": "KTV Arabe",
+    "originalName": "KTV Arabe",
     "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Kuwait. Idioma: ara.",
-    "logoText": "KTV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "veVA32nZqDrhse",
+    "tvgId": "veVA32nZqDrhse",
     "name": "KulturMD",
+    "originalName": "KulturMD",
     "url": "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "KUL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LYKtvHzsGfeY8A",
+    "tvgId": "LYKtvHzsGfeY8A",
     "name": "KVCR-DT 24.2",
+    "originalName": "KVCR-DT 24.2",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "KVC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EwK4bC43UwqpBP",
+    "tvgId": "EwK4bC43UwqpBP",
     "name": "Manavision",
+    "originalName": "Manavision",
     "url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Ecuador. Idioma: spa.",
-    "logoText": "MAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AQoLBvOjxVCg4W",
+    "tvgId": "AQoLBvOjxVCg4W",
     "name": "Midpen Media Center Channel 30",
+    "originalName": "Midpen Media Center Channel 30",
     "url": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MID",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "V5gXDCRg4f3pWb",
+    "tvgId": "V5gXDCRg4f3pWb",
     "name": "Midpen Media Center Channel 75",
+    "originalName": "Midpen Media Center Channel 75",
     "url": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MID",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
-    "url": "https://live.greektv.ca/hls1/greektv.m3u8",
-    "category": "Culture",
-    "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "ell",
-      "eng",
-      "fra"
-    ],
-    "description": "Canal de TV de Canada. Idioma: ell, eng, fra.",
-    "logoText": "MON",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
-    ]
-  },
-  {
-    "id": "D7CJtpvcn5aeRw",
+    "tvgId": "D7CJtpvcn5aeRw",
     "name": "Nigbati",
+    "originalName": "Nigbati",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "NG",
-    "countryName": "Nigeria",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Nigeria. Idioma: eng.",
-    "logoText": "NIG",
-    "streamCount": 1,
-    "allStreams": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "dEANspwI90Hs8o",
-    "name": "NTV Mir",
-    "url": "https://streaming.thestream.cyou/live/213.m3u8",
-    "category": "Culture",
-    "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "NTV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
-    ]
-  },
-  {
-    "id": "n3MPyyNxowDoVf",
+    "tvgId": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
+    "originalName": "Odisha TV",
     "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "ori"
-    ],
-    "description": "Canal de TV de India. Idioma: ori.",
-    "logoText": "ODI",
-    "streamCount": 2,
-    "allStreams": [
-      "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
-      "https://cdn-2.pishow.tv/live/1600/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "vntrhpHvfB2g1j",
+    "tvgId": "vntrhpHvfB2g1j",
     "name": "Olelo 53",
+    "originalName": "Olelo 53",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OLE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "wOoc6cT3ZK0wGu",
+    "tvgId": "wOoc6cT3ZK0wGu",
     "name": "Oman TV Cultural",
+    "originalName": "Oman TV Cultural",
     "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "OM",
-    "countryName": "Oman",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Oman. Idioma: ara.",
-    "logoText": "OMA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "T0s7Y4K2sYggX7",
+    "tvgId": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
+    "originalName": "Orler TV",
     "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IT",
-    "countryName": "Italy",
-    "languages": [
-      "ita"
-    ],
-    "description": "Canal de TV de Italy. Idioma: ita.",
-    "logoText": "ORL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "V3b7nvXml8zERG",
+    "tvgId": "V3b7nvXml8zERG",
     "name": "Paci Contemporary Channel",
+    "originalName": "Paci Contemporary Channel",
     "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "IT",
-    "countryName": "Italy",
-    "languages": [
-      "ita"
-    ],
-    "description": "Canal de TV de Italy. Idioma: ita.",
-    "logoText": "PAC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DKHLUT1IqpMkXM",
+    "tvgId": "DKHLUT1IqpMkXM",
     "name": "Presumiendo Mexico",
+    "originalName": "Presumiendo Mexico",
     "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "PRE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SYkeshgW48vaJo",
+    "tvgId": "SYkeshgW48vaJo",
     "name": "Qausain TV",
+    "originalName": "Qausain TV",
     "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "NG",
-    "countryName": "Nigeria",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Nigeria. Idioma: eng.",
-    "logoText": "QAU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "oKqDNWrQpZnryf",
+    "tvgId": "oKqDNWrQpZnryf",
     "name": "Radio 3",
+    "originalName": "Radio 3",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "RAD",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "y8ufu4YXUzuRSK",
+    "tvgId": "y8ufu4YXUzuRSK",
     "name": "RTB 3",
+    "originalName": "RTB 3",
     "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "BF",
-    "countryName": "Burkina Faso",
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "description": "Canal de TV de Burkina Faso. Idioma: bbo, bib, box, dgi, dyu, ful, gux, lee, lob, mos, rkm, sbd, stj, sym.",
-    "logoText": "RTB",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "p36vvpwTrBuj6A",
+    "tvgId": "p36vvpwTrBuj6A",
     "name": "Russia-K",
+    "originalName": "Russia-K",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "RUS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lvPUiyBGTf9h6a",
+    "tvgId": "lvPUiyBGTf9h6a",
     "name": "Salto 2",
+    "originalName": "Salto 2",
     "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "SAL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QP7DyV43LNSLl9",
+    "tvgId": "QP7DyV43LNSLl9",
     "name": "StoryChannel TV",
+    "originalName": "StoryChannel TV",
     "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "MA",
-    "countryName": "Morocco",
-    "languages": [
-      "ara",
-      "asp",
-      "eng",
-      "fra",
-      "kab",
-      "rif",
-      "shi",
-      "shy",
-      "taq",
-      "tzm",
-      "xms"
-    ],
-    "description": "Canal de TV de Morocco. Idioma: ara, asp, eng, fra, kab, rif, shi, shy, taq, tzm, xms.",
-    "logoText": "STO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://136044159.r.cdnsun.net/storychannel.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SQGH8tX9KocSpb",
+    "tvgId": "SQGH8tX9KocSpb",
     "name": "Trishul Broadcasting Network",
+    "originalName": "Trishul Broadcasting Network",
     "url": "https://live.suricloud.com/hls/tbntv/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "SR",
-    "countryName": "Suriname",
-    "languages": [
-      "eng",
-      "hin",
-      "nld"
-    ],
-    "description": "Canal de TV de Suriname. Idioma: eng, hin, nld.",
-    "logoText": "TRI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.suricloud.com/hls/tbntv/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "cWWftSEuzr59Qo",
+    "tvgId": "cWWftSEuzr59Qo",
     "name": "TV Cuatro 4.2",
+    "originalName": "TV Cuatro 4.2",
     "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "J4eb8pMfTeVAGZ",
+    "tvgId": "J4eb8pMfTeVAGZ",
     "name": "TV Life America",
+    "originalName": "TV Life America",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "b5XSCQKaTuYvtJ",
+    "tvgId": "b5XSCQKaTuYvtJ",
     "name": "TV Vita",
+    "originalName": "TV Vita",
     "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "SK",
-    "countryName": "Slovakia",
-    "languages": [
-      "slk"
-    ],
-    "description": "Canal de TV de Slovakia. Idioma: slk.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dash3.antik.sk/live/test_vita/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AgdBh1G6zjQQ1P",
+    "tvgId": "AgdBh1G6zjQQ1P",
     "name": "TVR Cultural",
+    "originalName": "TVR Cultural",
     "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "RO",
-    "countryName": "Romania",
-    "languages": [
-      "ron"
-    ],
-    "description": "Canal de TV de Romania. Idioma: ron.",
-    "logoText": "TVR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "L90TWymzbjAtJm",
+    "tvgId": "L90TWymzbjAtJm",
     "name": "UCV TV",
+    "originalName": "UCV TV",
     "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "logo": "",
     "category": "Culture",
+    "originalCategory": "Culture",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Chile. Idioma: spa.",
-    "logoText": "UCV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

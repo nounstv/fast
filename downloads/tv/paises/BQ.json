@@ -1,122 +1,38 @@
 [
   {
-    "id": "Bonairetv.bq",
+    "tvgId": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
-    "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
-    "logoText": "BON",
+    "originalName": "Bonaire.tv",
     "url": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bonaire. Language: N/A. Website: https://bonaire.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EnergiaTV.bq",
+    "tvgId": "zZixQOJakEHiUP",
     "name": "Energia TV",
-    "logo": "https://i.imgur.com/GVKjI5c.jpeg",
-    "logoText": "ENE",
+    "originalName": "Energia TV",
     "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bonaire. Language: N/A. Website: https://energiabonaire.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Live99FM.bq",
+    "tvgId": "ww7twEESZxWUIN",
     "name": "Live99FM",
-    "logo": "https://i.imgur.com/U43UrQT.png",
-    "logoText": "LIV",
+    "originalName": "Live99FM",
     "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bonaire. Language: N/A."
-  },
-  {
-    "id": "NosTVBonaire.bq",
-    "name": "NosTV Bonaire",
-    "logo": "https://i.imgur.com/GINI6oP.png",
-    "logoText": "NOS",
-    "url": "http://streaming.flamingotv.net/nostv/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://streaming.flamingotv.net/nostv/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bonaire. Language: N/A. Website: http://www.nostvbonaire.com/"
-  },
-  {
-    "id": "VozDiBonaireTV.bq",
-    "name": "Voz Di Bonaire TV",
-    "logo": "https://i.imgur.com/WOokQmj.png",
-    "logoText": "VOZ",
-    "url": "https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "BQ",
-    "countryName": "Bonaire",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bonaire. Language: N/A. Website: https://vozdibonaire.org/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

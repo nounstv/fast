@@ -1,26 +1,14 @@
 [
   {
-    "id": "Star101FM.gu",
+    "tvgId": "GhPgMfQiSel48D",
     "name": "Star 101 FM",
-    "logo": "https://star101.gu/images/fb_icon.jpg",
-    "logoText": "STA",
+    "originalName": "Star 101 FM",
     "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "GU",
-    "countryName": "Guam",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guam. Language: N/A. Website: https://star101.gu/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

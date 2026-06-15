@@ -1,74 +1,38 @@
 [
   {
-    "id": "MonacoInfo.mc",
+    "tvgId": "zcBNgPqzVnllFb",
     "name": "Monaco Info",
-    "logo": "https://i.imgur.com/dIrKYH7.png",
-    "logoText": "MON",
+    "originalName": "Monaco Info",
     "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "MC",
-    "countryName": "Monaco",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://monacoinfo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SuperyachtTV.mc",
+    "tvgId": "Cyu7cH1sFWg5HQ",
     "name": "Superyacht TV",
-    "logo": "https://i.imgur.com/cgjgjE1.png",
-    "logoText": "SUP",
+    "originalName": "Superyacht TV",
     "url": "https://sy.wns.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sy.wns.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
+    "originalCategory": "Lifestyle",
     "country": "MC",
-    "countryName": "Monaco",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://superyacht.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMonaco.mc",
+    "tvgId": "p8lqoCpCTuFiPS",
     "name": "TV Monaco",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png",
-    "logoText": "TV ",
+    "originalName": "TV Monaco",
     "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "MC",
-    "countryName": "Monaco",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Monaco. Language: N/A. Website: https://www.tvmonaco.com"
+    "type": "live",
+    "source": "famelack"
   }
 ]

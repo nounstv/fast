@@ -1,410 +1,74 @@
 [
   {
-    "id": "ARCanal.pa",
-    "name": "A&R Canal",
-    "logo": "https://i.imgur.com/ejRJqSI.png",
-    "logoText": "A&R",
-    "url": "http://51.222.9.192:3589/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.222.9.192:3589/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: http://arministerio.com/"
-  },
-  {
-    "id": "BTVPanama.pa",
-    "name": "BTV Panama",
-    "logo": "https://i.imgur.com/CiYVtgB.png",
-    "logoText": "BTV",
-    "url": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://www.btvpanama.com/"
-  },
-  {
-    "id": "DreikoTV.pa",
-    "name": "Dreiko TV",
-    "logo": "https://i.imgur.com/k8U0e0b.png",
-    "logoText": "DRE",
-    "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://dreikotv.online/"
-  },
-  {
-    "id": "FabulosaEstereo1005FM.pa",
+    "tvgId": "p2JDBtjTcLy9kg",
     "name": "Fabulosa Estereo 100.5 FM",
-    "logo": "https://i.imgur.com/YFmzkOp.png",
-    "logoText": "FAB",
+    "originalName": "Fabulosa Estereo 100.5 FM",
     "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://fabulosaestereo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HispaniaTV.pa",
-    "name": "Hispania TV",
-    "logo": "https://i.imgur.com/647WCF8.png",
-    "logoText": "HIS",
-    "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://hispaniaweb.tv/"
-  },
-  {
-    "id": "HosannaVision.pa",
+    "tvgId": "sk0pXWYPhoUI0U",
     "name": "Hosanna Vision",
-    "logo": "https://i.imgur.com/v0tc51l.png",
-    "logoText": "HOS",
+    "originalName": "Hosanna Vision",
     "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://hosannavision.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaXitosaPanama.pa",
-    "name": "LaXitosa Panama",
-    "logo": "https://i.imgur.com/Pt4F9Xz.png",
-    "logoText": "LAX",
-    "url": "https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://laxitosapanama.com/"
-  },
-  {
-    "id": "Planet1009FM.pa",
+    "tvgId": "NrKrfT28f0zHMn",
     "name": "Planet 100.9 FM",
-    "logo": "https://i.imgur.com/8ZIBs8l.png",
-    "logoText": "PLA",
+    "originalName": "Planet 100.9 FM",
     "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://planet1009.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PlusTV.pa",
-    "name": "Plus TV",
-    "logo": "https://i.imgur.com/MmpwhAG.png",
-    "logoText": "PLU",
-    "url": "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://plustucanaldeopinion.com/"
-  },
-  {
-    "id": "RadioAncon.pa",
+    "tvgId": "MFtmVHiGqE67Ua",
     "name": "Radio Ancon",
-    "logo": "https://i.imgur.com/xum8PNe.jpg",
-    "logoText": "RAD",
+    "originalName": "Radio Ancon",
     "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://radioancon.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioHogar.pa",
-    "name": "Radio Hogar",
-    "logo": "https://i.imgur.com/P4A1Zwl.jpg",
-    "logoText": "RAD",
-    "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://radiohogar.org/"
-  },
-  {
-    "id": "SuperQPanama.pa",
+    "tvgId": "wPlSUCmwkpBR6B",
     "name": "Super Q Panama",
-    "logo": "https://i.imgur.com/ocTnqi7.png",
-    "logoText": "SUP",
+    "originalName": "Super Q Panama",
     "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://superqpanama.net/superqdigital/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TropiQ997FM.pa",
+    "tvgId": "SUR27YVxiEVQoo",
     "name": "Tropi Q 99.7 FM",
-    "logo": "https://i.imgur.com/5rPdHhb.png",
-    "logoText": "TRO",
+    "originalName": "Tropi Q 99.7 FM",
     "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://tropiq.com/"
-  },
-  {
-    "id": "TropicalMoonCumbiaTV.pa",
-    "name": "Tropical Moon Cumbia TV",
-    "logo": "https://i.imgur.com/jL1kLyS.png",
-    "logoText": "TRO",
-    "url": "https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://tropicalmoontv.com/cumbia-tv/"
-  },
-  {
-    "id": "TropicalMoonEventosTV.pa",
-    "name": "Tropical Moon Eventos TV",
-    "logo": "https://i.imgur.com/RklPmml.png",
-    "logoText": "TRO",
-    "url": "https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://tropicalmoontv.com/eventos-tv/"
-  },
-  {
-    "id": "TVMax.pa",
-    "name": "TVMax",
-    "logo": "https://i.imgur.com/XcrkfGh.png",
-    "logoText": "TVM",
-    "url": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://www.tvmax-9.com/"
-  },
-  {
-    "id": "TVN.pa",
-    "name": "TVN",
-    "logo": "https://i.imgur.com/tGeHwxd.png",
-    "logoText": "TVN",
-    "url": "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PA",
-    "countryName": "Panama",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Panama. Language: N/A. Website: https://www.tvn-2.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

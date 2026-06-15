@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PLAYTV2" tvg-name="###### PLAY TV2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Animated-Flag-Denmark.gif" group-title="Dk| Play Tv2 ᴿᴬᵂ",###### PLAY TV2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027297.ts
+#EXTINF:-1 tvg-id="PLAY1.dk" tvg-name="PLAY 1 ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",PLAY 1 ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027296.ts
+#EXTINF:-1 tvg-id="PLAY2.dk" tvg-name="PLAY 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",PLAY 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027295.ts
+#EXTINF:-1 tvg-id="PLAY3.dk" tvg-name="PLAY 3 ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",PLAY 3 ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027294.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="TV 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027293.ts
+#EXTINF:-1 tvg-id="TV2FRI.dk" tvg-name="TV 2 FRI ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 FRI ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027292.ts
+#EXTINF:-1 tvg-id="TV2CHARLIE.dk" tvg-name="TV 2 CHARLIE ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 CHARLIE ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027291.ts
+#EXTINF:-1 tvg-id="TV2ECHO.dk" tvg-name="TV 2 ECHO ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 ECHO ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027290.ts
+#EXTINF:-1 tvg-id="TV2NEWS.dk" tvg-name="TV 2 NEWS ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 NEWS ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027289.ts
+#EXTINF:-1 tvg-id="TV2SPORT.dk" tvg-name="TV 2 SPORT ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 SPORT ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027288.ts
+#EXTINF:-1 tvg-id="TV2SPORTX.dk" tvg-name="TV 2 SPORT X ᴿᴬᵂ ⁵⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261" group-title="Dk| Play Tv2 ᴿᴬᵂ" tvg-country="DK",TV 2 SPORT X ᴿᴬᵂ ⁵⁰ᶠᵖˢ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1027287.ts

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TTRACESPPV" tvg-name="####### TT RACES PPV #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| Tt Races Ppv",####### TT RACES PPV #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456088.ts
+#EXTINF:-1 tvg-id="TTRACESEVENT1.uk" tvg-name="TT RACES EVENT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="Uk| Tt Races Ppv" tvg-country="UK",TT RACES EVENT 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456087.ts
+#EXTINF:-1 tvg-id="TTRACESEVENT2.uk" tvg-name="TT RACES EVENT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="Uk| Tt Races Ppv" tvg-country="UK",TT RACES EVENT 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456086.ts
+#EXTINF:-1 tvg-id="TTRACESEVENT3.uk" tvg-name="TT RACES EVENT 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="Uk| Tt Races Ppv" tvg-country="UK",TT RACES EVENT 3
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456085.ts
+#EXTINF:-1 tvg-id="TTRACESEVENT4.uk" tvg-name="TT RACES EVENT 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="Uk| Tt Races Ppv" tvg-country="UK",TT RACES EVENT 4
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456084.ts
+#EXTINF:-1 tvg-id="TTRACESEVENT5.uk" tvg-name="TT RACES EVENT 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="Uk| Tt Races Ppv" tvg-country="UK",TT RACES EVENT 5
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1456083.ts

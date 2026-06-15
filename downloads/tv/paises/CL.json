@@ -1,2035 +1,746 @@
 [
   {
-    "id": "13Festival.cl",
+    "tvgId": "ESPN1.cl",
+    "name": "ESPN 1 ᴿᴬᵂ",
+    "originalName": "CL: ESPN 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562491.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?51729",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ESPN2.cl",
+    "name": "ESPN 2 ᴿᴬᵂ",
+    "originalName": "CL: ESPN 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562490.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8263.jpg?35002",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ESPN3.cl",
+    "name": "ESPN 3 ᴿᴬᵂ",
+    "originalName": "CL: ESPN 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562489.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9734.jpg?38944",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ESPN4.cl",
+    "name": "ESPN 4 ᴿᴬᵂ",
+    "originalName": "CL: ESPN 4 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562488.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14588.jpg?5824",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ESPORTSCHILE.cl",
+    "name": "ESPORTS CHILE ᴿᴬᵂ",
+    "originalName": "CL: ESPORTS CHILE ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562487.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14589.jpg?56274",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GOLFCHANNEL.cl",
+    "name": "GOLF CHANNEL ᴿᴬᵂ",
+    "originalName": "CL: GOLF CHANNEL ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562486.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14410.jpg?6565",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TNTSPORT.cl",
+    "name": "TNT SPORT ᴿᴬᵂ",
+    "originalName": "CL: TNT SPORT ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562485.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?38829",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TYCSPORT.cl",
+    "name": "TYC SPORT ᴿᴬᵂ",
+    "originalName": "CL: TYC SPORT ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562484.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3969.png?87069",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "CL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "pxjrbdjAUkD2To",
     "name": "13 Festival",
-    "logo": "https://i.imgur.com/Ymk6j5o.png",
-    "logoText": "13 ",
+    "originalName": "13 Festival",
     "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13go.cl/"
-  },
-  {
-    "id": "13Humor.cl",
-    "name": "13 Humor",
-    "logo": "https://i.imgur.com/KvMuTzN.png",
-    "logoText": "13 ",
-    "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Comedy",
-    "categories": [
-      "comedy"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/13humor"
-  },
-  {
-    "id": "13Kids.cl",
-    "name": "13 Kids",
-    "logo": "https://i.imgur.com/8WJUbSD.png",
-    "logoText": "13 ",
-    "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/13kids"
-  },
-  {
-    "id": "13Realities.cl",
-    "name": "13 Realities",
-    "logo": "https://i.imgur.com/m0SuwMU.png",
-    "logoText": "13 ",
-    "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13go.cl/"
-  },
-  {
-    "id": "13C.cl",
-    "name": "13C",
-    "logo": "https://i.imgur.com/Zfe2f5j.png",
-    "logoText": "13C",
-    "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/c"
-  },
-  {
-    "id": "13E.cl",
-    "name": "13E",
-    "logo": "https://i.imgur.com/utI1tJV.png",
-    "logoText": "13E",
-    "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/13e"
-  },
-  {
-    "id": "13P.cl",
-    "name": "13P",
-    "logo": "https://i.imgur.com/R6D228s.png",
-    "logoText": "13P",
-    "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/13p"
-  },
-  {
-    "id": "13T.cl",
-    "name": "13T",
-    "logo": "https://i.imgur.com/csBNi2L.png",
-    "logoText": "13T",
-    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13go.cl/"
-  },
-  {
-    "id": "AERadioTV.cl",
-    "name": "AE Radio TV",
-    "logo": "https://i.imgur.com/425dj2i.jpeg",
-    "logoText": "AE ",
-    "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.aeradio.cl/"
-  },
-  {
-    "id": "AntofagastaTV.cl",
-    "name": "Antofagasta TV",
-    "logo": "https://i.imgur.com/XIQr0fs.png",
-    "logoText": "ANT",
-    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.antofagasta.tv/"
-  },
-  {
-    "id": "AricaTV.cl",
-    "name": "Arica TV",
-    "logo": "https://i.imgur.com/I67WOgT.png",
-    "logoText": "ARI",
-    "url": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://arica.tv/"
-  },
-  {
-    "id": "AtacamaNoticias.cl",
-    "name": "Atacama Noticias",
-    "logo": "https://i.imgur.com/Avx4Ecf.png",
-    "logoText": "ATA",
-    "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.atacamanoticias.cl/"
-  },
-  {
-    "id": "AtacamaTV.cl",
-    "name": "Atacama TV",
-    "logo": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
-    "logoText": "ATA",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://atacamatelevision.com/"
-  },
-  {
-    "id": "AysenTV.cl",
-    "name": "Aysen TV",
-    "logo": "https://i.imgur.com/DmdBf9S.png",
-    "logoText": "AYS",
-    "url": "https://v1.tustreaming.cl/aysentv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v1.tustreaming.cl/aysentv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.aysen.tv/"
-  },
-  {
-    "id": "BuinSomosTodos.cl",
-    "name": "Buin Somos Todos",
-    "logo": "https://i.imgur.com/zzeBtux.png",
-    "logoText": "BUI",
-    "url": "https://bst.buin.cl/0.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bst.buin.cl/0.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.buin.cl/senal-online/"
-  },
-  {
-    "id": "CampusTV.cl",
-    "name": "CampusTV",
-    "logo": "https://i.imgur.com/LvzLg33.png",
-    "logoText": "CAM",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://campustv.utalca.cl/"
-  },
-  {
-    "id": "Canal1Nuble.cl",
-    "name": "Canal 1 Nuble",
-    "logo": "https://i.imgur.com/PGSixH5.png",
-    "logoText": "CAN",
-    "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.canal1.cl/"
-  },
-  {
-    "id": "Canal13.cl",
-    "name": "Canal 13",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
-    "logoText": "CAN",
-    "url": "http://38.250.127.17:9800/play/a067/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://38.250.127.17:9800/play/a067/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.13.cl/"
-  },
-  {
-    "id": "Canal2Quellon.cl",
-    "name": "Canal 2 Quellon",
-    "logo": "https://i.imgur.com/MOwLCwT.png",
-    "logoText": "CAN",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://canal2quellon.cl/"
-  },
-  {
-    "id": "Canal74SanAntonio.cl",
-    "name": "Canal 74 San Antonio",
-    "logo": "https://i.imgur.com/WRYsbjX.png",
-    "logoText": "CAN",
-    "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.canal74.cl/"
-  },
-  {
-    "id": "Canal9BioBioTelevision.cl",
-    "name": "Canal 9 Bio-Bio Television",
-    "logo": "https://i.imgur.com/J2G1WMs.png",
-    "logoText": "CAN",
-    "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.canal9.cl/"
-  },
-  {
-    "id": "CanalISB.cl",
-    "name": "Canal ISB",
-    "logo": "https://i.imgur.com/cQ4ggTw.png",
-    "logoText": "CAN",
-    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.canalisb.cl/"
-  },
-  {
-    "id": "CDTV.cl",
-    "name": "CDTV",
-    "logo": "https://i.imgur.com/pMnk2TH.png",
-    "logoText": "CDT",
-    "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.camara.cl/prensa/television.aspx"
-  },
-  {
-    "id": "ChileChannel.cl",
-    "name": "Chile Channel",
-    "logo": "https://i.imgur.com/F1it6fh.png",
-    "logoText": "CHI",
-    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Travel",
-    "categories": [
-      "travel",
-      "entertainment"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://chilechanneltv.cl/"
-  },
-  {
-    "id": "ChileVision.cl",
-    "name": "ChileVision",
-    "logo": "https://i.imgur.com/PRijvR0.png",
-    "logoText": "CHI",
-    "url": "http://38.250.127.17:9800/play/a05h/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://38.250.127.17:9800/play/a05h/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.chilevision.cl/"
-  },
-  {
-    "id": "ChiloeRed25.cl",
-    "name": "Chiloe Red 25",
-    "logo": "https://i.imgur.com/3tqrImm.png",
-    "logoText": "CHI",
-    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://chiloered25.cl/"
-  },
-  {
-    "id": "ClickTVChile.cl",
-    "name": "ClickTV Chile",
-    "logo": "https://i.imgur.com/H0XNbMS.png",
-    "logoText": "CLI",
-    "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://clicktvchile.cl/"
-  },
-  {
-    "id": "Contivision.cl",
-    "name": "Contivision",
-    "logo": "https://i.imgur.com/Lz2OlKf.png",
-    "logoText": "CON",
-    "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://w.contivision.cl/cvn/"
-  },
-  {
-    "id": "DanceFM.cl",
-    "name": "Dance FM",
-    "logo": "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",
-    "logoText": "DAN",
-    "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.dancefm.cl/live/"
-  },
-  {
-    "id": "DecimaTV.cl",
-    "name": "Decima TV",
-    "logo": "https://i.imgur.com/eu8hDDc.png",
-    "logoText": "DEC",
-    "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.decimatv.cl/"
-  },
-  {
-    "id": "EGMChannel.cl",
-    "name": "EGM Channel",
-    "logo": "https://i.imgur.com/RXRKPvs.png",
-    "logoText": "EGM",
-    "url": "https://paneltv.online:1936/8186/8186/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://paneltv.online:1936/8186/8186/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://www.egmtv.online/"
-  },
-  {
-    "id": "EnerGeek.cl",
-    "name": "EnerGeek",
-    "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-    "logoText": "ENE",
-    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://energeek.cl/"
-  },
-  {
-    "id": "EnerGeekFAN.cl",
-    "name": "EnerGeek FAN",
-    "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-    "logoText": "ENE",
-    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://energeek.cl/"
-  },
-  {
-    "id": "EnerGeekRadio.cl",
-    "name": "EnerGeek Radio",
-    "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
-    "logoText": "ENE",
-    "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://energeek.cl/"
-  },
-  {
-    "id": "Girovisual.cl",
-    "name": "Girovisual",
-    "logo": "https://i.imgur.com/BYBMuhf.png",
-    "logoText": "GIR",
-    "url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://girovisualtv.com/"
-  },
-  {
-    "id": "HolvoetTV.cl",
-    "name": "Holvoet TV",
-    "logo": "https://i.imgur.com/9JKRO3R.png",
-    "logoText": "HOL",
-    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://holvoet.cl/"
-  },
-  {
-    "id": "HuascoTelevision.cl",
-    "name": "Huasco Television",
-    "logo": "https://i.imgur.com/Fo2DV70.png",
-    "logoText": "HUA",
-    "url": "https://paneltv.online:1936/huasco/huasco/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://paneltv.online:1936/huasco/huasco/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://paneltv.online:1936/8024/8024/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://www.huascotelevisionstreaming.cl/"
-  },
-  {
-    "id": "ITVPatagonia.cl",
-    "name": "ITV Patagonia",
-    "logo": "https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png",
-    "logoText": "ITV",
-    "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.itvpatagonia.com/"
-  },
-  {
-    "id": "Kanade.cl",
-    "name": "Kanade",
-    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
-    "logoText": "KAN",
-    "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "entertainment"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://kanade.cl"
-  },
-  {
-    "id": "LaPopularTV.cl",
-    "name": "La Popular TV",
-    "logo": "https://i.imgur.com/AWdgMCC.png",
-    "logoText": "LA ",
-    "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.populartv.cl/"
-  },
-  {
-    "id": "LaRed.cl",
-    "name": "La Red",
-    "logo": "https://i.imgur.com/nJOVM6e.png",
-    "logoText": "LA ",
-    "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.lared.cl/"
-  },
-  {
-    "id": "LatinaNetworkTV.cl",
-    "name": "Latina Network TV",
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg",
-    "logoText": "LAT",
-    "url": "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.vivalivetv.com/channel/latina-network-tv"
-  },
-  {
-    "id": "LTV.cl",
-    "name": "LTV",
-    "logo": "https://i.imgur.com/XHs06BX.png",
-    "logoText": "LTV",
-    "url": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.ltvcanal.cl/"
-  },
-  {
-    "id": "MTNATV.cl",
-    "name": "MTNA TV",
-    "logo": "https://i.imgur.com/v7SA92F.png",
-    "logoText": "MTN",
-    "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.mtna.tv/"
-  },
-  {
-    "id": "NativaTV.cl",
-    "name": "Nativa TV",
-    "logo": "https://i.imgur.com/0SFE2Fr.png",
-    "logoText": "NAT",
-    "url": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://nativatv.cl/"
-  },
-  {
-    "id": "NCTV.cl",
-    "name": "NCTV",
-    "logo": "https://i.imgur.com/oo5vDBv.png",
-    "logoText": "NCT",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://nctv.cl/"
-  },
-  {
-    "id": "Nublevision.cl",
-    "name": "Nublevision",
-    "logo": "https://i.imgur.com/nkQyR1X.png",
-    "logoText": "NUB",
-    "url": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://nublevision.cl/"
-  },
-  {
-    "id": "OrbitaChileTV.cl",
-    "name": "Orbita Chile TV",
-    "logo": "https://i.imgur.com/gbNh79Z.png",
-    "logoText": "ORB",
-    "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://orbitachiletv.org/"
-  },
-  {
-    "id": "PichilemuTV.cl",
-    "name": "Pichilemu TV",
-    "logo": "https://i.imgur.com/eaJVCwM.png",
-    "logoText": "PIC",
-    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://pichilemutv.org/"
-  },
-  {
-    "id": "PRIDEtvLATAM.cl",
-    "name": "PRIDEtv LATAM",
-    "logo": "https://neotv.cl/img/pridetv-512.png",
-    "logoText": "PRI",
-    "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment",
-      "lifestyle",
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://pridetvlatam.com"
-  },
-  {
-    "id": "PuconTV.cl",
-    "name": "Pucon TV",
-    "logo": "https://i.imgur.com/nO4cV3E.png",
-    "logoText": "PUC",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.pucontv.com/"
-  },
-  {
-    "id": "PuranoticiaTV.cl",
-    "name": "Puranoticia TV",
-    "logo": "https://i.imgur.com/NklUi6Y.png",
-    "logoText": "PUR",
-    "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://puranoticia.pnt.cl/"
-  },
-  {
-    "id": "RadioRitmoFM.cl",
-    "name": "Radio Ritmo FM",
-    "logo": "https://i.imgur.com/qU3E0kX.png",
-    "logoText": "RAD",
-    "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.radioritmo.cl/"
-  },
-  {
-    "id": "RadioSuyaiTV.cl",
-    "name": "Radio Suyai TV",
     "logo": "",
-    "logoText": "RAD",
-    "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "music"
-    ],
+    "category": "Music",
+    "originalCategory": "Music",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://radio.suyaitv.cl"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RetroPlus2.cl",
+    "tvgId": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "originalName": "13 Humor",
+    "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
+    "logo": "",
+    "category": "Comedy",
+    "originalCategory": "Comedy",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "bl19xd6Od9LNtI",
+    "name": "13 Realities",
+    "originalName": "13 Realities",
+    "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "originalName": "13C",
+    "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+    "logo": "",
+    "category": "Culture",
+    "originalCategory": "Culture",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "unFAtIKdGdKV06",
+    "name": "13T",
+    "originalName": "13T",
+    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+    "logo": "",
+    "category": "Series",
+    "originalCategory": "Series",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "TmOaWV1T2skQNx",
+    "name": "AE Radio TV",
+    "originalName": "AE Radio TV",
+    "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Md7ez9PVBYFZg7",
+    "name": "Antofagasta TV",
+    "originalName": "Antofagasta TV",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
+    "originalName": "Atacama Noticias",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1Gs106kwXgodNe",
+    "name": "Atacama TV",
+    "originalName": "Atacama TV",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "cH9kmLlt6EwKQQ",
+    "name": "CampusTV",
+    "originalName": "CampusTV",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "bL20OQOX6GoIrZ",
+    "name": "Canal 1 Nuble",
+    "originalName": "Canal 1 Nuble",
+    "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "hB7F4KiiS2y0zs",
+    "name": "Canal 2 Quellon",
+    "originalName": "Canal 2 Quellon",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "j3EWHNX1kjmPfx",
+    "name": "Canal 9 Bio-Bio Television",
+    "originalName": "Canal 9 Bio-Bio Television",
+    "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GF8ZEeIOAVHYJF",
+    "name": "Canal ISB",
+    "originalName": "Canal ISB",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "eko7uFhNP2g6vo",
+    "name": "Chile Channel",
+    "originalName": "Chile Channel",
+    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "logo": "",
+    "category": "Travel",
+    "originalCategory": "Travel",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "originalName": "Chiloe Red 25",
+    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "logo": "",
+    "category": "Culture",
+    "originalCategory": "Culture",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GDeVF43cbBphiD",
+    "name": "ClickTV Chile",
+    "originalName": "ClickTV Chile",
+    "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "logo": "",
+    "category": "Documentary",
+    "originalCategory": "Documentary",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "i7jOCnWyYw935a",
+    "name": "Contivision",
+    "originalName": "Contivision",
+    "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "8OOs9QhQf490ir",
+    "name": "Dance FM",
+    "originalName": "Dance FM",
+    "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "MmKJTNGu9k8I1J",
+    "name": "Decima TV",
+    "originalName": "Decima TV",
+    "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "originalName": "EnerGeek",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "logo": "",
+    "category": "Animation",
+    "originalCategory": "Animation",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "originalName": "EnerGeek FAN",
+    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "logo": "",
+    "category": "Animation",
+    "originalCategory": "Animation",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "ratiMYbPjlz1Pp",
+    "name": "EnerGeek Radio",
+    "originalName": "EnerGeek Radio",
+    "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "mboCNwiMaOzg2v",
+    "name": "Girovisual",
+    "originalName": "Girovisual",
+    "url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "JIUy4A1E1JuhXc",
+    "name": "Holvoet TV",
+    "originalName": "Holvoet TV",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Culture",
+    "originalCategory": "Culture",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "B06Trbkq5ZZMBH",
+    "name": "ITV Patagonia",
+    "originalName": "ITV Patagonia",
+    "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "LtuGw8CUEvQRPo",
+    "name": "La Popular TV",
+    "originalName": "La Popular TV",
+    "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "rFCQYWbNPQlvWE",
+    "name": "MTNA TV",
+    "originalName": "MTNA TV",
+    "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Z1XG0CWTJ230DD",
+    "name": "NCTV",
+    "originalName": "NCTV",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sGYRHPwZt9ffF9",
+    "name": "Pichilemu TV",
+    "originalName": "Pichilemu TV",
+    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "3FPl5RIfISFiTh",
+    "name": "PRIDEtv LATAM",
+    "originalName": "PRIDEtv LATAM",
+    "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Zd6DWELNeD7fNL",
+    "name": "Pucon TV",
+    "originalName": "Pucon TV",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "zjUM7zUUhBPTQU",
+    "name": "Puranoticia TV",
+    "originalName": "Puranoticia TV",
+    "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "iH1Ht1rUhcBhVb",
+    "name": "Radio Ritmo FM",
+    "originalName": "Radio Ritmo FM",
+    "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CL",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "EWWfUf457LGzph",
     "name": "Retro Plus 2",
-    "logo": "https://i.imgur.com/5G5kian.png",
-    "logoText": "RET",
+    "originalName": "Retro Plus 2",
     "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.retroplustv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SantaMariaTelevision.cl",
+    "tvgId": "YcrRaOKPB5tVF8",
     "name": "Santa Maria Television",
-    "logo": "https://i.imgur.com/SnbGpoK.png",
-    "logoText": "SAN",
+    "originalName": "Santa Maria Television",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://santamariatv.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SoloBailalo.cl",
+    "tvgId": "RtV9rPOW8b3zIG",
     "name": "Solo Bailalo",
-    "logo": "https://i.imgur.com/SImJE7c.png",
-    "logoText": "SOL",
+    "originalName": "Solo Bailalo",
     "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.solobailalo.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SURTV.cl",
-    "name": "SUR TV",
-    "logo": "https://i.imgur.com/wDCqoor.png",
-    "logoText": "SUR",
-    "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.surtv.cl/"
-  },
-  {
-    "id": "SuyaiTV.cl",
-    "name": "Suyai TV",
-    "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
-    "logoText": "SUY",
-    "url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://suyaitv.cl"
-  },
-  {
-    "id": "TVinet.cl",
+    "tvgId": "Ap4jlb2z9FPcau",
     "name": "T-Vinet",
-    "logo": "https://i.imgur.com/KisHIpA.png",
-    "logoText": "T-V",
+    "originalName": "T-Vinet",
     "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://www.tvinet.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "T13.cl",
-    "name": "T13",
-    "logo": "https://i.imgur.com/2Vlkl2x.png",
-    "logoText": "T13",
-    "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.t13.cl/"
-  },
-  {
-    "id": "Telecanal.cl",
-    "name": "Telecanal",
-    "logo": "https://i.imgur.com/3g6SbSt.png",
-    "logoText": "TEL",
-    "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.telecanal.cl/"
-  },
-  {
-    "id": "TeletrakTV.cl",
+    "tvgId": "QCubHZSGzvkAVk",
     "name": "Teletrak TV",
-    "logo": "https://i.imgur.com/NoJvlig.png",
-    "logoText": "TEL",
+    "originalName": "Teletrak TV",
     "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.teletrak.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Televida.cl",
-    "name": "Televida",
-    "logo": "https://i.imgur.com/bmNA8hq.png",
-    "logoText": "TEL",
-    "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.televida.cl/"
-  },
-  {
-    "id": "Tevex.cl",
+    "tvgId": "Buf371rRZBbDSG",
     "name": "Tevex",
-    "logo": "https://i.imgur.com/FnInQRd.png",
-    "logoText": "TEV",
+    "originalName": "Tevex",
     "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Business",
-    "categories": [
-      "business"
-    ],
+    "originalCategory": "Business",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://tevex.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ThemaTelevision.cl",
+    "tvgId": "P9srym3kVAIkYw",
     "name": "Thema Television",
-    "logo": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png",
-    "logoText": "THE",
+    "originalName": "Thema Television",
     "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.thematelevision.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TNE.cl",
+    "tvgId": "k0nYFEHOKnqOiZ",
     "name": "TNE",
-    "logo": "https://i.imgur.com/8QbvXva.png",
-    "logoText": "TNE",
+    "originalName": "TNE",
     "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.tnetv.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TurfMovil.cl",
+    "tvgId": "aE41LbUT8Fnd7w",
     "name": "Turf Movil",
-    "logo": "https://i.imgur.com/TwIe4lK.png",
-    "logoText": "TUR",
+    "originalName": "Turf Movil",
     "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://tvturf.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVChile.cl",
-    "name": "TV Chile",
-    "logo": "https://i.imgur.com/oYFto0V.png",
-    "logoText": "TV ",
-    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://www.tvchile.cl/"
-  },
-  {
-    "id": "TVSenado.cl",
+    "tvgId": "byUbvXPv80AteN",
     "name": "TV Senado",
-    "logo": "https://i.imgur.com/CNUZ6ig.png",
-    "logoText": "TV ",
+    "originalName": "TV Senado",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.senado.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVUCT.cl",
+    "tvgId": "hOfMwcYwkqMasz",
     "name": "TV UCT",
-    "logo": "https://i.imgur.com/tpI0WQH.png",
-    "logoText": "TV ",
+    "originalName": "TV UCT",
     "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.tvuct.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVN.cl",
-    "name": "TVN",
-    "logo": "https://i.imgur.com/3FKZHL4.png",
-    "logoText": "TVN",
-    "url": "http://217.26.190.76:8888/play/a0m6/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://217.26.190.76:8888/play/a0m6/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.tvn.cl/"
-  },
-  {
-    "id": "TVN3.cl",
+    "tvgId": "MiDzldTeOOzM8X",
     "name": "TVN3",
-    "logo": "https://i.imgur.com/9LEiQPJ.png",
-    "logoText": "TVN",
+    "originalName": "TVN3",
     "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Classic",
-    "categories": [
-      "classic"
-    ],
+    "originalCategory": "Classic",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.tvn.cl/tvn3"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVOSanVicente.cl",
+    "tvgId": "xTf3bbxqRJQgMl",
     "name": "TVO San Vicente",
-    "logo": "https://i.imgur.com/PCVWtHd.png",
-    "logoText": "TVO",
+    "originalName": "TVO San Vicente",
     "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://www.tvosanvicente.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVR.cl",
+    "tvgId": "HeeVS1iRWuDC3B",
     "name": "TVR",
-    "logo": "https://i.postimg.cc/prDRDZw3/TVR-Logo.png",
-    "logoText": "TVR",
+    "originalName": "TVR",
     "url": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.tvr.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVU.cl",
+    "tvgId": "hyjB9lI2I0o6VI",
     "name": "TVU",
-    "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
-    "logoText": "TVU",
+    "originalName": "TVU",
     "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://tvu.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ULosLagosTV.cl",
+    "tvgId": "uiKxEXDS2qwujf",
     "name": "U Los Lagos TV",
-    "logo": "https://i.imgur.com/HxUZseV.png",
-    "logoText": "U L",
-    "url": "http://tv.ulagos.cl/web/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tv.ulagos.cl/web/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "U Los Lagos TV",
+    "url": "https://tv.ulagos.cl/web/live.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: http://medios.ulagos.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UATV.cl",
+    "tvgId": "kTSEb5mta8wgr6",
     "name": "UATV",
-    "logo": "https://i.imgur.com/BdZGS66.png",
-    "logoText": "UAT",
+    "originalName": "UATV",
     "url": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://uatv.cl/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UCVTV.cl",
+    "tvgId": "L90TWymzbjAtJm",
     "name": "UCV TV",
-    "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
-    "logoText": "UCV",
+    "originalName": "UCV TV",
     "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://ucvtv.cl/home.php"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UESTV.cl",
-    "name": "UESTV",
-    "logo": "https://i.imgur.com/tAyiNZV.png",
-    "logoText": "UES",
-    "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.uestv.cl/en-vivo/"
-  },
-  {
-    "id": "UTV.cl",
-    "name": "UTV",
-    "logo": "https://i.imgur.com/ZJNSpfZ.png",
-    "logoText": "UTV",
-    "url": "https://v2.tustreaming.cl/utv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.tustreaming.cl/utv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.utv.cl/"
-  },
-  {
-    "id": "VClassicTV.cl",
-    "name": "V Classic TV",
-    "logo": "https://i.imgur.com/WIACJSy.png",
-    "logoText": "V C",
-    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.radiocoquimbo.cl/"
-  },
-  {
-    "id": "VCOnline.cl",
+    "tvgId": "Y2Z36ASHb1vcNr",
     "name": "VC Online",
-    "logo": "https://i.imgur.com/VlKl2VB.png",
-    "logoText": "VC ",
+    "originalName": "VC Online",
     "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://vencio.wixsite.com/vcmedios"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VisionPlusTV.cl",
-    "name": "Vision Plus TV",
-    "logo": "https://i.imgur.com/mpNcG5F.png",
-    "logoText": "VIS",
-    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.visionplustv.cl/"
-  },
-  {
-    "id": "VTVValledeAconcagua.cl",
+    "tvgId": "55jNFzDbCSLLQk",
     "name": "VTV Valle de Aconcagua",
-    "logo": "https://i.imgur.com/0bFVvKj.png",
-    "logoText": "VTV",
+    "originalName": "VTV Valle de Aconcagua",
     "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Chile. Language: N/A. Website: https://www.canalvtv.cl/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,683 +1,326 @@
 [
   {
-    "id": "AndijonMTRK.uz",
+    "tvgId": "JMSdx7uZ6AZN50",
     "name": "Andijon MTRK",
-    "logo": "https://i.imgur.com/EGPAvom.jpeg",
-    "logoText": "AND",
+    "originalName": "Andijon MTRK",
     "url": "https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BIZCinema.uz",
+    "tvgId": "FWhDbCLuy2F57c",
     "name": "BIZ Cinema",
-    "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
-    "logoText": "BIZ",
+    "originalName": "BIZ Cinema",
     "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "originalCategory": "Movies",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://biztv.uz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BIZMusic.uz",
+    "tvgId": "Xmm3LX5dLU22wn",
     "name": "BIZ Music",
-    "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
-    "logoText": "BIZ",
+    "originalName": "BIZ Music",
     "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BIZTV.uz",
+    "tvgId": "B57EXBA3NLspPl",
     "name": "BIZ TV",
-    "logo": "https://biztv.uz/static/media/logo.5f993187.png",
-    "logoText": "BIZ",
+    "originalName": "BIZ TV",
     "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://biztv.uz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Bolajon.uz",
+    "tvgId": "L2FPG37MOC7Wok",
     "name": "Bolajon",
-    "logo": "https://i.imgur.com/s7o0ifu.png",
-    "logoText": "BOL",
+    "originalName": "Bolajon",
     "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/bolajon/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BuxoroMTRK.uz",
+    "tvgId": "dyJMhVH5WlMHAc",
     "name": "Buxoro MTRK",
-    "logo": "https://i.imgur.com/jmxPtC9.png",
-    "logoText": "BUX",
+    "originalName": "Buxoro MTRK",
     "url": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://buxorotv.uz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DasturxonTV.uz",
+    "tvgId": "WM8ZbaFb6rajI2",
     "name": "Dasturxon TV",
-    "logo": "https://i.imgur.com/APM2ej5.jpeg",
-    "logoText": "DAS",
+    "originalName": "Dasturxon TV",
     "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Dunyoboylab.uz",
+    "tvgId": "OSYyq5HUKntW2J",
     "name": "Dunyo bo'ylab",
-    "logo": "https://i.imgur.com/KArB5U6.png",
-    "logoText": "DUN",
+    "originalName": "Dunyo bo'ylab",
     "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/dunyo/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FargonaMTRK.uz",
+    "tvgId": "VNlFb5mrIGiyvJ",
     "name": "Farg'ona MTRK",
-    "logo": "https://i.imgur.com/RYjQOfo.jpeg",
-    "logoText": "FAR",
+    "originalName": "Farg'ona MTRK",
     "url": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FTV.uz",
-    "name": "FTV",
-    "logo": "https://i.imgur.com/7lpISyN.jpg",
-    "logoText": "FTV",
-    "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.uzreport.news/"
-  },
-  {
-    "id": "Kinoteatr.uz",
+    "tvgId": "GwTrM0kpZSwLus",
     "name": "Kinoteatr",
-    "logo": "https://i.imgur.com/emH1BgC.png",
-    "logoText": "KIN",
+    "originalName": "Kinoteatr",
     "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "originalCategory": "Movies",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/kinoteatr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Madaniyatvamarifat.uz",
+    "tvgId": "n4KBxiRcgFIxIJ",
     "name": "Madaniyat va ma'rifat",
-    "logo": "https://i.imgur.com/eeNLXCP.png",
-    "logoText": "MAD",
+    "originalName": "Madaniyat va ma'rifat",
     "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/madaniyat/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Mahalla.uz",
+    "tvgId": "hwlcVEv18NkxUy",
     "name": "Mahalla",
-    "logo": "https://i.imgur.com/GtABiJI.png",
-    "logoText": "MAH",
+    "originalName": "Mahalla",
     "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/mahalla/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MakonTV.uz",
+    "tvgId": "VgpL3Vc6jvvqaJ",
     "name": "Makon TV",
-    "logo": "https://i.imgur.com/vCc0ED1.png",
-    "logoText": "MAK",
+    "originalName": "Makon TV",
     "url": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://makon.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Milliy.uz",
+    "tvgId": "mktyzJuOjzCG0D",
     "name": "Milliy",
-    "logo": "https://i.imgur.com/v4FBm26.png",
-    "logoText": "MIL",
+    "originalName": "Milliy",
     "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://milliy.tv/hls/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MY5.uz",
+    "tvgId": "cJnlIEpP8bVOtB",
     "name": "MY5",
-    "logo": "https://i.imgur.com/bjlzu5k.png",
-    "logoText": "MY5",
+    "originalName": "MY5",
     "url": "https://st.my5.media/hls/hd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://st.my5.media/hls/hd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://my5.media/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Navo.uz",
+    "tvgId": "zg76XEhs4aE3Qh",
     "name": "Navo",
-    "logo": "https://i.imgur.com/7dZ64y9.png",
-    "logoText": "NAV",
+    "originalName": "Navo",
     "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/navo/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NavoiyMTRK.uz",
+    "tvgId": "HEECzR93m2zAxT",
     "name": "Navoiy MTRK",
-    "logo": "https://i.imgur.com/qa4VlYh.png",
-    "logoText": "NAV",
+    "originalName": "Navoiy MTRK",
     "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ozbekiston.uz",
+    "tvgId": "3aVcjaCk9E1yIS",
     "name": "O'zbekiston",
-    "logo": "https://i.imgur.com/QUIIhTD.png",
-    "logoText": "O'Z",
+    "originalName": "O'zbekiston",
     "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/ozbekiston/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ozbekiston24.uz",
+    "tvgId": "T9ZAEs0iIDmcBM",
     "name": "O'zbekiston 24",
-    "logo": "https://i.imgur.com/VRFhKbw.png",
-    "logoText": "O'Z",
+    "originalName": "O'zbekiston 24",
     "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: http://uzbekistan24.uz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OzbekistonTarixi.uz",
+    "tvgId": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
-    "logo": "https://i.imgur.com/iTTd3Ir.png",
-    "logoText": "O'Z",
+    "originalName": "O'zbekiston Tarixi",
     "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
+    "originalCategory": "Documentary",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.uztv.tv/channels/uzbekiston-tarix"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Qaraqalpaqstan.uz",
+    "tvgId": "mtmMkwYurNSHQj",
     "name": "Qaraqalpaqstan",
-    "logo": "https://i.imgur.com/G3qrUJh.png",
-    "logoText": "QAR",
+    "originalName": "Qaraqalpaqstan",
     "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.uztv.tv/channels/qaraqalpaqstan"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RenessansTV.uz",
+    "tvgId": "OalhiPVroO7djL",
     "name": "Renessans TV",
-    "logo": "https://i.imgur.com/cVlcqCX.png",
-    "logoText": "REN",
+    "originalName": "Renessans TV",
     "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SevimliTV.uz",
+    "tvgId": "cEFRovhmEVfGx8",
     "name": "Sevimli TV",
-    "logo": "https://i.imgur.com/iMwzRlr.png",
-    "logoText": "SEV",
+    "originalName": "Sevimli TV",
     "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Family",
-    "categories": [
-      "family"
-    ],
+    "originalCategory": "Family",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.sevimlitv.uz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Toshkent.uz",
+    "tvgId": "w0tjxb3dHX6Fls",
     "name": "Toshkent",
-    "logo": "https://i.imgur.com/Z9R4nZg.png",
-    "logoText": "TOS",
+    "originalName": "Toshkent",
     "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/toshkent/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UzReportTV.uz",
+    "tvgId": "CrkyvIQRNatExy",
     "name": "UzReport TV",
-    "logo": "https://i.imgur.com/Bch2RHc.jpg",
-    "logoText": "UZR",
+    "originalName": "UzReport TV",
     "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://uzreport.news/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Yoshlar.uz",
+    "tvgId": "OUiyKTTPTYttWN",
     "name": "Yoshlar",
-    "logo": "https://i.imgur.com/s4xfUSx.png",
-    "logoText": "YOS",
+    "originalName": "Yoshlar",
     "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://www.mtrk.uz/uz/tv/yoshlar/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZorTV.uz",
+    "tvgId": "Y67heKltErviMJ",
     "name": "Zo'r TV",
-    "logo": "https://i.imgur.com/NuzyhVM.png",
-    "logoText": "ZO'",
+    "originalName": "Zo'r TV",
     "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment",
-      "music"
-    ],
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Uzbekistan. Language: N/A. Website: https://zortv.uz/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

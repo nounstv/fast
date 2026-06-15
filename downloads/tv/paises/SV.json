@@ -1,818 +1,206 @@
 [
   {
-    "id": "AgapeTV.sv",
+    "tvgId": "CyX7gTzMI3L05o",
     "name": "Agape TV",
-    "logo": "https://i.imgur.com/DsGmrnc.png",
-    "logoText": "AGA",
+    "originalName": "Agape TV",
     "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.agapetv8.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ArboldeVidaTV.sv",
+    "tvgId": "ClqJYJmuvjGxXn",
     "name": "Arbol de Vida TV",
-    "logo": "https://i.imgur.com/4sGDc4X.jpg",
-    "logoText": "ARB",
+    "originalName": "Arbol de Vida TV",
     "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.iglesiaarboldevida.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AwapaSportsTV.sv",
-    "name": "Awapa Sports TV",
-    "logo": "https://i.imgur.com/MNw5cJH.jpg",
-    "logoText": "AWA",
-    "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://megavision.univtec.com/"
-  },
-  {
-    "id": "Canal10.sv",
-    "name": "Canal 10",
-    "logo": "https://i.imgur.com/y2ppMnY.png",
-    "logoText": "CAN",
-    "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://noticiero.sv/"
-  },
-  {
-    "id": "Canal11TuTV.sv",
-    "name": "Canal 11 TuTV",
-    "logo": "https://i.imgur.com/itqQEux.png",
-    "logoText": "CAN",
-    "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: http://www.canal11.com.sv/"
-  },
-  {
-    "id": "Canal12.sv",
-    "name": "Canal 12",
-    "logo": "https://i.imgur.com/WMv3yEf.png",
-    "logoText": "CAN",
-    "url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.canal12.com.sv/"
-  },
-  {
-    "id": "Canal15ElZamorano.sv",
-    "name": "Canal 15 El Zamorano",
-    "logo": "https://i.imgur.com/op13ujg.png",
-    "logoText": "CAN",
-    "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://elzamoranotv.com/"
-  },
-  {
-    "id": "Canal2.sv",
-    "name": "Canal 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",
-    "logoText": "CAN",
-    "url": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.tcsgo.com/"
-  },
-  {
-    "id": "Canal26TVIAP.sv",
-    "name": "Canal 26 TV IAP",
-    "logo": "https://i.imgur.com/JE7FsnN.png",
-    "logoText": "CAN",
-    "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://canal26.org/"
-  },
-  {
-    "id": "Canal3Impresionante.sv",
+    "tvgId": "YYSyi5o00uvneu",
     "name": "Canal 3 Impresionante",
-    "logo": "https://i.imgur.com/mdfiWG9.png",
-    "logoText": "CAN",
+    "originalName": "Canal 3 Impresionante",
     "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://canal3impresionante.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Canal6.sv",
-    "name": "Canal 6",
-    "logo": "https://i.imgur.com/M4muPLK.png",
-    "logoText": "CAN",
-    "url": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "aM75JGWBPQWWgI",
+    "name": "Canal 11 TuTV",
+    "originalName": "Canal 11 TuTV",
+    "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.tcsgo.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Canal65.sv",
-    "name": "Canal 65",
-    "logo": "https://i.imgur.com/P15QovY.png",
-    "logoText": "CAN",
-    "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "JNkGygM92uxejo",
+    "name": "Canal 15 El Zamorano",
+    "originalName": "Canal 15 El Zamorano",
+    "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "SV",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "2JuIWNzpBvexFE",
+    "name": "Canal 26 TV IAP",
+    "originalName": "Canal 26 TV IAP",
+    "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.misioncristianaelohim.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "El15TV.sv",
-    "name": "El 15 TV",
-    "logo": "https://i.imgur.com/LsrCVy3.jpg",
-    "logoText": "EL ",
-    "url": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://el15tv.com/"
-  },
-  {
-    "id": "ElCaminoTV.sv",
+    "tvgId": "lZCJ28tnHKpEgP",
     "name": "El Camino TV",
-    "logo": "https://i.imgur.com/ZSktjGB.png",
-    "logoText": "EL ",
+    "originalName": "El Camino TV",
     "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: http://www.iglesiadelcamino.org/tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ElimTV.sv",
-    "name": "Elim TV",
-    "logo": "https://i.imgur.com/payIg0N.png",
-    "logoText": "ELI",
-    "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.elim.org.sv/elimtv/"
-  },
-  {
-    "id": "GSGTV.sv",
-    "name": "GSG TV",
-    "logo": "https://i.imgur.com/8fZnNu0.png",
-    "logoText": "GSG",
-    "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://graciasobregracia.org/"
-  },
-  {
-    "id": "JFVTV.sv",
-    "name": "JFV TV",
-    "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-    "logoText": "JFV",
-    "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.radiojesucristofuentedevida.com/"
-  },
-  {
-    "id": "JosueTV.sv",
+    "tvgId": "1RlshLkT58Kj6I",
     "name": "Josue TV",
-    "logo": "https://i.imgur.com/LNWGe1D.jpg",
-    "logoText": "JOS",
+    "originalName": "Josue TV",
     "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://iglesiajosue.org/es/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LegislativeAssemblyofElSalvador.sv",
+    "tvgId": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
-    "logo": "https://i.imgur.com/OBuiCyb.png",
-    "logoText": "LEG",
+    "originalName": "Legislative Assembly of El Salvador",
     "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "originalCategory": "Legislative",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.asamblea.gob.sv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MegavisionCanal19.sv",
+    "tvgId": "5ZSh2xypxRPX2R",
     "name": "Megavision Canal 19",
-    "logo": "https://i.imgur.com/voyVP6X.png",
-    "logoText": "MEG",
+    "originalName": "Megavision Canal 19",
     "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://megavision.com.sv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MegavisionCanal21.sv",
+    "tvgId": "jfYUv55bkxVPnJ",
     "name": "Megavision Canal 21",
-    "logo": "https://i.imgur.com/HbdYU9k.png",
-    "logoText": "MEG",
+    "originalName": "Megavision Canal 21",
     "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://megavision.com.sv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTVCanal57.sv",
+    "tvgId": "IrNZrLk3v8KoJe",
     "name": "RTV Canal 57",
-    "logo": "https://i.imgur.com/tnOGWqL.png",
-    "logoText": "RTV",
+    "originalName": "RTV Canal 57",
     "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://rtvcanal57.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SolTV.sv",
-    "name": "SolTV",
-    "logo": "https://i.imgur.com/jaBxxpt.png",
-    "logoText": "SOL",
-    "url": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://radiomorazan.net/"
-  },
-  {
-    "id": "TaberTV.sv",
+    "tvgId": "wYWPJvEa4MemLW",
     "name": "TaberTV",
-    "logo": "https://i.imgur.com/ikq2iSf.png",
-    "logoText": "TAB",
+    "originalName": "TaberTV",
     "url": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://tabernaculo.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TCSPlus.sv",
-    "name": "TCS+",
-    "logo": "https://i.imgur.com/iYFWG06.png",
-    "logoText": "TCS",
-    "url": "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.tcsgo.com/"
-  },
-  {
-    "id": "TigoSports.sv",
-    "name": "Tigo Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "logoText": "TIG",
-    "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: http://www.tigosports.com.sv/"
-  },
-  {
-    "id": "TribunaTV.sv",
-    "name": "Tribuna TV",
-    "logo": "https://i.imgur.com/C5vHpd0.png",
-    "logoText": "TRI",
-    "url": "https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.tribunatv.us/"
-  },
-  {
-    "id": "TVCRET.sv",
+    "tvgId": "Blt46frCkDVO7v",
     "name": "TV CRET",
-    "logo": "https://i.imgur.com/ChonoKb.png",
-    "logoText": "TV ",
+    "originalName": "TV CRET",
     "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://radiocret.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVGetsemani.sv",
+    "tvgId": "TXY73YSlkmlSSz",
     "name": "TV Getsemani",
-    "logo": "https://i.imgur.com/C9SJCcE.jpg",
-    "logoText": "TV ",
+    "originalName": "TV Getsemani",
     "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.radiogetsemani.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVLeondeJuda.sv",
+    "tvgId": "tHW7zvl92sqoa9",
     "name": "TV Leon de Juda",
-    "logo": "https://i.imgur.com/ZUCppwi.png",
-    "logoText": "TV ",
+    "originalName": "TV Leon de Juda",
     "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://tvleondejuda.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVCNetwork.sv",
-    "name": "TVC Network",
-    "logo": "https://i.imgur.com/S1xiWB3.png",
-    "logoText": "TVC",
-    "url": "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://www.tvcnetwork.net/"
-  },
-  {
-    "id": "TVCa.sv",
-    "name": "TVCa",
-    "logo": "https://i.imgur.com/uPWWtCA.png",
-    "logoText": "TVC",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://tvcaelsalvador.org/"
-  },
-  {
-    "id": "TVMElSalvador.sv",
-    "name": "TVM El Salvador",
-    "logo": "https://i.imgur.com/fyCC8R6.png",
-    "logoText": "TVM",
-    "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://tvm.com.sv/"
-  },
-  {
-    "id": "WOWTV.sv",
+    "tvgId": "1jzCwLIvYDfCXS",
     "name": "WOW TV",
-    "logo": "https://i.imgur.com/dHxaWyp.png",
-    "logoText": "WOW",
+    "originalName": "WOW TV",
     "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [],
-    "description": "Global IPTV stream. Country: El Salvador. Language: N/A. Website: https://wowelsalvador.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

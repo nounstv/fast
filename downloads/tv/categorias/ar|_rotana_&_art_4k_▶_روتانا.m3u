@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ROTANAARTTV" tvg-name="###### ROTANA & ART TV ######" group-title="Ar| Rotana & Art 4K ▶ روتانا",###### ROTANA & ART TV ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251818.ts
+#EXTINF:-1 tvg-id="ARTAmerica.ar" tvg-name="ART America" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12898.jfif?ver=11114" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART America
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341684.ts
+#EXTINF:-1 tvg-id="ARTMovies.ar" tvg-name="ART Movies" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12900.jfif?ver=35769" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Movies
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341683.ts
+#EXTINF:-1 tvg-id="ARTAflam1.ar" tvg-name="ART Aflam 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/49.png" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Aflam 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3139.ts
+#EXTINF:-1 tvg-id="ARTAflam2.ar" tvg-name="ART Aflam 2 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/56.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Aflam 2 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3140.ts
+#EXTINF:-1 tvg-id="ARTCinema.ar" tvg-name="ART Cinema ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/54.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Cinema ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3141.ts
+#EXTINF:-1 tvg-id="ARTHekayat1.ar" tvg-name="ART Hekayat 1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/45.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Hekayat 1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3137.ts
+#EXTINF:-1 tvg-id="ARTHekayat2.ar" tvg-name="ART Hekayat 2 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/67.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Hekayat 2 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3138.ts
+#EXTINF:-1 tvg-id="ARTSYRIAHD.ar" tvg-name="ART SYRIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7713.png?74002" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART SYRIA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767657.ts
+#EXTINF:-1 tvg-id="ARTLEBANONHD.ar" tvg-name="ART LEBANON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6360.png?31239" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART LEBANON HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767658.ts
+#EXTINF:-1 tvg-id="ARTTURKIHD.ar" tvg-name="ART TURKI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11541.png?98451" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART TURKI HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767659.ts
+#EXTINF:-1 tvg-id="ARTMIXTAHD.ar" tvg-name="ART MIXTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9766.png?8098" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART MIXTA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767660.ts
+#EXTINF:-1 tvg-id="ARTMASRHD.ar" tvg-name="ART MASR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11545.png?16334" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART MASR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767655.ts
+#EXTINF:-1 tvg-id="ARTMASR2HD.ar" tvg-name="ART MASR 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11545.png?16334" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART MASR 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/767656.ts
+#EXTINF:-1 tvg-id="ARTTarab.ar" tvg-name="ART Tarab" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12897.jfif?24015" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",ART Tarab
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341681.ts
+#EXTINF:-1 tvg-id="Rotana.ar" tvg-name="Rotana" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/46.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4208.ts
+#EXTINF:-1 tvg-id="RotanaCinemaFR4K.ar" tvg-name="Rotana Cinema FR 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/253.jpg?ver=59124" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Cinema FR 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/497630.ts
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt4K.ar" tvg-name="Rotana Cinema Egypt  4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/48.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Cinema Egypt  4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161011.ts
+#EXTINF:-1 tvg-id="RotanaCinemaEgyptHD.ar" tvg-name="Rotana Cinema Egypt  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/48.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Cinema Egypt  HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3298.ts
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.ar" tvg-name="Rotana Cinema Egypt" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/251.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Cinema Egypt
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4210.ts
+#EXTINF:-1 tvg-id="RotanaClassic4K.ar" tvg-name="Rotana Classic 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/254.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Classic 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161012.ts
+#EXTINF:-1 tvg-id="RotanaClassicHD.ar" tvg-name="Rotana Classic HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/254.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Classic HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3300.ts
+#EXTINF:-1 tvg-id="RotanaClip4K.ar" tvg-name="Rotana Clip 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/255.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Clip 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4212.ts
+#EXTINF:-1 tvg-id="RotanaClipHD.ar" tvg-name="Rotana Clip HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/255.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Clip HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/353529.ts
+#EXTINF:-1 tvg-id="RotanaComedy4K.ar" tvg-name="Rotana Comedy 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12790.jpg?ver=12761" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Comedy 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161010.ts
+#EXTINF:-1 tvg-id="RotanaComedyHD.ar" tvg-name="Rotana Comedy HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12790.jpg?ver=12761" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Comedy HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3299.ts
+#EXTINF:-1 tvg-id="RotanaDrama4K.ar" tvg-name="Rotana Drama 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/256.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Drama 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161014.ts
+#EXTINF:-1 tvg-id="RotanaDramaHD.ar" tvg-name="Rotana Drama HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/256.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Drama HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4209.ts
+#EXTINF:-1 tvg-id="RotanaDrama.ar" tvg-name="Rotana Drama" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/256.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Drama
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3302.ts
+#EXTINF:-1 tvg-id="RotanaKhalijeah4K.ar" tvg-name="Rotana Khalijeah 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/258.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Khalijeah 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161013.ts
+#EXTINF:-1 tvg-id="RotanaKhalijeahHD.ar" tvg-name="Rotana Khalijeah HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/258.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Khalijeah HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3301.ts
+#EXTINF:-1 tvg-id="RotanaM4K.ar" tvg-name="Rotana M+ 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12954.png?ver=25392" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana M+ 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/200160.ts
+#EXTINF:-1 tvg-id="RotanaMusic4K.ar" tvg-name="Rotana Music 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/46.jpg" group-title="Ar| Rotana & Art 4K ▶ روتانا" tvg-country="AR",Rotana Music 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/161015.ts

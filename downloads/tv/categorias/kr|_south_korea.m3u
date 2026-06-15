@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SOUTHKOREA.kr" tvg-name="####### SOUTH KOREA #######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Animated-Flag-South-Korea.gif" group-title="Kr| South Korea" tvg-country="KR",####### SOUTH KOREA #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320929.ts
+#EXTINF:-1 tvg-id="ARIRANGNA.kr" tvg-name="ARIRANG (NA)" tvg-logo="http://103.176.90.118/picons/logos/ARIRANG.png" group-title="Kr| South Korea" tvg-country="KR",ARIRANG (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320928.ts
+#EXTINF:-1 tvg-id="CTSNA.kr" tvg-name="CTS (NA)" tvg-logo="http://103.176.90.118/picons/logos/CTS.png" group-title="Kr| South Korea" tvg-country="KR",CTS (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320927.ts
+#EXTINF:-1 tvg-id="EBSNA.kr" tvg-name="EBS (NA)" tvg-logo="http://103.176.90.118/picons/logos/ebs.png" group-title="Kr| South Korea" tvg-country="KR",EBS (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320926.ts
+#EXTINF:-1 tvg-id="KBSWORLDNA.kr" tvg-name="KBS WORLD (NA)" tvg-logo="http://103.176.90.118/picons/logos/kbsworld.png" group-title="Kr| South Korea" tvg-country="KR",KBS WORLD (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320925.ts
+#EXTINF:-1 tvg-id="MBCNA.kr" tvg-name="MBC (NA)" tvg-logo="http://103.176.90.118/picons/logos/MBC-SOUTHKOREA.png" group-title="Kr| South Korea" tvg-country="KR",MBC (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320924.ts
+#EXTINF:-1 tvg-id="MBNNA.kr" tvg-name="MBN (NA)" tvg-logo="http://103.176.90.118/picons/logos/MBN-KOREA.jpg" group-title="Kr| South Korea" tvg-country="KR",MBN (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320923.ts
+#EXTINF:-1 tvg-id="NATGEONA.kr" tvg-name="NATGEO (NA)" tvg-logo="http://103.176.90.118/picons/logos/natgeo.png" group-title="Kr| South Korea" tvg-country="KR",NATGEO (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320922.ts
+#EXTINF:-1 tvg-id="SBSNA.kr" tvg-name="SBS (NA)" tvg-logo="http://103.176.90.118/picons/logos/SBS.png" group-title="Kr| South Korea" tvg-country="KR",SBS (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320921.ts
+#EXTINF:-1 tvg-id="SBSPLUSNA.kr" tvg-name="SBS PLUS (NA)" tvg-logo="http://103.176.90.118/picons/logos/SBS.png" group-title="Kr| South Korea" tvg-country="KR",SBS PLUS (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320920.ts
+#EXTINF:-1 tvg-id="TANNA.kr" tvg-name="TAN (NA)" tvg-logo="http://103.176.90.118/picons/logos/TAN.png" group-title="Kr| South Korea" tvg-country="KR",TAN (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320919.ts
+#EXTINF:-1 tvg-id="TVNNA.kr" tvg-name="TVN (NA)" tvg-logo="http://103.176.90.118/picons/logos/tvn.png" group-title="Kr| South Korea" tvg-country="KR",TVN (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320918.ts
+#EXTINF:-1 tvg-id="YTNNA.kr" tvg-name="YTN  (NA)" tvg-logo="http://103.176.90.118/picons/logos/YTN-.jpg" group-title="Kr| South Korea" tvg-country="KR",YTN  (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320917.ts
+#EXTINF:-1 tvg-id="ARTE.kr" tvg-name="ARTE" tvg-logo="http://103.176.90.118/picons/logos/ARTE.png" group-title="Kr| South Korea" tvg-country="KR",ARTE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320916.ts
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-name="BBS TV" tvg-logo="http://103.176.90.118/picons/logos/BBS_tv.png" group-title="Kr| South Korea" tvg-country="KR",BBS TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320915.ts
+#EXTINF:-1 tvg-id="CCHANNEL.kr" tvg-name="CCHANNEL" tvg-logo="http://103.176.90.118/picons/logos/CCHANNEL.png" group-title="Kr| South Korea" tvg-country="KR",CCHANNEL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320914.ts
+#EXTINF:-1 tvg-id="TVNSPORT.kr" tvg-name="TVN SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9826.jpg?47273" group-title="Kr| South Korea" tvg-country="KR",TVN SPORT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320913.ts
+#EXTINF:-1 tvg-id="CTS.kr" tvg-name="CTS" tvg-logo="http://103.176.90.118/picons/logos/CTS.png" group-title="Kr| South Korea" tvg-country="KR",CTS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320912.ts
+#EXTINF:-1 tvg-id="EBS2HD.kr" tvg-name="EBS 2  HD" tvg-logo="http://103.176.90.118/picons/logos/EBS2.png" group-title="Kr| South Korea" tvg-country="KR",EBS 2  HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320911.ts
+#EXTINF:-1 tvg-id="EBSEHD.kr" tvg-name="EBS E HD" tvg-logo="http://103.176.90.118/picons/logos/EBS1.png" group-title="Kr| South Korea" tvg-country="KR",EBS E HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320910.ts
+#EXTINF:-1 tvg-id="EBSFMHD.kr" tvg-name="EBS FM HD" tvg-logo="http://103.176.90.118/picons/logos/EBS1.png" group-title="Kr| South Korea" tvg-country="KR",EBS FM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320909.ts
+#EXTINF:-1 tvg-id="EBSFM2HD.kr" tvg-name="EBS FM2 HD" tvg-logo="http://103.176.90.118/picons/logos/EBS1.png" group-title="Kr| South Korea" tvg-country="KR",EBS FM2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320908.ts
+#EXTINF:-1 tvg-id="EBSIHD.kr" tvg-name="EBS I HD" tvg-logo="http://103.176.90.118/picons/logos/EBS1.png" group-title="Kr| South Korea" tvg-country="KR",EBS I HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320907.ts
+#EXTINF:-1 tvg-id="EBSKIDSHD.kr" tvg-name="EBS KIDS  HD" tvg-logo="http://103.176.90.118/picons/logos/EBS-KIDS.png" group-title="Kr| South Korea" tvg-country="KR",EBS KIDS  HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320906.ts
+#EXTINF:-1 tvg-id="EBS1HD.kr" tvg-name="EBS1  HD" tvg-logo="http://103.176.90.118/picons/logos/EBS1.png" group-title="Kr| South Korea" tvg-country="KR",EBS1  HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320905.ts
+#EXTINF:-1 tvg-id="EBS2HD.kr" tvg-name="EBS2  HD" tvg-logo="http://103.176.90.118/picons/logos/EBS2.png" group-title="Kr| South Korea" tvg-country="KR",EBS2  HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320904.ts
+#EXTINF:-1 tvg-id="EDAILYTV.kr" tvg-name="EDAILY TV" tvg-logo="http://103.176.90.118/picons/logos/EDAILY_TV.png" group-title="Kr| South Korea" tvg-country="KR",EDAILY TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320903.ts
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-name="FGTV" tvg-logo="http://103.176.90.118/picons/logos/FGTV.png" group-title="Kr| South Korea" tvg-country="KR",FGTV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320902.ts
+#EXTINF:-1 tvg-id="GCN.kr" tvg-name="GCN" tvg-logo="http://103.176.90.118/picons/logos/GCN.png" group-title="Kr| South Korea" tvg-country="KR",GCN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320901.ts
+#EXTINF:-1 tvg-id="GOODTV.kr" tvg-name="GOOD TV" tvg-logo="http://103.176.90.118/picons/logos/GOOD_TV.png" group-title="Kr| South Korea" tvg-country="KR",GOOD TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320900.ts
+#EXTINF:-1 tvg-id="GSMYSHOP.kr" tvg-name="GS MY SHOP" tvg-logo="http://103.176.90.118/picons/logos/GS_MY_SHOP.png" group-title="Kr| South Korea" tvg-country="KR",GS MY SHOP
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320899.ts
+#EXTINF:-1 tvg-id="GSSHOP.kr" tvg-name="GS SHOP" tvg-logo="http://103.176.90.118/picons/logos/GS_SHOP.png" group-title="Kr| South Korea" tvg-country="KR",GS SHOP
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320898.ts
+#EXTINF:-1 tvg-id="HOMESHOPPING.kr" tvg-name="HOME & SHOPPING" tvg-logo="http://103.176.90.118/picons/logos/HOME_y_SHOPPING.png" group-title="Kr| South Korea" tvg-country="KR",HOME & SHOPPING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320897.ts
+#EXTINF:-1 tvg-id="HYUNDAIHMALL.kr" tvg-name="HYUNDAI HMALL" tvg-logo="http://103.176.90.118/picons/logos/HYUNDAI_HMALL.png" group-title="Kr| South Korea" tvg-country="KR",HYUNDAI HMALL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320896.ts
+#EXTINF:-1 tvg-id="IMSHOPPING.kr" tvg-name="IM SHOPPING" tvg-logo="http://103.176.90.118/picons/logos/IM_SHOPPING.png" group-title="Kr| South Korea" tvg-country="KR",IM SHOPPING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320895.ts
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-name="KBS1 TV" tvg-logo="http://103.176.90.118/picons/logos/KBS_1.png" group-title="Kr| South Korea" tvg-country="KR",KBS1 TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320894.ts
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-name="KBS2" tvg-logo="http://103.176.90.118/picons/logos/kbs2.png" group-title="Kr| South Korea" tvg-country="KR",KBS2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320893.ts
+#EXTINF:-1 tvg-id="KCTVCH05.kr" tvg-name="KCTV  CH05" tvg-logo="http://103.176.90.118/picons/logos/KCTV.png" group-title="Kr| South Korea" tvg-country="KR",KCTV  CH05
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320892.ts
+#EXTINF:-1 tvg-id="KCTVCH07.kr" tvg-name="KCTV  CH07" tvg-logo="http://103.176.90.118/picons/logos/KCTV.png" group-title="Kr| South Korea" tvg-country="KR",KCTV  CH07
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320891.ts
+#EXTINF:-1 tvg-id="KCTVCH20.kr" tvg-name="KCTV  CH20" tvg-logo="http://103.176.90.118/picons/logos/KCTV.png" group-title="Kr| South Korea" tvg-country="KR",KCTV  CH20
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320890.ts
+#EXTINF:-1 tvg-id="KCTVCH21.kr" tvg-name="KCTV  CH21" tvg-logo="http://103.176.90.118/picons/logos/KCTV.png" group-title="Kr| South Korea" tvg-country="KR",KCTV  CH21
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320889.ts
+#EXTINF:-1 tvg-id="KFNTV.kr" tvg-name="KFN TV" tvg-logo="http://103.176.90.118/picons/logos/KFN_TV.png" group-title="Kr| South Korea" tvg-country="KR",KFN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320888.ts
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" tvg-logo="http://103.176.90.118/picons/logos/ktv.png" group-title="Kr| South Korea" tvg-country="KR",KTV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320887.ts
+#EXTINF:-1 tvg-id="LOTTEHOMESHOPPING.kr" tvg-name="LOTTE HOMESHOPPING" tvg-logo="http://103.176.90.118/picons/logos/LOTTE_HOMESHOPPING.png" group-title="Kr| South Korea" tvg-country="KR",LOTTE HOMESHOPPING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320886.ts
+#EXTINF:-1 tvg-id="M20TV.kr" tvg-name="M20 TV" tvg-logo="http://103.176.90.118/picons/logos/M20_tv.png" group-title="Kr| South Korea" tvg-country="KR",M20 TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320885.ts
+#EXTINF:-1 tvg-id="MBCSPORTSTV.kr" tvg-name="MBC SPORTS  TV" tvg-logo="http://103.176.90.118/picons/logos/mbc.png" group-title="Kr| South Korea" tvg-country="KR",MBC SPORTS  TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320884.ts
+#EXTINF:-1 tvg-id="MTN.kr" tvg-name="MTN" tvg-logo="http://103.176.90.118/picons/logos/MTN.png" group-title="Kr| South Korea" tvg-country="KR",MTN
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320883.ts
+#EXTINF:-1 tvg-id="NSHOMESHOPPING.kr" tvg-name="NS HOME SHOPPING" tvg-logo="http://103.176.90.118/picons/logos/NS_HOME_SHOPPING.png" group-title="Kr| South Korea" tvg-country="KR",NS HOME SHOPPING
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320882.ts
+#EXTINF:-1 tvg-id="OBSGYEONGINTV.kr" tvg-name="OBS GYEONGIN TV" tvg-logo="http://103.176.90.118/picons/logos/OBS.png" group-title="Kr| South Korea" tvg-country="KR",OBS GYEONGIN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320881.ts
+#EXTINF:-1 tvg-id="OBSW.kr" tvg-name="OBS W" tvg-logo="http://103.176.90.118/picons/logos/OBS.png" group-title="Kr| South Korea" tvg-country="KR",OBS W
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320880.ts
+#EXTINF:-1 tvg-id="OCNTV.kr" tvg-name="OCN TV" tvg-logo="http://103.176.90.118/picons/logos/ontv.png" group-title="Kr| South Korea" tvg-country="KR",OCN TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320879.ts
+#EXTINF:-1 tvg-id="RTOMATOTV.kr" tvg-name="R TOMATO TV" tvg-logo="http://103.176.90.118/picons/logos/R_TOMATO_TV.png" group-title="Kr| South Korea" tvg-country="KR",R TOMATO TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320878.ts
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" tvg-logo="http://103.176.90.118/picons/logos/RUTC_TV.png" group-title="Kr| South Korea" tvg-country="KR",RUTC TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320877.ts

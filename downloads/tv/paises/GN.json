@@ -1,127 +1,38 @@
 [
   {
-    "id": "ATV.gn",
+    "tvgId": "NcxgPHk7vjd0NG",
     "name": "ATV",
-    "logo": "https://i.imgur.com/YkJPCfR.jpeg",
-    "logoText": "ATV",
+    "originalName": "ATV",
     "url": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GN",
-    "countryName": "Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guinea. Language: N/A. Website: https://atvguinee.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EspaceTV.gn",
+    "tvgId": "UIl4NRuaZav1ye",
     "name": "Espace TV",
-    "logo": "https://i.imgur.com/R5tbzFI.png",
-    "logoText": "ESP",
+    "originalName": "Espace TV",
     "url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "GN",
-    "countryName": "Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guinea. Language: N/A. Website: https://www.espacetvguinee.info/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KabackTV.gn",
-    "name": "Kaback TV",
-    "logo": "https://i.imgur.com/oIe98p4.png",
-    "logoText": "KAB",
-    "url": "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GN",
-    "countryName": "Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guinea. Language: N/A. Website: https://www.lerenifleur224.com/"
-  },
-  {
-    "id": "KalacTV.gn",
+    "tvgId": "zmHrYq9TiBhJDc",
     "name": "Kalac TV",
-    "logo": "https://i.imgur.com/FgKJiHZ.png",
-    "logoText": "KAL",
+    "originalName": "Kalac TV",
     "url": "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GN",
-    "countryName": "Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guinea. Language: N/A. Website: https://www.espacetvguinee.info/"
-  },
-  {
-    "id": "RTG1.gn",
-    "name": "RTG 1",
-    "logo": "https://i.imgur.com/E1sMcXz.png",
-    "logoText": "RTG",
-    "url": "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0",
-    "streams": [
-      {
-        "url": "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0"
-      },
-      {
-        "url": "http://69.64.57.208/rtg/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GN",
-    "countryName": "Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guinea. Language: N/A. Website: https://rtgkoloma.info/tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

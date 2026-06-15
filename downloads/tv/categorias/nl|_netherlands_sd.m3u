@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BASISLQ" tvg-name="##### BASIS LQ #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Netherlands Sd",##### BASIS LQ #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536246.ts
+#EXTINF:-1 tvg-id="NPO1LQ.nl" tvg-name="NPO 1 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?1784" group-title="Nl| Netherlands Sd" tvg-country="NL",NPO 1 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536245.ts
+#EXTINF:-1 tvg-id="NPO2LQ.nl" tvg-name="NPO 2 LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/585.png?6896" group-title="Nl| Netherlands Sd" tvg-country="NL",NPO 2 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536244.ts
+#EXTINF:-1 tvg-id="NPO3LQ.nl" tvg-name="NPO 3 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/586.png?17812" group-title="Nl| Netherlands Sd" tvg-country="NL",NPO 3 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536243.ts
+#EXTINF:-1 tvg-id="RTL4LQ.nl" tvg-name="RTL 4 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1387.jpg?66723" group-title="Nl| Netherlands Sd" tvg-country="NL",RTL 4 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536242.ts
+#EXTINF:-1 tvg-id="RTL5LQ.nl" tvg-name="RTL 5 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1390.jpg?76340" group-title="Nl| Netherlands Sd" tvg-country="NL",RTL 5 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536241.ts
+#EXTINF:-1 tvg-id="SBS6LQ.nl" tvg-name="SBS 6 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/590.jpg?15246" group-title="Nl| Netherlands Sd" tvg-country="NL",SBS 6 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536240.ts
+#EXTINF:-1 tvg-id="RTL7LQ.nl" tvg-name="RTL 7 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/596.png?55547" group-title="Nl| Netherlands Sd" tvg-country="NL",RTL 7 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536239.ts
+#EXTINF:-1 tvg-id="RTL8LQ.nl" tvg-name="RTL 8 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/587.jpg?7606" group-title="Nl| Netherlands Sd" tvg-country="NL",RTL 8 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536238.ts
+#EXTINF:-1 tvg-id="SBS9LQ.nl" tvg-name="SBS 9 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/591.png?81713" group-title="Nl| Netherlands Sd" tvg-country="NL",SBS 9 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536237.ts
+#EXTINF:-1 tvg-id="NET5LQ.nl" tvg-name="NET 5 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/5991.jpg?57282" group-title="Nl| Netherlands Sd" tvg-country="NL",NET 5 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536235.ts
+#EXTINF:-1 tvg-id="VERONICALQDISNEYXDLQ.nl" tvg-name="VERONICA LQ /DISNEY XD LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/592.png?77962" group-title="Nl| Netherlands Sd" tvg-country="NL",VERONICA LQ /DISNEY XD LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536236.ts
+#EXTINF:-1 tvg-id="KETNETLQ.nl" tvg-name="KETNET LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13171.jpg?75587" group-title="Nl| Netherlands Sd" tvg-country="NL",KETNET LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536232.ts
+#EXTINF:-1 tvg-id="NICKMUSICLQ.nl" tvg-name="NICK MUSIC LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12631.jpg?77085" group-title="Nl| Netherlands Sd" tvg-country="NL",NICK MUSIC LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536231.ts
+#EXTINF:-1 tvg-id="SLAMTVLQ.nl" tvg-name="SLAM!TV LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3371.jpg?46601" group-title="Nl| Netherlands Sd" tvg-country="NL",SLAM!TV LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536228.ts
+#EXTINF:-1 tvg-id="STINGRAYLITETVLQ.nl" tvg-name="STINGRAY LITETV LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12978.png?92568" group-title="Nl| Netherlands Sd" tvg-country="NL",STINGRAY LITETV LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536227.ts
+#EXTINF:-1 tvg-id="SPORTLQ" tvg-name="##### SPORT LQ #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Netherlands Sd",##### SPORT LQ #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536226.ts
+#EXTINF:-1 tvg-id="ZIGGOVIAPLAYXTRAF1LQ.nl" tvg-name="ZIGGO VIAPLAY XTRA F1 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6025.png?97586" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO VIAPLAY XTRA F1 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536225.ts
+#EXTINF:-1 tvg-id="ESPN1LQ.nl" tvg-name="ESPN 1 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13825.jpg?51104" group-title="Nl| Netherlands Sd" tvg-country="NL",ESPN 1 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536224.ts
+#EXTINF:-1 tvg-id="ESPN2LQ.nl" tvg-name="ESPN 2 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8263.jpg?2942" group-title="Nl| Netherlands Sd" tvg-country="NL",ESPN 2 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536223.ts
+#EXTINF:-1 tvg-id="ESPN3LQ.nl" tvg-name="ESPN 3 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9734.jpg?74462" group-title="Nl| Netherlands Sd" tvg-country="NL",ESPN 3 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536222.ts
+#EXTINF:-1 tvg-id="ESPN4LQ.nl" tvg-name="ESPN 4 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14588.jpg?30693" group-title="Nl| Netherlands Sd" tvg-country="NL",ESPN 4 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536221.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTSELECTLQ.nl" tvg-name="ZIGGO SPORT SELECT LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/607.jpg?68285" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT SELECT LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536220.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTVOETBALLQ.nl" tvg-name="ZIGGO SPORT VOETBAL LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/603.jpg?5398" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT VOETBAL LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536219.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTGOLFLQ.nl" tvg-name="ZIGGO SPORT GOLF LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/605.png?38305" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT GOLF LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536218.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTRACINGLQ.nl" tvg-name="ZIGGO SPORT RACING LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/5980.jpg?7490" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT RACING LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536217.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTDOCULQ.nl" tvg-name="ZIGGO SPORT DOCU LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12597.jpg?78708" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT DOCU LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536216.ts
+#EXTINF:-1 tvg-id="ZIGGOSPORTTENNISLQ.nl" tvg-name="ZIGGO SPORT TENNIS LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1384.png?13553" group-title="Nl| Netherlands Sd" tvg-country="NL",ZIGGO SPORT TENNIS LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536215.ts
+#EXTINF:-1 tvg-id="EUROSPORT1LQ.nl" tvg-name="EUROSPORT 1 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?20950" group-title="Nl| Netherlands Sd" tvg-country="NL",EUROSPORT 1 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536214.ts
+#EXTINF:-1 tvg-id="EUROSPORT2LQ.nl" tvg-name="EUROSPORT 2 LQ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14071.png?90362" group-title="Nl| Netherlands Sd" tvg-country="NL",EUROSPORT 2 LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/536213.ts

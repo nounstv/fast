@@ -1,0 +1,50 @@
+[
+  {
+    "tvgId": "KURDLOWINTERNET",
+    "name": "### KURD LOW INTERNET ###",
+    "originalName": "### KURD LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499530.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kurdish.gif",
+    "category": "Ar| Kurd Lq ▼ كردستان",
+    "originalCategory": "AR| KURD LQ ▼ كردستان",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RUDAWLQ.ar",
+    "name": "RUDAW LQ",
+    "originalName": "AR: RUDAW LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499529.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/976.jpg?25067",
+    "category": "Ar| Kurd Lq ▼ كردستان",
+    "originalCategory": "AR| KURD LQ ▼ كردستان",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BANGAWAZTVLQ.ar",
+    "name": "BANGAWAZ TV LQ",
+    "originalName": "AR: BANGAWAZ TV LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499528.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/964.png?ver=99752",
+    "category": "Ar| Kurd Lq ▼ كردستان",
+    "originalCategory": "AR| KURD LQ ▼ كردستان",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CHANNEL8KURLQ.ar",
+    "name": "CHANNEL 8 KUR LQ",
+    "originalName": "AR: CHANNEL 8 KUR LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/700983.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12115.jpg?89170",
+    "category": "Ar| Kurd Lq ▼ كردستان",
+    "originalCategory": "AR| KURD LQ ▼ كردستان",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  }
+]

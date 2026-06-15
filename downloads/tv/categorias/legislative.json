@@ -1,1810 +1,1262 @@
 [
   {
-    "id": "UTPQHefSxSVqfS",
+    "tvgId": "UTPQHefSxSVqfS",
     "name": "AccessVision Channel 17",
+    "originalName": "AccessVision Channel 17",
     "url": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ACC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "vqFXUAvAcfaAOu",
+    "tvgId": "vqFXUAvAcfaAOu",
     "name": "ACTV",
+    "originalName": "ACTV",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ACT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "I5etK19ZRT3eHn",
+    "tvgId": "I5etK19ZRT3eHn",
     "name": "ATXN1",
+    "originalName": "ATXN1",
     "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ATX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "l6t1LyMy9mHMzV",
+    "tvgId": "l6t1LyMy9mHMzV",
     "name": "ATXN2",
+    "originalName": "ATXN2",
     "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ATX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "2s87sxYLm0FfDz",
+    "tvgId": "2s87sxYLm0FfDz",
     "name": "BPTV",
+    "originalName": "BPTV",
     "url": "https://buenapark.cablecast.tv/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BPT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://buenapark.cablecast.tv/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LHPz1aKU2GRHnH",
+    "tvgId": "LHPz1aKU2GRHnH",
     "name": "Brevard Government Access TV",
+    "originalName": "Brevard Government Access TV",
     "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BRE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "nvi12xPQhPg1F5",
+    "tvgId": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
+    "originalName": "Canal Gov",
     "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://canalgov-stream.ebc.com.br/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "rNsPk0ZuXHne3A",
+    "tvgId": "rNsPk0ZuXHne3A",
     "name": "Canal Parlamento",
+    "originalName": "Canal Parlamento",
     "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zjs8fScsFVoj7q",
+    "tvgId": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
+    "originalName": "Canal Parlamento del Congreso de Jalisco",
     "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tHu1Wqu4FkVfeh",
+    "tvgId": "tHu1Wqu4FkVfeh",
     "name": "Capital City Connection Montgomery",
+    "originalName": "Capital City Connection Montgomery",
     "url": "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CAP",
-    "streamCount": 1,
-    "allStreams": [
-      "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xIwhqLk3kSoWQX",
+    "tvgId": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
+    "originalName": "CFM TV Channel 98",
     "url": "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CFM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "8h6KOJsz3bPpts",
+    "tvgId": "8h6KOJsz3bPpts",
     "name": "CGTV",
+    "originalName": "CGTV",
     "url": "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CGT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "udSOaNy3d31JFB",
+    "tvgId": "udSOaNy3d31JFB",
     "name": "Chamber TV",
+    "originalName": "Chamber TV",
     "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [
-      "fra",
-      "ltz"
-    ],
-    "description": "Canal de TV de Luxembourg. Idioma: fra, ltz.",
-    "logoText": "CHA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zzIInP1RoY4ur6",
+    "tvgId": "zzIInP1RoY4ur6",
     "name": "Channel 10",
+    "originalName": "Channel 10",
     "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CHA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "jBe008vis1MIBq",
+    "tvgId": "jBe008vis1MIBq",
     "name": "City of Fort Pierce",
+    "originalName": "City of Fort Pierce",
     "url": "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "p9TPCkNNGjcV0i",
+    "tvgId": "p9TPCkNNGjcV0i",
     "name": "City of Monroe Government Channel",
+    "originalName": "City of Monroe Government Channel",
     "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "asX42h8yD38q9i",
+    "tvgId": "asX42h8yD38q9i",
     "name": "City of Pompano Beach",
+    "originalName": "City of Pompano Beach",
     "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lRKUVxSJLWtW94",
+    "tvgId": "lRKUVxSJLWtW94",
     "name": "City TV Channel 3/41",
+    "originalName": "City TV Channel 3/41",
     "url": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "wsxEmspfNhwYCf",
+    "tvgId": "wsxEmspfNhwYCf",
     "name": "CityTV 20 Santa Monica",
+    "originalName": "CityTV 20 Santa Monica",
     "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CI4BtTpHkRl4IU",
+    "tvgId": "CI4BtTpHkRl4IU",
     "name": "CityTV San Diego",
+    "originalName": "CityTV San Diego",
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LWkzNCIwYTynxm",
+    "tvgId": "LWkzNCIwYTynxm",
     "name": "CityTV Whittier",
+    "originalName": "CityTV Whittier",
     "url": "https://whittier.cablecast.tv/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "76XEEWIKvtOIp7",
+    "tvgId": "76XEEWIKvtOIp7",
     "name": "CMAC 3",
+    "originalName": "CMAC 3",
     "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CMA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "cHPhcPLu73X5fb",
+    "tvgId": "cHPhcPLu73X5fb",
     "name": "CMAP Channel 17",
+    "originalName": "CMAP Channel 17",
     "url": "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CMA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "lok7xMrGEcjtOH",
+    "tvgId": "lok7xMrGEcjtOH",
     "name": "Collier TV",
+    "originalName": "Collier TV",
     "url": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "COL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "6mQSbFMohfxTL1",
+    "tvgId": "6mQSbFMohfxTL1",
     "name": "Community 12TV",
+    "originalName": "Community 12TV",
     "url": "https://lin10.isilive.ca/live/gainesville/live/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "COM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5ymwJKVoGafdCH",
+    "tvgId": "5ymwJKVoGafdCH",
     "name": "COStv",
+    "originalName": "COStv",
     "url": "https://irctv.cablecast.tv/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "COS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://irctv.cablecast.tv/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UWYpFYNe7zRGbA",
+    "tvgId": "UWYpFYNe7zRGbA",
     "name": "Cruz TV",
+    "originalName": "Cruz TV",
     "url": "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "CRU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "rIKYP5py1TrF7Q",
+    "tvgId": "rIKYP5py1TrF7Q",
     "name": "CT-N Court Feed",
+    "originalName": "CT-N Court Feed",
     "url": "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CT-",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "54APtzgfl8rhY2",
+    "tvgId": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
+    "originalName": "CT-N Live Stream 2",
     "url": "https://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CT-",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.ct-n.com/live/web2stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9Cb1QitN6W4Cqb",
+    "tvgId": "9Cb1QitN6W4Cqb",
     "name": "CT-N TV Conneticut",
+    "originalName": "CT-N TV Conneticut",
     "url": "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CT-",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "s4rmwbOJvp7dJM",
+    "tvgId": "s4rmwbOJvp7dJM",
     "name": "Cupertino City Channel",
+    "originalName": "Cupertino City Channel",
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "CUP",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "nmv9vKmWVIcUqF",
+    "tvgId": "nmv9vKmWVIcUqF",
     "name": "CVC Government",
+    "originalName": "CVC Government",
     "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CVC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EOOHW9e8RixWCJ",
+    "tvgId": "EOOHW9e8RixWCJ",
     "name": "Cypress Channel 36",
+    "originalName": "Cypress Channel 36",
     "url": "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CYP",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "uFGOTQx0dq9aok",
+    "tvgId": "uFGOTQx0dq9aok",
     "name": "DC Council Hearing Room 120",
+    "originalName": "DC Council Hearing Room 120",
     "url": "https://video.oct.dc.gov/out/u/97_12.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DC ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yuAKJus9326voW",
+    "tvgId": "yuAKJus9326voW",
     "name": "DCC",
+    "originalName": "DCC",
     "url": "https://video.oct.dc.gov/out/u/DCC.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DCC",
-    "streamCount": 2,
-    "allStreams": [
-      "https://video.oct.dc.gov/out/u/DCC.m3u8",
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HwKHXDFyUl7yIW",
+    "tvgId": "HwKHXDFyUl7yIW",
     "name": "Denver 8 TV",
+    "originalName": "Denver 8 TV",
     "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DEN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ApGDxajKB8Y5cQ",
+    "tvgId": "ApGDxajKB8Y5cQ",
     "name": "DerryTV 17",
+    "originalName": "DerryTV 17",
     "url": "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DER",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ge1ZHaFi4hsusD",
+    "tvgId": "Ge1ZHaFi4hsusD",
     "name": "District of Columbia Network",
+    "originalName": "District of Columbia Network",
     "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DIS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xupLUhlUhMmQst",
+    "tvgId": "xupLUhlUhMmQst",
     "name": "Duma TV",
+    "originalName": "Duma TV",
     "url": "https://dumatv.iptv2022.com/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "DUM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xnU10BQX3X7Kmm",
+    "tvgId": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
+    "originalName": "Fernandina Beach Channel",
     "url": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "FER",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zgZETkiLQsKXGO",
+    "tvgId": "zgZETkiLQsKXGO",
     "name": "Glendale 11 AZ",
+    "originalName": "Glendale 11 AZ",
     "url": "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "GLE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PsMqFqnEG1eA7B",
+    "tvgId": "PsMqFqnEG1eA7B",
     "name": "Government TV 16",
+    "originalName": "Government TV 16",
     "url": "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "GOV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "1KF4BmA1ZlQTBa",
+    "tvgId": "1KF4BmA1ZlQTBa",
     "name": "Greensboro TV",
+    "originalName": "Greensboro TV",
     "url": "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "GRE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zfdgzXgQZmoAvu",
+    "tvgId": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
+    "originalName": "Hellenic Parliament TV",
     "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "GR",
-    "countryName": "Greece",
-    "languages": [
-      "ell"
-    ],
-    "description": "Canal de TV de Greece. Idioma: ell.",
-    "logoText": "HEL",
-    "streamCount": 2,
-    "allStreams": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HavmcrAkSvW36Q",
+    "tvgId": "HavmcrAkSvW36Q",
     "name": "Hillsborough TV",
+    "originalName": "Hillsborough TV",
     "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HIL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "fA9TEJ4ZsGIi2e",
+    "tvgId": "fA9TEJ4ZsGIi2e",
     "name": "HTV 1 Houston Television",
+    "originalName": "HTV 1 Houston Television",
     "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HTV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "l0iAfvu6mSVdXN",
+    "tvgId": "l0iAfvu6mSVdXN",
     "name": "HTV 2 Houston Television",
+    "originalName": "HTV 2 Houston Television",
     "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HTV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tsY7Oi70RUlWEA",
+    "tvgId": "tsY7Oi70RUlWEA",
     "name": "Icrtv Colima",
+    "originalName": "Icrtv Colima",
     "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "ICR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MdYnmsFTlP5Wem",
+    "tvgId": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
+    "originalName": "Justicia TV",
     "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "JUS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "bfHsFsgyNC32ys",
+    "tvgId": "bfHsFsgyNC32ys",
     "name": "Kern County TV",
+    "originalName": "Kern County TV",
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "KER",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "pEAMt0Cl6awh5C",
+    "tvgId": "pEAMt0Cl6awh5C",
     "name": "KTOP",
+    "originalName": "KTOP",
     "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa",
-      "vie"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa, vie.",
-    "logoText": "KTO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QCanIPPvtrIdKY",
+    "tvgId": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
+    "originalName": "Lake Havasu City 4",
     "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LAK",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ib0vAPeUOAHuDp",
+    "tvgId": "Ib0vAPeUOAHuDp",
     "name": "LBTV",
+    "originalName": "LBTV",
     "url": "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LBT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NLIFoRpmAx5nwO",
+    "tvgId": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
+    "originalName": "Legislative Assembly of El Salvador",
     "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "SV",
-    "countryName": "El Salvador",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de El Salvador. Idioma: spa.",
-    "logoText": "LEG",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "I6uCCfd71b4oev",
+    "tvgId": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
+    "originalName": "Legislative Assembly of Ontario",
     "url": "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng, fra.",
-    "logoText": "LEG",
-    "streamCount": 2,
-    "allStreams": [
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ggVaTzuCKy1JEd",
+    "tvgId": "ggVaTzuCKy1JEd",
     "name": "Legislative Assembly TV Nunavut",
+    "originalName": "Legislative Assembly TV Nunavut",
     "url": "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng.",
-    "logoText": "LEG",
-    "streamCount": 1,
-    "allStreams": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hXk0VgitqbFza7",
+    "tvgId": "hXk0VgitqbFza7",
     "name": "Leominster TV Government",
+    "originalName": "Leominster TV Government",
     "url": "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LEO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "34CF4rMC60iyyn",
+    "tvgId": "34CF4rMC60iyyn",
     "name": "Lex TV",
+    "originalName": "Lex TV",
     "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LEX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JNyo9F9UzYyge3",
+    "tvgId": "JNyo9F9UzYyge3",
     "name": "LGTV",
+    "originalName": "LGTV",
     "url": "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LGT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "S0SQt4uHWW3pJv",
+    "tvgId": "S0SQt4uHWW3pJv",
     "name": "Martin County TV",
+    "originalName": "Martin County TV",
     "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "kDdnzcMq5qo5B2",
+    "tvgId": "kDdnzcMq5qo5B2",
     "name": "MBTV",
+    "originalName": "MBTV",
     "url": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MBT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "J49I0cja3V1GVG",
+    "tvgId": "J49I0cja3V1GVG",
     "name": "Midpen Media Center Channel 29",
+    "originalName": "Midpen Media Center Channel 29",
     "url": "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MID",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "htfvD77W7qLUSn",
+    "tvgId": "htfvD77W7qLUSn",
     "name": "Monroe County TV",
+    "originalName": "Monroe County TV",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MON",
-    "streamCount": 1,
-    "allStreams": [
-      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "G91NOrrqX23WUi",
+    "tvgId": "G91NOrrqX23WUi",
     "name": "Natick Government Channel",
+    "originalName": "Natick Government Channel",
     "url": "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "NAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "XdBBT0nNYrdIFQ",
+    "tvgId": "XdBBT0nNYrdIFQ",
     "name": "NMBTV",
+    "originalName": "NMBTV",
     "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "NMB",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "vAF449D1XN8HSx",
+    "tvgId": "vAF449D1XN8HSx",
     "name": "Olelo 49",
+    "originalName": "Olelo 49",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OLE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PXe05XrFV8aWeE",
+    "tvgId": "PXe05XrFV8aWeE",
     "name": "Olelo 54",
+    "originalName": "Olelo 54",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "OLE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EU0vQUFqUH2wCU",
+    "tvgId": "EU0vQUFqUH2wCU",
     "name": "Ontario Parliamentary Network",
+    "originalName": "Ontario Parliamentary Network",
     "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng.",
-    "logoText": "ONT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VZPY6lzCUebW62",
+    "tvgId": "VZPY6lzCUebW62",
     "name": "Orange Government Access TV",
+    "originalName": "Orange Government Access TV",
     "url": "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ORA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hKXziqHmvJRVZi",
+    "tvgId": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
+    "originalName": "Parlamentsfernsehen 1",
     "url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "PAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "pGZdS7NMq1FAlR",
+    "tvgId": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
+    "originalName": "Parliament TV",
     "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NZ",
-    "countryName": "New Zealand",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de New Zealand. Idioma: eng.",
-    "logoText": "PAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "arkaiC3h3BOt71",
+    "tvgId": "arkaiC3h3BOt71",
     "name": "PCTV 26",
+    "originalName": "PCTV 26",
     "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "PCT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "StqTBnuulyCkPJ",
+    "tvgId": "StqTBnuulyCkPJ",
     "name": "PHLgovTV",
+    "originalName": "PHLgovTV",
     "url": "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "PHL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kiug778WYBonYE",
+    "tvgId": "Kiug778WYBonYE",
     "name": "PHXTV",
+    "originalName": "PHXTV",
     "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "PHX",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HSwH6uFzgwd6tN",
+    "tvgId": "HSwH6uFzgwd6tN",
     "name": "Privesc.Eu TV",
+    "originalName": "Privesc.Eu TV",
     "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "MD",
-    "countryName": "Moldova",
-    "languages": [
-      "ron"
-    ],
-    "description": "Canal de TV de Moldova. Idioma: ron.",
-    "logoText": "PRI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "4ZoIV04EJZdC50",
+    "tvgId": "4ZoIV04EJZdC50",
     "name": "PSL TV",
+    "originalName": "PSL TV",
     "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "PSL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "02FZNtdjYpb1eU",
+    "tvgId": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
+    "originalName": "Sansad TV 1",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "description": "Canal de TV de India. Idioma: eng, hin.",
-    "logoText": "SAN",
-    "streamCount": 2,
-    "allStreams": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "7uZQEY7iiyput2",
+    "tvgId": "7uZQEY7iiyput2",
     "name": "Sansad TV 2",
+    "originalName": "Sansad TV 2",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "description": "Canal de TV de India. Idioma: eng, hin.",
-    "logoText": "SAN",
-    "streamCount": 3,
-    "allStreams": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-      "https://cdn-2.pishow.tv/live/39/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZLv6M8x6GdOHFN",
+    "tvgId": "ZLv6M8x6GdOHFN",
     "name": "Senato TV",
+    "originalName": "Senato TV",
     "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "IT",
-    "countryName": "Italy",
-    "languages": [
-      "ita"
-    ],
-    "description": "Canal de TV de Italy. Idioma: ita.",
-    "logoText": "SEN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QvfZ45T9wvpbFD",
+    "tvgId": "QvfZ45T9wvpbFD",
     "name": "SFGovTV",
+    "originalName": "SFGovTV",
     "url": "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "SFG",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RAFoXPaBmLZEF9",
+    "tvgId": "RAFoXPaBmLZEF9",
     "name": "SGTV",
+    "originalName": "SGTV",
     "url": "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "SGT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yjgN99uo0EpNFd",
+    "tvgId": "yjgN99uo0EpNFd",
     "name": "SMCTV Channel 23",
+    "originalName": "SMCTV Channel 23",
     "url": "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "SMC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "h50zFJwbL1011G",
+    "tvgId": "h50zFJwbL1011G",
     "name": "SPTV",
+    "originalName": "SPTV",
     "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "SPT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OYvTn4IG3sRdlR",
+    "tvgId": "OYvTn4IG3sRdlR",
     "name": "Stockton Gov TV",
+    "originalName": "Stockton Gov TV",
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "STO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ztLXAJFpTRNVhe",
+    "tvgId": "ztLXAJFpTRNVhe",
     "name": "Thai Parliament Television",
+    "originalName": "Thai Parliament Television",
     "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: tha.",
-    "logoText": "THA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9UN9Gjy7DEzHxw",
+    "tvgId": "9UN9Gjy7DEzHxw",
     "name": "The City of Marina",
+    "originalName": "The City of Marina",
     "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "THE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ztNrNzCLndWIQ7",
+    "tvgId": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
+    "originalName": "The Parliamentary Channel",
     "url": "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "BS",
-    "countryName": "Bahamas",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Bahamas. Idioma: eng.",
-    "logoText": "THE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "am21AdPLsYEXMM",
+    "tvgId": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
+    "originalName": "The Peninsula Channel",
     "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "THE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zl4dG47LdOz5oN",
+    "tvgId": "zl4dG47LdOz5oN",
     "name": "TV Camara",
+    "originalName": "TV Camara",
     "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "O9KswxaS8gTKY7",
+    "tvgId": "O9KswxaS8gTKY7",
     "name": "TV from the Danish Parliament",
+    "originalName": "TV from the Danish Parliament",
     "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "DK",
-    "countryName": "Denmark",
-    "languages": [
-      "dan",
-      "eng"
-    ],
-    "description": "Canal de TV de Denmark. Idioma: dan, eng.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KDBDQ4u8C3aqtH",
+    "tvgId": "KDBDQ4u8C3aqtH",
     "name": "TV NRSR",
+    "originalName": "TV NRSR",
     "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "SK",
-    "countryName": "Slovakia",
-    "languages": [
-      "slk"
-    ],
-    "description": "Canal de TV de Slovakia. Idioma: slk.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hU48Z3zrKcvX0i",
+    "tvgId": "hU48Z3zrKcvX0i",
     "name": "TV4",
+    "originalName": "TV4",
     "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "TV4",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yaYUxFsan9hbOE",
+    "tvgId": "yaYUxFsan9hbOE",
     "name": "Tweede Kamer: Actualiteitenkanaal",
+    "originalName": "Tweede Kamer: Actualiteitenkanaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "6OQOS7AT6Gma3n",
+    "tvgId": "6OQOS7AT6Gma3n",
     "name": "Tweede Kamer: Aletta Jacobszaal",
+    "originalName": "Tweede Kamer: Aletta Jacobszaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5hB4P9nJujh5eA",
+    "tvgId": "5hB4P9nJujh5eA",
     "name": "Tweede Kamer: Enquetezaal",
+    "originalName": "Tweede Kamer: Enquetezaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PL16C9OHm1Jw0b",
+    "tvgId": "PL16C9OHm1Jw0b",
     "name": "Tweede Kamer: Groen van Prinstererzaal",
+    "originalName": "Tweede Kamer: Groen van Prinstererzaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BJ3SYF7xMwSu2u",
+    "tvgId": "BJ3SYF7xMwSu2u",
     "name": "Tweede Kamer: Max van der Stoelzaal",
+    "originalName": "Tweede Kamer: Max van der Stoelzaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MOoTHhVYsb8MlG",
+    "tvgId": "MOoTHhVYsb8MlG",
     "name": "Tweede Kamer: Plenaire zaal",
+    "originalName": "Tweede Kamer: Plenaire zaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "rB1O4Lh7x5fa2y",
+    "tvgId": "rB1O4Lh7x5fa2y",
     "name": "Tweede Kamer: Suze Groenewegzaal",
+    "originalName": "Tweede Kamer: Suze Groenewegzaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qHNjpcf1s4YBcD",
+    "tvgId": "qHNjpcf1s4YBcD",
     "name": "Tweede Kamer: Thorbeckezaal",
+    "originalName": "Tweede Kamer: Thorbeckezaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9j3l55qDqhq9x4",
+    "tvgId": "9j3l55qDqhq9x4",
     "name": "Tweede Kamer: Troelstrazaal",
+    "originalName": "Tweede Kamer: Troelstrazaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xk5ybVwggmYe7A",
+    "tvgId": "xk5ybVwggmYe7A",
     "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
+    "originalName": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
     "url": "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "nld"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: nld.",
-    "logoText": "TWE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "mAWCWxuOurkpj4",
+    "tvgId": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
+    "originalName": "YouDotGov",
     "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "YOU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "898ph5e04yTbmM",
+    "tvgId": "898ph5e04yTbmM",
     "name": "Yuma Channel 72",
+    "originalName": "Yuma Channel 72",
     "url": "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "YUM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yyhJA8joubrs7E",
+    "tvgId": "yyhJA8joubrs7E",
     "name": "Yuma Channel 73",
+    "originalName": "Yuma Channel 73",
     "url": "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Legislative",
+    "originalCategory": "Legislative",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng, spa.",
-    "logoText": "YUM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

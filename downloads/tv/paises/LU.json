@@ -1,369 +1,122 @@
 [
   {
-    "id": "apartTV.lu",
+    "tvgId": "8W6k7lrcWYDap4",
     "name": "apart TV",
-    "logo": "https://i.imgur.com/IBcMIcZ.png",
-    "logoText": "APA",
+    "originalName": "apart TV",
     "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Lifestyle",
-    "categories": [
-      "lifestyle",
-      "business",
-      "culture"
-    ],
+    "originalCategory": "Lifestyle",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://www.apart-tv.lu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ChamberTV.lu",
+    "tvgId": "udSOaNy3d31JFB",
     "name": "Chamber TV",
-    "logo": "https://i.imgur.com/0QHb3bc.png",
-    "logoText": "CHA",
+    "originalName": "Chamber TV",
     "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "originalCategory": "Legislative",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: http://www.chd.lu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DudelangeTV.lu",
+    "tvgId": "MBd7UC3OR31Tht",
     "name": "Dudelange TV",
-    "logo": "https://i.imgur.com/2dLYZsc.png",
-    "logoText": "DUD",
+    "originalName": "Dudelange TV",
     "url": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://www.dudelange.lu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "eldoTV.lu",
+    "tvgId": "9H4bSz1MtWbjCt",
     "name": "eldo.TV",
-    "logo": "https://i.imgur.com/vCMQLlt.png",
-    "logoText": "ELD",
+    "originalName": "eldo.TV",
     "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://www.eldo.lu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HesperTV.lu",
+    "tvgId": "ye8TvkvdzwW6pe",
     "name": "Hesper TV",
-    "logo": "https://i.imgur.com/91CJCPs.png",
-    "logoText": "HES",
+    "originalName": "Hesper TV",
     "url": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://www.hesperange.lu/lu/medias/hesper-tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LuxeTV.lu",
-    "name": "Luxe TV",
-    "logo": "https://i.imgur.com/24ehonx.png",
-    "logoText": "LUX",
-    "url": "http://103.154.3.101:5001/live/1736.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.154.3.101:5001/live/1736.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://luxe.tv/"
-  },
-  {
-    "id": "MamerTV.lu",
+    "tvgId": "32L8oauWbYm9hm",
     "name": "Mamer TV",
-    "logo": "https://i.imgur.com/THnWggV.jpg",
-    "logoText": "MAM",
+    "originalName": "Mamer TV",
     "url": "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://mamer.lu/media-centre/mamer-tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MierschTV.lu",
+    "tvgId": "45ac4CoF7bAaFa",
     "name": "MierschTV",
-    "logo": "https://i.imgur.com/Vdc1GYP.jpg",
-    "logoText": "MIE",
+    "originalName": "MierschTV",
     "url": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://mersch.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PetangeInfoTV.lu",
+    "tvgId": "SAUZGArKPwnCQR",
     "name": "Petange Info TV",
-    "logo": "https://i.imgur.com/qeaD5Az.png",
-    "logoText": "PET",
+    "originalName": "Petange Info TV",
     "url": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://petange.lu/mediatheque/petange-info-tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTLGold.lu",
+    "tvgId": "uOiBx0AcUgb3bN",
     "name": "RTL Gold",
-    "logo": "https://i.imgur.com/LzHQoUv.png",
-    "logoText": "RTL",
+    "originalName": "RTL Gold",
     "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://play.rtl.lu/live/rtl-gold"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTLTeleLetzebuerg.lu",
-    "name": "RTL Tele Letzebuerg",
-    "logo": "https://i.imgur.com/fkW5Gbl.png",
-    "logoText": "RTL",
-    "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://www.rtl.lu/tele"
-  },
-  {
-    "id": "RTLWebRadioTV.lu",
-    "name": "RTL Web Radio TV",
-    "logo": "https://i.imgur.com/qyc8LsE.png",
-    "logoText": "RTL",
-    "url": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://play.rtl.lu/live/radio"
-  },
-  {
-    "id": "RTLZwee.lu",
-    "name": "RTL Zwee",
-    "logo": "https://i.imgur.com/7SmCtyy.png",
-    "logoText": "RTL",
-    "url": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: http://www.rtl.lu/tele/"
-  },
-  {
-    "id": "RTL9.lu",
-    "name": "RTL9",
-    "logo": "https://i.imgur.com/nFqjVNW.png",
-    "logoText": "RTL",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: http://www.rtl9.com/"
-  },
-  {
-    "id": "TodayRadio.lu",
+    "tvgId": "4HFk1EIyyY3Rms",
     "name": "Today Radio",
-    "logo": "https://i.imgur.com/O1c6wpt.png",
-    "logoText": "TOD",
+    "originalName": "Today Radio",
     "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LU",
-    "countryName": "Luxembourg",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Luxembourg. Language: N/A. Website: https://today.rtl.lu/radio"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,435 +1,74 @@
 [
   {
-    "id": "AghapyTV.eg",
+    "tvgId": "hmJBHkCQQky6u9",
     "name": "Aghapy TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
-    "logoText": "AGH",
+    "originalName": "Aghapy TV",
     "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: http://www.aghapy.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlGhadTV.eg",
-    "name": "Al Ghad TV",
-    "logo": "https://i.imgur.com/ga6NXb9.png",
-    "logoText": "AL ",
-    "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "PKOl6YLNA3xe6A",
+    "name": "ATVSat",
+    "originalName": "ATVSat",
+    "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.alghad.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlMasriyah.eg",
-    "name": "Al Masriyah",
-    "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
-    "logoText": "AL ",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: http://dotnet.ertu.org/"
-  },
-  {
-    "id": "CBC.eg",
-    "name": "CBC",
-    "logo": "https://i.imgur.com/8apNaLP.png",
-    "logoText": "CBC",
-    "url": "https://flu.systemnet.tv/CBC/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flu.systemnet.tv/CBC/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.cbc-eg.com/"
-  },
-  {
-    "id": "CBCDrama.eg",
-    "name": "CBC Drama",
-    "logo": "https://i.imgur.com/I8YdakH.png",
-    "logoText": "CBC",
-    "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.cbc-eg.com/drama"
-  },
-  {
-    "id": "CBCSofra.eg",
-    "name": "CBC Sofra",
-    "logo": "https://i.imgur.com/YAdk2WR.png",
-    "logoText": "CBC",
-    "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://sofra.cbc-eg.com/"
-  },
-  {
-    "id": "CopticTV.eg",
+    "tvgId": "cldgrOT0slw0oJ",
     "name": "Coptic TV",
-    "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
-    "logoText": "COP",
+    "originalName": "Coptic TV",
     "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.ctvchannel.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ElRadio9090FM.eg",
+    "tvgId": "dSBCv9wMIeHZkP",
     "name": "El Radio 9090 FM",
-    "logo": "https://www.9090.fm/images/logo.png",
-    "logoText": "EL ",
+    "originalName": "El Radio 9090 FM",
     "url": "https://9090video.mobtada.com/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://9090video.mobtada.com/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.9090.fm/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HudaTV.eg",
+    "tvgId": "9PE4R6NdLx4OF9",
     "name": "Huda TV",
-    "logo": "https://i.imgur.com/1UUjU26.png",
-    "logoText": "HUD",
+    "originalName": "Huda TV",
     "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://huda.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KoogiTV.eg",
-    "name": "Koogi TV",
-    "logo": "https://i.imgur.com/zojMTP9.png",
-    "logoText": "KOO",
-    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids",
-      "religious"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.koogi.tv/"
-  },
-  {
-    "id": "MBC1Egypt.eg",
-    "name": "MBC 1 Egypt",
-    "logo": "https://i.imgur.com/CiA3plN.png",
-    "logoText": "MBC",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A."
-  },
-  {
-    "id": "MBCMasr.eg",
-    "name": "MBC Masr",
-    "logo": "https://i.imgur.com/o2elx0u.png",
-    "logoText": "MBC",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: http://www.mbc.net/ar/mbc-maser.html"
-  },
-  {
-    "id": "MBCMasr2.eg",
-    "name": "MBC Masr 2",
-    "logo": "https://i.imgur.com/KHo7Gtn.png",
-    "logoText": "MBC",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: http://www.mbc.net/ar/mbc-maser.html"
-  },
-  {
-    "id": "MixHollywood.eg",
-    "name": "Mix Hollywood",
-    "logo": "https://i.imgur.com/1ENdbZn.png",
-    "logoText": "MIX",
-    "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A."
-  },
-  {
-    "id": "NogoumFMTV.eg",
-    "name": "NogoumFMTV",
-    "logo": "https://i.imgur.com/krp3kgv.png",
-    "logoText": "NOG",
-    "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://www.nogoumfm.net/"
-  },
-  {
-    "id": "PNCDrama.eg",
-    "name": "PNC Drama",
-    "logo": "https://i.imgur.com/Hg34mg3.png",
-    "logoText": "PNC",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "streams": [
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A."
-  },
-  {
-    "id": "RotanaCinemaEgypt.eg",
-    "name": "Rotana Cinema Egypt",
-    "logo": "https://i.imgur.com/dGlKoLW.png",
-    "logoText": "ROT",
-    "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: http://www.cinema.rotana.net/"
-  },
-  {
-    "id": "WatanTV.eg",
+    "tvgId": "sq4B9IaZBUPu1Y",
     "name": "Watan TV",
-    "logo": "https://i.imgur.com/pZyKaUH.png",
-    "logoText": "WAT",
+    "originalName": "Watan TV",
     "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "EG",
-    "countryName": "Egypt",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Egypt. Language: N/A. Website: https://watanegypt.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

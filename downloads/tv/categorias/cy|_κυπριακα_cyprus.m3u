@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CYPRUS" tvg-name="###### ΚΥΠΡΙΑΚΑ/CYPRUS ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Cyprus.gif" group-title="Cy| Κυπριακα/Cyprus",###### ΚΥΠΡΙΑΚΑ/CYPRUS ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460781.ts
+#EXTINF:-1 tvg-id="ERTWORLDNA.cy" tvg-name="ERT WORLD (NA)" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ERT-WORLD.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",ERT WORLD (NA)
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460778.ts
+#EXTINF:-1 tvg-id="ANT1.cy" tvg-name="ANT1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",ANT1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460762.ts
+#EXTINF:-1 tvg-id="4ETV.cy" tvg-name="4E TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/4e.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",4E TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460743.ts
+#EXTINF:-1 tvg-id="RIKSAT.cy" tvg-name="RIK SAT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10079.jpg?7351" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",RIK SAT
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341612.ts
+#EXTINF:-1 tvg-id="REGIONAL" tvg-name="###### REGIONAL ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Cyprus.gif" group-title="Cy| Κυπριακα/Cyprus",###### REGIONAL ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460735.ts
+#EXTINF:-1 tvg-id="RIK.cy" tvg-name="RIK" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RIK-1.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",RIK
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460725.ts
+#EXTINF:-1 tvg-id="RIK2.cy" tvg-name="RIK 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/RIK-2.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",RIK 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460724.ts
+#EXTINF:-1 tvg-id="PLUSCYPRUS.cy" tvg-name="PLUS CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PLUS-CYPRUS.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",PLUS CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460723.ts
+#EXTINF:-1 tvg-id="OMEGACYPRUS.cy" tvg-name="OMEGA CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OMEGA-CYPRUS.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",OMEGA CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460722.ts
+#EXTINF:-1 tvg-id="EXTRACYPRUS.cy" tvg-name="EXTRA CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EXTRA-CYPRUS.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",EXTRA CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460721.ts
+#EXTINF:-1 tvg-id="CAPITALCYPRUS.cy" tvg-name="CAPITAL CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CAPITAL-CYPRUS.jpeg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CAPITAL CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460720.ts
+#EXTINF:-1 tvg-id="ANT1CYPRUS.cy" tvg-name="ANT1 CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-CYPRUS.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",ANT1 CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460719.ts
+#EXTINF:-1 tvg-id="ALPHACYPRUS.cy" tvg-name="ALPHA CYPRUS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ALPHA-CYPRUS.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",ALPHA CYPRUS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460718.ts
+#EXTINF:-1 tvg-id="ERTWORLD.cy" tvg-name="ERT WORLD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ERT-WORLD.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",ERT WORLD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460674.ts
+#EXTINF:-1 tvg-id="RIKSATCY.cy" tvg-name="RIK SAT CY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/riksat.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",RIK SAT CY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460647.ts
+#EXTINF:-1 tvg-id="SIGMACY.cy" tvg-name="SIGMA CY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SIGMA-CYPRUS.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",SIGMA CY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460645.ts
+#EXTINF:-1 tvg-id="SMILETVCY.cy" tvg-name="SMILE TV CY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SMILE-TV.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",SMILE TV CY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460644.ts
+#EXTINF:-1 tvg-id="CYTAVIZIONSP1HD.cy" tvg-name="CYTA VIZION SP1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTA VIZION SP1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460822.ts
+#EXTINF:-1 tvg-id="CYTAVIZIONSP2HD.cy" tvg-name="CYTA VIZION SP2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTA VIZION SP2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460821.ts
+#EXTINF:-1 tvg-id="RELOADRADIO.cy" tvg-name="RELOAD RADIO" tvg-logo="https://i.imgur.com/fwPUazv.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",RELOAD RADIO
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460648.ts
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="#### SPORTS ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Cyprus.gif" group-title="Cy| Κυπριακα/Cyprus",#### SPORTS ####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460837.ts
+#EXTINF:-1 tvg-id="CABLENETSP1HD.cy" tvg-name="CABLENET SP1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/CABLENET-SPORTS-3.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CABLENET SP1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460823.ts
+#EXTINF:-1 tvg-id="CYTASPORT1HDLIVEEVENT.cy" tvg-name="CYTA SPORT 1 HD [LIVE-EVENT]" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTA SPORT 1 HD [LIVE-EVENT]
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460836.ts
+#EXTINF:-1 tvg-id="CYTASPORT2HDLIVEEVENT.cy" tvg-name="CYTA SPORT 2 HD [LIVE-EVENT]" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTA SPORT 2 HD [LIVE-EVENT]
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460835.ts
+#EXTINF:-1 tvg-id="CABLENETSPORTS1HD.cy" tvg-name="CABLENET SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS1.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CABLENET SPORTS 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460882.ts
+#EXTINF:-1 tvg-id="CABLENETSPORTS2HD.cy" tvg-name="CABLENET SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS2.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CABLENET SPORTS 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460881.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS1HD.cy" tvg-name="CYTAVISION SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 1 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460830.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS2HD.cy" tvg-name="CYTAVISION SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460829.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS3HD.cy" tvg-name="CYTAVISION SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460828.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS4HD.cy" tvg-name="CYTAVISION SPORTS 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 4 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460827.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS5HD.cy" tvg-name="CYTAVISION SPORTS 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 5 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460826.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS6HD.cy" tvg-name="CYTAVISION SPORTS 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 6 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460825.ts
+#EXTINF:-1 tvg-id="CYTAVISIONSPORTS7HD.cy" tvg-name="CYTAVISION SPORTS 7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CYTAVISION SPORTS 7 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460824.ts
+#EXTINF:-1 tvg-id="EUROSPORT1.cy" tvg-name="EUROSPORT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosport1.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",EUROSPORT 1
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460615.ts
+#EXTINF:-1 tvg-id="EUROSPORT2.cy" tvg-name="EUROSPORT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosport2.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",EUROSPORT 2
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460614.ts
+#EXTINF:-1 tvg-id="KIDS" tvg-name="###### KIDS ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Cyprus.gif" group-title="Cy| Κυπριακα/Cyprus",###### KIDS ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460742.ts
+#EXTINF:-1 tvg-id="DISNEYXDHD.cy" tvg-name="DISNEY XD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneyxdhd.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",DISNEY XD HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460741.ts
+#EXTINF:-1 tvg-id="DISNEYCHANNELHD.cy" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneychannelhd.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",DISNEY CHANNEL HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460740.ts
+#EXTINF:-1 tvg-id="DISNEYJUNIORHD.cy" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneyjuniorhd.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",DISNEY JUNIOR HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460739.ts
+#EXTINF:-1 tvg-id="NICKELODEONHD.cy" tvg-name="NICKELODEON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/nickelodeonhd.png" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",NICKELODEON HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460738.ts
+#EXTINF:-1 tvg-id="SMILETV.cy" tvg-name="SMILE TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SMILE-TV.jpg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",SMILE TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460737.ts
+#EXTINF:-1 tvg-id="CAPITAL.cy" tvg-name="CAPITAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CAPITAL-CYPRUS.jpeg" group-title="Cy| Κυπριακα/Cyprus" tvg-country="CY",CAPITAL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460623.ts

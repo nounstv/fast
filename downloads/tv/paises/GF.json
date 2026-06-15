@@ -1,26 +1,14 @@
 [
   {
-    "id": "TelePeyi.gf",
+    "tvgId": "9NyaU429rnQzfC",
     "name": "Tele Peyi",
-    "logo": "https://i.imgur.com/LJ9sXaB.png",
-    "logoText": "TEL",
+    "originalName": "Tele Peyi",
     "url": "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GF",
-    "countryName": "French Guiana",
-    "languages": [],
-    "description": "Global IPTV stream. Country: French Guiana. Language: N/A. Website: https://www.peyiguyane.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

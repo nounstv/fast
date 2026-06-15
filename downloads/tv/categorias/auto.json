@@ -1,143 +1,98 @@
 [
   {
-    "id": "gype1Rdsg8nVpE",
+    "tvgId": "gype1Rdsg8nVpE",
     "name": "Canal Motor",
+    "originalName": "Canal Motor",
     "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "NO",
-    "countryName": "Norway",
-    "languages": [
-      "eng",
-      "nor"
-    ],
-    "description": "Canal de TV de Norway. Idioma: eng, nor.",
-    "logoText": "CAN",
-    "streamCount": 2,
-    "allStreams": [
-      "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
-      "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Gq4mY3pzS19BJ0",
+    "tvgId": "Gq4mY3pzS19BJ0",
     "name": "City Eden AutoGid",
+    "originalName": "City Eden AutoGid",
     "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cityeden.catcast.tv/content/47515/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tVKEKu2ttkc0Bj",
+    "tvgId": "tVKEKu2ttkc0Bj",
     "name": "Drive",
+    "originalName": "Drive",
     "url": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "DRI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "4Jx43q3AoFe9Yv",
+    "tvgId": "4Jx43q3AoFe9Yv",
     "name": "Garage TV Latin America",
+    "originalName": "Garage TV Latin America",
     "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "AR",
-    "countryName": "Argentina",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Argentina. Idioma: spa.",
-    "logoText": "GAR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream1.sersat.com/hls/garagetv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ojY3PgU9rwk9x4",
+    "tvgId": "ojY3PgU9rwk9x4",
     "name": "Motorvision",
+    "originalName": "Motorvision",
     "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Germany. Idioma: eng.",
-    "logoText": "MOT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5zsvZbp5i40Gds",
+    "tvgId": "5zsvZbp5i40Gds",
     "name": "Motorvision+",
+    "originalName": "Motorvision+",
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Germany. Idioma: eng.",
-    "logoText": "MOT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tUYx8kteikm3hV",
+    "tvgId": "tUYx8kteikm3hV",
     "name": "PowerNation TV",
+    "originalName": "PowerNation TV",
     "url": "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "POW",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
-      "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
-      "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "XEnaPj4TUOsp8a",
+    "tvgId": "XEnaPj4TUOsp8a",
     "name": "wedotv Auta FAST",
+    "originalName": "wedotv Auta FAST",
     "url": "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8",
+    "logo": "",
     "category": "Auto",
+    "originalCategory": "Auto",
     "country": "PL",
-    "countryName": "Poland",
-    "languages": [
-      "pol"
-    ],
-    "description": "Canal de TV de Poland. Idioma: pol.",
-    "logoText": "WED",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

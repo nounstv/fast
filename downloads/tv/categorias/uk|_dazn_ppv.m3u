@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZNPPV" tvg-name="####### DAZN PPV ᴿᴬᵂ #######" tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="Uk| Dazn Ppv",####### DAZN PPV ᴿᴬᵂ #######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390064.ts
+#EXTINF:-1 tvg-id="DAZNHD.uk" tvg-name="DAZN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612882.ts
+#EXTINF:-1 tvg-id="DAZN4K.uk" tvg-name="DAZN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612881.ts
+#EXTINF:-1 tvg-id="DAZNPPVHD.uk" tvg-name="DAZN PPV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612880.ts
+#EXTINF:-1 tvg-id="DAZNPPVSD.uk" tvg-name="DAZN PPV SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612879.ts
+#EXTINF:-1 tvg-id="DAZNPPV4K.uk" tvg-name="DAZN PPV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612878.ts
+#EXTINF:-1 tvg-id="DAZNPPVHEVCHD.uk" tvg-name="DAZN PPV HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612877.ts
+#EXTINF:-1 tvg-id="DAZNPPVHEVC4K.uk" tvg-name="DAZN PPV HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/612876.ts
+#EXTINF:-1 tvg-id="DAZNPPV1.uk" tvg-name="DAZN PPV 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390063.ts
+#EXTINF:-1 tvg-id="DAZNPPV2.uk" tvg-name="DAZN PPV 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390062.ts
+#EXTINF:-1 tvg-id="DAZNPPV3.uk" tvg-name="DAZN PPV 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390061.ts
+#EXTINF:-1 tvg-id="DAZNPPV4.uk" tvg-name="DAZN PPV 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 4 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390060.ts
+#EXTINF:-1 tvg-id="DAZNPPV5.uk" tvg-name="DAZN PPV 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 5 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390059.ts
+#EXTINF:-1 tvg-id="DAZNPPV6.uk" tvg-name="DAZN PPV 6 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 6 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390058.ts
+#EXTINF:-1 tvg-id="DAZNPPV7.uk" tvg-name="DAZN PPV 7 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 7 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390057.ts
+#EXTINF:-1 tvg-id="DAZNPPV8.uk" tvg-name="DAZN PPV 8 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 8 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390056.ts
+#EXTINF:-1 tvg-id="DAZNPPV9.uk" tvg-name="DAZN PPV 9 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 9 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390055.ts
+#EXTINF:-1 tvg-id="DAZNPPV10.uk" tvg-name="DAZN PPV 10 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 10 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390054.ts
+#EXTINF:-1 tvg-id="DAZNPPV11.uk" tvg-name="DAZN PPV 11 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 11 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390053.ts
+#EXTINF:-1 tvg-id="DAZNPPV12.uk" tvg-name="DAZN PPV 12 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 12 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390052.ts
+#EXTINF:-1 tvg-id="DAZNPPV13.uk" tvg-name="DAZN PPV 13 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 13 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390051.ts
+#EXTINF:-1 tvg-id="DAZNPPV14.uk" tvg-name="DAZN PPV 14 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 14 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390050.ts
+#EXTINF:-1 tvg-id="DAZNPPV15.uk" tvg-name="DAZN PPV 15 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 15 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390049.ts
+#EXTINF:-1 tvg-id="DAZNPPV16.uk" tvg-name="DAZN PPV 16 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 16 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390048.ts
+#EXTINF:-1 tvg-id="DAZNPPV17.uk" tvg-name="DAZN PPV 17 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 17 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390047.ts
+#EXTINF:-1 tvg-id="DAZNPPV18.uk" tvg-name="DAZN PPV 18 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 18 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390046.ts
+#EXTINF:-1 tvg-id="DAZNPPV19.uk" tvg-name="DAZN PPV 19 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 19 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390045.ts
+#EXTINF:-1 tvg-id="DAZNPPV20.uk" tvg-name="DAZN PPV 20 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 20 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1390044.ts
+#EXTINF:-1 tvg-id="DAZNPPV21.uk" tvg-name="DAZN PPV 21 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 21 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692474.ts
+#EXTINF:-1 tvg-id="DAZNPPV22.uk" tvg-name="DAZN PPV 22 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 22 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692473.ts
+#EXTINF:-1 tvg-id="DAZNPPV23.uk" tvg-name="DAZN PPV 23 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 23 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692472.ts
+#EXTINF:-1 tvg-id="DAZNPPV24.uk" tvg-name="DAZN PPV 24 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 24 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692471.ts
+#EXTINF:-1 tvg-id="DAZNPPV25.uk" tvg-name="DAZN PPV 25 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 25 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692470.ts
+#EXTINF:-1 tvg-id="DAZNPPV26.uk" tvg-name="DAZN PPV 26 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 26 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692469.ts
+#EXTINF:-1 tvg-id="DAZNPPV27.uk" tvg-name="DAZN PPV 27 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 27 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692468.ts
+#EXTINF:-1 tvg-id="DAZNPPV28.uk" tvg-name="DAZN PPV 28 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 28 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692467.ts
+#EXTINF:-1 tvg-id="DAZNPPV29.uk" tvg-name="DAZN PPV 29 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 29 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692466.ts
+#EXTINF:-1 tvg-id="DAZNPPV30.uk" tvg-name="DAZN PPV 30 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 30 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692465.ts
+#EXTINF:-1 tvg-id="DAZNPPV31.uk" tvg-name="DAZN PPV 31 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 31 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692464.ts
+#EXTINF:-1 tvg-id="DAZNPPV32.uk" tvg-name="DAZN PPV 32 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 32 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692463.ts
+#EXTINF:-1 tvg-id="DAZNPPV33.uk" tvg-name="DAZN PPV 33 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 33 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692462.ts
+#EXTINF:-1 tvg-id="DAZNPPV34.uk" tvg-name="DAZN PPV 34 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 34 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692461.ts
+#EXTINF:-1 tvg-id="DAZNPPV35.uk" tvg-name="DAZN PPV 35 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 35 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692460.ts
+#EXTINF:-1 tvg-id="DAZNPPV36.uk" tvg-name="DAZN PPV 36 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 36 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692459.ts
+#EXTINF:-1 tvg-id="DAZNPPV37.uk" tvg-name="DAZN PPV 37 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 37 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692458.ts
+#EXTINF:-1 tvg-id="DAZNPPV38.uk" tvg-name="DAZN PPV 38 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 38 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692457.ts
+#EXTINF:-1 tvg-id="DAZNPPV39.uk" tvg-name="DAZN PPV 39 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 39 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692456.ts
+#EXTINF:-1 tvg-id="DAZNPPV40.uk" tvg-name="DAZN PPV 40 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 40 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692455.ts
+#EXTINF:-1 tvg-id="DAZNPPV41.uk" tvg-name="DAZN PPV 41 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 41 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692454.ts
+#EXTINF:-1 tvg-id="DAZNPPV42.uk" tvg-name="DAZN PPV 42 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 42 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692453.ts
+#EXTINF:-1 tvg-id="DAZNPPV43.uk" tvg-name="DAZN PPV 43 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 43 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692452.ts
+#EXTINF:-1 tvg-id="DAZNPPV44.uk" tvg-name="DAZN PPV 44 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 44 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692451.ts
+#EXTINF:-1 tvg-id="DAZNPPV45.uk" tvg-name="DAZN PPV 45 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 45 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692450.ts
+#EXTINF:-1 tvg-id="DAZNPPV46.uk" tvg-name="DAZN PPV 46 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 46 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692448.ts
+#EXTINF:-1 tvg-id="DAZNPPV47.uk" tvg-name="DAZN PPV 47 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 47 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692447.ts
+#EXTINF:-1 tvg-id="DAZNPPV48.uk" tvg-name="DAZN PPV 48 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 48 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692446.ts
+#EXTINF:-1 tvg-id="DAZNPPV49.uk" tvg-name="DAZN PPV 49 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 49 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692445.ts
+#EXTINF:-1 tvg-id="DAZNPPV50.uk" tvg-name="DAZN PPV 50 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 50 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692444.ts
+#EXTINF:-1 tvg-id="DAZNPPV51.uk" tvg-name="DAZN PPV 51 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 51 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692443.ts
+#EXTINF:-1 tvg-id="DAZNPPV52.uk" tvg-name="DAZN PPV 52 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 52 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692442.ts
+#EXTINF:-1 tvg-id="DAZNPPV53.uk" tvg-name="DAZN PPV 53 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 53 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692441.ts
+#EXTINF:-1 tvg-id="DAZNPPV54.uk" tvg-name="DAZN PPV 54 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 54 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692440.ts
+#EXTINF:-1 tvg-id="DAZNPPV55.uk" tvg-name="DAZN PPV 55 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Uk| Dazn Ppv" tvg-country="UK",DAZN PPV 55 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1692439.ts

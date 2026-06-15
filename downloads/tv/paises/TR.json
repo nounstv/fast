@@ -1,5510 +1,1082 @@
 [
   {
-    "id": "24TV.tr",
-    "name": "24 TV",
-    "logo": "https://i.imgur.com/8FO41es.png",
-    "logoText": "24 ",
-    "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"
-      },
-      {
-        "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "EKOTURK.tr",
+    "name": "EKOTURK",
+    "originalName": "TR: EKOTURK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/239988.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1871.jpg?25415",
+    "category": "Tr| Haber 4K",
+    "originalCategory": "TR| HABER 4K",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.yirmidort.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "360.tr",
-    "name": "360",
-    "logo": "https://i.imgur.com/agn47sQ.png",
-    "logoText": "360",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tv360.com.tr/"
-  },
-  {
-    "id": "4UTV.tr",
+    "tvgId": "EEjElvcDWe1Onh",
     "name": "4U TV",
-    "logo": "https://i.imgur.com/PexhKwp.png",
-    "logoText": "4U ",
+    "originalName": "4U TV",
     "url": "https://hls.4utv.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.4utv.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://4utv.tv/en/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ATurk.tr",
-    "name": "A Turk",
-    "logo": "https://i.imgur.com/je5wQ3G.png",
-    "logoText": "A T",
-    "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "TFUyUrLKl7M3tP",
+    "name": "24 TV",
+    "originalName": "24 TV",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.aturk.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AfroturkTV.tr",
-    "name": "Afroturk TV",
-    "logo": "https://i.imgur.com/fWlLvRA.png",
-    "logoText": "AFR",
-    "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://afroturktv.com/"
-  },
-  {
-    "id": "AkitTV.tr",
-    "name": "Akit TV",
-    "logo": "https://i.imgur.com/oGto929.png",
-    "logoText": "AKI",
-    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "Lrea5Bd65wnCJm",
+    "name": "360",
+    "originalName": "360",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.akittv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AksuTV.tr",
+    "tvgId": "7COae96uG7VRpK",
     "name": "Aksu TV",
-    "logo": "https://i.imgur.com/mgDCKiy.png",
-    "logoText": "AKS",
+    "originalName": "Aksu TV",
     "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.aksutv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlQanat9.tr",
-    "name": "Al Qanat 9",
-    "logo": "https://i.imgur.com/HC91Mho.png",
-    "logoText": "AL ",
-    "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://alqanat9.com/"
-  },
-  {
-    "id": "AlRafidainTV.tr",
-    "name": "Al-Rafidain TV",
-    "logo": "https://i.imgur.com/rjXDCN5.png",
-    "logoText": "AL-",
-    "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://alrafidain.tv/"
-  },
-  {
-    "id": "AlZahraTVTurkic.tr",
-    "name": "Al-Zahra TV Turkic",
-    "logo": "https://i.imgur.com/QEHKGnG.png",
-    "logoText": "AL-",
-    "url": "https://live.al-zahratv.com/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.al-zahratv.com/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://alzahra.tv/"
-  },
-  {
-    "id": "AlanyaPostaTV.tr",
+    "tvgId": "3GgXVbdK2cjuBg",
     "name": "Alanya Posta TV",
-    "logo": "https://i.imgur.com/a3w9eFe.png",
-    "logoText": "ALA",
+    "originalName": "Alanya Posta TV",
     "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.alanyapostatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlmahriahTV.tr",
+    "tvgId": "Mmz7MUwsZ62HWK",
     "name": "Almahriah TV",
-    "logo": "https://i.imgur.com/GgEeTNr.png",
-    "logoText": "ALM",
+    "originalName": "Almahriah TV",
     "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://almahriah.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AltasTV.tr",
-    "name": "Altas TV",
-    "logo": "https://i.imgur.com/XaJ7fp6.png",
-    "logoText": "ALT",
-    "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.altastv.com.tr/"
-  },
-  {
-    "id": "AnadoluAgency.tr",
-    "name": "Anadolu Agency",
-    "logo": "https://i.imgur.com/dWElJll.png",
-    "logoText": "ANA",
-    "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.aa.com.tr/"
-  },
-  {
-    "id": "AnadoluNetTV.tr",
+    "tvgId": "yL3s4jwp0ivExp",
     "name": "Anadolu Net TV",
-    "logo": "https://www.anadolunettv.com/d/r/logo.png",
-    "logoText": "ANA",
+    "originalName": "Anadolu Net TV",
     "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.anadolunettv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ArasTV.tr",
-    "name": "Aras TV",
-    "logo": "https://i.imgur.com/JsDCyWG.png",
-    "logoText": "ARA",
-    "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://aras.tv/"
-  },
-  {
-    "id": "ASTV.tr",
+    "tvgId": "laMNKAVyTuHniN",
     "name": "AS TV",
-    "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
-    "logoText": "AS ",
+    "originalName": "AS TV",
     "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://astv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ATV.tr",
-    "name": "ATV",
-    "logo": "https://i.imgur.com/HyVUwFC.png",
-    "logoText": "ATV",
-    "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://116.202.238.88/ATV_TR/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.atv.com.tr/"
-  },
-  {
-    "id": "ATVAlanya.tr",
-    "name": "ATV Alanya",
-    "logo": "https://i.imgur.com/bUwarR0.png",
-    "logoText": "ATV",
-    "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.alanyatelevizyonu.com.tr/iletisim"
-  },
-  {
-    "id": "ATVAvrupa.tr",
-    "name": "ATV Avrupa",
-    "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",
-    "logoText": "ATV",
-    "url": "https://streamer2.nexgen.bz/ATV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamer2.nexgen.bz/ATV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.atvavrupa.tv/"
-  },
-  {
-    "id": "BenguturkTV.tr",
+    "tvgId": "NxCKTyzKVXGji0",
     "name": "Benguturk TV",
-    "logo": "https://i.imgur.com/p3ON1oX.png",
-    "logoText": "BEN",
-    "url": "http://185.234.111.229:8000/play/a05u",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://185.234.111.229:8000/play/a05u",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Benguturk TV",
+    "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.benguturk.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BeratTV.tr",
-    "name": "Berat TV",
-    "logo": "https://i.imgur.com/BxxH8wE.png",
-    "logoText": "BER",
-    "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "BeyazTV.tr",
-    "name": "Beyaz TV",
-    "logo": "https://i.imgur.com/uykIdML.png",
-    "logoText": "BEY",
-    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.beyaztv.com.tr/"
-  },
-  {
-    "id": "BirTV.tr",
-    "name": "Bir TV",
-    "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
-    "logoText": "BIR",
-    "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://birtv.tv/"
-  },
-  {
-    "id": "BizimevTV.tr",
-    "name": "Bizimev TV",
-    "logo": "https://i.imgur.com/eJa6sFY.png",
-    "logoText": "BIZ",
-    "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "BloombergHT.tr",
+    "tvgId": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
-    "logo": "https://i.imgur.com/bmkXfIE.png",
-    "logoText": "BLO",
+    "originalName": "Bloomberg HT",
     "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Business",
-    "categories": [
-      "business"
-    ],
+    "originalCategory": "Business",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.bloomberght.com/tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BricveSatrancTV.tr",
+    "tvgId": "lnPH0Jssl2BDkS",
     "name": "Bric ve Satranc TV",
-    "logo": "https://i.imgur.com/TXDV1ty.png",
-    "logoText": "BRI",
-    "url": "http://139.162.182.79/live/test/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://139.162.182.79/live/test/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "Bric ve Satranc TV",
+    "url": "https://139.162.182.79/live/test/index.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.itp.tv.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BRTV.tr",
-    "name": "BRTV",
-    "logo": "https://i.imgur.com/U3qlEAp.png",
-    "logoText": "BRT",
-    "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.brtv.com.tr/"
-  },
-  {
-    "id": "BursaTV.tr",
-    "name": "Bursa TV",
-    "logo": "https://i.imgur.com/9cl1MR8.png",
-    "logoText": "BUR",
-    "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.bursatv.com.tr/"
-  },
-  {
-    "id": "CanTV.tr",
+    "tvgId": "pwwbm1gJHFpZMn",
     "name": "Can TV",
-    "logo": "https://i.imgur.com/oIMtuwB.png",
-    "logoText": "CAN",
-    "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Can TV",
+    "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://cantv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CayTV.tr",
-    "name": "Cay TV",
-    "logo": "https://i.imgur.com/ndupxwu.png",
-    "logoText": "CAY",
-    "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.caytv.com.tr/"
-  },
-  {
-    "id": "CekmekoyTV.tr",
-    "name": "Cekmekoy TV",
-    "logo": "https://i.imgur.com/sjAGFWu.png",
-    "logoText": "CEK",
-    "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.cekmekoy.bel.tr/web-tv"
-  },
-  {
-    "id": "CGTNDocumentary.tr",
-    "name": "CGTN Documentary",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png",
-    "logoText": "CGT",
-    "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://puhutv.com/cgtn-documentary-canli-yayin-detay"
-  },
-  {
-    "id": "CiftciTV.tr",
+    "tvgId": "Sb9t7HbJFX4dw4",
     "name": "Ciftci TV",
-    "logo": "https://i.imgur.com/CLzP4vL.png",
-    "logoText": "CIF",
-    "url": "http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Ciftci TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education",
-      "culture"
-    ],
+    "originalCategory": "Education",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ciftcitv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNBCe.tr",
+    "tvgId": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
-    "logo": "https://s.cnbce.com/dist/images/logo-nav.png",
-    "logoText": "CNB",
+    "originalName": "CNBC-e",
     "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Business",
-    "categories": [
-      "business",
-      "series"
-    ],
+    "logo": "",
+    "category": "Series",
+    "originalCategory": "Series",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://cnbce.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DehaTV.tr",
-    "name": "Deha TV",
-    "logo": "https://i.imgur.com/Dlsm9XP.png",
-    "logoText": "DEH",
-    "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kentdeha.com.tr/"
-  },
-  {
-    "id": "DenizPostasiTV.tr",
+    "tvgId": "GcJmEq9rilBOie",
     "name": "Deniz Postasi TV",
-    "logo": "https://i.imgur.com/Mm8hdfx.png",
-    "logoText": "DEN",
+    "originalName": "Deniz Postasi TV",
     "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.denizpostasi.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DHA.tr",
-    "name": "DHA",
-    "logo": "https://i.imgur.com/VZhag2x.png",
-    "logoText": "DHA",
-    "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.dha.com.tr/"
-  },
-  {
-    "id": "DimTV.tr",
+    "tvgId": "grKukHYH0ZNT5Y",
     "name": "Dim TV",
-    "logo": "https://i.imgur.com/X4QFDhk.png",
-    "logoText": "DIM",
+    "originalName": "Dim TV",
     "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://dimtv.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DisneyJr.tr",
-    "name": "Disney Jr.",
-    "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
-    "logoText": "DIS",
-    "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "DiyanetTV.tr",
+    "tvgId": "1OlKTVorbB1nZr",
     "name": "Diyanet TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png",
-    "logoText": "DIY",
+    "originalName": "Diyanet TV",
     "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.diyanet.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DiyarTV.tr",
+    "tvgId": "hvA9a09zJ8ENTp",
     "name": "Diyar TV",
-    "logo": "https://i.imgur.com/qWkHjRA.png",
-    "logoText": "DIY",
+    "originalName": "Diyar TV",
     "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.diyartv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DostTV.tr",
+    "tvgId": "WhJMVtLO9qlGWk",
     "name": "Dost TV",
-    "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
-    "logoText": "DOS",
+    "originalName": "Dost TV",
     "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.dosttv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DreamTurk.tr",
-    "name": "Dream Turk",
-    "logo": "https://i.imgur.com/vJ8VaZi.png",
-    "logoText": "DRE",
-    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.dreamturk.com.tr/"
-  },
-  {
-    "id": "EdessaTV.tr",
+    "tvgId": "xUhiIIzFzr2BeH",
     "name": "Edessa TV",
-    "logo": "https://i.imgur.com/rhU6j9I.png",
-    "logoText": "EDE",
+    "originalName": "Edessa TV",
     "url": "https://canli.edessatv.com/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://canli.edessatv.com/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.edessatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ElsharqTV.tr",
+    "tvgId": "6TzIP2eJ3m8bpX",
     "name": "Elsharq TV",
-    "logo": "https://i.imgur.com/8vmfZb5.png",
-    "logoText": "ELS",
+    "originalName": "Elsharq TV",
     "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://elsharq.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ERTV.tr",
+    "tvgId": "GJHn2TfHunPgwd",
     "name": "ERTV",
-    "logo": "https://i.imgur.com/VDGEPrD.png",
-    "logoText": "ERT",
+    "originalName": "ERTV",
     "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.ertv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ErzurumWebTV.tr",
-    "name": "Erzurum Web TV",
-    "logo": "https://i.imgur.com/HF7N4Li.png",
-    "logoText": "ERZ",
-    "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://erzurumwebtv.com/"
-  },
-  {
-    "id": "ESTV.tr",
+    "tvgId": "4WXm2uY8kIBqU4",
     "name": "ES TV",
-    "logo": "https://i.imgur.com/epAEBrp.png",
-    "logoText": "ES ",
+    "originalName": "ES TV",
     "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.estv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ETVKayseri.tr",
+    "tvgId": "XeroOQjH9IhpiE",
     "name": "ETV Kayseri",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj",
-    "logoText": "ETV",
+    "originalName": "ETV Kayseri",
     "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.etvkayseri.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ETVManisa.tr",
-    "name": "ETV Manisa",
-    "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
-    "logoText": "ETV",
-    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.etvmanisa.com/"
-  },
-  {
-    "id": "EuroD.tr",
-    "name": "Euro D",
-    "logo": "https://i.imgur.com/x9kHsXo.png",
-    "logoText": "EUR",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://eurod.kanald.com.tr/"
-  },
-  {
-    "id": "EuroStar.tr",
-    "name": "EuroStar",
-    "logo": "https://i.imgur.com/kb165Ot.png",
-    "logoText": "EUR",
-    "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.eurostartv.com.tr/"
-  },
-  {
-    "id": "FBTV.tr",
+    "tvgId": "SSm48TGJZ2ZZyq",
     "name": "FB TV",
-    "logo": "https://i.imgur.com/qBVqtYd.png",
-    "logoText": "FB ",
-    "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "FB TV",
+    "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.fenerbahce.org/fbtv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FinansTurkTV.tr",
+    "tvgId": "qgqjKHkHjQzR2F",
     "name": "Finans Turk TV",
-    "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
-    "logoText": "FIN",
+    "originalName": "Finans Turk TV",
     "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "FlashTV.tr",
-    "name": "Flash TV",
-    "logo": "https://i.imgur.com/L0NHKBM.png",
-    "logoText": "FLA",
-    "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://flashtv.com.tr/"
-  },
-  {
-    "id": "FortunaTV.tr",
-    "name": "Fortuna TV",
-    "logo": "https://i.imgur.com/ZbUSlOC.png",
-    "logoText": "FOR",
-    "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.fortunatv.com/"
-  },
-  {
-    "id": "FX.tr",
-    "name": "FX",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "logoText": "FX",
-    "url": "https://saran-live.ercdn.net/fx/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://saran-live.ercdn.net/fx/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.fxturkiye.com.tr/"
-  },
-  {
-    "id": "GEM24B.tr",
-    "name": "GEM 24B",
-    "logo": "https://i.imgur.com/8LgdPst.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMBollywood.tr",
-    "name": "GEM Bollywood",
-    "logo": "https://i.imgur.com/2XASeBk.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMClassic.tr",
-    "name": "GEM Classic",
-    "logo": "https://i.imgur.com/25BhuOf.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Classic",
-    "categories": [
-      "classic"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMComedy.tr",
-    "name": "GEM Comedy",
-    "logo": "https://i.imgur.com/FuscfJW.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Comedy",
-    "categories": [
-      "comedy"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMDrama.tr",
-    "name": "GEM Drama",
-    "logo": "https://i.imgur.com/k2pGyRH.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMDramaPlus.tr",
-    "name": "GEM Drama +",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_7.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMEntertainment.tr",
-    "name": "GEM Entertainment",
-    "logo": "https://www.gemgroup.tv/assets/images/channels/icon_8.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMFilm.tr",
-    "name": "GEM Film",
-    "logo": "https://i.imgur.com/nrFz3LU.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMFit.tr",
-    "name": "GEM Fit",
-    "logo": "https://i.imgur.com/7FQxaII.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMFood.tr",
-    "name": "GEM Food",
-    "logo": "https://i.imgur.com/SMtSinK.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Cooking",
-    "categories": [
-      "cooking"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMJunior.tr",
-    "name": "GEM Junior",
-    "logo": "https://i.imgur.com/jK8yzj2.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMKids.tr",
-    "name": "GEM Kids",
-    "logo": "https://i.imgur.com/ArkjaFk.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMLife.tr",
-    "name": "GEM Life",
-    "logo": "https://i.imgur.com/gI8qePa.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMMifa.tr",
-    "name": "GEM Mifa",
-    "logo": "https://i.imgur.com/qlI7o7V.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMMifaPlus.tr",
-    "name": "GEM Mifa +",
-    "logo": "https://i.imgur.com/8FIAqR5.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMNature.tr",
-    "name": "GEM Nature",
-    "logo": "https://i.imgur.com/ENvOMDQ.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMOnyx.tr",
-    "name": "GEM Onyx",
-    "logo": "https://i.imgur.com/gXRIAw4.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMPixel.tr",
-    "name": "GEM Pixel",
-    "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
-    "logoText": "GEM",
-    "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMRiver.tr",
-    "name": "GEM River",
-    "logo": "https://i.imgur.com/yJ6f1B6.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMRiverPlus.tr",
-    "name": "GEM River +",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_29.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMRubix.tr",
-    "name": "GEM Rubix",
-    "logo": "https://i.imgur.com/cDjOj58.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMRubixPlus.tr",
-    "name": "GEM Rubix +",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_31.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMSeries.tr",
-    "name": "GEM Series",
-    "logo": "https://i.imgur.com/M0WMDXm.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMSeriesPlus.tr",
-    "name": "GEM Series +",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_33.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMSport.tr",
-    "name": "GEM Sport",
-    "logo": "https://www.gemgroup.tv/assets/images/channels/icon_34.png",
-    "logoText": "GEM",
-    "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMTV.tr",
-    "name": "GEM TV",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_16.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GEMTVPlus.tr",
-    "name": "GEM TV +",
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_17.png",
-    "logoText": "GEM",
-    "url": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gemgroup.tv/"
-  },
-  {
-    "id": "GrandCinema.tr",
-    "name": "Grand Cinema",
     "logo": "",
-    "logoText": "GRA",
-    "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://grandcinema.wns.live/"
-  },
-  {
-    "id": "GRT.tr",
-    "name": "GRT",
-    "logo": "https://i.imgur.com/eRR0gkC.png",
-    "logoText": "GRT",
-    "url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.grt.com.tr/"
-  },
-  {
-    "id": "GuneydoguTV.tr",
-    "name": "Guneydogu TV",
-    "logo": "https://i.imgur.com/JT5pp3Y.png",
-    "logoText": "GUN",
-    "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.guneydogutv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GZT.tr",
-    "name": "GZT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
-    "logoText": "GZT",
-    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary",
-      "series"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.gzt.com/"
-  },
-  {
-    "id": "HaberGlobal.tr",
+    "tvgId": "EGLHx6bgJtwQkq",
     "name": "Haber Global",
-    "logo": "https://i.imgur.com/fu6XeGS.png",
-    "logoText": "HAB",
+    "originalName": "Haber Global",
     "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.haberglobal.com.tr/"
-  },
-  {
-    "id": "Haber61TV.tr",
-    "name": "Haber61 TV",
-    "logo": "https://i.imgur.com/2a2XUKl.png",
-    "logoText": "HAB",
-    "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "HaberturkTV.tr",
-    "name": "Haberturk TV",
-    "logo": "https://i.imgur.com/6Tw3rUp.png",
-    "logoText": "HAB",
-    "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tv.haberturk.com/"
-  },
-  {
-    "id": "HalkTV.tr",
-    "name": "Halk TV",
-    "logo": "https://i.imgur.com/xM0HA30.png",
-    "logoText": "HAL",
-    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://halktv.com.tr/"
-  },
-  {
-    "id": "HTSporTV.tr",
-    "name": "HTSpor TV",
-    "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
-    "logoText": "HTS",
-    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.htspor.com/canli-yayin"
-  },
-  {
-    "id": "HunatTV.tr",
-    "name": "Hunat TV",
-    "logo": "https://i.imgur.com/NrxHGnb.png",
-    "logoText": "HUN",
-    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://hunattv.com/"
-  },
-  {
-    "id": "IBBTV.tr",
-    "name": "IBB TV",
-    "logo": "https://i.imgur.com/aXxAz84.png",
-    "logoText": "IBB",
-    "url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "IcelTV.tr",
-    "name": "Icel TV",
-    "logo": "https://i.imgur.com/CGwImKv.png",
-    "logoText": "ICE",
-    "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "IlkeTV.tr",
-    "name": "Ilke TV",
-    "logo": "https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png",
-    "logoText": "ILK",
-    "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ilketv.com.tr"
-  },
-  {
-    "id": "Kanal12.tr",
-    "name": "Kanal 12",
-    "logo": "https://i.imgur.com/51xCkXG.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal12.net/"
-  },
-  {
-    "id": "Kanal15.tr",
-    "name": "Kanal 15",
-    "logo": "https://i.imgur.com/wb1Cdc9.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal15.com.tr/"
-  },
-  {
-    "id": "Kanal23.tr",
-    "name": "Kanal 23",
-    "logo": "https://i.imgur.com/3br8RCq.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal23.com/"
-  },
-  {
-    "id": "Kanal26.tr",
-    "name": "Kanal 26",
-    "logo": "https://i.imgur.com/Mr7XPii.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.kanal26.tv/"
-  },
-  {
-    "id": "Kanal3.tr",
-    "name": "Kanal 3",
-    "logo": "https://i.imgur.com/eXErSv0.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://kanal3.com.tr/"
-  },
-  {
-    "id": "Kanal32.tr",
-    "name": "Kanal 32",
     "logo": "",
-    "logoText": "KAN",
-    "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "category": "News",
+    "originalCategory": "News",
+    "country": "TR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "HhjGNBJx3fTyee",
+    "name": "Haber61 TV",
+    "originalName": "Haber61 TV",
+    "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "TR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "6Hf1Mv2Va7QrA2",
+    "name": "Haberturk TV",
+    "originalName": "Haberturk TV",
+    "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "TR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1kN0lIgg90V9Ot",
+    "name": "Halk TV",
+    "originalName": "Halk TV",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "TR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Mrrxz9lN8Itjkn",
+    "name": "Hunat TV",
+    "originalName": "Hunat TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.kanal32.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kanal33.tr",
-    "name": "Kanal 33",
-    "logo": "https://i.imgur.com/5WYaoFZ.png",
-    "logoText": "KAN",
-    "url": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "9vMtLv0JIYsKG8",
+    "name": "Ilke TV",
+    "originalName": "Ilke TV",
+    "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.kanal33.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kanal34.tr",
-    "name": "Kanal 34",
-    "logo": "https://i.imgur.com/SIaI6Sj.png",
-    "logoText": "KAN",
-    "url": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kanal34.tv/"
-  },
-  {
-    "id": "Kanal38.tr",
-    "name": "Kanal 38",
-    "logo": "https://i.imgur.com/WvtZ7Xd.png",
-    "logoText": "KAN",
-    "url": "http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal38.com.tr/"
-  },
-  {
-    "id": "Kanal58.tr",
-    "name": "Kanal 58",
-    "logo": "https://i.imgur.com/Rgc66sv.png",
-    "logoText": "KAN",
-    "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kanal58.com.tr/"
-  },
-  {
-    "id": "Kanal68.tr",
-    "name": "Kanal 68",
-    "logo": "https://i.imgur.com/5y7K9SS.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "Kanal7.tr",
-    "name": "Kanal 7",
-    "logo": "https://i.imgur.com/0gq9xOm.png",
-    "logoText": "KAN",
-    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal7.com/"
-  },
-  {
-    "id": "Kanal7Avrupa.tr",
+    "tvgId": "2Cw7nBUx9FOzBJ",
     "name": "Kanal 7 Avrupa",
-    "logo": "https://i.imgur.com/wlfyj5l.png",
-    "logoText": "KAN",
+    "originalName": "Kanal 7 Avrupa",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal7avrupa.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalAvrupa.tr",
-    "name": "Kanal Avrupa",
-    "logo": "https://i.imgur.com/bIGk6RN.png",
-    "logoText": "KAN",
-    "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "ULadG4ZWgyGSE9",
+    "name": "Kanal 12",
+    "originalName": "Kanal 12",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanal7.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalB.tr",
-    "name": "Kanal B",
-    "logo": "https://i.imgur.com/bUsbxTQ.png",
-    "logoText": "KAN",
-    "url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "SIwD5ylBUAOrIu",
+    "name": "Kanal 15",
+    "originalName": "Kanal 15",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.kanalb.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalD.tr",
-    "name": "Kanal D",
-    "logo": "https://i.imgur.com/9o1atM6.png",
-    "logoText": "KAN",
-    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "XQ5tolf0wDwNTz",
+    "name": "Kanal 23",
+    "originalName": "Kanal 23",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanald.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalDDrama.tr",
-    "name": "Kanal D Drama",
-    "logo": "https://i.imgur.com/WIeZMKT.png",
-    "logoText": "KAN",
-    "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "y2961fqTVAJ9qU",
+    "name": "Kanal 26",
+    "originalName": "Kanal 26",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kanalddrama.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalFirat.tr",
+    "tvgId": "xlr0SwBlM6DpLg",
+    "name": "Kanal 58",
+    "originalName": "Kanal 58",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "TR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "LoETX183ZYEwUc",
     "name": "Kanal Firat",
-    "logo": "https://i.imgur.com/3o8Rokp.png",
-    "logoText": "KAN",
+    "originalName": "Kanal Firat",
     "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kanalfirat.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalHayat.tr",
+    "tvgId": "hGtWqYE7XonF37",
     "name": "Kanal Hayat",
-    "logo": "https://i.imgur.com/eikZj19.png",
-    "logoText": "KAN",
+    "originalName": "Kanal Hayat",
     "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://kanalhayat.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalV.tr",
+    "tvgId": "JwNiVAH26fmfiw",
     "name": "Kanal V",
-    "logo": "https://i.imgur.com/7RNjTno.png",
-    "logoText": "KAN",
+    "originalName": "Kanal V",
     "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanalv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KanalZ.tr",
-    "name": "Kanal Z",
-    "logo": "https://i.imgur.com/Kr8960d.png",
-    "logoText": "KAN",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kanalz.com.tr/"
-  },
-  {
-    "id": "KayTV.tr",
+    "tvgId": "zbs9DkUTcak0mx",
     "name": "Kay TV",
-    "logo": "https://i.imgur.com/MymuDJ1.png",
-    "logoText": "KAY",
-    "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Kay TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kaytv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KentTurk.tr",
+    "tvgId": "oNyXUjTAtmHkE7",
     "name": "Kent Turk",
-    "logo": "https://i.imgur.com/FQKPjsm.png",
-    "logoText": "KEN",
+    "originalName": "Kent Turk",
     "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kentturktv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KonyaOlayTV.tr",
+    "tvgId": "axZRIy6sk182NP",
     "name": "Konya Olay TV",
-    "logo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
-    "logoText": "KON",
+    "originalName": "Konya Olay TV",
     "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.konyaolaytv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KralPopTV.tr",
-    "name": "Kral Pop TV",
-    "logo": "https://i.imgur.com/ch365lh.png",
-    "logoText": "KRA",
-    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kralmuzik.com.tr/tv/kral-pop-tv"
-  },
-  {
-    "id": "KudusTV.tr",
-    "name": "Kudus TV",
-    "logo": "https://i.imgur.com/lwRA84B.png",
-    "logoText": "KUD",
-    "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.kudustv.com.tr/"
-  },
-  {
-    "id": "LalegulTV.tr",
+    "tvgId": "QQopjrBuObsS3K",
     "name": "Lalegul TV",
-    "logo": "https://i.imgur.com/wwCysFs.png",
-    "logoText": "LAL",
+    "originalName": "Lalegul TV",
     "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://lalegultv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LifeTV.tr",
+    "tvgId": "sIsIH2RBxpGiQq",
     "name": "Life TV",
-    "logo": "https://i.imgur.com/lWeJxm0.png",
-    "logoText": "LIF",
+    "originalName": "Life TV",
     "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://lifetv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LineTV.tr",
-    "name": "Line TV",
-    "logo": "https://i.imgur.com/6GNp7f8.png",
-    "logoText": "LIN",
-    "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://linehaber.com.tr/"
-  },
-  {
-    "id": "MaviKaradenizTV.tr",
+    "tvgId": "WQHcxODZjwPaLc",
     "name": "MaviKaradeniz TV",
-    "logo": "https://i.imgur.com/wyWappU.png",
-    "logoText": "MAV",
+    "originalName": "MaviKaradeniz TV",
     "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.mavikaradeniztv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MedMuzik.tr",
-    "name": "Med Muzik",
-    "logo": "https://i.imgur.com/gtUFmCD.png",
-    "logoText": "MED",
-    "url": "http://54.36.110.140/live3/live3.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://54.36.110.140/live3/live3.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://medmuzik.tv/"
-  },
-  {
-    "id": "MekameleenTV.tr",
-    "name": "Mekameleen TV",
-    "logo": "https://i.imgur.com/q7iVchl.png",
-    "logoText": "MEK",
-    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.mekameleen.tv/"
-  },
-  {
-    "id": "MeltemTV.tr",
+    "tvgId": "kAe6ZeSL18s1wy",
     "name": "Meltem TV",
-    "logo": "https://i.imgur.com/C3m6w5S.png",
-    "logoText": "MEL",
+    "originalName": "Meltem TV",
     "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.meltemtv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MercanTV.tr",
+    "tvgId": "oLXvhYRIcgw3Zr",
     "name": "Mercan TV",
-    "logo": "https://i.imgur.com/3CWV8bS.png",
-    "logoText": "MER",
+    "originalName": "Mercan TV",
     "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.mercan.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MilyonTV.tr",
-    "name": "Milyon TV",
-    "logo": "https://i.imgur.com/lEIFDwo.png",
-    "logoText": "MIL",
-    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.milyontv.com/"
-  },
-  {
-    "id": "MinikaCocuk.tr",
-    "name": "Minika Cocuk",
-    "logo": "https://i.imgur.com/VCywMTv.png",
-    "logoText": "MIN",
-    "url": "https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.minikacocuk.com.tr/"
-  },
-  {
-    "id": "MinikaGo.tr",
-    "name": "Minika Go",
-    "logo": "https://i.imgur.com/qIoipDq.png",
-    "logoText": "MIN",
-    "url": "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.minikago.com.tr/"
-  },
-  {
-    "id": "MovieSmartTurk.tr",
-    "name": "MovieSmart Turk",
-    "logo": "https://i.imgur.com/DWN9ulT.png",
-    "logoText": "MOV",
-    "url": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.dsmart.com.tr/"
-  },
-  {
-    "id": "MTurkTV.tr",
-    "name": "MTurk TV",
-    "logo": "https://i.imgur.com/xj1gvrq.png",
-    "logoText": "MTU",
-    "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.mturktv.com/"
-  },
-  {
-    "id": "NationalGeographic.tr",
-    "name": "National Geographic",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "logoText": "NAT",
-    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.natgeotv.com/tr"
-  },
-  {
-    "id": "NationalGeographicWild.tr",
-    "name": "National Geographic Wild",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "logoText": "NAT",
-    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://natgeotv.com/tr/wild"
-  },
-  {
-    "id": "NaturalTV.tr",
-    "name": "Natural TV",
-    "logo": "https://i.imgur.com/rfcJ674.png",
-    "logoText": "NAT",
-    "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "NOWTV.tr",
-    "name": "NOW TV",
-    "logo": "https://i.imgur.com/5EYjWK7.png",
-    "logoText": "NOW",
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.nowtv.com.tr"
-  },
-  {
-    "id": "NTV.tr",
-    "name": "NTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png",
-    "logoText": "NTV",
-    "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ntv.com.tr/"
-  },
-  {
-    "id": "Number1Ask.tr",
+    "tvgId": "GIntzeUgHcQOIa",
     "name": "Number 1 Ask",
-    "logo": "https://i.imgur.com/slwbux7.png",
-    "logoText": "NUM",
+    "originalName": "Number 1 Ask",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.numberone.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Number1Damar.tr",
+    "tvgId": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
-    "logo": "https://i.imgur.com/rYtbAGZ.png",
-    "logoText": "NUM",
+    "originalName": "Number 1 Damar",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.numberone.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Number1Dance.tr",
+    "tvgId": "yWrfqyUbeSLDpm",
     "name": "Number 1 Dance",
-    "logo": "https://i.imgur.com/ZM4PSyq.png",
-    "logoText": "NUM",
+    "originalName": "Number 1 Dance",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.numberone.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Number1Turk.tr",
-    "name": "Number 1 Turk",
-    "logo": "https://i.imgur.com/18zjk3q.png",
-    "logoText": "NUM",
-    "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.numberone.com.tr/"
-  },
-  {
-    "id": "Number1TV.tr",
+    "tvgId": "pJj7CtCAurdOs8",
     "name": "Number 1 TV",
-    "logo": "https://i.imgur.com/02cDIBi.png",
-    "logoText": "NUM",
+    "originalName": "Number 1 TV",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.numberone.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OlayTurkTV.tr",
+    "tvgId": "0p72M9hjYW3qLy",
     "name": "OlayTurk TV",
-    "logo": "https://i.imgur.com/e9ca6gc.png",
-    "logoText": "OLA",
+    "originalName": "OlayTurk TV",
     "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.olayturk.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "On6.tr",
-    "name": "On 6",
-    "logo": "https://i.imgur.com/k7rS2gC.png",
-    "logoText": "ON ",
-    "url": "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "OnMedyaTV.tr",
-    "name": "On Medya TV",
-    "logo": "https://i.imgur.com/thvk3Py.png",
-    "logoText": "ON ",
-    "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.onmedya.com.tr/"
-  },
-  {
-    "id": "On4TV.tr",
-    "name": "On4 TV",
-    "logo": "https://i.imgur.com/qGRa1KI.png",
-    "logoText": "ON4",
-    "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.on4.com.tr/"
-  },
-  {
-    "id": "OncuTV.tr",
-    "name": "Oncu TV",
-    "logo": "https://i.imgur.com/TGPNYrD.jpg",
-    "logoText": "ONC",
-    "url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.oncurtv.com/"
-  },
-  {
-    "id": "PowerDance.tr",
+    "tvgId": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
-    "logo": "https://i.imgur.com/QpPteBO.png",
-    "logoText": "POW",
+    "originalName": "Power Dance",
     "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/radios/powerdance/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerLove.tr",
+    "tvgId": "XNTHGJZeFfDgvw",
     "name": "Power Love",
-    "logo": "https://i.imgur.com/0RzUswR.png",
-    "logoText": "POW",
+    "originalName": "Power Love",
     "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/radios/powerlove/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerTV.tr",
+    "tvgId": "AGEdurc99puGj1",
     "name": "Power TV",
-    "logo": "https://i.imgur.com/XSL1gd7.png",
-    "logoText": "POW",
+    "originalName": "Power TV",
     "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/powerfm/sayfalar/power-tv.html"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerTurkAkustik.tr",
+    "tvgId": "0dpxRMyEdoEj6k",
     "name": "PowerTurk Akustik",
-    "logo": "https://i.imgur.com/driabBO.png",
-    "logoText": "POW",
+    "originalName": "PowerTurk Akustik",
     "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/radios/powerturkakustik/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerTurkSlow.tr",
+    "tvgId": "ZJBNWGiPmC8D7J",
     "name": "PowerTurk Slow",
-    "logo": "https://i.imgur.com/tQSoQXW.png",
-    "logoText": "POW",
+    "originalName": "PowerTurk Slow",
     "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/radios/powerturkslow/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerTurkTaptaze.tr",
+    "tvgId": "7rycRdywaNyoH1",
     "name": "PowerTurk Taptaze",
-    "logo": "https://i.imgur.com/a5nW3HU.png",
-    "logoText": "POW",
+    "originalName": "PowerTurk Taptaze",
     "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/radios/powerturktaptaze/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PowerTurkTV.tr",
+    "tvgId": "h3VH5nC3Ffse2G",
     "name": "PowerTurk TV",
-    "logo": "https://i.imgur.com/9OPoXQG.png",
-    "logoText": "POW",
+    "originalName": "PowerTurk TV",
     "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"
-      },
-      {
-        "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.powerapp.com.tr/powerturk/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QafTV.tr",
-    "name": "Qaf TV",
-    "logo": "https://i.imgur.com/hrk7Uce.png",
-    "logoText": "QAF",
-    "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.qaf.tv/"
-  },
-  {
-    "id": "SSport.tr",
-    "name": "S Sport",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
-    "logoText": "S S",
-    "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ssport.tv/"
-  },
-  {
-    "id": "SSport2.tr",
-    "name": "S Sport 2",
-    "logo": "https://i.imgur.com/2jIItAy.png",
-    "logoText": "S S",
-    "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ssport.tv/"
-  },
-  {
-    "id": "SemerkandTV.tr",
+    "tvgId": "73xSFKpT68qZuL",
     "name": "Semerkand TV",
-    "logo": "https://i.imgur.com/UVGGrQd.png",
-    "logoText": "SEM",
+    "originalName": "Semerkand TV",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.semerkandtv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SportsTV.tr",
-    "name": "Sports TV",
-    "logo": "https://i.imgur.com/tGTVcVe.jpg",
-    "logoText": "SPO",
-    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.sportstv.com.tr/"
-  },
-  {
-    "id": "SunRTV.tr",
+    "tvgId": "MDiKVfb3NSPHvZ",
     "name": "Sun RTV",
-    "logo": "https://i.imgur.com/64tph9N.png",
-    "logoText": "SUN",
+    "originalName": "Sun RTV",
     "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.sunrtv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TabiiSpor6.tr",
-    "name": "Tabii Spor 6",
-    "logo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
-    "logoText": "TAB",
-    "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tabii.com/tr/watch/live/tabiispor6"
-  },
-  {
-    "id": "TarihTV.tr",
-    "name": "Tarih TV",
-    "logo": "https://i.imgur.com/HbIGZUt.png",
-    "logoText": "TAR",
-    "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://tarihtv.com.tr/"
-  },
-  {
-    "id": "TarimTV.tr",
+    "tvgId": "CnystWlqwvCCW3",
     "name": "Tarim TV",
-    "logo": "https://i.imgur.com/q30sFms.png",
-    "logoText": "TAR",
+    "originalName": "Tarim TV",
     "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tarimtv.gov.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TatlisesTV.tr",
-    "name": "Tatlises TV",
-    "logo": "https://i.imgur.com/et1sbyq.png",
-    "logoText": "TAT",
-    "url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://tatlises.tv/"
-  },
-  {
-    "id": "TBMMTV.tr",
+    "tvgId": "InVI6XNTBkTyM8",
     "name": "TBMM TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png",
-    "logoText": "TBM",
+    "originalName": "TBMM TV",
     "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tbmm.gov.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Tele1.tr",
+    "tvgId": "5GoagSnDbPwxmH",
     "name": "Tele 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
-    "logoText": "TEL",
+    "originalName": "Tele 1",
     "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tele1.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TempoTV.tr",
+    "tvgId": "rqkOBR323x5UjG",
     "name": "Tempo TV",
-    "logo": "https://i.imgur.com/tZpx32y.png",
-    "logoText": "TEM",
+    "originalName": "Tempo TV",
     "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.tempo-tv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TGRTBelgesel.tr",
-    "name": "TGRT Belgesel",
-    "logo": "https://i.imgur.com/VwWTnf0.png",
-    "logoText": "TGR",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tgrtbelgesel.com.tr/"
-  },
-  {
-    "id": "TGRTEurope.tr",
-    "name": "TGRT Europe",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/960px-TGRT_EU.png",
-    "logoText": "TGR",
-    "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tgrteu.com/canliyayin/tgrteu.html"
-  },
-  {
-    "id": "TGRTHaber.tr",
+    "tvgId": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
-    "logo": "https://i.imgur.com/PrxwKDw.png",
-    "logoText": "TGR",
+    "originalName": "TGRT Haber",
     "url": "https://canli.tgrthaber.com/tgrt.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://canli.tgrthaber.com/tgrt.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tgrthaber.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Tivi6.tr",
+    "tvgId": "J9YegrVG7tK0JA",
     "name": "Tivi 6",
-    "logo": "https://i.imgur.com/Mbi0jbz.png",
-    "logoText": "TIV",
+    "originalName": "Tivi 6",
     "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tivi6.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TJKTV.tr",
+    "tvgId": "vtSycR8Kbn52EY",
     "name": "TJK TV",
-    "logo": "https://i.imgur.com/3zHdkYG.png",
-    "logoText": "TJK",
+    "originalName": "TJK TV",
     "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tjk.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TJKTV2.tr",
-    "name": "TJK TV 2",
-    "logo": "https://i.imgur.com/3zHdkYG.png",
-    "logoText": "TJK",
-    "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tjk.org/"
-  },
-  {
-    "id": "TMB.tr",
-    "name": "TMB",
-    "logo": "https://i.imgur.com/28AyWHe.png",
-    "logoText": "TMB",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tmb.tv/"
-  },
-  {
-    "id": "TonTV.tr",
+    "tvgId": "l17N1UMzmQBW55",
     "name": "Ton TV",
-    "logo": "https://i.imgur.com/f0Soeob.png",
-    "logoText": "TON",
+    "originalName": "Ton TV",
     "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tontv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ToprakTV.tr",
-    "name": "Toprak TV",
-    "logo": "https://i.imgur.com/JGnS0qs.png",
-    "logoText": "TOP",
-    "url": "https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.toprak.tv/"
-  },
-  {
-    "id": "TrabzonBuyuksehirBelediyesiTV.tr",
-    "name": "Trabzon Buyuksehir Belediyesi TV",
-    "logo": "https://tbbweb.tv/img/logo.png",
-    "logoText": "TRA",
+    "tvgId": "FBBGW2J5SzIqYo",
+    "name": "Trabzon Buyuksehir Belediyesi TV FHD",
+    "originalName": "Trabzon Buyuksehir Belediyesi TV FHD",
     "url": "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tbbweb.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TrakyaTurk.tr",
-    "name": "Trakya Turk",
-    "logo": "https://trakyaturktv.com/uploads/library/2024/04/unnamed1.jpg",
-    "logoText": "TRA",
-    "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://trakyaturktv.com/canli-yayin"
-  },
-  {
-    "id": "TRT1.tr",
+    "tvgId": "e8zax7Tb0zc8Eu",
     "name": "TRT 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT 1",
     "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trt1.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRT3.tr",
-    "name": "TRT 3",
-    "logo": "https://i.imgur.com/JrWFwBd.png",
-    "logoText": "TRT",
-    "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "TRTArabi.tr",
+    "tvgId": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
-    "logo": "https://i.imgur.com/dEfI2M9.png",
-    "logoText": "TRT",
+    "originalName": "TRT Arabi",
     "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtarabi.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTAvaz.tr",
+    "tvgId": "9O4Xod3xobbM50",
     "name": "TRT Avaz",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT Avaz",
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtavaz.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTBelgesel.tr",
-    "name": "TRT Belgesel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
-    "logoText": "TRT",
-    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtbelgesel.com.tr/"
-  },
-  {
-    "id": "TRTCocuk.tr",
+    "tvgId": "YCPZsdEDhEaJOB",
     "name": "TRT Cocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT Cocuk",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtcocuk.net.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTDiyanetCocuk.tr",
+    "tvgId": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
-    "logo": "https://i.imgur.com/8PmXz9t.png",
-    "logoText": "TRT",
+    "originalName": "TRT Diyanet Cocuk",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtdiyanetcocuk.net.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTEBA.tr",
+    "tvgId": "3JgrZVIyLGdoxu",
     "name": "TRT EBA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT EBA",
     "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://eba.gov.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTEBAIlkokul.tr",
-    "name": "TRT EBA Ilkokul",
-    "logo": "https://i.imgur.com/CRBfZi4.png",
-    "logoText": "TRT",
-    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "TRTEBALise.tr",
-    "name": "TRT EBA Lise",
-    "logo": "https://i.imgur.com/vj2L2L2.png",
-    "logoText": "TRT",
-    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "TRTHaber.tr",
+    "tvgId": "owJJC4tX2SQL4u",
     "name": "TRT Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT Haber",
     "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trthaber.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTKurdi.tr",
+    "tvgId": "E5bRl4JchxbV74",
     "name": "TRT Kurdi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png",
-    "logoText": "TRT",
+    "originalName": "TRT Kurdi",
     "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://trtkurdi.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTMuzik.tr",
+    "tvgId": "C9IVKYDQo5BjBO",
     "name": "TRT Muzik",
-    "logo": "https://i.imgur.com/JgUzRH8.png",
-    "logoText": "TRT",
+    "originalName": "TRT Muzik",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtmuzik.net.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTSpor.tr",
-    "name": "TRT Spor",
-    "logo": "https://i.imgur.com/6tv0zxh.png",
-    "logoText": "TRT",
-    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtspor.com.tr/"
-  },
-  {
-    "id": "TRTSporYildiz.tr",
-    "name": "TRT Spor Yildiz",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
-    "logoText": "TRT",
-    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtspor.com.tr/"
-  },
-  {
-    "id": "TRTTurk.tr",
+    "tvgId": "3plQYqBTSXG2ii",
     "name": "TRT Turk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png",
-    "logoText": "TRT",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "TRT Turk",
+    "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtturk.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TRTWorld.tr",
+    "tvgId": "egFyCvci4RMv2r",
     "name": "TRT World",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
-    "logoText": "TRT",
-    "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalName": "TRT World",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "logo": "",
+    "category": "Top news",
+    "originalCategory": "Top news",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.trtworld.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TurkHaberTV.tr",
-    "name": "TurkHaber TV",
-    "logo": "https://i.imgur.com/2AcRKdL.png",
-    "logoText": "TUR",
-    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.turkhabertv.com/"
-  },
-  {
-    "id": "TV1.tr",
-    "name": "TV 1",
-    "logo": "https://i.imgur.com/8CtrYVb.png",
-    "logoText": "TV ",
-    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.tvbir.com.tr/"
-  },
-  {
-    "id": "TV100.tr",
-    "name": "TV 100",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",
-    "logoText": "TV ",
-    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tv100.com/"
-  },
-  {
-    "id": "TV264.tr",
-    "name": "TV 264",
-    "logo": "https://i.imgur.com/tudXdOZ.png",
-    "logoText": "TV ",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tv264.com.tr/"
-  },
-  {
-    "id": "TV38.tr",
-    "name": "TV 38",
-    "logo": "https://i.imgur.com/KDBXLqn.png",
-    "logoText": "TV ",
-    "url": "https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A."
-  },
-  {
-    "id": "TV4.tr",
+    "tvgId": "3FSzos0dAYiYAN",
     "name": "TV 4",
-    "logo": "https://i.imgur.com/UpsQsbd.png",
-    "logoText": "TV ",
+    "originalName": "TV 4",
     "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tv4.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TV41.tr",
+    "tvgId": "deH7vlwlXSBCxY",
     "name": "TV 41",
-    "logo": "https://i.imgur.com/6T472LM.png",
-    "logoText": "TV ",
-    "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "TV 41",
+    "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://tv41.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TV52.tr",
-    "name": "TV 52",
-    "logo": "https://i.imgur.com/k4R5CzO.png",
-    "logoText": "TV ",
-    "url": "http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "ZdxrMEOa28PZnq",
+    "name": "TV 264",
+    "originalName": "TV 264",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.tv52.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVDen.tr",
+    "tvgId": "8UTFNpq46IxrH2",
     "name": "TV Den",
-    "logo": "https://i.imgur.com/Uhg95Ze.png",
-    "logoText": "TV ",
-    "url": "http://canli.tvden.com.tr/hls/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://canli.tvden.com.tr/hls/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "TV Den",
+    "url": "https://canli.tvden.com.tr/hls/live.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tvden.com.tr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tv2.tr",
-    "name": "tv2",
-    "logo": "https://i.imgur.com/rsoSLih.png",
-    "logoText": "TV2",
-    "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tv2.com.tr/"
-  },
-  {
-    "id": "TV8.tr",
-    "name": "TV8",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png",
-    "logoText": "TV8",
-    "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tv8.com.tr/"
-  },
-  {
-    "id": "TVNET.tr",
-    "name": "TVNET",
-    "logo": "https://i.imgur.com/mQo8yWQ.png",
-    "logoText": "TVN",
-    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.tvnet.com.tr/"
-  },
-  {
-    "id": "TYTTurk.tr",
-    "name": "TYT Turk",
-    "logo": "https://tytturk.com/upload/tyt-logo.png",
-    "logoText": "TYT",
-    "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tytturk.com/"
-  },
-  {
-    "id": "UlkeTV.tr",
-    "name": "Ulke TV",
-    "logo": "https://i.imgur.com/wdWR7Qk.png",
-    "logoText": "ULK",
-    "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.ulketv.com.tr/"
-  },
-  {
-    "id": "UniversiteTV.tr",
-    "name": "Universite TV",
-    "logo": "https://i.imgur.com/KeauaSh.png",
-    "logoText": "UNI",
-    "url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.universitetv.com.tr/"
-  },
-  {
-    "id": "UrfaNatikTV.tr",
+    "tvgId": "TKQbSmFlgXq83c",
     "name": "Urfa Natik TV",
-    "logo": "https://i.imgur.com/8KO0uxn.png",
-    "logoText": "URF",
+    "originalName": "Urfa Natik TV",
     "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://urfanatiktv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UUTV2.tr",
-    "name": "UU TV 2",
-    "logo": "https://i.imgur.com/FjFjdY5.png",
-    "logoText": "UU ",
-    "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://tv.uskudar.edu.tr/"
-  },
-  {
-    "id": "VTV.tr",
-    "name": "V TV",
-    "logo": "https://www.vtv.net.tr/uploads/logo/sitelogo_4.jpg",
-    "logoText": "V T",
-    "url": "https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.vtv.net.tr/"
-  },
-  {
-    "id": "VavTV.tr",
+    "tvgId": "o42XfPEZyBkZVI",
     "name": "Vav TV",
-    "logo": "https://i.imgur.com/jw0gB8L.png",
-    "logoText": "VAV",
+    "originalName": "Vav TV",
     "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.vavtv.com.tr/"
-  },
-  {
-    "id": "ViasatExplore.tr",
-    "name": "Viasat Explore",
-    "logo": "https://i.imgur.com/DyT5pKB.png",
-    "logoText": "VIA",
-    "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.viasatexplore.com.tr/"
-  },
-  {
-    "id": "Vizyon58TV.tr",
-    "name": "Vizyon 58 TV",
-    "logo": "https://i.imgur.com/tITBc59.png",
-    "logoText": "VIZ",
-    "url": "https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: http://www.vizyon58.com/"
-  },
-  {
-    "id": "WomanTV.tr",
-    "name": "Woman TV",
-    "logo": "https://i.imgur.com/f2zGoV3.png",
-    "logoText": "WOM",
-    "url": "https://embedlp.becdn.net/womantv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://embedlp.becdn.net/womantv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "education",
-      "lifestyle"
-    ],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://www.womantv.com.tr/"
-  },
-  {
-    "id": "ZarokTV.tr",
-    "name": "Zarok TV",
-    "logo": "https://i.imgur.com/o0eevnb.png",
-    "logoText": "ZAR",
-    "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "TR",
-    "countryName": "Turkiye",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Turkiye. Language: N/A. Website: https://zaroktv.com.tr/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

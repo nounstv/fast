@@ -1,1156 +1,326 @@
 [
   {
-    "id": "ABNsat.iq",
+    "tvgId": "tRJLm7iZgOpKay",
     "name": "ABNsat",
-    "logo": "https://i.imgur.com/WhPlJzh.jpeg",
-    "logoText": "ABN",
+    "originalName": "ABNsat",
     "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.abnturkey.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AfarinBaxcha.iq",
+    "tvgId": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
-    "logo": "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
-    "logoText": "AFA",
+    "originalName": "Afarin Baxcha",
     "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://afarin.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AfarinTV.iq",
-    "name": "Afarin TV",
-    "logo": "https://i.imgur.com/6MnXD7g.png",
-    "logoText": "AFA",
-    "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://afarin.tv/"
-  },
-  {
-    "id": "AlIraqia.iq",
-    "name": "Al Iraqia",
-    "logo": "https://i.imgur.com/8qQouTW.jpg",
-    "logoText": "AL ",
-    "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://imn.iq/"
-  },
-  {
-    "id": "AlIraqiaNews.iq",
-    "name": "Al Iraqia News",
-    "logo": "https://i.imgur.com/feQTXeZ.jpg",
-    "logoText": "AL ",
-    "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://imn.iq/"
-  },
-  {
-    "id": "AlIraqiaSport.iq",
-    "name": "Al Iraqia Sport",
-    "logo": "https://i.imgur.com/DrrlxTO.png",
-    "logoText": "AL ",
-    "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://imn.iq/"
-  },
-  {
-    "id": "AlRasheedTV.iq",
+    "tvgId": "CM6FuW5WtTCo5H",
     "name": "Al Rasheed TV",
-    "logo": "https://i.imgur.com/ltyRjPK.png",
-    "logoText": "AL ",
+    "originalName": "Al Rasheed TV",
     "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.alrasheedmedia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlSharqiya.iq",
+    "tvgId": "0MeH4u5WZGBr4b",
     "name": "Al Sharqiya",
-    "logo": "https://i.imgur.com/mJIG5IV.png",
-    "logoText": "AL ",
+    "originalName": "Al Sharqiya",
     "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://www.alsharqiya.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlSharqiyaNews.iq",
+    "tvgId": "uIjblLy9ix24di",
     "name": "Al Sharqiya News",
-    "logo": "https://i.imgur.com/PeAcXB9.png",
-    "logoText": "AL ",
+    "originalName": "Al Sharqiya News",
     "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://www.alsharqiya.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlAimmaTV.iq",
-    "name": "Al-Aimma TV",
-    "logo": "https://alaimma.tv/alaimma-logo.png",
-    "logoText": "AL-",
-    "url": "https://alaimma.tv/live/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alaimma.tv/live/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://alaimma.tv/"
-  },
-  {
-    "id": "AlJawadainTV.iq",
+    "tvgId": "gqagHcGI6e4lYf",
     "name": "Al-Jawadain TV",
-    "logo": "https://i.imgur.com/Eo3UYCK.png",
-    "logoText": "AL-",
+    "originalName": "Al-Jawadain TV",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlabbassiaTV.iq",
-    "name": "Alabbassia TV",
-    "logo": "https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png",
-    "logoText": "ALA",
-    "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://alabbassia.com"
-  },
-  {
-    "id": "Alquran.iq",
+    "tvgId": "oH3JHlocRjrWih",
     "name": "Alquran",
-    "logo": "https://i.imgur.com/lqVwrAF.png",
-    "logoText": "ALQ",
+    "originalName": "Alquran",
     "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.karbala-tv.iq/quran/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AnwarTV2.iq",
-    "name": "Anwar TV2",
-    "logo": "https://i.imgur.com/yHZXPcn.png",
-    "logoText": "ANW",
-    "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "62oTY1cpZiXnL5",
+    "name": "AVA Family",
+    "originalName": "AVA Family",
+    "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+    "logo": "",
+    "category": "Family",
+    "originalCategory": "Family",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://anwartv2.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AvarTV.iq",
+    "tvgId": "I677KvGkPDPSil",
     "name": "Avar TV",
-    "logo": "https://i.imgur.com/JazFBkW.jpeg",
-    "logoText": "AVA",
+    "originalName": "Avar TV",
     "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://avartv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BayyinatTV.iq",
-    "name": "Bayyinat TV",
-    "logo": "https://i.imgur.com/PVQKsjE.png",
-    "logoText": "BAY",
-    "url": "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://www.bayyinat.tv/"
-  },
-  {
-    "id": "BeitolAbbasTVChannel.iq",
+    "tvgId": "bBdVVt0cpWEQfg",
     "name": "BeitolAbbas TV Channel",
-    "logo": "https://i.imgur.com/s8PfUQy.png",
-    "logoText": "BEI",
+    "originalName": "BeitolAbbas TV Channel",
     "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://beitolabbas.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Channel8.iq",
-    "name": "Channel8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png",
-    "logoText": "CHA",
-    "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://channel8.com/english/"
-  },
-  {
-    "id": "DijlahTV.iq",
+    "tvgId": "MIpBDCxySOyKyM",
     "name": "Dijlah TV",
-    "logo": "https://i.imgur.com/kyzH3G5.png",
-    "logoText": "DIJ",
+    "originalName": "Dijlah TV",
     "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://www.dijlah.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EmanTv.iq",
+    "tvgId": "umvB9tV3Rb1OXe",
     "name": "EmanTv",
-    "logo": "https://i.imgur.com/QmgaPSi.png",
-    "logoText": "EMA",
+    "originalName": "EmanTv",
     "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Family",
-    "categories": [
-      "family"
-    ],
+    "originalCategory": "Family",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FarmodaTV.iq",
+    "tvgId": "HF0s5qptKRRfON",
     "name": "FarmodaTV",
-    "logo": "https://i.imgur.com/x4KCQlH.png",
-    "logoText": "FAR",
+    "originalName": "FarmodaTV",
     "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "INews.iq",
+    "tvgId": "5F2s1uM9md4N38",
     "name": "I News",
-    "logo": "https://i.imgur.com/9lOuzHQ.png",
-    "logoText": "I N",
+    "originalName": "I News",
     "url": "https://live.i-news.tv/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.i-news.tv/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ImamHusseinTV1.iq",
-    "name": "Imam Hussein TV 1",
-    "logo": "https://i.imgur.com/pDdUvz7.png",
-    "logoText": "IMA",
-    "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://imamhussein1.tv/"
-  },
-  {
-    "id": "ImamHusseinTV2.iq",
-    "name": "Imam Hussein TV 2",
-    "logo": "https://i.imgur.com/IXVSPdJ.png",
-    "logoText": "IMA",
-    "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://imamhussein2.tv/"
-  },
-  {
-    "id": "ImamHusseinTV3.iq",
-    "name": "Imam Hussein TV 3",
-    "logo": "https://i.imgur.com/emQRHQZ.png",
-    "logoText": "IMA",
-    "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://imamhussein3.tv/"
-  },
-  {
-    "id": "ImamHusseinTV4.iq",
-    "name": "Imam Hussein TV 4",
-    "logo": "https://i.imgur.com/0UYcylY.png",
-    "logoText": "IMA",
-    "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://imamhussein4.tv/"
-  },
-  {
-    "id": "IraqFuture.iq",
+    "tvgId": "HjSyVfRfsJOuSb",
     "name": "Iraq Future",
-    "logo": "https://i.imgur.com/Z7woTe5.png",
-    "logoText": "IRA",
+    "originalName": "Iraq Future",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KurdChannel.iq",
+    "tvgId": "GNcGmADBjc6NVP",
     "name": "Kurd Channel",
-    "logo": "https://i.imgur.com/xPwzad9.png",
-    "logoText": "KUR",
+    "originalName": "Kurd Channel",
     "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kurdistan24.iq",
-    "name": "Kurdistan 24",
-    "logo": "https://i.imgur.com/9QWs2ms.png",
-    "logoText": "KUR",
-    "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdistan24.net/"
-  },
-  {
-    "id": "KurdistanTV.iq",
+    "tvgId": "9RdvwjYBwgdvbP",
     "name": "Kurdistan TV",
-    "logo": "https://i.imgur.com/mjQptpc.png",
-    "logoText": "KUR",
+    "originalName": "Kurdistan TV",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://kurdistantv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KurdMaxMusic.iq",
-    "name": "KurdMax Music",
-    "logo": "https://i.imgur.com/otnIdEu.png",
-    "logoText": "KUR",
-    "url": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdmax.tv/"
-  },
-  {
-    "id": "KurdMaxShow.iq",
-    "name": "KurdMax Show",
-    "logo": "https://i.imgur.com/XTmyGmL.png",
-    "logoText": "KUR",
-    "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdmax.tv/"
-  },
-  {
-    "id": "KurdMaxSorani.iq",
-    "name": "KurdMax Sorani",
-    "logo": "https://i.imgur.com/JkK8HG8.png",
-    "logoText": "KUR",
-    "url": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdmax.tv/"
-  },
-  {
-    "id": "Kurdsat.iq",
+    "tvgId": "8YNFXXuZHnJiGA",
     "name": "Kurdsat",
-    "logo": "https://i.imgur.com/UAbSwYA.png",
-    "logoText": "KUR",
+    "originalName": "Kurdsat",
     "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdsat.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KurdsatNews.iq",
+    "tvgId": "SjoOeqUrGyldOw",
     "name": "Kurdsat News",
-    "logo": "https://i.imgur.com/F3XRwkt.png",
-    "logoText": "KUR",
+    "originalName": "Kurdsat News",
     "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.kurdsatnews.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MarjaeyatTVArabic.iq",
+    "tvgId": "zm44xwiDL9fsin",
     "name": "Marjaeyat TV Arabic",
-    "logo": "https://i.imgur.com/LsYYkUI.png",
-    "logoText": "MAR",
+    "originalName": "Marjaeyat TV Arabic",
     "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://marjaeyattv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MarjaeyatTVEnglish.iq",
+    "tvgId": "pWcgyQ1N65tvlP",
     "name": "Marjaeyat TV English",
-    "logo": "https://i.imgur.com/Dvf61Jp.png",
-    "logoText": "MAR",
+    "originalName": "Marjaeyat TV English",
     "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://marjaeyattv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MarjaeyatTVPersian.iq",
+    "tvgId": "NA2Yy8jnyc36WT",
     "name": "Marjaeyat TV Persian",
-    "logo": "https://i.imgur.com/fCj05f0.png",
-    "logoText": "MAR",
+    "originalName": "Marjaeyat TV Persian",
     "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://marjaeyat.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MBCIraq.iq",
-    "name": "MBC Iraq",
-    "logo": "https://i.imgur.com/D0LxiPE.png",
-    "logoText": "MBC",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.mbc.net/channels/mbc-iraq"
-  },
-  {
-    "id": "Mixkurdy.iq",
+    "tvgId": "O7kNo7GEugTsdZ",
     "name": "Mixkurdy",
-    "logo": "https://i.imgur.com/WHeH5i7.png",
-    "logoText": "MIX",
+    "originalName": "Mixkurdy",
     "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Family",
-    "categories": [
-      "family"
-    ],
+    "originalCategory": "Family",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NRTTV.iq",
-    "name": "NRT TV",
-    "logo": "https://i.imgur.com/uGKGtbW.png",
-    "logoText": "NRT",
-    "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.nrttv.com/nrt2/"
-  },
-  {
-    "id": "NUBARPlusPlus.iq",
-    "name": "NUBAR Plus +",
-    "logo": "https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg",
-    "logoText": "NUB",
-    "url": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: http://www.nubar.tv/"
-  },
-  {
-    "id": "PayamTV.iq",
-    "name": "Payam TV",
-    "logo": "https://i.imgur.com/qySEibb.png",
-    "logoText": "PAY",
-    "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.peyam.net/"
-  },
-  {
-    "id": "RudawTV.iq",
+    "tvgId": "uW9T6p9CIkSP3A",
     "name": "Rudaw TV",
-    "logo": "https://i.imgur.com/Zo3IWOn.png",
-    "logoText": "RUD",
+    "originalName": "Rudaw TV",
     "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://rudaw.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ShamsTV.iq",
-    "name": "Shams TV",
-    "logo": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
-    "logoText": "SHA",
-    "url": "https://stream.shams.tv/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.shams.tv/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://shams.tv"
-  },
-  {
-    "id": "UTV.iq",
-    "name": "UTV",
-    "logo": "https://i.imgur.com/9qFHjnu.png",
-    "logoText": "UTV",
-    "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A."
-  },
-  {
-    "id": "WaarTV.iq",
+    "tvgId": "KMzVAKGUvyz4eh",
     "name": "Waar TV",
-    "logo": "https://i.imgur.com/rK0y02d.png",
-    "logoText": "WAA",
+    "originalName": "Waar TV",
     "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://waarmedia.com/tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZagrosTV.iq",
+    "tvgId": "1BItbbUxYfR9by",
     "name": "Zagros TV",
-    "logo": "https://i.imgur.com/9Mspf32.png",
-    "logoText": "ZAG",
+    "originalName": "Zagros TV",
     "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "IQ",
-    "countryName": "Iraq",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Iraq. Language: N/A. Website: https://www.zagrosnews.net/"
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "cM31twBg1gSzK3",
+    "name": "Zarok TV Sorani",
+    "originalName": "Zarok TV Sorani",
+    "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "IQ",
+    "type": "live",
+    "source": "famelack"
   }
 ]

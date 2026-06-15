@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FILMS4K" tvg-name="##### FILMS 4K #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS 4K #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507458.ts
+#EXTINF:-1 tvg-id="FILM1ACTION.nl" tvg-name="FILM 1 ACTION ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/595.png?54897" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 ACTION ᴿᴬᵂ ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1595.ts
+#EXTINF:-1 tvg-id="FILM1DRAMA.nl" tvg-name="FILM 1 DRAMA ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/597.png?59502" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 DRAMA ᴿᴬᵂ ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1565.ts
+#EXTINF:-1 tvg-id="FILM1PREMIERE.nl" tvg-name="FILM 1 PREMIERE ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/601.png?17881" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 PREMIERE ᴿᴬᵂ ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1564.ts
+#EXTINF:-1 tvg-id="FILM1FAMILY.nl" tvg-name="FILM 1 FAMILY ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/599.png?89173" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 FAMILY ᴿᴬᵂ ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1566.ts
+#EXTINF:-1 tvg-id="FILMSHEVC" tvg-name="##### FILMS HEVC #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS HEVC #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507629.ts
+#EXTINF:-1 tvg-id="FILM1PREMIEREHEVC.nl" tvg-name="FILM 1 PREMIERE HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/601.png?17881" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 PREMIERE HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507628.ts
+#EXTINF:-1 tvg-id="FILM1ACTIONHEVC.nl" tvg-name="FILM 1 ACTION HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/595.png?54897" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 ACTION HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507627.ts
+#EXTINF:-1 tvg-id="FILM1DRAMAHEVC.nl" tvg-name="FILM 1 DRAMA HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/597.png?59502" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 DRAMA HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507626.ts
+#EXTINF:-1 tvg-id="FILM1FAMILYHEVC.nl" tvg-name="FILM 1 FAMILY HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/599.png?89173" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 FAMILY HEVC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507625.ts
+#EXTINF:-1 tvg-id="FILMBOXHEVC.nl" tvg-name="FILMBOX HEVC ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/filmbox.png" group-title="Nl| Films Hd/4K" tvg-country="NL",FILMBOX HEVC ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507624.ts
+#EXTINF:-1 tvg-id="FILMSHD" tvg-name="##### FILMS HD #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS HD #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507623.ts
+#EXTINF:-1 tvg-id="FILM1PREMIEREHD.nl" tvg-name="FILM 1 PREMIERE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/601.png?17881" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 PREMIERE HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507622.ts
+#EXTINF:-1 tvg-id="FILM1ACTIONHD.nl" tvg-name="FILM 1 ACTION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/595.png?54897" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 ACTION HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507621.ts
+#EXTINF:-1 tvg-id="FILM1DRAMAHD.nl" tvg-name="FILM 1 DRAMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/597.png?59502" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 DRAMA HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507620.ts
+#EXTINF:-1 tvg-id="FILM1FAMILYHD.nl" tvg-name="FILM 1 FAMILY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/599.png?89173" group-title="Nl| Films Hd/4K" tvg-country="NL",FILM 1 FAMILY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507619.ts
+#EXTINF:-1 tvg-id="BLINDSPOTHD.nl" tvg-name="BLINDSPOT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12566.jpg?97910" group-title="Nl| Films Hd/4K" tvg-country="NL",BLINDSPOT HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019847.ts
+#EXTINF:-1 tvg-id="FILMBOXHD.nl" tvg-name="FILMBOX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/filmbox.png" group-title="Nl| Films Hd/4K" tvg-country="NL",FILMBOX HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507618.ts
+#EXTINF:-1 tvg-id="SEALTEAMHD.nl" tvg-name="SEAL TEAM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12563.png?32181" group-title="Nl| Films Hd/4K" tvg-country="NL",SEAL TEAM HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019842.ts
+#EXTINF:-1 tvg-id="HAWAII50HD.nl" tvg-name="HAWAII 5-0 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12572.png?43420" group-title="Nl| Films Hd/4K" tvg-country="NL",HAWAII 5-0 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019844.ts
+#EXTINF:-1 tvg-id="EMPIRE.nl" tvg-name="EMPIRE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1104.png?89365" group-title="Nl| Films Hd/4K" tvg-country="NL",EMPIRE
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019846.ts
+#EXTINF:-1 tvg-id="OUTLANDER.nl" tvg-name="OUTLANDER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12573.png?90146" group-title="Nl| Films Hd/4K" tvg-country="NL",OUTLANDER
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019843.ts
+#EXTINF:-1 tvg-id="SMERIS.nl" tvg-name="SMERIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12564.jpg?11443" group-title="Nl| Films Hd/4K" tvg-country="NL",SMERIS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019841.ts
+#EXTINF:-1 tvg-id="XENA.nl" tvg-name="XENA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12567.jpg?95313" group-title="Nl| Films Hd/4K" tvg-country="NL",XENA
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019840.ts
+#EXTINF:-1 tvg-id="SAMSAM.nl" tvg-name="SAMSAM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12568.png?87218" group-title="Nl| Films Hd/4K" tvg-country="NL",SAMSAM
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019839.ts
+#EXTINF:-1 tvg-id="HETHUISANUBIS.nl" tvg-name="HET HUIS ANUBIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12570.jpg?35968" group-title="Nl| Films Hd/4K" tvg-country="NL",HET HUIS ANUBIS
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019838.ts
+#EXTINF:-1 tvg-id="THEBIGBANGTHEORY.nl" tvg-name="THE BIG BANG THEORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12574.jpg?77524" group-title="Nl| Films Hd/4K" tvg-country="NL",THE BIG BANG THEORY
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1019845.ts
+#EXTINF:-1 tvg-id="FILMSHBO" tvg-name="##### FILMS HBO #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS HBO #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507617.ts
+#EXTINF:-1 tvg-id="HBOGO1.nl" tvg-name="HBO GO 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3260.png?ver=44780" group-title="Nl| Films Hd/4K" tvg-country="NL",HBO GO 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507616.ts
+#EXTINF:-1 tvg-id="HBOGO2.nl" tvg-name="HBO GO 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3260.png?ver=44780" group-title="Nl| Films Hd/4K" tvg-country="NL",HBO GO 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507615.ts
+#EXTINF:-1 tvg-id="HBOGO3.nl" tvg-name="HBO GO 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3260.png?ver=44780" group-title="Nl| Films Hd/4K" tvg-country="NL",HBO GO 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507614.ts
+#EXTINF:-1 tvg-id="HBOGO4.nl" tvg-name="HBO GO 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3260.png?ver=44780" group-title="Nl| Films Hd/4K" tvg-country="NL",HBO GO 4 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507613.ts
+#EXTINF:-1 tvg-id="HBOGO5.nl" tvg-name="HBO GO 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3260.png?ver=44780" group-title="Nl| Films Hd/4K" tvg-country="NL",HBO GO 5 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507612.ts
+#EXTINF:-1 tvg-id="FILMSVIAPLAY" tvg-name="##### FILMS VIAPLAY #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS VIAPLAY #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507611.ts
+#EXTINF:-1 tvg-id="VIAPLAYAKTIE1.nl" tvg-name="VIAPLAY AKTIE 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY AKTIE 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507610.ts
+#EXTINF:-1 tvg-id="VIAPLAYAKTIE2.nl" tvg-name="VIAPLAY AKTIE 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY AKTIE 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507609.ts
+#EXTINF:-1 tvg-id="VIAPLAYDOCU1.nl" tvg-name="VIAPLAY DOCU 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY DOCU 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507608.ts
+#EXTINF:-1 tvg-id="VIAPLAYDOCU2.nl" tvg-name="VIAPLAY DOCU 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY DOCU 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507607.ts
+#EXTINF:-1 tvg-id="VIAPLAYDRAMA1.nl" tvg-name="VIAPLAY DRAMA 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY DRAMA 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507606.ts
+#EXTINF:-1 tvg-id="VIAPLAYDRAMA2.nl" tvg-name="VIAPLAY DRAMA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY DRAMA 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507605.ts
+#EXTINF:-1 tvg-id="VIAPLAYDRAMA3.nl" tvg-name="VIAPLAY DRAMA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY DRAMA 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507604.ts
+#EXTINF:-1 tvg-id="VIAPLAYHORROR1.nl" tvg-name="VIAPLAY HORROR 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY HORROR 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507603.ts
+#EXTINF:-1 tvg-id="VIAPLAYHORROR2.nl" tvg-name="VIAPLAY HORROR 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY HORROR 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507602.ts
+#EXTINF:-1 tvg-id="VIAPLAYKOMEDIE1.nl" tvg-name="VIAPLAY KOMEDIE 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY KOMEDIE 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507601.ts
+#EXTINF:-1 tvg-id="VIAPLAYKOMEDIE2.nl" tvg-name="VIAPLAY KOMEDIE 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY KOMEDIE 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507600.ts
+#EXTINF:-1 tvg-id="VIAPLAYKOMEDIE3.nl" tvg-name="VIAPLAY KOMEDIE 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY KOMEDIE 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507599.ts
+#EXTINF:-1 tvg-id="VIAPLAYMISDAAD1.nl" tvg-name="VIAPLAY MISDAAD 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY MISDAAD 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507598.ts
+#EXTINF:-1 tvg-id="VIAPLAYMISDAAD2.nl" tvg-name="VIAPLAY MISDAAD 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY MISDAAD 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507597.ts
+#EXTINF:-1 tvg-id="VIAPLAYROMANTIEK1.nl" tvg-name="VIAPLAY ROMANTIEK 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY ROMANTIEK 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507596.ts
+#EXTINF:-1 tvg-id="VIAPLAYROMANTIEK2.nl" tvg-name="VIAPLAY ROMANTIEK 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY ROMANTIEK 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507595.ts
+#EXTINF:-1 tvg-id="VIAPLAYSCIFI.nl" tvg-name="VIAPLAY SCI-FI ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY SCI-FI ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507594.ts
+#EXTINF:-1 tvg-id="VIAPLAYTHRILLER1.nl" tvg-name="VIAPLAY THRILLER 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY THRILLER 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507593.ts
+#EXTINF:-1 tvg-id="VIAPLAYTHRILLER2.nl" tvg-name="VIAPLAY THRILLER 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY THRILLER 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507592.ts
+#EXTINF:-1 tvg-id="VIAPLAYTHRILLER3.nl" tvg-name="VIAPLAY THRILLER 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY THRILLER 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507591.ts
+#EXTINF:-1 tvg-id="VIAPLAYHORROR.nl" tvg-name="VIAPLAY HORROR ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6002.jpg?50883" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY HORROR ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880469.ts
+#EXTINF:-1 tvg-id="VIAPLAYCOMEDYHD.nl" tvg-name="VIAPLAY COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2997.jpg?52778" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY COMEDY HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880468.ts
+#EXTINF:-1 tvg-id="VIAPLAYACTIONHD.nl" tvg-name="VIAPLAY ACTION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6629.png?78148" group-title="Nl| Films Hd/4K" tvg-country="NL",VIAPLAY ACTION HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880467.ts
+#EXTINF:-1 tvg-id="FILMSVIDEOLAND" tvg-name="##### FILMS VIDEOLAND #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### FILMS VIDEOLAND #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507590.ts
+#EXTINF:-1 tvg-id="VIDEOLANDAKTIE1.nl" tvg-name="VIDEOLAND AKTIE 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND AKTIE 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507589.ts
+#EXTINF:-1 tvg-id="VIDEOLANDAKTIE2.nl" tvg-name="VIDEOLAND AKTIE 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND AKTIE 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507588.ts
+#EXTINF:-1 tvg-id="VIDEOLANDDOCU1.nl" tvg-name="VIDEOLAND DOCU 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND DOCU 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507587.ts
+#EXTINF:-1 tvg-id="VIDEOLANDDOCU2.nl" tvg-name="VIDEOLAND DOCU 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND DOCU 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507586.ts
+#EXTINF:-1 tvg-id="VIDEOLANDDRAMA1.nl" tvg-name="VIDEOLAND DRAMA 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND DRAMA 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507585.ts
+#EXTINF:-1 tvg-id="VIDEOLANDDRAMA2.nl" tvg-name="VIDEOLAND DRAMA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND DRAMA 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507584.ts
+#EXTINF:-1 tvg-id="VIDEOLANDDRAMA3.nl" tvg-name="VIDEOLAND DRAMA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND DRAMA 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507583.ts
+#EXTINF:-1 tvg-id="VIDEOLANDHORROR.nl" tvg-name="VIDEOLAND HORROR ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND HORROR ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507582.ts
+#EXTINF:-1 tvg-id="VIDEOLANDKOMEDIE1.nl" tvg-name="VIDEOLAND KOMEDIE 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND KOMEDIE 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507581.ts
+#EXTINF:-1 tvg-id="VIDEOLANDKOMEDIE2.nl" tvg-name="VIDEOLAND KOMEDIE 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND KOMEDIE 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507580.ts
+#EXTINF:-1 tvg-id="VIDEOLANDSCIFI.nl" tvg-name="VIDEOLAND SCI-FI ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13660.png?ver=59512" group-title="Nl| Films Hd/4K" tvg-country="NL",VIDEOLAND SCI-FI ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507579.ts
+#EXTINF:-1 tvg-id="TOPSERIES" tvg-name="##### TOP SERIES #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="Nl| Films Hd/4K",##### TOP SERIES #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507578.ts
+#EXTINF:-1 tvg-id="LACASADEPAPEL.nl" tvg-name="LA CASA DE PAPEL ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15118.png?80702" group-title="Nl| Films Hd/4K" tvg-country="NL",LA CASA DE PAPEL ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507577.ts
+#EXTINF:-1 tvg-id="MOCROMAFFIA.nl" tvg-name="MOCRO MAFFIA ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15119.jpg?25479" group-title="Nl| Films Hd/4K" tvg-country="NL",MOCRO MAFFIA ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507576.ts
+#EXTINF:-1 tvg-id="MOCROMAFFIAKOMTGOED.nl" tvg-name="MOCRO MAFFIA  KOMT GOED ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15119.jpg?25479" group-title="Nl| Films Hd/4K" tvg-country="NL",MOCRO MAFFIA  KOMT GOED ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507575.ts
+#EXTINF:-1 tvg-id="BREAKINGBAD.nl" tvg-name="BREAKING BAD ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15120.png?77723" group-title="Nl| Films Hd/4K" tvg-country="NL",BREAKING BAD ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507574.ts
+#EXTINF:-1 tvg-id="ELCHAPO.nl" tvg-name="EL CHAPO ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15121.png?91812" group-title="Nl| Films Hd/4K" tvg-country="NL",EL CHAPO ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507573.ts
+#EXTINF:-1 tvg-id="GAMEOFTHRONES.nl" tvg-name="GAME OF THRONES ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13124.jpg?67589" group-title="Nl| Films Hd/4K" tvg-country="NL",GAME OF THRONES ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507572.ts
+#EXTINF:-1 tvg-id="LUPIN.nl" tvg-name="LUPIN ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15122.png?64983" group-title="Nl| Films Hd/4K" tvg-country="NL",LUPIN ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507571.ts
+#EXTINF:-1 tvg-id="POWERBOOKIIGHOST.nl" tvg-name="POWER BOOK II GHOST ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15123.png?44335" group-title="Nl| Films Hd/4K" tvg-country="NL",POWER BOOK II GHOST ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507570.ts
+#EXTINF:-1 tvg-id="THEQUEENSGAMBIT.nl" tvg-name="THE QUEEN'S GAMBIT ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15124.png?37334" group-title="Nl| Films Hd/4K" tvg-country="NL",THE QUEEN'S GAMBIT ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507569.ts
+#EXTINF:-1 tvg-id="UNDERCOVER.nl" tvg-name="UNDERCOVER ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/7949.jpg?95055" group-title="Nl| Films Hd/4K" tvg-country="NL",UNDERCOVER ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507568.ts
+#EXTINF:-1 tvg-id="REIGN1.nl" tvg-name="REIGN 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10621.png?99074" group-title="Nl| Films Hd/4K" tvg-country="NL",REIGN 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865436.ts
+#EXTINF:-1 tvg-id="REIGN2HD.nl" tvg-name="REIGN 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5985.jpg?68190" group-title="Nl| Films Hd/4K" tvg-country="NL",REIGN 2 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865437.ts
+#EXTINF:-1 tvg-id="REIGN3HD.nl" tvg-name="REIGN 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10621.png?99074" group-title="Nl| Films Hd/4K" tvg-country="NL",REIGN 3 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865438.ts
+#EXTINF:-1 tvg-id="REIGN4HD.nl" tvg-name="REIGN 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10621.png?99074" group-title="Nl| Films Hd/4K" tvg-country="NL",REIGN 4 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865439.ts
+#EXTINF:-1 tvg-id="FLIXTV00HD.nl" tvg-name="FLIX TV 00 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 00 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865422.ts
+#EXTINF:-1 tvg-id="FLIXTV01HD.nl" tvg-name="FLIX TV 01 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 01 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865423.ts
+#EXTINF:-1 tvg-id="FLIXTV03HD.nl" tvg-name="FLIX TV 03 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 03 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865424.ts
+#EXTINF:-1 tvg-id="FLIXTV04HD.nl" tvg-name="FLIX TV 04 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 04 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865425.ts
+#EXTINF:-1 tvg-id="FLIXTV05HD.nl" tvg-name="FLIX TV 05 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 05 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865426.ts
+#EXTINF:-1 tvg-id="FLIXTV06HD.nl" tvg-name="FLIX TV 06 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 06 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865427.ts
+#EXTINF:-1 tvg-id="FLIXTV07HD.nl" tvg-name="FLIX TV 07 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 07 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865428.ts
+#EXTINF:-1 tvg-id="FLIXTV08HD.nl" tvg-name="FLIX TV 08 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 08 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865429.ts
+#EXTINF:-1 tvg-id="FLIXTV09HD.nl" tvg-name="FLIX TV 09 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 09 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865430.ts
+#EXTINF:-1 tvg-id="FLIXTV10HD.nl" tvg-name="FLIX TV 10 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?13229" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 10 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865431.ts
+#EXTINF:-1 tvg-id="FLIXTV11HD.nl" tvg-name="FLIX TV 11 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8275.png?94882" group-title="Nl| Films Hd/4K" tvg-country="NL",FLIX TV 11 HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865432.ts
+#EXTINF:-1 tvg-id="GOSSIPGIRL.nl" tvg-name="GOSSIP GIRL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8222.jpg?43000" group-title="Nl| Films Hd/4K" tvg-country="NL",GOSSIP GIRL
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865434.ts
+#EXTINF:-1 tvg-id="DEXTER.nl" tvg-name="DEXTER ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8219.jpg?14097" group-title="Nl| Films Hd/4K" tvg-country="NL",DEXTER ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865433.ts
+#EXTINF:-1 tvg-id="LUTHER.nl" tvg-name="LUTHER ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8241.jpg?20963" group-title="Nl| Films Hd/4K" tvg-country="NL",LUTHER ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/865435.ts
+#EXTINF:-1 tvg-id="PRIMETV.nl" tvg-name="PRIME+ TV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13430.png?61442" group-title="Nl| Films Hd/4K" tvg-country="NL",PRIME+ TV ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880466.ts
+#EXTINF:-1 tvg-id="NETFLIXTVHD.nl" tvg-name="NETFLIX TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12990.png?88534" group-title="Nl| Films Hd/4K" tvg-country="NL",NETFLIX TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880465.ts
+#EXTINF:-1 tvg-id="DISNEYTV.nl" tvg-name="DISNEY+ TV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/634.jpg?64671" group-title="Nl| Films Hd/4K" tvg-country="NL",DISNEY+ TV ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880464.ts
+#EXTINF:-1 tvg-id="APPLETVHD.nl" tvg-name="APPLE+ TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13559.png?72960" group-title="Nl| Films Hd/4K" tvg-country="NL",APPLE+ TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/880463.ts

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JORDANTV" tvg-name="###### JORDAN TV ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Animated-Flag-Jordan.gif" group-title="Ar| Jordan 4K ▶ الاردن",###### JORDAN TV ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251799.ts
+#EXTINF:-1 tvg-id="JordanTV4K.ar" tvg-name="Jordan TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/457.jpg" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Jordan TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4440.ts
+#EXTINF:-1 tvg-id="AlmamlakaTV4K.ar" tvg-name="Almamlaka TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/151.jpg" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Almamlaka TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3101.ts
+#EXTINF:-1 tvg-id="AlmamlakaTVHD.ar" tvg-name="Almamlaka TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/151.jpg" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Almamlaka TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/497948.ts
+#EXTINF:-1 tvg-id="AmmanTV4K.ar" tvg-name="Amman TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/207.jpg" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Amman TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3236.ts
+#EXTINF:-1 tvg-id="AmmanTVHD.ar" tvg-name="Amman TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/207.jpg" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Amman TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499147.ts
+#EXTINF:-1 tvg-id="JordanAmanTV.ar" tvg-name="Jordan Aman TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/457.jpg?57470" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Jordan Aman TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/461175.ts
+#EXTINF:-1 tvg-id="Yarmouk.ar" tvg-name="Yarmouk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13464.png?51787" group-title="Ar| Jordan 4K ▶ الاردن" tvg-country="AR",Yarmouk
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/326934.ts

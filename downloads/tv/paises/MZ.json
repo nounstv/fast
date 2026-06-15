@@ -1,103 +1,26 @@
 [
   {
-    "id": "TVManaMocambique.mz",
+    "tvgId": "m6EnoHPyxPHtyb",
     "name": "TV Mana Mocambique",
-    "logo": "https://i.imgur.com/R5YrV5s.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana Mocambique",
     "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "MZ",
-    "countryName": "Mozambique",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Mozambique. Language: N/A. Website: https://tvmana-mocambique.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVVitoria.mz",
+    "tvgId": "HY7rVLsoZbudni",
     "name": "TV Vitoria",
-    "logo": "https://i.imgur.com/HlWzzfj.png",
-    "logoText": "TV ",
+    "originalName": "TV Vitoria",
     "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "MZ",
-    "countryName": "Mozambique",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Mozambique. Language: N/A. Website: https://www.vitoriacomunicacoes.site/"
-  },
-  {
-    "id": "TVM.mz",
-    "name": "TVM",
-    "logo": "https://i.imgur.com/Vqv7R3Y.png",
-    "logoText": "TVM",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MZ",
-    "countryName": "Mozambique",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Mozambique. Language: N/A. Website: https://www.tvm.co.mz/"
-  },
-  {
-    "id": "TVMInternacional.mz",
-    "name": "TVM Internacional",
-    "logo": "https://i.imgur.com/fRV6p50.png",
-    "logoText": "TVM",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MZ",
-    "countryName": "Mozambique",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Mozambique. Language: N/A. Website: https://www.tvm.co.mz/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

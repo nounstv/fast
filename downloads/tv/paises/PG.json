@@ -1,26 +1,14 @@
 [
   {
-    "id": "NBCTV.pg",
+    "tvgId": "riGO8TQGoTIShZ",
     "name": "NBC TV",
-    "logo": "https://i.imgur.com/KNaaG5u.png",
-    "logoText": "NBC",
+    "originalName": "NBC TV",
     "url": "https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PG",
-    "countryName": "Papua New Guinea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Papua New Guinea. Language: N/A. Website: https://www.nbc.com.pg/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

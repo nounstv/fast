@@ -1,487 +1,62 @@
 [
   {
-    "id": "AntenneA.cd",
-    "name": "Antenne A",
-    "logo": "https://i.imgur.com/tgxrcv7.png",
-    "logoText": "ANT",
-    "url": "http://51.254.199.122:8080/antenne_a-plus/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/antenne_a-plus/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://www.antenneatv.com/"
-  },
-  {
-    "id": "BarakaTelevision.cd",
-    "name": "Baraka Television",
-    "logo": "https://i.imgur.com/IKXddHN.png",
-    "logoText": "BAR",
-    "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "BossBrothersTV.cd",
-    "name": "Boss Brothers TV",
-    "logo": "https://i.imgur.com/rc9MXm5.png",
-    "logoText": "BOS",
-    "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: http://www.thebossbrothers.co.uk/"
-  },
-  {
-    "id": "CCPVTelevision.cd",
+    "tvgId": "ygDDILAop8WUxP",
     "name": "CCPV Television",
-    "logo": "https://i.imgur.com/VRhkEqz.jpg",
-    "logoText": "CCP",
+    "originalName": "CCPV Television",
     "url": "https://tnt-television.com/CCPV-TV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/CCPV-TV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://ccpvmontreal.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CompassionTV.cd",
+    "tvgId": "QOfJ38EhuVvyDe",
     "name": "Compassion TV",
-    "logo": "https://i.imgur.com/lfoUsyR.jpeg",
-    "logoText": "COM",
+    "originalName": "Compassion TV",
     "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://egliselacompassion.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CongoPlanetTelevision.cd",
-    "name": "Congo Planet Television",
-    "logo": "https://i.imgur.com/9IIIvPf.png",
-    "logoText": "CON",
-    "url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "DigitalCongoTV.cd",
-    "name": "Digital Congo TV",
-    "logo": "https://i.imgur.com/uz2Rsu7.png",
-    "logoText": "DIG",
-    "url": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://digitalcongo.org/"
-  },
-  {
-    "id": "EVITV.cd",
-    "name": "EVI TV",
-    "logo": "https://i.imgur.com/fBc9JSM.png",
-    "logoText": "EVI",
-    "url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "GeopolisTV.cd",
+    "tvgId": "ja8UrHCZtIyHwA",
     "name": "Geopolis TV",
-    "logo": "https://i.imgur.com/WzGAIYe.jpg",
-    "logoText": "GEO",
+    "originalName": "Geopolis TV",
     "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://geopolismagazine.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kin24.cd",
-    "name": "Kin24",
-    "logo": "https://i.imgur.com/Lak10Wo.png",
-    "logoText": "KIN",
-    "url": "http://51.254.199.122:8080/kin24/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/kin24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "LBFDRTV.cd",
-    "name": "LBFD RTV",
-    "logo": "https://i.imgur.com/buMvLJc.jpeg",
-    "logoText": "LBF",
-    "url": "https://tnt-television.com/LBFD_RTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/LBFD_RTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "MikubaTV.cd",
-    "name": "Mikuba TV",
-    "logo": "https://i.imgur.com/yJehCQM.png",
-    "logoText": "MIK",
-    "url": "http://51.254.199.122:8080/MIKUBATV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/MIKUBATV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://mikubart.com/"
-  },
-  {
-    "id": "MishapiVoiceTV.cd",
-    "name": "Mishapi Voice TV",
-    "logo": "https://i.imgur.com/GfOy2ok.png",
-    "logoText": "MIS",
-    "url": "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://mishapivoicetv.net/"
-  },
-  {
-    "id": "NumericaTV.cd",
+    "tvgId": "XTCS8hBcYSO2yi",
     "name": "Numerica TV",
-    "logo": "https://i.imgur.com/ZUPJJ59.png",
-    "logoText": "NUM",
+    "originalName": "Numerica TV",
     "url": "https://tnt-television.com/NUMERICA/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tnt-television.com/NUMERICA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://numericatelevision.cd"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ONETV.cd",
-    "name": "ONE-TV",
-    "logo": "https://i.imgur.com/Wob7gjp.png",
-    "logoText": "ONE",
-    "url": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://www.one-tv.org/"
-  },
-  {
-    "id": "PSTVHD.cd",
-    "name": "PSTV HD",
-    "logo": "https://i.imgur.com/xQlkuAa.png",
-    "logoText": "PST",
-    "url": "http://51.254.199.122:8080/PSTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/PSTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "RLPROTV.cd",
-    "name": "RL PRO TV",
-    "logo": "https://i.imgur.com/PIBtCEN.jpeg",
-    "logoText": "RL ",
-    "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A."
-  },
-  {
-    "id": "RTNC.cd",
+    "tvgId": "DNL85vskEfv05e",
     "name": "RTNC",
-    "logo": "https://i.imgur.com/oVXO950.jpeg",
-    "logoText": "RTN",
-    "url": "http://69.64.57.208/rtnc/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://69.64.57.208/rtnc/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tnt-television.com/rtnc_HD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "RTNC",
+    "url": "https://tnt-television.com/rtnc_HD/index.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://rtnc.cd/"
-  },
-  {
-    "id": "RTNC3.cd",
-    "name": "RTNC 3",
-    "logo": "https://i.imgur.com/rr9Zsno.jpeg",
-    "logoText": "RTN",
-    "url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: https://rtnc.cd/"
-  },
-  {
-    "id": "RTVS1.cd",
-    "name": "RTVS1",
-    "logo": "https://i.imgur.com/doaZCzy.png",
-    "logoText": "RTV",
-    "url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Democratic Republic of the Congo. Language: N/A. Website: http://rtvs1.cd/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

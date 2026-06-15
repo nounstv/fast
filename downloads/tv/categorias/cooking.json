@@ -1,299 +1,302 @@
 [
   {
-    "id": "50BgEa7NMm2duG",
-    "name": "America's Test Kitchen",
-    "url": "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
+    "tvgId": "WORLDOFCOOKING4K",
+    "name": "#### WORLD OF COOKING 4K ####",
+    "originalName": "#### WORLD OF COOKING 4K ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622854.ts",
+    "logo": "",
     "category": "Cooking",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "AME",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
-      "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8"
-    ]
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "UScHhHKQkcsuIt",
+    "tvgId": ".ar",
+    "name": "البيت الدمشقي",
+    "originalName": "AR: البيت الدمشقي",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622853.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12424.jpg?417",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": ".ar",
+    "name": "الشيف عمر",
+    "originalName": "AR: الشيف عمر",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622852.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12397.png?28004",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "1.ar",
+    "name": "شيف بالبيت 1",
+    "originalName": "AR: شيف بالبيت 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622851.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8408.png?27847",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "2.ar",
+    "name": "شيف بالبيت 2",
+    "originalName": "AR: شيف بالبيت 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622850.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12385.jpg?52782",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": ".ar",
+    "name": "عا للبناني",
+    "originalName": "AR: عا للبناني",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622849.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12383.jpg?97258",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": ".ar",
+    "name": "عجين وطحين",
+    "originalName": "AR: عجين وطحين",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622848.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3856.jpg?97024",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": ".ar",
+    "name": "ملح وسكر",
+    "originalName": "AR: ملح وسكر",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622847.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8421.jpg?78800",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "1.ar",
+    "name": "منال العالم 1",
+    "originalName": "AR: منال العالم 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622846.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "2.ar",
+    "name": "منال العالم 2",
+    "originalName": "AR: منال العالم 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622845.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "3.ar",
+    "name": "منال العالم 3",
+    "originalName": "AR: منال العالم 3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622844.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "4.ar",
+    "name": "منال العالم 4",
+    "originalName": "AR: منال العالم 4",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/622843.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1930.jpg?83740",
+    "category": "Cooking",
+    "originalCategory": "AR| WORLD OF COOKING 4K ▶ عالم الطبخ",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UScHhHKQkcsuIt",
     "name": "BBC Food",
+    "originalName": "BBC Food",
     "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BBC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "cfDYrj4f7xSqqH",
+    "tvgId": "cfDYrj4f7xSqqH",
     "name": "bon appetit",
+    "originalName": "bon appetit",
     "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BON",
-    "streamCount": 1,
-    "allStreams": [
-      "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qZ2q0f5qkl9NEZ",
+    "tvgId": "qZ2q0f5qkl9NEZ",
     "name": "Chef Champion",
+    "originalName": "Chef Champion",
     "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CHE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Knc0z9OmSpjhaI",
+    "tvgId": "Knc0z9OmSpjhaI",
     "name": "Chef Roc Show",
+    "originalName": "Chef Roc Show",
     "url": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CHE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "rt3pDKAk1yMoRc",
+    "tvgId": "rt3pDKAk1yMoRc",
     "name": "City Eden Recepty Gurmana",
+    "originalName": "City Eden Recepty Gurmana",
     "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "CIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cityeden.catcast.tv/content/47516/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "h07WOJZbzIu3Iu",
+    "tvgId": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
+    "originalName": "Cooking Panda",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "COO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LmsSgThYErX3rA",
+    "tvgId": "LmsSgThYErX3rA",
     "name": "Gordon Ramsay's Hell's Kitchen",
+    "originalName": "Gordon Ramsay's Hell's Kitchen",
     "url": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "GOR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "D9wYQdvH3cwnxL",
-    "name": "Gusto TV",
-    "url": "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
-    "category": "Cooking",
-    "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng.",
-    "logoText": "GUS",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
-      "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "https://gusto-xumo.amagi.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "mHg6rpXR6VaVXj",
+    "tvgId": "mHg6rpXR6VaVXj",
     "name": "Hello Taste",
+    "originalName": "Hello Taste",
     "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "RO",
-    "countryName": "Romania",
-    "languages": [
-      "ron"
-    ],
-    "description": "Canal de TV de Romania. Idioma: ron.",
-    "logoText": "HEL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ERhS0NAqvOPlMN",
+    "tvgId": "ERhS0NAqvOPlMN",
     "name": "Hungry",
+    "originalName": "Hungry",
     "url": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HUN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CPUFPutREQebmN",
+    "tvgId": "CPUFPutREQebmN",
     "name": "Jordan Kitchen",
+    "originalName": "Jordan Kitchen",
     "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "JO",
-    "countryName": "Jordan",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Jordan. Idioma: ara.",
-    "logoText": "JOR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zSi1ovpu9pEJVa",
+    "tvgId": "zSi1ovpu9pEJVa",
     "name": "Mad Dog and Merrill",
+    "originalName": "Mad Dog and Merrill",
     "url": "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MAD",
-    "streamCount": 1,
-    "allStreams": [
-      "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "6AoHYDpnv89YBf",
-    "name": "Roya Kitchen",
-    "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
-    "category": "Cooking",
-    "country": "JO",
-    "countryName": "Jordan",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Jordan. Idioma: ara.",
-    "logoText": "ROY",
-    "streamCount": 1,
-    "allStreams": [
-      "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "AU79Q982Hd3lD2",
+    "tvgId": "AU79Q982Hd3lD2",
     "name": "Tastemade en Espanol",
+    "originalName": "Tastemade en Espanol",
     "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de United States. Idioma: spa.",
-    "logoText": "TAS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hAcFI08ZNbAHCM",
+    "tvgId": "hAcFI08ZNbAHCM",
     "name": "Tastemade International",
+    "originalName": "Tastemade International",
     "url": "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
+    "logo": "",
     "category": "Cooking",
+    "originalCategory": "Cooking",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "TAS",
-    "streamCount": 3,
-    "allStreams": [
-      "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
-      "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
-      "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "YllG7rP25m7zOt",
-    "name": "Tastemade Travel",
-    "url": "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
-    "category": "Cooking",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "TAS",
-    "streamCount": 3,
-    "allStreams": [
-      "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
-      "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
-      "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

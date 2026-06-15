@@ -1,2205 +1,254 @@
 [
   {
-    "id": "16tvBudapest.hu",
-    "name": "16tv Budapest",
-    "logo": "https://i.imgur.com/04fCzHl.png",
-    "logoText": "16T",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "RTLAdriaHD.hu",
+    "name": "RTL Adria HD",
+    "originalName": "HU: RTL Adria HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/761603.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3771.jpg?66566",
+    "category": "Hr| Croatia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "HR| CROATIA ᴴᴰ/ᴿᴬᵂ",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.16tv.hu/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "7TV.hu",
+    "tvgId": "JUpX0mln7J2NIB",
     "name": "7.TV",
-    "logo": "https://i.imgur.com/CnUhAlK.png",
-    "logoText": "7.T",
+    "originalName": "7.TV",
     "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://behir.hu/tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlfoldTV.hu",
+    "tvgId": "pgiVm4B2WU0ANk",
+    "name": "16tv Budapest",
+    "originalName": "16tv Budapest",
+    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "HU",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "IAuzwfi3ffN5aQ",
     "name": "Alfold TV",
-    "logo": "https://i.imgur.com/W6jg8iM.png",
-    "logoText": "ALF",
+    "originalName": "Alfold TV",
     "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.hajdupress.hu/alfoldtv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ApostolTV.hu",
-    "name": "Apostol TV",
-    "logo": "https://i.imgur.com/C43Cc9N.png",
-    "logoText": "APO",
-    "url": "https://live.apostoltv.hu/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.apostoltv.hu/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://apostoltv.hu/"
-  },
-  {
-    "id": "ATV.hu",
-    "name": "ATV",
-    "logo": "https://i.imgur.com/85sIvrX.png",
-    "logoText": "ATV",
-    "url": "http://146.59.85.40:89/atv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/atv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.atv.hu/"
-  },
-  {
-    "id": "ATVSpirit.hu",
-    "name": "ATV Spirit",
-    "logo": "https://i.imgur.com/JINE5xS.png",
-    "logoText": "ATV",
-    "url": "http://146.59.85.40:89/atvspirit/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/atvspirit/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.atv.hu/"
-  },
-  {
-    "id": "BajaiTV.hu",
+    "tvgId": "ZTvTYkAMkRF41z",
     "name": "Bajai TV",
-    "logo": "https://i.imgur.com/cyReGWh.png",
-    "logoText": "BAJ",
+    "originalName": "Bajai TV",
     "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.bajaitelevizio.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BalatonTV.hu",
+    "tvgId": "bjtUkZwN7hFmXK",
     "name": "Balaton TV",
-    "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
-    "logoText": "BAL",
+    "originalName": "Balaton TV",
     "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://balatontelevizio.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BerenteTV.hu",
-    "name": "Berente TV",
-    "logo": "https://i.imgur.com/3H3Ct9f.png",
-    "logoText": "BER",
-    "url": "https://stream.streaming4u.hu/BerenteTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/BerenteTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://berente.hu"
-  },
-  {
-    "id": "BTV.hu",
-    "name": "BTV",
-    "logo": "https://i.imgur.com/0PKqn3V.png",
-    "logoText": "BTV",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.btv.hu/"
-  },
-  {
-    "id": "BudapestEuropaTelevizio.hu",
+    "tvgId": "oh8HdDJ2MJ0IrA",
     "name": "Budapest Europa Televizio",
-    "logo": "https://i.imgur.com/CqqWtzo.png",
-    "logoText": "BUD",
+    "originalName": "Budapest Europa Televizio",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.bpetv.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CoolTV.hu",
-    "name": "Cool TV",
-    "logo": "https://i.imgur.com/rXJtthd.png",
-    "logoText": "COO",
-    "url": "http://146.59.85.40:89/coolhd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/coolhd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://rtlmost.hu/cool"
-  },
-  {
-    "id": "CsurgoTV.hu",
-    "name": "Csurgo TV",
-    "logo": "https://i.imgur.com/vVOEYuj.png",
-    "logoText": "CSU",
-    "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.csurgotv.hu/"
-  },
-  {
-    "id": "DaruTV.hu",
-    "name": "Daru TV",
-    "logo": "https://i.imgur.com/0P7QHde.png",
-    "logoText": "DAR",
-    "url": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://balmazujvaros.hu/daru-tv"
-  },
-  {
-    "id": "DikhTV.hu",
-    "name": "Dikh TV",
-    "logo": "https://i.imgur.com/aAcORTL.png",
-    "logoText": "DIK",
-    "url": "http://195.189.60.31:8003/play/a0gq/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://195.189.60.31:8003/play/a0gq/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.dikhtv.hu/"
-  },
-  {
-    "id": "DSTV.hu",
-    "name": "DSTV",
-    "logo": "https://i.imgur.com/xKJoN8L.png",
-    "logoText": "DST",
-    "url": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://dstv.hu/"
-  },
-  {
-    "id": "DTV.hu",
-    "name": "DTV",
-    "logo": "https://i.imgur.com/YSpqmSO.png",
-    "logoText": "DTV",
-    "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://dehir.hu/dtv"
-  },
-  {
-    "id": "Duna.hu",
-    "name": "Duna",
-    "logo": "https://i.imgur.com/oPbsSlp.png",
-    "logoText": "DUN",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://146.59.85.40:89/dunahd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://mediaklikk.hu/duna"
-  },
-  {
-    "id": "DunaWorld.hu",
-    "name": "Duna World",
-    "logo": "https://i.imgur.com/uOBQJZS.png",
-    "logoText": "DUN",
-    "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://mediaklikk.hu/dunaworld/"
-  },
-  {
-    "id": "EgykerTV.hu",
-    "name": "Egyker TV",
-    "logo": "https://i.imgur.com/yhMhvPq.png",
-    "logoText": "EGY",
-    "url": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://media1.hu/cimke/egyker-tv/"
-  },
-  {
-    "id": "ESTV.hu",
-    "name": "ESTV",
-    "logo": "https://i.imgur.com/OCZ8CfK.png",
-    "logoText": "EST",
-    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://estv.hu/"
-  },
-  {
-    "id": "FehervarTV.hu",
-    "name": "Fehervar TV",
-    "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
-    "logoText": "FEH",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.fehervartv.hu/"
-  },
-  {
-    "id": "FIXTV.hu",
-    "name": "FIX TV",
-    "logo": "https://i.imgur.com/PLhh0Ps.png",
-    "logoText": "FIX",
-    "url": "https://fixhd.tv:8082/fix/1080i/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fixhd.tv:8082/fix/1080i/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.fixhd.tv/"
-  },
-  {
-    "id": "GloboTV.hu",
-    "name": "Globo TV",
-    "logo": "https://i.imgur.com/PJ4c4jq.png",
-    "logoText": "GLO",
-    "url": "https://stream.streaming4u.hu/GloboTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/GloboTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.globotv.hu/"
-  },
-  {
-    "id": "GolyaTV.hu",
-    "name": "Golya TV",
-    "logo": "https://i.imgur.com/TeK6Pzb.png",
-    "logoText": "GOL",
-    "url": "https://stream.streaming4u.hu/GolyaTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/GolyaTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://cuttingroom.hu/"
-  },
-  {
-    "id": "GranTV.hu",
-    "name": "Gran TV",
-    "logo": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
-    "logoText": "GRA",
-    "url": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.grantv.hu/"
-  },
-  {
-    "id": "GyongyosiTV.hu",
-    "name": "Gyongyosi TV",
-    "logo": "https://i.imgur.com/RHgaPCk.png",
-    "logoText": "GYO",
-    "url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://gyongyostv.hu/"
-  },
-  {
-    "id": "HtMusicChannel.hu",
-    "name": "H!t Music Channel",
-    "logo": "https://i.imgur.com/sqC2hqV.png",
-    "logoText": "H!T",
-    "url": "http://hitmusic.hu/hitmusic.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://hitmusic.hu/hitmusic.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://hitmusic.hu/"
-  },
-  {
-    "id": "HangulatTV.hu",
-    "name": "Hangulat TV",
-    "logo": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
-    "logoText": "HAN",
-    "url": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Lifestyle",
-    "categories": [
-      "lifestyle"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://onlinestream.live/hangulat-tv/online/9001-1"
-  },
-  {
-    "id": "Hatoscsatorna.hu",
-    "name": "Hatoscsatorna",
-    "logo": "https://i.imgur.com/XZqg1Pj.png",
-    "logoText": "HAT",
-    "url": "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://hatoscsatorna.hu/"
-  },
-  {
-    "id": "HegyvidekTV.hu",
-    "name": "Hegyvidek TV",
-    "logo": "https://i.imgur.com/t5bw1J1.png",
-    "logoText": "HEG",
-    "url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://hegyvidektv.hu/"
-  },
-  {
-    "id": "HeviziTV.hu",
+    "tvgId": "iRMHvMNoQ8D1Pg",
     "name": "Hevizi TV",
-    "logo": "https://i.imgur.com/zuWQKDm.png",
-    "logoText": "HEV",
+    "originalName": "Hevizi TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://hevizitv.hu"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HirTV.hu",
+    "tvgId": "XhwcqTVLHCEw2f",
     "name": "Hir TV",
-    "logo": "https://i.imgur.com/xmIUDRN.png",
-    "logoText": "HIR",
+    "originalName": "Hir TV",
     "url": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://hirtv.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IzauraTV.hu",
-    "name": "Izaura TV",
-    "logo": "https://i.imgur.com/p9YFnpw.png",
-    "logoText": "IZA",
-    "url": "http://146.59.85.40:89/izaura/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/izaura/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://tv2play.hu/izauratv"
-  },
-  {
-    "id": "JaszsagiTersegiTV.hu",
-    "name": "Jaszsagi Tersegi TV",
-    "logo": "https://i.imgur.com/bsDN0lH.png",
-    "logoText": "JAS",
-    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://jttv.hu"
-  },
-  {
-    "id": "JockyTV.hu",
-    "name": "Jocky TV",
-    "logo": "https://i.imgur.com/wLawFVP.png",
-    "logoText": "JOC",
-    "url": "http://146.59.85.40:89/jocky/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/jocky/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://tv2play.hu/jockytv"
-  },
-  {
-    "id": "KanizsaTV.hu",
+    "tvgId": "NQB6tBEbXbMz8O",
     "name": "Kanizsa TV",
-    "logo": "https://i.imgur.com/l02znlE.png",
-    "logoText": "KAN",
+    "originalName": "Kanizsa TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://kanizsatv.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KaposTV.hu",
-    "name": "Kapos TV",
-    "logo": "https://i.imgur.com/ZMrj2C5.png",
-    "logoText": "KAP",
-    "url": "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://kapos.hu/kapostv/"
-  },
-  {
-    "id": "KarcagTV.hu",
+    "tvgId": "18AN91eApyBqTs",
     "name": "Karcag TV",
-    "logo": "https://i.imgur.com/QcrVj3Q.png",
-    "logoText": "KAR",
+    "originalName": "Karcag TV",
     "url": "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.karcagtv.hu"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KecskemetiTV.hu",
+    "tvgId": "U5Rk6wZ9i45ZXv",
     "name": "Kecskemeti TV",
-    "logo": "https://i.imgur.com/yxwrX2N.png",
-    "logoText": "KEC",
-    "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Kecskemeti TV",
+    "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://kecskemetitv.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KiskorosTV.hu",
-    "name": "Kiskoros TV",
-    "logo": "https://i.imgur.com/Y74Mve1.png",
-    "logoText": "KIS",
-    "url": "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.kiskorostv.hu"
-  },
-  {
-    "id": "KomaromiTelevizio.hu",
-    "name": "Komaromi Televizio",
-    "logo": "https://i.imgur.com/DifVZkz.png",
-    "logoText": "KOM",
-    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.komaromtv.hu/"
-  },
-  {
-    "id": "KomlosTV.hu",
-    "name": "Komlos TV",
-    "logo": "https://i.imgur.com/dnITSUz.png",
-    "logoText": "KOM",
-    "url": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.komlostv.hu/komlostv.html"
-  },
-  {
-    "id": "LiceumTV.hu",
-    "name": "Liceum TV",
-    "logo": "https://i.imgur.com/Hf122ZD.png",
-    "logoText": "LIC",
-    "url": "http://193.225.32.62:8890/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://193.225.32.62:8890/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "education"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.liceumtv.hu/"
-  },
-  {
-    "id": "Loversenykozvetites.hu",
-    "name": "Loverseny kozvetites",
-    "logo": "https://i.imgur.com/IGajR6G.png",
-    "logoText": "LOV",
-    "url": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://lovifogadas.hu/"
-  },
-  {
-    "id": "M1.hu",
-    "name": "M1",
-    "logo": "https://i.imgur.com/r4tgKZK.png",
-    "logoText": "M1",
-    "url": "http://146.59.85.40:89/m1sd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/m1sd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://195.189.60.31:8003/play/a09o/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://mediaklikk.hu/m1/"
-  },
-  {
-    "id": "M2.hu",
-    "name": "M2",
-    "logo": "https://i.imgur.com/B0nYT0l.png",
-    "logoText": "M2",
-    "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://146.59.85.40:89/m2hd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://195.189.60.31:8003/play/a0f1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://146.59.85.40:89/m2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://mediaklikk.hu/m2/"
-  },
-  {
-    "id": "M2Petofi.hu",
-    "name": "M2 Petofi",
-    "logo": "https://i.imgur.com/N7fc9X6.png",
-    "logoText": "M2 ",
-    "url": "http://46.149.191.217:9005/play/a016",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a016",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A."
-  },
-  {
-    "id": "M4Sport.hu",
-    "name": "M4 Sport",
-    "logo": "https://i.imgur.com/TQ4uJZk.png",
-    "logoText": "M4 ",
-    "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://m4sport.hu/"
-  },
-  {
-    "id": "M5.hu",
-    "name": "M5",
-    "logo": "https://i.imgur.com/y21wFd0.png",
-    "logoText": "M5",
-    "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://146.59.85.40:89/m5/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.mediaklikk.hu/m5/"
-  },
-  {
-    "id": "MakoiVarosiTelevizio.hu",
-    "name": "Makoi Varosi Televizio",
-    "logo": "https://i.imgur.com/PF3BP4X.png",
-    "logoText": "MAK",
-    "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://makotv.hu/"
-  },
-  {
-    "id": "MAX4.hu",
-    "name": "MAX4",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png",
-    "logoText": "MAX",
-    "url": "http://146.59.85.40:89/max4/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/max4/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://net4.network4.hu/"
-  },
-  {
-    "id": "MezokovesdiTelevizio.hu",
-    "name": "Mezokovesdi Televizio",
-    "logo": "https://i.imgur.com/2zCOXmH.png",
-    "logoText": "MEZ",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.kovesdimedia.com/mezokovesdi-televizio.html"
-  },
-  {
-    "id": "MoraNetTV.hu",
+    "tvgId": "ufaYLBxnznSR4O",
     "name": "Mora-Net TV",
-    "logo": "https://i.imgur.com/yT0RmKi.png",
-    "logoText": "MOR",
+    "originalName": "Mora-Net TV",
     "url": "https://stream.moranettv.hu/live/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.moranettv.hu/live/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://moranettv.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ObudaTV.hu",
-    "name": "Obuda TV",
-    "logo": "https://i.ibb.co/42C026p/6172.png",
-    "logoText": "OBU",
-    "url": "https://stream.streaming4u.hu/ObudaTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/ObudaTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://obudatv.hu/"
-  },
-  {
-    "id": "OroszlanyiVarosiTelevizio.hu",
+    "tvgId": "keerWZjLOhWdmx",
     "name": "Oroszlanyi Varosi Televizio",
-    "logo": "https://i.imgur.com/P0fxUH5.png",
-    "logoText": "ORO",
+    "originalName": "Oroszlanyi Varosi Televizio",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.oroszlanyimedia.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OrszaggyulesOGYplenaris.hu",
-    "name": "Orszaggyules: OGY plenaris",
-    "logo": "https://i.imgur.com/hbblRpZ.png",
-    "logoText": "ORS",
-    "url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "vyv7aN2DLRtAEV",
+    "name": "Oxygen Music",
+    "originalName": "Oxygen Music",
+    "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.parlament.hu/elo-kozvetitesek"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OrszaggyulesOGYTAB.hu",
-    "name": "Orszaggyules: OGY TAB",
-    "logo": "https://i.imgur.com/hbblRpZ.png",
-    "logoText": "ORS",
-    "url": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.parlament.hu/elo-kozvetitesek"
-  },
-  {
-    "id": "OzdiVarosiTV.hu",
-    "name": "Ozdi Varosi TV",
-    "logo": "https://i.imgur.com/t0Aq3UD.png",
-    "logoText": "OZD",
-    "url": "http://stream.nmih.hu:7980/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.nmih.hu:7980/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.ovtv.eu/"
-  },
-  {
-    "id": "PilisTV.hu",
-    "name": "PilisTV",
-    "logo": "https://i.imgur.com/5L01wRi.png",
-    "logoText": "PIL",
-    "url": "https://stream.streaming4u.hu/PilisTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/PilisTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.pilistelevizio.hu/"
-  },
-  {
-    "id": "PVTV.hu",
-    "name": "PVTV",
-    "logo": "https://i.imgur.com/eKXPBFb.png",
-    "logoText": "PVT",
-    "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://pvtv.hu/"
-  },
-  {
-    "id": "RakosmenteTV.hu",
-    "name": "Rakosmente TV",
-    "logo": "https://i.imgur.com/n39a2DT.png",
-    "logoText": "RAK",
-    "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.rakosmentetv.hu/"
-  },
-  {
-    "id": "RegioPluszTV.hu",
-    "name": "RegioPlusz TV",
-    "logo": "https://i.imgur.com/VXPpukf.png",
-    "logoText": "REG",
-    "url": "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.regioplusztv.hu"
-  },
-  {
-    "id": "RTL.hu",
-    "name": "RTL",
-    "logo": "https://i.imgur.com/ruRshE1.png",
-    "logoText": "RTL",
-    "url": "http://46.149.191.217:9005/play/a018",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a018",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://rtl.hu"
-  },
-  {
-    "id": "RTLGold.hu",
-    "name": "RTL Gold",
-    "logo": "https://i.imgur.com/PwbLDUQ.png",
-    "logoText": "RTL",
-    "url": "http://195.189.60.31:8003/play/a0dy/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://195.189.60.31:8003/play/a0dy/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://rtl.hu/"
-  },
-  {
-    "id": "RTLHarom.hu",
-    "name": "RTL Harom",
-    "logo": "https://i.imgur.com/c4Hhhzs.png",
-    "logoText": "RTL",
-    "url": "http://46.149.191.217:9005/play/a01t",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a01t",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://rtl.hu/"
-  },
-  {
-    "id": "RTLKetto.hu",
-    "name": "RTL Ketto",
-    "logo": "https://i.imgur.com/IVv0qrI.png",
-    "logoText": "RTL",
-    "url": "http://46.149.191.217:9005/play/a01r",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a01r",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://rtl.hu"
-  },
-  {
-    "id": "SIXOTV.hu",
+    "tvgId": "yLfdBafHhlhrgj",
     "name": "SIXO TV",
-    "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
-    "logoText": "SIX",
+    "originalName": "SIXO TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://szikszo.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SoltvadkertiTelevizio.hu",
-    "name": "Soltvadkerti Televizio",
-    "logo": "https://i.imgur.com/ihdk45P.png",
-    "logoText": "SOL",
-    "url": "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.soltvadkertitv.hu/"
-  },
-  {
-    "id": "Sport1.hu",
-    "name": "Sport 1",
-    "logo": "https://i.imgur.com/X5X3tKC.png",
-    "logoText": "SPO",
-    "url": "http://46.149.191.217:9005/play/a017",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a017",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.sport1tv.hu/"
-  },
-  {
-    "id": "SzecsenyTV.hu",
-    "name": "Szecseny TV",
-    "logo": "https://i.imgur.com/ilRmZtF.png",
-    "logoText": "SZE",
-    "url": "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://szecseny.hu/szecsenytv/"
-  },
-  {
-    "id": "SzolnokTV.hu",
-    "name": "Szolnok TV",
-    "logo": "https://i.imgur.com/Eiab9MP.png",
-    "logoText": "SZO",
-    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.szolnoktv.hu/"
-  },
-  {
-    "id": "TataiTV.hu",
+    "tvgId": "UxOgU5kfFfuxCm",
     "name": "Tatai TV",
-    "logo": "https://i.imgur.com/skXYntc.png",
-    "logoText": "TAT",
+    "originalName": "Tatai TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://tataitv.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TelePaks.hu",
+    "tvgId": "uOI7Fr7hGWDmjp",
     "name": "TelePaks",
-    "logo": "https://i.imgur.com/T8ueztB.png",
-    "logoText": "TEL",
+    "originalName": "TelePaks",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.telepaks.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TiszaTV.hu",
-    "name": "Tisza TV",
-    "logo": "https://i.imgur.com/Q2bShnh.png",
-    "logoText": "TIS",
-    "url": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.tiszatv.hu/"
-  },
-  {
-    "id": "TrimedioTV.hu",
-    "name": "Trimedio TV",
-    "logo": "https://i.imgur.com/P4hxWVZ.png",
-    "logoText": "TRI",
-    "url": "https://stream.streaming4u.hu/TriMedioTV/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/TriMedioTV/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://trimedio.tv"
-  },
-  {
-    "id": "TVBudakalasz.hu",
-    "name": "TV Budakalasz",
-    "logo": "https://i.imgur.com/97xpqt0.png",
-    "logoText": "TV ",
-    "url": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.szentendre.media.hu/tv-budakalasz"
-  },
-  {
-    "id": "TVEger.hu",
-    "name": "TV Eger",
-    "logo": "https://i.imgur.com/GUVW073.png",
-    "logoText": "TV ",
-    "url": "http://stream.tveger.hu:8010/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://stream.tveger.hu:8010/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.tveger.hu/"
-  },
-  {
-    "id": "TVKeszthely.hu",
+    "tvgId": "V9OoiU0u2pwSNH",
     "name": "TV Keszthely",
-    "logo": "https://i.imgur.com/2LE8xSW.png",
-    "logoText": "TV ",
+    "originalName": "TV Keszthely",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.tvkeszthely.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVSzentendre.hu",
-    "name": "TV Szentendre",
-    "logo": "https://i.imgur.com/kzzYLdj.png",
-    "logoText": "TV ",
-    "url": "https://stream.streaming4u.hu/TVSzentendre/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.streaming4u.hu/TVSzentendre/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://tvszentendre.hu/"
-  },
-  {
-    "id": "TV2.hu",
-    "name": "TV2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",
-    "logoText": "TV2",
-    "url": "http://46.149.191.217:9005/play/a01q",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://46.149.191.217:9005/play/a01q",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://tv2play.hu/"
-  },
-  {
-    "id": "TV2Kids.hu",
-    "name": "TV2 Kids",
-    "logo": "https://i.imgur.com/Zltlezm.png",
-    "logoText": "TV2",
-    "url": "http://146.59.85.40:89/tv2kids/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://146.59.85.40:89/tv2kids/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://tv2play.hu/tv2kids"
-  },
-  {
-    "id": "VasarhelyiTelevizio.hu",
-    "name": "Vasarhelyi Televizio",
-    "logo": "https://i.imgur.com/WOEqdmx.png",
-    "logoText": "VAS",
-    "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://vasarhelyitelevizio.hu/"
-  },
-  {
-    "id": "VolgyhidTV.hu",
-    "name": "Volgyhid TV",
-    "logo": "https://i.imgur.com/9krKKgU.png",
-    "logoText": "VOL",
-    "url": "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://mediakft.hu"
-  },
-  {
-    "id": "VTVFuzesabony.hu",
-    "name": "VTV Fuzesabony",
-    "logo": "https://i.imgur.com/IoHyW7w.png",
-    "logoText": "VTV",
-    "url": "https://stream.nmih.hu:7962/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nmih.hu:7962/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://www.fuzesabonytv.hu/"
-  },
-  {
-    "id": "VTVMor.hu",
-    "name": "VTV Mor",
-    "logo": "https://i.imgur.com/x8jstsh.png",
-    "logoText": "VTV",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://morvtv.hu/"
-  },
-  {
-    "id": "WilliamsTV.hu",
-    "name": "Williams TV",
-    "logo": "https://i.imgur.com/vysX07C.png",
-    "logoText": "WIL",
-    "url": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://www.williams.hu/"
-  },
-  {
-    "id": "XVTV.hu",
+    "tvgId": "2SBZd0F52NzMui",
     "name": "XV TV",
-    "logo": "https://i.ibb.co/hH2KF6W/4792.png",
-    "logoText": "XV ",
+    "originalName": "XV TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://csokonai15.hu/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZalaegerszegiTV.hu",
+    "tvgId": "CV0Wnf3LNtBbuS",
     "name": "Zalaegerszegi TV",
-    "logo": "https://i.imgur.com/MLVPf0i.png",
-    "logoText": "ZAL",
+    "originalName": "Zalaegerszegi TV",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: https://zegtv.hu/"
-  },
-  {
-    "id": "ZugloTV.hu",
-    "name": "Zuglo TV",
-    "logo": "https://i.imgur.com/wPqCtwR.png",
-    "logoText": "ZUG",
-    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HU",
-    "countryName": "Hungary",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Hungary. Language: N/A. Website: http://zuglotv.hu/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

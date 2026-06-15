@@ -1,170 +1,86 @@
 [
   {
-    "id": "AfricaTV2.tz",
-    "name": "Africa TV2",
-    "logo": "https://i.imgur.com/GXa37c7.png",
-    "logoText": "AFR",
-    "url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "ATN.tz",
+    "name": "ATN",
+    "originalName": "TZ: ATN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853560.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/ATN.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: http://www.africatv2.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "DodomaTV.tz",
-    "name": "Dodoma TV",
-    "logo": "https://i.imgur.com/bLq9eFa.png",
-    "logoText": "DOD",
-    "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "IBN.tz",
+    "name": "IBN",
+    "originalName": "TZ: IBN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853559.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/IBN.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: https://dodomafm.co.tz/dodomatv.html"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "IBNTV.tz",
+    "tvgId": "IBNTV.tz",
     "name": "IBN TV",
-    "logo": "https://i.imgur.com/hkV51ij.png",
-    "logoText": "IBN",
-    "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalName": "TZ: IBN TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853558.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/IBN.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: https://www.ibn-tv.co.tz/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "IBNTVAfrica.tz",
-    "name": "IBN TV Africa",
-    "logo": "https://i.imgur.com/eKy2ocd.png",
-    "logoText": "IBN",
-    "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "ITV.tz",
+    "name": "ITV",
+    "originalName": "TZ: ITV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853557.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/ITV.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: http://www.ibn-tv.co.tz/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "TanzaniaSafariChannel.tz",
-    "name": "Tanzania Safari Channel",
-    "logo": "https://i.imgur.com/fcLFYhn.png",
-    "logoText": "TAN",
-    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Travel",
-    "categories": [
-      "travel"
-    ],
+    "tvgId": "KTN.tz",
+    "name": "KTN",
+    "originalName": "TZ: KTN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853556.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/KTN.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: https://tanzaniasafarichannel.go.tz/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "TBC1.tz",
-    "name": "TBC1",
-    "logo": "https://i.imgur.com/OmiVZ1u.png",
-    "logoText": "TBC",
-    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KWANZA.tz",
+    "name": "KWANZA",
+    "originalName": "TZ: KWANZA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1853555.ts",
+    "logo": "http://51.158.145.100/picons/logos/AFRICANEW/KWANZA.png",
+    "category": "Afr| Africa Vip Hd/4K",
+    "originalCategory": "AFR| AFRICA VIP HD/4K",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: http://tbc.go.tz/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "TBC2.tz",
+    "tvgId": "QnnAowiMOFHvTH",
     "name": "TBC2",
-    "logo": "https://i.imgur.com/VkUJt2q.png",
-    "logoText": "TBC",
+    "originalName": "TBC2",
     "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "TZ",
-    "countryName": "Tanzania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Tanzania. Language: N/A. Website: https://www.tbc.go.tz/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

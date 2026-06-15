@@ -1,2516 +1,710 @@
 [
   {
-    "id": "ATNTelevision.co",
-    "name": "ATN Television",
-    "logo": "https://i.imgur.com/79sX78u.png",
-    "logoText": "ATN",
-    "url": "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://atntelevision.co/"
-  },
-  {
-    "id": "AvivamientoTV.co",
+    "tvgId": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
-    "logo": "https://i.imgur.com/ydoBp3b.png",
-    "logoText": "AVI",
+    "originalName": "Avivamiento TV",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://avivamiento.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BendicionChannel.co",
+    "tvgId": "KstfcDMjN0CcgR",
     "name": "Bendicion Channel",
-    "logo": "https://i.imgur.com/yKzV7m7.png",
-    "logoText": "BEN",
+    "originalName": "Bendicion Channel",
     "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.bendicionchannel.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BluRadio.co",
+    "tvgId": "MOtKHm5z126roR",
     "name": "Blu Radio",
-    "logo": "https://i.imgur.com/w2t8CGT.png",
-    "logoText": "BLU",
+    "originalName": "Blu Radio",
     "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.bluradio.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BUMTelevision.co",
+    "tvgId": "Gg9cAjQw6QXEKr",
     "name": "BUM Television",
-    "logo": "https://i.imgur.com/I0eGYI0.png",
-    "logoText": "BUM",
+    "originalName": "BUM Television",
     "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/visiondorada.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.bumtelevision.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CaliTV.co",
+    "tvgId": "oSdd0QQnxFVsc5",
     "name": "CaliTV",
-    "logo": "https://i.imgur.com/2312Luq.png",
-    "logoText": "CAL",
+    "originalName": "CaliTV",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canalcalitv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Canal1.co",
-    "name": "Canal 1",
-    "logo": "https://i.imgur.com/YFywPLC.png",
-    "logoText": "CAN",
-    "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canal1.com.co/"
-  },
-  {
-    "id": "Canal10SOLTV.co",
-    "name": "Canal 10 SOL TV",
-    "logo": "https://i.imgur.com/kAbrHqt.jpeg",
-    "logoText": "CAN",
-    "url": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://solcablevision.com/"
-  },
-  {
-    "id": "Canal14Codazzi.co",
-    "name": "Canal 14 Codazzi",
-    "logo": "https://i.imgur.com/wNSUMhJ.png",
-    "logoText": "CAN",
-    "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: http://www.canal14codazzi.co/"
-  },
-  {
-    "id": "Canal2AlpavisionNeiva.co",
+    "tvgId": "G9r4ymgFpyAcFs",
     "name": "Canal 2 Alpavision Neiva",
-    "logo": "https://i.imgur.com/Yv8XIGW.png",
-    "logoText": "CAN",
+    "originalName": "Canal 2 Alpavision Neiva",
     "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://alpavision.com.co/canal-2-senal-en-vivo/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Canal55TelemoriscoTV.co",
-    "name": "Canal 55 Telemorisco TV",
-    "logo": "https://i.imgur.com/9BwZyhM.jpg",
-    "logoText": "CAN",
-    "url": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://55telemoriscotv.com/"
-  },
-  {
-    "id": "Canal8TVPlus.co",
+    "tvgId": "WwkDGrZMJxcaPL",
     "name": "Canal 8 TV+",
-    "logo": "https://i.imgur.com/peOIG1F.png",
-    "logoText": "CAN",
+    "originalName": "Canal 8 TV+",
     "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/canal8tv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalocho.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalCalimaTV.co",
+    "tvgId": "s64BgUfTafeYF2",
+    "name": "Canal 14 Codazzi",
+    "originalName": "Canal 14 Codazzi",
+    "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "CO",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
+    "originalName": "Canal 55 Telemorisco TV",
+    "url": "https://canal.mediaserver.com.co/live/telemorisco.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CO",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "4tOQsHNAnrUk50",
     "name": "Canal Calima TV",
-    "logo": "https://i.imgur.com/6YxtyUR.jpeg",
-    "logoText": "CAN",
+    "originalName": "Canal Calima TV",
     "url": "https://movil.ejeserver.com/live/calimatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/calimatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalCapital.co",
-    "name": "Canal Capital",
-    "logo": "https://i.imgur.com/zAYtbYi.png",
-    "logoText": "CAN",
-    "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canalcapital.gov.co/"
-  },
-  {
-    "id": "CanalCHD.co",
-    "name": "Canal CHD",
-    "logo": "https://i.imgur.com/cNv1MPs.jpeg",
-    "logoText": "CAN",
-    "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalchd.com/"
-  },
-  {
-    "id": "CanalDos.co",
-    "name": "Canal Dos",
-    "logo": "https://i.imgur.com/BYsyNHZ.jpg",
-    "logoText": "CAN",
-    "url": "http://131.221.41.94/hls/canal2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://131.221.41.94/hls/canal2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.micanal2.tv/"
-  },
-  {
-    "id": "CanalInstitucional.co",
+    "tvgId": "nZ3VlBbXU9SC9N",
     "name": "Canal Institucional",
-    "logo": "https://i.imgur.com/hqfQVrU.png",
-    "logoText": "CAN",
+    "originalName": "Canal Institucional",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canalinstitucional.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalMasTelevision.co",
+    "tvgId": "nygDUxp3RgEFzv",
     "name": "Canal Mas Television",
-    "logo": "https://i.imgur.com/ODMa27W.jpg",
-    "logoText": "CAN",
+    "originalName": "Canal Mas Television",
     "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/teledoradahd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: http://www.canalmastelevision.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalMundoVision.co",
-    "name": "Canal Mundo Vision",
-    "logo": "https://i.imgur.com/zRqfJuj.png",
-    "logoText": "CAN",
-    "url": "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/mundovisiontv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canalmundovision.com/"
-  },
-  {
-    "id": "CanalNets.co",
+    "tvgId": "QA1x5OQRH7UVPJ",
     "name": "Canal Nets",
-    "logo": "https://i.imgur.com/edaAexc.png",
-    "logoText": "CAN",
+    "originalName": "Canal Nets",
     "url": "https://movil.ejeserver.com/live/nets.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/nets.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalnets.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalOracionConSon.co",
+    "tvgId": "HolomefezhLkUD",
     "name": "Canal Oracion Con Son",
-    "logo": "https://i.imgur.com/rfnFqU3.png",
-    "logoText": "CAN",
+    "originalName": "Canal Oracion Con Son",
     "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://mediaserver.com.co/canal-oracion-con-son/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalPyC.co",
+    "tvgId": "rbVGB4gc6vGSpJ",
     "name": "Canal PyC",
-    "logo": "https://i.imgur.com/3qxBDhV.png",
-    "logoText": "CAN",
+    "originalName": "Canal PyC",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalpyc.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalSantaMartaTV.co",
-    "name": "Canal Santa Marta TV",
-    "logo": "https://i.imgur.com/HbWadhJ.png",
-    "logoText": "CAN",
-    "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalsantamartatv.com/"
-  },
-  {
-    "id": "CanalTelefamilia.co",
+    "tvgId": "KjfXoBdjtuGuIn",
     "name": "Canal Telefamilia",
-    "logo": "https://i.imgur.com/D1s1Q3k.png",
-    "logoText": "CAN",
+    "originalName": "Canal Telefamilia",
     "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canaltelefamilia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalTRO.co",
-    "name": "Canal TRO",
-    "logo": "https://i.imgur.com/ZS5WTCd.png",
-    "logoText": "CAN",
-    "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canaltro.com/"
-  },
-  {
-    "id": "CanalTROPlus.co",
-    "name": "Canal TRO +",
-    "logo": "https://i.imgur.com/Vs1H6bK.png",
-    "logoText": "CAN",
-    "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canaltro.com/"
-  },
-  {
-    "id": "CanalTV3.co",
-    "name": "Canal TV3",
-    "logo": "https://i.imgur.com/pyeBDpg.jpeg",
-    "logoText": "CAN",
-    "url": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canaltv3.com/"
-  },
-  {
-    "id": "CanicaTV.co",
+    "tvgId": "A9tPf7Rzt5ngpc",
     "name": "Canica TV",
-    "logo": "https://i.imgur.com/RuQDwTt.jpeg",
-    "logoText": "CAN",
+    "originalName": "Canica TV",
     "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canicatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CitytvBogota.co",
-    "name": "Citytv Bogota",
-    "logo": "https://i.imgur.com/h7K9EW9.png",
-    "logoText": "CIT",
-    "url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.citytv.com.co/"
-  },
-  {
-    "id": "CMBTelevision.co",
+    "tvgId": "DJujsKbajr1MwV",
     "name": "CMB Television",
-    "logo": "https://i.imgur.com/akGKPsk.png",
-    "logoText": "CMB",
-    "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "CMB Television",
+    "url": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.cmbcolombia.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNCBugavision.co",
+    "tvgId": "5UNNnPvR2HyEJi",
     "name": "CNC Bugavision",
-    "logo": "https://i.imgur.com/zJAwnvd.png",
-    "logoText": "CNC",
+    "originalName": "CNC Bugavision",
     "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://bugavision.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNCChoco.co",
-    "name": "CNC Choco",
-    "logo": "https://i.imgur.com/VybK6Ub.jpeg",
-    "logoText": "CNC",
-    "url": "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: http://corescomunicaciones.com/"
-  },
-  {
-    "id": "CNCLaUnion.co",
-    "name": "CNC La Union",
-    "logo": "https://i.imgur.com/sNWWDZK.png",
-    "logoText": "CNC",
-    "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.cnclaunion.com.co"
-  },
-  {
-    "id": "CNCPereira.co",
+    "tvgId": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
-    "logo": "https://i.imgur.com/5vJ0aXH.png",
-    "logoText": "CNC",
+    "originalName": "CNC Pereira",
     "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.canalcncpereira.com"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNCSantanderdeQuilichao.co",
+    "tvgId": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
-    "logo": "https://i.imgur.com/LNl2o9q.jpg",
-    "logoText": "CNC",
+    "originalName": "CNC Santander de Quilichao",
     "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/cncsantander.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalcnccali.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CNCTulua.co",
-    "name": "CNC Tulua",
-    "logo": "https://i.imgur.com/NCzpcqm.png",
-    "logoText": "CNC",
-    "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://cnctulua.tv/"
-  },
-  {
-    "id": "Cosmovision.co",
-    "name": "Cosmovision",
-    "logo": "https://i.imgur.com/QlvYfEJ.png",
-    "logoText": "COS",
-    "url": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://coosmovision.com/"
-  },
-  {
-    "id": "Cristovision.co",
+    "tvgId": "vbjKgzPYYiGyx1",
     "name": "Cristovision",
-    "logo": "https://i.imgur.com/XIhCUY9.png",
-    "logoText": "CRI",
+    "originalName": "Cristovision",
     "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://cristovision.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CTVBarranquilla.co",
-    "name": "CTV Barranquilla",
-    "logo": "https://i.imgur.com/w35ICn7.png",
-    "logoText": "CTV",
-    "url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://ctvbarranquilla.com/"
-  },
-  {
-    "id": "CucutaRetroTV.co",
-    "name": "Cucuta Retro TV",
-    "logo": "https://i.imgur.com/GltIfWW.jpeg",
-    "logoText": "CUC",
-    "url": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Classic",
-    "categories": [
-      "classic"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://homestream.fun/video/25/cucuta-retro-tv?channelName=HSF"
-  },
-  {
-    "id": "Eduvision.co",
+    "tvgId": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
-    "logo": "https://i.imgur.com/ppBdqel.png",
-    "logoText": "EDU",
+    "originalName": "Eduvision",
     "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://eduvision.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ElMundodelCampo.co",
+    "tvgId": "8MkrJaxHtTluMW",
     "name": "El Mundo del Campo",
-    "logo": "https://i.imgur.com/xG2apUG.jpeg",
-    "logoText": "EL ",
+    "originalName": "El Mundo del Campo",
     "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Outdoor",
-    "categories": [
-      "outdoor"
-    ],
+    "originalCategory": "Outdoor",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://elmundodelcampo.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EmisoraLasVegas.co",
-    "name": "Emisora Las Vegas",
-    "logo": "https://new.opencaster.com/uploads/logos/logo_70_1759816048.png",
-    "logoText": "EMI",
-    "url": "https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://new.opencaster.com/player?user=Emisora_Las_Vegas"
-  },
-  {
-    "id": "Eureka.co",
-    "name": "Eureka",
-    "logo": "https://i.imgur.com/WgnZPol.png",
-    "logoText": "EUR",
-    "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://conexioncapital.co/eureka-tu-canal/"
-  },
-  {
-    "id": "FrecuenciaFTV.co",
+    "tvgId": "vrb0tQpIhi4WoL",
     "name": "Frecuencia F TV",
-    "logo": "https://i.imgur.com/Cw5k96N.png",
-    "logoText": "FRE",
+    "originalName": "Frecuencia F TV",
     "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.frecuenciaf.com/canal"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KaluTV.co",
+    "tvgId": "02mPmZWllvm8GE",
     "name": "Kalu TV",
-    "logo": "https://i.imgur.com/MO4w3OT.jpeg",
-    "logoText": "KAL",
+    "originalName": "Kalu TV",
     "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.kaludecolombia.com/kalu-tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaCantinaMemorias.co",
+    "tvgId": "GnCb5ceUbTkz25",
     "name": "La Cantina Memorias",
-    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png",
-    "logoText": "LA ",
+    "originalName": "La Cantina Memorias",
     "url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaCheverisimaRadioTV.co",
+    "tvgId": "nDbtRavjpP3dpF",
     "name": "La Cheverisima Radio TV",
-    "logo": "https://i.imgur.com/lk5D5kB.png",
-    "logoText": "LA ",
+    "originalName": "La Cheverisima Radio TV",
     "url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.lacheverisimaneira.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaHermandadSalsera.co",
+    "tvgId": "wzR0TNYEFfuhVq",
     "name": "La Hermandad Salsera",
-    "logo": "https://i.imgur.com/7Wlt6bc.png",
-    "logoText": "LA ",
+    "originalName": "La Hermandad Salsera",
     "url": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://lahermandadsalsera.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaKalle.co",
+    "tvgId": "4Nl0um2MnZBZ5L",
     "name": "La Kalle",
-    "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
-    "logoText": "LA ",
+    "originalName": "La Kalle",
     "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://lakalle.bluradio.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaMoradaRadioTV.co",
+    "tvgId": "HhsYUdKlXZRTuQ",
     "name": "La Morada Radio TV",
-    "logo": "https://i.imgur.com/E3wDEX5.png",
-    "logoText": "LA ",
+    "originalName": "La Morada Radio TV",
     "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://lamoradaradiotv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LunaEstereo1064FM.co",
-    "name": "Luna Estereo 106.4 FM",
-    "logo": "https://i.imgur.com/cESeD6R.png",
-    "logoText": "LUN",
-    "url": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.lunaestereo.com/"
-  },
-  {
-    "id": "MasNorteTV.co",
+    "tvgId": "RfchJq1KTGTlOM",
     "name": "Mas Norte TV",
-    "logo": "https://i.imgur.com/NmsWlj6.jpeg",
-    "logoText": "MAS",
+    "originalName": "Mas Norte TV",
     "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://arnoproducciones.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MasMusicaFM.co",
+    "tvgId": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
-    "logo": "https://i.imgur.com/tCg7owd.png",
-    "logoText": "MAS",
+    "originalName": "MasMusica FM",
     "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://masmusica.fm/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MaxTV.co",
-    "name": "MaxTV",
-    "logo": "https://gia.tv/streams/pstream/209851.png",
-    "logoText": "MAX",
-    "url": "https://inliveserver.com:1936/8078/8078/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://inliveserver.com:1936/8078/8078/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://gia.tv/watchssh101.php?psid=639"
-  },
-  {
-    "id": "MCITelevision.co",
+    "tvgId": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
-    "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
-    "logoText": "MCI",
+    "originalName": "MCI Television",
     "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies",
-      "family",
-      "general"
-    ],
+    "originalCategory": "Movies",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canalmci.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasdelCorazon.co",
+    "tvgId": "fT5wViIkqEBjJA",
     "name": "Memorias del Corazon",
-    "logo": "https://i.imgur.com/sVLDzzM.png",
-    "logoText": "MEM",
+    "originalName": "Memorias del Corazon",
     "url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-del-corazon/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasFMPopLatino.co",
+    "tvgId": "B4gERaGxLZYSc7",
     "name": "Memorias FM Pop Latino",
-    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
-    "logoText": "MEM",
+    "originalName": "Memorias FM Pop Latino",
     "url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasTVClassic.co",
+    "tvgId": "CAgtc7uQTGoAtf",
     "name": "Memorias TV Classic",
-    "logo": "https://i.imgur.com/tLTQLnv.png",
-    "logoText": "MEM",
+    "originalName": "Memorias TV Classic",
     "url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-classic/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasTVFilm.co",
+    "tvgId": "DOhQjr6d6DYcGE",
     "name": "Memorias TV Film",
-    "logo": "https://i.imgur.com/vNfjW6Y.png",
-    "logoText": "MEM",
+    "originalName": "Memorias TV Film",
     "url": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "originalCategory": "Movies",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-film/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasTVSeries.co",
+    "tvgId": "7AdgPJilMkGY8x",
     "name": "Memorias TV Series",
-    "logo": "https://i.imgur.com/ohCSMhY.png",
-    "logoText": "MEM",
+    "originalName": "Memorias TV Series",
     "url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Series",
-    "categories": [
-      "series"
-    ],
+    "originalCategory": "Series",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-series-2/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasTVToons.co",
+    "tvgId": "snUHMUBtSh5kZt",
     "name": "Memorias TV Toons",
-    "logo": "https://i.imgur.com/2fiiNCz.png",
-    "logoText": "MEM",
+    "originalName": "Memorias TV Toons",
     "url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-toons/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MemoriasTVTropical.co",
+    "tvgId": "v84rF2TjmPJMTT",
     "name": "Memorias TV Tropical",
-    "logo": "https://i.imgur.com/Y9GFDcV.png",
-    "logoText": "MEM",
+    "originalName": "Memorias TV Tropical",
     "url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://memorias.tv/memorias-salsa/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MiGenteTV.co",
-    "name": "Mi Gente TV",
-    "logo": "https://i.imgur.com/CSbmQlu.png",
-    "logoText": "MI ",
-    "url": "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://migente.fm/"
-  },
-  {
-    "id": "Noticiero90Minutos.co",
+    "tvgId": "b4xicoQXJMIf0r",
     "name": "Noticiero 90 Minutos",
-    "logo": "https://i.imgur.com/ThaRRCN.png",
-    "logoText": "NOT",
+    "originalName": "Noticiero 90 Minutos",
     "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://90minutos.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NSTV.co",
+    "tvgId": "ZBrkRLlKR8dvbe",
     "name": "NSTV",
-    "logo": "https://i.imgur.com/ES6xFAv.png",
-    "logoText": "NST",
+    "originalName": "NSTV",
     "url": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OasisTV.co",
+    "tvgId": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
-    "logo": "https://i.imgur.com/VKYzFpZ.png",
-    "logoText": "OAS",
+    "originalName": "Oasis TV",
     "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: http://canaloasis.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OndambientalTV.co",
+    "tvgId": "CB542USEKKwSaw",
     "name": "Ondambiental TV",
-    "logo": "https://i.imgur.com/u5804Au.jpg",
-    "logoText": "OND",
+    "originalName": "Ondambiental TV",
     "url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music",
-      "culture"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.ondambientalstereo.com/TELEVISION/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ParrandaVallenata.co",
+    "tvgId": "uhLgXXhXSYkGEa",
     "name": "Parranda Vallenata",
-    "logo": "https://i.imgur.com/BzBX7Qx.jpeg",
-    "logoText": "PAR",
+    "originalName": "Parranda Vallenata",
     "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.hvmultiplay.co/phone/parrandavallenata.html"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RCNMas.co",
-    "name": "RCN Mas",
-    "logo": "https://i.imgur.com/MJzuRAN.png",
-    "logoText": "RCN",
-    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.rcntotal.com/"
-  },
-  {
-    "id": "RedPlus.co",
+    "tvgId": "iEaQZyuCD9tKa4",
     "name": "Red+",
-    "logo": "https://i.imgur.com/kuqkTMC.png",
-    "logoText": "RED",
+    "originalName": "Red+",
     "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general",
-      "entertainment",
-      "news"
-    ],
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://redmas.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Reyali.co",
+    "tvgId": "JcWgUdRfwM6UkT",
     "name": "Reyali",
-    "logo": "https://i.imgur.com/YmFjnsF.png",
-    "logoText": "REY",
+    "originalName": "Reyali",
     "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.reyali.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RioTelevision.co",
-    "name": "Rio Television",
-    "logo": "https://i.imgur.com/SYa9giW.jpeg",
-    "logoText": "RIO",
-    "url": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://riotv.com.co/"
-  },
-  {
-    "id": "SalsaGordaTelevision.co",
+    "tvgId": "RV4q1AzygKEv9i",
     "name": "Salsa Gorda Television",
-    "logo": "https://i.imgur.com/3IhYd7G.jpg",
-    "logoText": "SAL",
+    "originalName": "Salsa Gorda Television",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://salsagordatelevision.blogspot.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SenalColombia.co",
+    "tvgId": "cFQi4ufWGZkS8a",
     "name": "Senal Colombia",
-    "logo": "https://i.imgur.com/Y9x16vl.png",
-    "logoText": "SEN",
+    "originalName": "Senal Colombia",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.senalcolombia.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SupermusicaTV.co",
+    "tvgId": "RvB0FuQSbeJDr5",
     "name": "Supermusica TV",
-    "logo": "https://i.imgur.com/MiVs42N.jpeg",
-    "logoText": "SUP",
+    "originalName": "Supermusica TV",
     "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.hvmultiplay.co/phone/supermusica.html"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SuramTV.co",
+    "tvgId": "nBCtUGxdm8WZSP",
     "name": "Suram TV",
-    "logo": "https://i.imgur.com/2N9LCES.png",
-    "logoText": "SUR",
-    "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Suram TV",
+    "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.suram.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TeleAmiga.co",
-    "name": "Tele Amiga",
-    "logo": "https://i.imgur.com/gBZFZNv.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://teleamiga.tv/"
-  },
-  {
-    "id": "TeleMocoaCanal10.co",
-    "name": "Tele Mocoa Canal 10",
-    "logo": "https://i.imgur.com/XHtpEfu.png",
-    "logoText": "TEL",
-    "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.telemocoacanal10.com/"
-  },
-  {
-    "id": "TeleVid.co",
-    "name": "Tele Vid",
-    "logo": "https://i.imgur.com/OZ4kiXP.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://televid.tv/"
-  },
-  {
-    "id": "Teleantioquia.co",
-    "name": "Teleantioquia",
-    "logo": "https://i.imgur.com/6WMV2Az.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.teleantioquia.co/"
-  },
-  {
-    "id": "Telebolivar.co",
+    "tvgId": "aJPAtWT0lETbk1",
     "name": "Telebolivar",
-    "logo": "https://i.imgur.com/dYhnVoV.png",
-    "logoText": "TEL",
+    "originalName": "Telebolivar",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.telebolivar.com.co"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telecafe.co",
-    "name": "Telecafe",
-    "logo": "https://i.imgur.com/28XmS1J.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://telecafe.gov.co/"
-  },
-  {
-    "id": "Telecaribe.co",
-    "name": "Telecaribe",
-    "logo": "https://i.imgur.com/E35cXHt.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://telecaribe.co/"
-  },
-  {
-    "id": "TelecaribePlus.co",
-    "name": "Telecaribe Plus",
-    "logo": "https://i.imgur.com/su7Y5bC.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.telecaribe.co/"
-  },
-  {
-    "id": "Teleislas.co",
+    "tvgId": "NNAoypPSm0OCzN",
     "name": "Teleislas",
-    "logo": "https://i.imgur.com/aKHGRyk.png",
-    "logoText": "TEL",
+    "originalName": "Teleislas",
     "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://teleislas.gov.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telemedellin.co",
-    "name": "Telemedellin",
-    "logo": "https://i.imgur.com/GnxzRTC.png",
-    "logoText": "TEL",
-    "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://telemedellin.tv/"
-  },
-  {
-    "id": "Telepacifico.co",
-    "name": "Telepacifico",
-    "logo": "https://i.imgur.com/39hy97J.png",
-    "logoText": "TEL",
-    "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://telepacifico.com/"
-  },
-  {
-    "id": "Telesangil.co",
+    "tvgId": "Clv7XzV3Q51izu",
     "name": "Telesangil",
-    "logo": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
-    "logoText": "TEL",
+    "originalName": "Telesangil",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: http://telesangil.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TeveColombia.co",
+    "tvgId": "BTUtiIKXJH39q3",
     "name": "TeveColombia",
-    "logo": "https://i.imgur.com/vPwiJTw.png",
-    "logoText": "TEV",
+    "originalName": "TeveColombia",
     "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://tevecolombia.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Trece.co",
-    "name": "Trece",
-    "logo": "https://i.imgur.com/jsuXXIg.png",
-    "logoText": "TRE",
-    "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://canaltrece.com.co/"
-  },
-  {
-    "id": "TuUniversoTV.co",
+    "tvgId": "Fvqin9l62Fj8Z2",
     "name": "Tu Universo TV",
-    "logo": "https://i.imgur.com/e6esjLZ.jpg",
-    "logoText": "TU ",
+    "originalName": "Tu Universo TV",
     "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://tuuniversotv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVPenol.co",
-    "name": "TV Penol",
-    "logo": "https://i.imgur.com/Zm4934Z.png",
-    "logoText": "TV ",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://tvpenol.wixsite.com/canaltvpenol"
-  },
-  {
-    "id": "TVRivera.co",
-    "name": "TV Rivera",
-    "logo": "https://i.imgur.com/BmwZNWm.png",
-    "logoText": "TV ",
-    "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://video.ejeserver.com/live/tvrivera.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://tvrivera.com/"
-  },
-  {
-    "id": "TVSanJorge.co",
-    "name": "TV San Jorge",
-    "logo": "https://i.imgur.com/vLU4Tcu.png",
-    "logoText": "TV ",
-    "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://tvsanjorge.tv/"
-  },
-  {
-    "id": "TV3LaPlata.co",
-    "name": "TV3 La Plata",
-    "logo": "https://i.imgur.com/uRMq5HC.jpeg",
-    "logoText": "TV3",
-    "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A."
-  },
-  {
-    "id": "UltraCasanareTV.co",
+    "tvgId": "s1gW58b5trEZhx",
     "name": "Ultra Casanare TV",
-    "logo": "https://i.imgur.com/1voWgLI.png",
-    "logoText": "ULT",
+    "originalName": "Ultra Casanare TV",
     "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://ultracasanare.com.co/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UMCTV.co",
+    "tvgId": "lOEoXHnp8Sj0dx",
     "name": "UMC TV",
-    "logo": "https://i.imgur.com/YQUK4wO.png",
-    "logoText": "UMC",
+    "originalName": "UMC TV",
     "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Outdoor",
-    "categories": [
-      "outdoor"
-    ],
+    "originalCategory": "Outdoor",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://unamiradaalcampo.com"
-  },
-  {
-    "id": "ViveTV.co",
-    "name": "Vive TV",
-    "logo": "https://i.imgur.com/25CFHpB.png",
-    "logoText": "VIV",
-    "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.vivetvcolombia.com/"
-  },
-  {
-    "id": "WinSports.co",
-    "name": "Win Sports",
-    "logo": "https://i.imgur.com/DuSSrHV.png",
-    "logoText": "WIN",
-    "url": "http://190.60.40.34:8001/play/a0ef",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://190.60.40.34:8001/play/a0ef",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.winsports.co/"
-  },
-  {
-    "id": "WinPlusFutbol.co",
-    "name": "Win+ Futbol",
-    "logo": "https://i.imgur.com/0UN87vB.png",
-    "logoText": "WIN",
-    "url": "http://190.60.40.34:8001/play/a02r",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://190.60.40.34:8001/play/a02r",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://winplay.co/"
-  },
-  {
-    "id": "Zoom.co",
-    "name": "Zoom",
-    "logo": "https://i.imgur.com/euy5zp6.png",
-    "logoText": "ZOO",
-    "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "CO",
-    "countryName": "Colombia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Colombia. Language: N/A. Website: https://www.zoomcanal.com.co/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

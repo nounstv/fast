@@ -1,91 +1,50 @@
 [
   {
-    "id": "BZ9ohjnwvpwyuR",
+    "tvgId": "BZ9ohjnwvpwyuR",
     "name": "Cosmos TV",
+    "originalName": "Cosmos TV",
     "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "logo": "",
     "category": "Science",
+    "originalCategory": "Science",
     "country": "PY",
-    "countryName": "Paraguay",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Paraguay. Idioma: spa.",
-    "logoText": "COS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ioi3DtFwnFosJO",
-    "name": "InWonder",
-    "url": "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
-    "category": "Science",
-    "country": "NL",
-    "countryName": "Netherlands",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Netherlands. Idioma: eng.",
-    "logoText": "INW",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "vGCm6ufhO0hHv0",
+    "tvgId": "vGCm6ufhO0hHv0",
     "name": "MediBizTV",
+    "originalName": "MediBizTV",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+    "logo": "",
     "category": "Science",
+    "originalCategory": "Science",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de India. Idioma: eng.",
-    "logoText": "MED",
-    "streamCount": 1,
-    "allStreams": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JLRlLiosJOhAzH",
+    "tvgId": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
+    "originalName": "UMSA TVU Internacional",
     "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+    "logo": "",
     "category": "Science",
+    "originalCategory": "Science",
     "country": "BO",
-    "countryName": "Bolivia",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Bolivia. Idioma: spa.",
-    "logoText": "UMS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "M9HwvmHmrMZElD",
+    "tvgId": "M9HwvmHmrMZElD",
     "name": "Wonder",
+    "originalName": "Wonder",
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+    "logo": "",
     "category": "Science",
+    "originalCategory": "Science",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "WON",
-    "streamCount": 3,
-    "allStreams": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-      "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

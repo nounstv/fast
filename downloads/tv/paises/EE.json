@@ -1,469 +1,170 @@
 [
   {
-    "id": "BestofDanceTV.ee",
+    "tvgId": "EFmTACsbdn5aM0",
     "name": "Best of Dance TV",
-    "logo": "",
-    "logoText": "BES",
+    "originalName": "Best of Dance TV",
     "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/live"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DanceTVAlgorhythm.ee",
+    "tvgId": "lwaCdwVDn5DIof",
     "name": "DanceTV Algorhythm",
-    "logo": "",
-    "logoText": "DAN",
+    "originalName": "DanceTV Algorhythm",
     "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/tech-house/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DanceTVDeepHouseDistrict.ee",
+    "tvgId": "iJEOwv6A3pLbpA",
     "name": "DanceTV Deep House District",
-    "logo": "",
-    "logoText": "DAN",
+    "originalName": "DanceTV Deep House District",
     "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/deep-house/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DanceTVEDMMainstage.ee",
+    "tvgId": "cnFlZpQ0FKCBXe",
     "name": "DanceTV EDM Mainstage",
-    "logo": "",
-    "logoText": "DAN",
+    "originalName": "DanceTV EDM Mainstage",
     "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/edm/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DanceTVHouseFloor.ee",
+    "tvgId": "Q5enIVFByh6WlU",
     "name": "DanceTV House Floor",
-    "logo": "",
-    "logoText": "DAN",
+    "originalName": "DanceTV House Floor",
     "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/house/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DanceTVMinimalTech.ee",
+    "tvgId": "dGqTIRUXI72pxD",
     "name": "DanceTV Minimal Tech",
-    "logo": "",
-    "logoText": "DAN",
+    "originalName": "DanceTV Minimal Tech",
     "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/minimal-tech"
-  },
-  {
-    "id": "DanceTVTechnoWarehouse.ee",
-    "name": "DanceTV Techno Warehouse",
     "logo": "",
-    "logoText": "DAN",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "EE",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "5Hkd3G2uCyMEyH",
+    "name": "DanceTV Techno Warehouse",
+    "originalName": "DanceTV Techno Warehouse",
     "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.dancetv.net/techno/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ETV.ee",
-    "name": "ETV",
-    "logo": "https://i.imgur.com/5URjPgG.png",
-    "logoText": "ETV",
-    "url": "https://sb.err.ee/live/etv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sb.err.ee/live/etv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: http://etv.err.ee/"
-  },
-  {
-    "id": "ETV2.ee",
+    "tvgId": "w1TyAWzZva88k1",
     "name": "ETV 2",
-    "logo": "https://i.imgur.com/fUjGHDa.png",
-    "logoText": "ETV",
+    "originalName": "ETV 2",
     "url": "https://sb.err.ee/live/etv2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids",
-      "culture"
-    ],
+    "originalCategory": "Kids",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: http://etv2.err.ee/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ETVPlus.ee",
+    "tvgId": "g3tSCZ3A6RSOUd",
     "name": "ETV+",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
-    "logoText": "ETV",
+    "originalName": "ETV+",
     "url": "https://sb.err.ee/live/etvpluss.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sb.err.ee/live/etvpluss.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: http://etvpluss.err.ee/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KidZoneMax.ee",
-    "name": "KidZone Max",
-    "logo": "https://i.imgur.com/qJSvxE2.png",
-    "logoText": "KID",
-    "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://kidzonetv.ee/"
-  },
-  {
-    "id": "LifeTV.ee",
-    "name": "Life TV",
-    "logo": "https://i.imgur.com/JhrTB82.png",
-    "logoText": "LIF",
-    "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://www.lifetv.ee/"
-  },
-  {
-    "id": "Nickelodeon.ee",
-    "name": "Nickelodeon",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
-    "logoText": "NIC",
-    "url": "http://195.64.140.147:10121/121",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://195.64.140.147:10121/121",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A."
-  },
-  {
-    "id": "Pingviin.ee",
-    "name": "Pingviin",
-    "logo": "https://i.imgur.com/b6xupqO.png",
-    "logoText": "PIN",
-    "url": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: http://www.lolotv.lv/"
-  },
-  {
-    "id": "Riigikogu.ee",
+    "tvgId": "FP0DHXJTw0LYfi",
     "name": "Riigikogu",
-    "logo": "https://i.imgur.com/dJRGDt2.png",
-    "logoText": "RII",
+    "originalName": "Riigikogu",
     "url": "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TBNBaltia.ee",
-    "name": "TBN Baltia",
-    "logo": "https://i.imgur.com/rKBaK56.png",
-    "logoText": "TBN",
-    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "ET5aXCpL16C7nE",
+    "name": "Taevas TV7",
+    "originalName": "Taevas TV7",
+    "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VantageDance.ee",
+    "tvgId": "r2gF8oZvggcaZG",
     "name": "Vantage Dance",
-    "logo": "https://vantagetv.ee/vantage_dance.png",
-    "logoText": "VAN",
+    "originalName": "Vantage Dance",
     "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://vantagetv.ee"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VantageMusic.ee",
+    "tvgId": "i3qkHtWdmsIqE8",
     "name": "Vantage Music",
-    "logo": "https://vantagetv.ee/vantage_music.png",
-    "logoText": "VAN",
+    "originalName": "Vantage Music",
     "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://vantagetv.ee"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VantageRock.ee",
+    "tvgId": "ayJ81MgKRadKk0",
     "name": "Vantage Rock",
-    "logo": "https://vantagetv.ee/vantage_rock.png",
-    "logoText": "VAN",
+    "originalName": "Vantage Rock",
     "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "EE",
-    "countryName": "Estonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Estonia. Language: N/A. Website: https://vantagetv.ee"
+    "type": "live",
+    "source": "famelack"
   }
 ]

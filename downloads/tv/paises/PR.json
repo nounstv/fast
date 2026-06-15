@@ -1,811 +1,326 @@
 [
   {
-    "id": "ACSNetwork.pr",
-    "name": "ACS Network",
-    "logo": "https://i.imgur.com/7aIab2r.png",
-    "logoText": "ACS",
-    "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://conectatetvpr.com/en-vivo/"
-  },
-  {
-    "id": "AmericaTeVe.pr",
+    "tvgId": "5MYt98eEQLh8Ll",
     "name": "America TeVe",
-    "logo": "https://i.imgur.com/K9o3mLP.png",
-    "logoText": "AME",
+    "originalName": "America TeVe",
     "url": "https://live.gideo.video/americateve2/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.gideo.video/americateve2/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general",
-      "entertainment"
-    ],
+    "originalCategory": "General",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.americatevepr.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BuenaTV.pr",
-    "name": "Buena TV",
-    "logo": "https://i.imgur.com/tsajuxi.png",
-    "logoText": "BUE",
-    "url": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A."
-  },
-  {
-    "id": "CandelitaTV.pr",
+    "tvgId": "452xTTX1nRDBiZ",
     "name": "Candelita TV",
-    "logo": "https://i.imgur.com/34BvVDl.png",
-    "logoText": "CAN",
+    "originalName": "Candelita TV",
     "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://candelita7.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CAtv.pr",
+    "tvgId": "ZJCzbVc31LkU2Y",
     "name": "CAtv",
-    "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
-    "logoText": "CAT",
+    "originalName": "CAtv",
     "url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: http://caribbeanadvantage.com"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CDMInternacional.pr",
+    "tvgId": "mS9qxq2CzcaNUI",
     "name": "CDM Internacional",
-    "logo": "https://i.imgur.com/N7IneVk.png",
-    "logoText": "CDM",
+    "originalName": "CDM Internacional",
     "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://cdminternacional.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DeFianceMedia.pr",
+    "tvgId": "2E1QCHJTYwtjGg",
     "name": "DeFiance Media",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png",
-    "logoText": "DEF",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "streams": [
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      },
-      {
-        "url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "DeFiance Media",
+    "url": "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Business",
-    "categories": [
-      "business"
-    ],
+    "originalCategory": "Business",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://defiance.media/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DNJTV.pr",
+    "tvgId": "laN58G2pOTHWk2",
     "name": "DNJ TV",
-    "logo": "https://i.imgur.com/YqTcGJZ.png",
-    "logoText": "DNJ",
+    "originalName": "DNJ TV",
     "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://dnj.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EBNTelevision.pr",
+    "tvgId": "d7xVOUGg3tG60Q",
     "name": "EBN Television",
-    "logo": "https://i.imgur.com/4OCptwT.png",
-    "logoText": "EBN",
+    "originalName": "EBN Television",
     "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://ebnpr.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FamiliaVisionHD.pr",
+    "tvgId": "bD45kzyCkGUkuS",
     "name": "Familia Vision HD",
-    "logo": "https://i.imgur.com/uqTH7m5.jpg",
-    "logoText": "FAM",
+    "originalName": "Familia Vision HD",
     "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://lafamiliadelafe.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FarodeSantidadTV.pr",
+    "tvgId": "P4mxJMVl2wyiPi",
     "name": "Faro de Santidad TV",
-    "logo": "https://i.imgur.com/GoNBFzI.png",
-    "logoText": "FAR",
+    "originalName": "Faro de Santidad TV",
     "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://farodesantidad.com"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LaX.pr",
+    "tvgId": "ESeEpgafREEMIe",
     "name": "La-X",
-    "logo": "https://i.imgur.com/i2GnQTq.png",
-    "logoText": "LA-",
+    "originalName": "La-X",
     "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://lax.fm/portal/la-x-radio-visual/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NGRadioTV.pr",
-    "name": "NG Radio TV",
-    "logo": "https://i.imgur.com/KsNI3vQ.jpg",
-    "logoText": "NG ",
-    "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://ng907fm.com/"
-  },
-  {
-    "id": "NotiUnoTV.pr",
-    "name": "NotiUno TV",
-    "logo": "https://i.imgur.com/qNdywBT.png",
-    "logoText": "NOT",
-    "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.notiuno.com/notiuno-tv/"
-  },
-  {
-    "id": "NuevaVidaFM.pr",
+    "tvgId": "7W5fz3owCOtino",
     "name": "Nueva Vida FM",
-    "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-    "logoText": "NUE",
+    "originalName": "Nueva Vida FM",
     "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious",
-      "music"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://nuevavida.fm/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ParaisoTV.pr",
+    "tvgId": "fxoiDSXZnOUswM",
     "name": "Paraiso TV",
-    "logo": "https://i.imgur.com/wE31GIP.jpg",
-    "logoText": "PAR",
+    "originalName": "Paraiso TV",
     "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://paraisotv.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PuraPalabra.pr",
+    "tvgId": "6GzzyU1r6GXxb2",
     "name": "Pura Palabra",
-    "logo": "https://i.imgur.com/nl5vyIw.png",
-    "logoText": "PUR",
+    "originalName": "Pura Palabra",
     "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://purapalabra.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioIslaTV.pr",
+    "tvgId": "dfwJqEOqj4nFiU",
     "name": "Radio Isla TV",
-    "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
-    "logoText": "RAD",
+    "originalName": "Radio Isla TV",
     "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://radioisla.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SalvacionTV.pr",
+    "tvgId": "LNGJVkOrgPhVTB",
     "name": "Salvacion TV",
-    "logo": "https://i.imgur.com/6HOViG9.png",
-    "logoText": "SAL",
+    "originalName": "Salvacion TV",
     "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: http://www.salvaciontv.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telenorte.pr",
+    "tvgId": "mus49kJTQfTCmk",
     "name": "Telenorte",
-    "logo": "https://i.imgur.com/LCiYFrh.jpg",
-    "logoText": "TEL",
+    "originalName": "Telenorte",
     "url": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://telenortepr.godaddysites.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TeleOnce.pr",
+    "tvgId": "WRhrhAcp8QVCZv",
     "name": "TeleOnce",
-    "logo": "https://i.imgur.com/Crt3P4N.png",
-    "logoText": "TEL",
+    "originalName": "TeleOnce",
     "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://teleonce.com/en-vivo/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Triunfo969FM.pr",
-    "name": "Triunfo 96.9 FM",
-    "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
-    "logoText": "TRI",
-    "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.triunfo969.fm/"
-  },
-  {
-    "id": "WDWL581.pr",
+    "tvgId": "vETwdWDS6Ys3LC",
     "name": "WDWL 58.1",
-    "logo": "https://i.imgur.com/B7lqYZe.png",
-    "logoText": "WDW",
+    "originalName": "WDWL 58.1",
     "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://teleadoracion.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WECN.pr",
-    "name": "WECN",
-    "logo": "https://i.imgur.com/NYBZBY0.png",
-    "logoText": "WEC",
-    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://canal64.tv/"
-  },
-  {
-    "id": "WELU81.pr",
+    "tvgId": "MvEadpgWzJjCTE",
     "name": "WELU 8.1",
-    "logo": "https://i.imgur.com/42UdwD0.png",
-    "logoText": "WEL",
+    "originalName": "WELU 8.1",
     "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WIPRTV61.pr",
+    "tvgId": "bwDkPgO9EH6E9o",
     "name": "WIPR-TV 6.1",
-    "logo": "https://i.imgur.com/MGJaxFO.png",
-    "logoText": "WIP",
+    "originalName": "WIPR-TV 6.1",
     "url": "https://streamwipr.pr/hls/stream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamwipr.pr/hls/stream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: http://tutv.puertorico.pr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WKAQTV21.pr",
+    "tvgId": "6DxixUnn8FbaeV",
     "name": "WKAQ-TV 2.1",
-    "logo": "https://i.imgur.com/DVASpQj.png",
-    "logoText": "WKA",
+    "originalName": "WKAQ-TV 2.1",
     "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: http://www.telemundopr.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WKAQTV22.pr",
+    "tvgId": "XjdAPMm3YO01Fo",
     "name": "WKAQ-TV 2.2",
-    "logo": "https://i.imgur.com/TL6xy4y.png",
-    "logoText": "WKA",
+    "originalName": "WKAQ-TV 2.2",
     "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WRUADT1.pr",
+    "tvgId": "pK67X1nTuCfVIB",
     "name": "WRUA-DT1",
-    "logo": "https://i.imgur.com/YtTlZq3.png",
-    "logoText": "WRU",
-    "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "WRUA-DT1",
+    "url": "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8",
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://tivatv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WWXYDT1.pr",
+    "tvgId": "zi89aJl9FoLNYA",
     "name": "WWXY-DT1",
-    "logo": "https://i.imgur.com/Qs4szHD.png",
-    "logoText": "WWX",
+    "originalName": "WWXY-DT1",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.boricuatv.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WWXYDT3.pr",
+    "tvgId": "IiR71uuMJmqUVL",
     "name": "WWXY-DT3",
-    "logo": "https://i.imgur.com/lAhIGsI.png",
-    "logoText": "WWX",
+    "originalName": "WWXY-DT3",
     "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.maranatharadioministries.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WXWZLD231.pr",
+    "tvgId": "8a8fZdLhOTX7As",
     "name": "WXWZ-LD 23.1",
-    "logo": "https://i.imgur.com/rjmGc9p.png",
-    "logoText": "WXW",
+    "originalName": "WXWZ-LD 23.1",
     "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://mastvpr.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Zeta93.pr",
-    "name": "Zeta 93",
-    "logo": "https://i.ibb.co/KzqWLZR/images-57.jpg",
-    "logoText": "ZET",
-    "url": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "0JcLmPgiPRNsh2",
+    "name": "X Level Media",
+    "originalName": "X Level Media",
+    "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PR",
-    "countryName": "Puerto Rico",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Puerto Rico. Language: N/A. Website: https://www.lamusica.com/stations/wznt"
+    "type": "live",
+    "source": "famelack"
   }
 ]

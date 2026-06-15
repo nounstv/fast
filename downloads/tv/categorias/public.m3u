@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="P0SviESIGjVMCR" tvg-name="3Cat El bunquer" group-title="Public" tvg-country="ES",3Cat El bunquer
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+#EXTINF:-1 tvg-id="SbKSg1Uc6JQCXF" tvg-name="3CatInfo" group-title="Public" tvg-country="ES",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="cmUsBmwJXX5DLc" tvg-name="24 Horas Canarias" group-title="Public" tvg-country="ES",24 Horas Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="74QjO5ht7iQnKv" tvg-name="24 Horas Catalunya" group-title="Public" tvg-country="ES",24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="Fv2fpsvbcUPHP8" tvg-name="Aragon TV Internacional" group-title="Public" tvg-country="ES",Aragon TV Internacional
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="MkDG8x514T8qvl" tvg-name="Bon Dia TV" group-title="Public" tvg-country="ES",Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="CTfUhDJ1psN0TH" tvg-name="Canal Extremadura Satelite" group-title="Public" tvg-country="ES",Canal Extremadura Satelite
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="bz12XPJ3d34chR" tvg-name="Canal Sur 2" group-title="Public" tvg-country="ES",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WsnjAbyAewcp2y" tvg-name="Canal Sur Andalucia" group-title="Public" tvg-country="ES",Canal Sur Andalucia
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="Pf3Zsb1GIIiXjl" tvg-name="Canal Sur Noticias" group-title="Public" tvg-country="ES",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Qfv5oZJyTVO7ql" tvg-name="Clan Internacional" group-title="Public" tvg-country="ES",Clan Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="HMkADRVzF88Xlb" tvg-name="CMM TV" group-title="Public" tvg-country="ES",CMM TV
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="pILTgjKOONeKEW" tvg-name="El 33 Originals" group-title="Public" tvg-country="ES",El 33 Originals
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="ry2G3plOdgjsxG" tvg-name="ETB Events 1" group-title="Public" tvg-country="ES",ETB Events 1
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="qCNy2ojifNspg9" tvg-name="FomixTV" group-title="Public" tvg-country="NL",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="VC0mpDqFEWjXwB" tvg-name="Galicia TV Europa" group-title="Public" tvg-country="ES",Galicia TV Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="HhUtzRJjCR6lUu" tvg-name="TV UFOP" group-title="Public" tvg-country="BR",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8

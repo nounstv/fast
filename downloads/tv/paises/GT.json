@@ -1,1248 +1,218 @@
 [
   {
-    "id": "AmigosTVChiquimula.gt",
+    "tvgId": "tp4aSE2XbjzMxZ",
     "name": "Amigos TV Chiquimula",
-    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
-    "logoText": "AMI",
+    "originalName": "Amigos TV Chiquimula",
     "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://amigostv.com.gt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AuroraMediaFilms.gt",
+    "tvgId": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
-    "logo": "https://i.imgur.com/DVC5w6H.png",
-    "logoText": "AUR",
+    "originalName": "Aurora Media Films",
     "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "originalCategory": "Movies",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/auroramediafilms"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BarbeTV.gt",
+    "tvgId": "hgyQQg5rlyVNkf",
     "name": "Barbe TV",
-    "logo": "https://i.imgur.com/2Sekew2.png",
-    "logoText": "BAR",
+    "originalName": "Barbe TV",
     "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://barbetv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BDTelevision.gt",
-    "name": "BD Television",
-    "logo": "https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png",
-    "logoText": "BD ",
-    "url": "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "Canal100Chinique.gt",
-    "name": "Canal 100 Chinique",
-    "logo": "https://i.imgur.com/ygNKJXx.png",
-    "logoText": "CAN",
-    "url": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/c100chinique"
-  },
-  {
-    "id": "Canal13Esquipulas.gt",
-    "name": "Canal 13 Esquipulas",
-    "logo": "https://i.imgur.com/INKZvlN.png",
-    "logoText": "CAN",
-    "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://radiosdeguate.com/tv/canal-13-esquipulas"
-  },
-  {
-    "id": "Canal27.gt",
-    "name": "Canal 27",
-    "logo": "https://i.imgur.com/eA4vt8A.png",
-    "logoText": "CAN",
-    "url": "https://live.canal27.tv:3633/live/canal27live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.canal27.tv:3633/live/canal27live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.canal27.org/"
-  },
-  {
-    "id": "Canal30TVBethel.gt",
-    "name": "Canal 30 TV Bethel",
-    "logo": "https://i.imgur.com/PP4U1JL.png",
-    "logoText": "CAN",
-    "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://canal30tvbethel.blogspot.com/"
-  },
-  {
-    "id": "Canal6Panadish.gt",
+    "tvgId": "N4gLQ8UnMpP3sJ",
     "name": "Canal 6 Panadish",
-    "logo": "https://i.imgur.com/KJWNPiz.jpg",
-    "logoText": "CAN",
+    "originalName": "Canal 6 Panadish",
     "url": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.panadish.com/canal6.html"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalIglesiaLuzyVerdad.gt",
-    "name": "Canal Iglesia Luz y Verdad",
-    "logo": "https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg",
-    "logoText": "CAN",
-    "url": "https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "HQW2P8evqWenGp",
+    "name": "Canal 30 TV Bethel",
+    "originalName": "Canal 30 TV Bethel",
+    "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.luzyverdadmtl.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CanalPeniel.gt",
-    "name": "Canal Peniel",
-    "logo": "https://i.imgur.com/Z7aKJCt.png",
-    "logoText": "CAN",
-    "url": "https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/canalpeniel"
-  },
-  {
-    "id": "CanalTVRadioMayaTGBA.gt",
-    "name": "Canal TV Radio Maya TGBA",
-    "logo": "https://i.imgur.com/kORStT1.png",
-    "logoText": "CAN",
-    "url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.radiomayatgba.tv/"
-  },
-  {
-    "id": "CanalVisof.gt",
-    "name": "Canal Visof",
-    "logo": "https://i.imgur.com/XiszuLl.png",
-    "logoText": "CAN",
-    "url": "https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "CandelariaTV.gt",
-    "name": "Candelaria TV",
-    "logo": "https://i.imgur.com/Mq1yoUQ.png",
-    "logoText": "CAN",
-    "url": "https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "CarinosaTV.gt",
-    "name": "Carinosa TV",
-    "logo": "https://i.imgur.com/13Kb6Lp.png",
-    "logoText": "CAR",
-    "url": "https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://carinosatv.com/"
-  },
-  {
-    "id": "CristoTV.gt",
-    "name": "Cristo TV",
-    "logo": "https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg",
-    "logoText": "CRI",
-    "url": "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "ElRoiTV.gt",
+    "tvgId": "H9gOtmwx3FUQi5",
     "name": "El-Roi TV",
-    "logo": "https://i.imgur.com/h8S0eA4.png",
-    "logoText": "EL-",
+    "originalName": "El-Roi TV",
     "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EspirituSantoYFuegoTV.gt",
-    "name": "Espiritu Santo Y Fuego TV",
-    "logo": "https://i.imgur.com/8mdSWO4.jpg",
-    "logoText": "ESP",
-    "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: http://www.espiritusantoyfuego.tv/"
-  },
-  {
-    "id": "ExpresionTV.gt",
-    "name": "Expresion TV",
-    "logo": "https://i.imgur.com/lFek4Pj.png",
-    "logoText": "EXP",
-    "url": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.ebenezersolola.com.gt/expresion-tv"
-  },
-  {
-    "id": "FeViviente.gt",
-    "name": "Fe Viviente",
-    "logo": "https://i.imgur.com/PkW3cKR.png",
-    "logoText": "FE ",
-    "url": "https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "FranchsTV.gt",
-    "name": "Franchs TV",
-    "logo": "https://i.imgur.com/Rr9pKQh.png",
-    "logoText": "FRA",
-    "url": "https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://franchs.tv/"
-  },
-  {
-    "id": "GardeniasTV.gt",
-    "name": "Gardenias TV",
-    "logo": "https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png",
-    "logoText": "GAR",
-    "url": "https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "GTV.gt",
-    "name": "GTV",
-    "logo": "https://i.imgur.com/gUiIC8E.png",
-    "logoText": "GTV",
-    "url": "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://grupogenesis.net/"
-  },
-  {
-    "id": "IglesiaDelCamino.gt",
-    "name": "Iglesia Del Camino",
-    "logo": "https://i.imgur.com/vHfb3Z4.png",
-    "logoText": "IGL",
-    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://iglesiadelcaminogt.com/"
-  },
-  {
-    "id": "JacalCanal5.gt",
-    "name": "Jacal Canal 5",
-    "logo": "https://i.imgur.com/k1oW0C6.png",
-    "logoText": "JAC",
-    "url": "https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "JehovaNissi.gt",
-    "name": "Jehova Nissi",
-    "logo": "https://i.imgur.com/2BkL4wq.png",
-    "logoText": "JEH",
-    "url": "https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "JubiloTV.gt",
-    "name": "Jubilo TV",
-    "logo": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
-    "logoText": "JUB",
-    "url": "http://173.249.60.54/hls/jubilotv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://173.249.60.54/hls/jubilotv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "Knal4Quiche.gt",
-    "name": "Knal 4 Quiche",
-    "logo": "https://i.imgur.com/YRSv2Tf.png",
-    "logoText": "KNA",
-    "url": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.knal4quiche.com/"
-  },
-  {
-    "id": "MaxivisionTV.gt",
+    "tvgId": "BwRr61iTuY4MpG",
     "name": "Maxivision TV",
-    "logo": "https://i.imgur.com/UC8WrEN.jpg",
-    "logoText": "MAX",
+    "originalName": "Maxivision TV",
     "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MultivisionCanal3.gt",
-    "name": "Multivision Canal 3",
-    "logo": "https://i.imgur.com/6bdj2BV.jpg",
-    "logoText": "MUL",
-    "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://multivisioncanal3.com/"
-  },
-  {
-    "id": "MultivisionSports.gt",
-    "name": "Multivision Sports",
-    "logo": "https://i.imgur.com/wLjSSo2.jpg",
-    "logoText": "MUL",
-    "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://multivisioncanal3.com/"
-  },
-  {
-    "id": "NimTV.gt",
+    "tvgId": "LX1jOBuAPab8Ct",
     "name": "Nim TV",
-    "logo": "https://i.imgur.com/mBNOSzl.png",
-    "logoText": "NIM",
+    "originalName": "Nim TV",
     "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/nimtv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PenielKY.gt",
+    "tvgId": "6aRL3vWbwcvOYV",
     "name": "Peniel K&Y",
-    "logo": "https://i.imgur.com/YtPRKmS.png",
-    "logoText": "PEN",
+    "originalName": "Peniel K&Y",
     "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/penielky"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PenielMusical.gt",
+    "tvgId": "1edx2hpbF6zhmR",
     "name": "Peniel Musical",
-    "logo": "https://i.imgur.com/IFQbGEf.png",
-    "logoText": "PEN",
+    "originalName": "Peniel Musical",
     "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/penielmusical"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PenielTVBibliaAbierta.gt",
+    "tvgId": "c3BqnYa8hxJ1bn",
     "name": "Peniel TV Biblia Abierta",
-    "logo": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
-    "logoText": "PEN",
+    "originalName": "Peniel TV Biblia Abierta",
     "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PlenitudTV.gt",
-    "name": "Plenitud TV",
-    "logo": "https://i.imgur.com/BFJ7EGj.png",
-    "logoText": "PLE",
-    "url": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "PresenciaTelevision.gt",
-    "name": "Presencia Television",
-    "logo": "https://i.imgur.com/SVho6El.png",
-    "logoText": "PRE",
-    "url": "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://palabraenaccion.org/"
-  },
-  {
-    "id": "RhemaTV.gt",
+    "tvgId": "2LfjTVfmckF8U9",
     "name": "Rhema TV",
-    "logo": "https://i.imgur.com/5o821rT.png",
-    "logoText": "RHE",
+    "originalName": "Rhema TV",
     "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://rtv.live/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SASTV.gt",
-    "name": "SAS TV",
-    "logo": "https://i.imgur.com/VShjB3o.png",
-    "logoText": "SAS",
-    "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "SILTV.gt",
-    "name": "SIL TV",
-    "logo": "https://i.imgur.com/tWZXRVu.png",
-    "logoText": "SIL",
-    "url": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome",
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://siltv.netlify.app/"
-  },
-  {
-    "id": "SolTV.gt",
+    "tvgId": "OsYebOtVABr4xl",
     "name": "Sol TV",
-    "logo": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
-    "logoText": "SOL",
+    "originalName": "Sol TV",
     "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telecosta.gt",
+    "tvgId": "sjT63Yqrczmdqs",
     "name": "Telecosta",
-    "logo": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
-    "logoText": "TEL",
+    "originalName": "Telecosta",
     "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.telecostaescuintla.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telemax.gt",
-    "name": "Telemax",
-    "logo": "https://i.imgur.com/HisGao7.png",
-    "logoText": "TEL",
-    "url": "https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/telemax"
-  },
-  {
-    "id": "TigoSports.gt",
-    "name": "Tigo Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "logoText": "TIG",
-    "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: http://www.tigosports.gt/"
-  },
-  {
-    "id": "Tunevision.gt",
-    "name": "Tunevision",
-    "logo": "https://i.imgur.com/XNiXqgj.png",
-    "logoText": "TUN",
-    "url": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/tunevision"
-  },
-  {
-    "id": "TVFlorencia.gt",
+    "tvgId": "fGTZi0sSjZTjHF",
     "name": "TV Florencia",
-    "logo": "https://i.imgur.com/jsbwnRb.png",
-    "logoText": "TV ",
+    "originalName": "TV Florencia",
     "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMaria.gt",
-    "name": "TV Maria",
-    "logo": "https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg",
-    "logoText": "TV ",
-    "url": "https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://canaltvmariaguatemala.com/"
-  },
-  {
-    "id": "TVMaya.gt",
+    "tvgId": "r1oGqxJA7bXTXS",
     "name": "TV Maya",
-    "logo": "https://i.imgur.com/BGFa4OO.png",
-    "logoText": "TV ",
+    "originalName": "TV Maya",
     "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "originalCategory": "Education",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.almg.org.gt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVTun.gt",
-    "name": "TV Tun",
-    "logo": "https://i.imgur.com/dGSfHCj.png",
-    "logoText": "TV ",
-    "url": "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A."
-  },
-  {
-    "id": "TVSRetro.gt",
+    "tvgId": "XwiDGKdsH20Bju",
     "name": "TVS Retro",
-    "logo": "https://i.imgur.com/jdnHci0.png",
-    "logoText": "TVS",
+    "originalName": "TVS Retro",
     "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Classic",
-    "categories": [
-      "classic"
-    ],
+    "originalCategory": "Classic",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/tvsretro"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UnicaTV.gt",
-    "name": "Unica TV",
-    "logo": "https://i.imgur.com/VE5OrU7.png",
-    "logoText": "UNI",
-    "url": "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.playgt.net/unicatv"
-  },
-  {
-    "id": "VisionTV.gt",
+    "tvgId": "CIC3OB0eRrwRa3",
     "name": "Vision TV",
-    "logo": "https://i.imgur.com/S0JrfIl.png",
-    "logoText": "VIS",
+    "originalName": "Vision TV",
     "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Guatemala. Language: N/A. Website: https://www.visiontv.com.gt/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

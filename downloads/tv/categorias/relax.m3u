@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="lxtnwZjaAVKkTo" tvg-name="10 Bold Adelaide" group-title="Relax" tvg-country="AU",10 Bold Adelaide
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="NI9bA34mB8Hi1j" tvg-name="Better Life Nature Channel" group-title="Relax" tvg-country="US",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="hDKihfnR1gIzAi" tvg-name="MyZen TV" group-title="Relax" tvg-country="FR",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NpJ5K3Avxx4otV" tvg-name="WildEarth" group-title="Relax" tvg-country="ZA",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8

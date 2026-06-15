@@ -1,410 +1,74 @@
 [
   {
-    "id": "CanalPlusHaiti.ht",
-    "name": "Canal+ Haiti",
-    "logo": "https://i.imgur.com/Gad5qrd.png",
-    "logoText": "CAN",
-    "url": "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://www.canalplus-haiti.com/contacts"
-  },
-  {
-    "id": "HaitiNewsChannel.ht",
+    "tvgId": "uwTWKsdpHVYtfE",
     "name": "Haiti News Channel",
-    "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
-    "logoText": "HAI",
+    "originalName": "Haiti News Channel",
     "url": "https://haititivi.com/website/haitinews/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://haititivi.com/website/haitinews/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://haitinewstv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NetalkoleTV.ht",
-    "name": "Netalkole TV",
-    "logo": "https://i.imgur.com/SdVrpzY.png",
-    "logoText": "NET",
-    "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://www.haititelevision.com/netalkoletv.php"
-  },
-  {
-    "id": "RadioTele4VEH.ht",
+    "tvgId": "BeKI8k9qQhkMfs",
     "name": "Radio Tele 4VEH",
-    "logo": "https://i.imgur.com/AnOjqaS.png",
-    "logoText": "RAD",
+    "originalName": "Radio Tele 4VEH",
     "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioTele6Univers.ht",
-    "name": "Radio Tele 6 Univers",
-    "logo": "https://i.imgur.com/aeVXn7p.jpeg",
-    "logoText": "RAD",
-    "url": "https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A."
-  },
-  {
-    "id": "RadioTeleAmenFM.ht",
-    "name": "Radio Tele Amen FM",
-    "logo": "https://i.imgur.com/MTaFdHE.png",
-    "logoText": "RAD",
-    "url": "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A."
-  },
-  {
-    "id": "RadioTeleEclair.ht",
-    "name": "Radio Tele Eclair",
-    "logo": "https://i.imgur.com/jV30pSq.png",
-    "logoText": "RAD",
-    "url": "https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://radioteleeclair.com/"
-  },
-  {
-    "id": "RadioTeleFullGospel.ht",
-    "name": "Radio Tele Full Gospel",
-    "logo": "https://i.imgur.com/WbwIp9y.jpeg",
-    "logoText": "RAD",
-    "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://ejcfg.com/"
-  },
-  {
-    "id": "RadioTeleGinen.ht",
-    "name": "Radio Tele Ginen",
-    "logo": "https://i.imgur.com/ESlt16G.png",
-    "logoText": "RAD",
-    "url": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://www.rtghaiti.com/"
-  },
-  {
-    "id": "RadioTeleHit.ht",
+    "tvgId": "DKvBoloLNtwxw9",
     "name": "Radio Tele Hit",
-    "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
-    "logoText": "RAD",
+    "originalName": "Radio Tele Hit",
     "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: http://www.hitfmhaiti.com/tele-hit/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioTelePlanetCompas.ht",
-    "name": "Radio Tele Planet Compas",
-    "logo": "https://i.imgur.com/ddb4lsa.png",
-    "logoText": "RAD",
-    "url": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://planetcompas.com/"
-  },
-  {
-    "id": "RadioTelevisionShilo.ht",
-    "name": "Radio Television Shilo",
-    "logo": "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
-    "logoText": "RAD",
-    "url": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://www.radioteleshilo.com/"
-  },
-  {
-    "id": "TeleHaiti.ht",
-    "name": "Tele Haiti",
-    "logo": "https://i.imgur.com/Hso9j58.png",
-    "logoText": "TEL",
-    "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://telehaiti.ht/"
-  },
-  {
-    "id": "TeleLouange.ht",
-    "name": "Tele Louange",
-    "logo": "https://i.imgur.com/DjnMUuL.png",
-    "logoText": "TEL",
-    "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "5crJcIoyjElcSC",
+    "name": "RTH-TV2 Gospel",
+    "originalName": "RTH-TV2 Gospel",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8",
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://telelouange.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TeleVariete.ht",
-    "name": "Tele Variete",
-    "logo": "https://i.imgur.com/0J5MzTB.png",
-    "logoText": "TEL",
-    "url": "https://acwstream.com/hb/chaine30/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acwstream.com/hb/chaine30/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "nWm3k0eiDVch0E",
+    "name": "Tele Louange",
+    "originalName": "Tele Louange",
+    "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: https://televariete.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TNH.ht",
+    "tvgId": "9dYnjnGkh6Gk0r",
     "name": "TNH",
-    "logo": "https://i.imgur.com/8nvCXzt.png",
-    "logoText": "TNH",
+    "originalName": "TNH",
     "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A. Website: http://www.rtnh.ht/"
-  },
-  {
-    "id": "TVPanou.ht",
-    "name": "TV Panou",
-    "logo": "https://i.imgur.com/zee6sWn.png",
-    "logoText": "TV ",
-    "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "HT",
-    "countryName": "Haiti",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Haiti. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   }
 ]

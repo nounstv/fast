@@ -1,41 +1,14 @@
 [
   {
-    "id": "KoreanCentralTelevision.kp",
+    "tvgId": "Q9Y56pgC8MY44a",
     "name": "Korean Central Television",
-    "logo": "https://i.imgur.com/p02AEOF.png",
-    "logoText": "KOR",
-    "url": "https://tv.intchoson.com/kctv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.intchoson.com/kctv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.intchoson.com/kctv/main_stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36"
-      },
-      {
-        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36"
-      }
-    ],
+    "originalName": "Korean Central Television",
+    "url": "https://tv.intchoson.com/kctv/main_stream.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KP",
-    "countryName": "North Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Korea. Language: N/A. Website: https://kcnawatch.org/korea-central-tv-livestream/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

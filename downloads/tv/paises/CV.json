@@ -1,26 +1,14 @@
 [
   {
-    "id": "RadioTVSalOne.cv",
+    "tvgId": "e9kOBIAu1B0cCj",
     "name": "Radio TV Sal One",
-    "logo": "https://i.imgur.com/pCz7ifY.jpg",
-    "logoText": "RAD",
+    "originalName": "Radio TV Sal One",
     "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "CV",
-    "countryName": "Cape Verde",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cape Verde. Language: N/A. Website: https://www.radiotvsalone.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

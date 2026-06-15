@@ -1,800 +1,2234 @@
 [
   {
-    "id": "eNsC6GxX1XiJq8",
+    "tvgId": "SKYMIXDOCS",
+    "name": "####### SKY MIX DOCS ᴿᴬᵂ #######",
+    "originalName": "####### SKY MIX DOCS ᴿᴬᵂ #######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453199.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCSINFO.uk",
+    "name": "SKY MIX DOCS INFO ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS INFO ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453198.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS1.uk",
+    "name": "SKY MIX DOCS 1 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453197.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS2.uk",
+    "name": "SKY MIX DOCS 2 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453196.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS3.uk",
+    "name": "SKY MIX DOCS 3 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453195.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS4.uk",
+    "name": "SKY MIX DOCS 4 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 4 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453194.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS5.uk",
+    "name": "SKY MIX DOCS 5 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 5 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453193.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS6.uk",
+    "name": "SKY MIX DOCS 6 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 6 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453192.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS7.uk",
+    "name": "SKY MIX DOCS 7 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 7 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453191.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS8.uk",
+    "name": "SKY MIX DOCS 8 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 8 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453190.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS9.uk",
+    "name": "SKY MIX DOCS 9 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 9 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453189.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS10.uk",
+    "name": "SKY MIX DOCS 10 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 10 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453188.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS11.uk",
+    "name": "SKY MIX DOCS 11 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 11 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453187.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS12.uk",
+    "name": "SKY MIX DOCS 12 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 12 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453186.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS13.uk",
+    "name": "SKY MIX DOCS 13 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 13 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453185.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS14.uk",
+    "name": "SKY MIX DOCS 14 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 14 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453184.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYMIXDOCS15.uk",
+    "name": "SKY MIX DOCS 15 ᴿᴬᵂ",
+    "originalName": "UK: SKY MIX DOCS 15 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1453183.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878",
+    "category": "Documentary",
+    "originalCategory": "UK| SKY MIX DOCS ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTARYHD4K",
+    "name": "#### DOCUMENTARY HD/4K ####",
+    "originalName": "#### DOCUMENTARY HD/4K ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1015421.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERY4K.uk",
+    "name": "DISCOVERY 4K ◉",
+    "originalName": "UK: DISCOVERY 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162375.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERY.uk",
+    "name": "DISCOVERY",
+    "originalName": "UK: DISCOVERY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162387.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERY1.uk",
+    "name": "DISCOVERY +1 ◉",
+    "originalName": "UK: DISCOVERY +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162393.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYHISTORY.uk",
+    "name": "DISCOVERY HISTORY ◉",
+    "originalName": "UK: DISCOVERY HISTORY ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162388.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYSCIENCE.uk",
+    "name": "DISCOVERY SCIENCE ◉",
+    "originalName": "UK: DISCOVERY SCIENCE ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162390.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYTURBO1.uk",
+    "name": "DISCOVERY TURBO +1 ◉",
+    "originalName": "UK: DISCOVERY TURBO +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402152.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYTURBO.uk",
+    "name": "DISCOVERY TURBO ◉",
+    "originalName": "UK: DISCOVERY TURBO ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162392.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INVESTIGATIONDISCOVERY1.uk",
+    "name": "INVESTIGATION DISCOVERY +1 ◉",
+    "originalName": "UK: INVESTIGATION DISCOVERY +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402153.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INVESTIGATIONDISCOVERY.uk",
+    "name": "INVESTIGATION DISCOVERY ◉",
+    "originalName": "UK: INVESTIGATION DISCOVERY ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162396.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CRIMEINVESTIGATION1.uk",
+    "name": "CRIME INVESTIGATION +1 ◉",
+    "originalName": "UK: CRIME INVESTIGATION +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402156.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHIC1.uk",
+    "name": ": NATIONAL GEOGRAPHIC +1 ◉",
+    "originalName": "UK: : NATIONAL GEOGRAPHIC +1 ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/402155.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHIC4K.uk",
+    "name": ": NATIONAL GEOGRAPHIC 4K ◉",
+    "originalName": "UK:: NATIONAL GEOGRAPHIC 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162380.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHICWILD4K.uk",
+    "name": ": NATIONAL GEOGRAPHIC WILD 4K ◉",
+    "originalName": "UK: : NATIONAL GEOGRAPHIC WILD 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162381.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY4K.uk",
+    "name": "HISTORY 4K ◉",
+    "originalName": "UK: HISTORY 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162378.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY24K.uk",
+    "name": "HISTORY 2 4K ◉",
+    "originalName": "UK: HISTORY 2 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162379.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LOVENATURE4K.uk",
+    "name": "LOVE NATURE 4K ◉",
+    "originalName": "UK: LOVE NATURE 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162385.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYNATURE4K.uk",
+    "name": "SKY NATURE 4K ◉",
+    "originalName": "UK: SKY NATURE 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/162384.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UKDOCUMENTARYHEVCHD",
+    "name": "### UK DOCUMENTARY HEVC/HD ###",
+    "originalName": "### UK DOCUMENTARY HEVC/HD ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717721.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CRIMEINVESTIGATIONHEVCHD.uk",
+    "name": "CRIME INVESTIGATION HEVC HD",
+    "originalName": "UK: CRIME INVESTIGATION HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717719.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORYHEVCHD.uk",
+    "name": "HISTORY HEVC HD",
+    "originalName": "UK: HISTORY HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717718.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?77583",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYHEVCHD.uk",
+    "name": "DISCOVERY HEVC HD",
+    "originalName": "UK: DISCOVERY HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717720.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?13591",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY2HEVCHD.uk",
+    "name": "HISTORY 2 HEVC HD",
+    "originalName": "UK: HISTORY 2 HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717717.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATGEOWILDHEVCHD.uk",
+    "name": "NAT GEO WILD HEVC HD",
+    "originalName": "UK: NAT GEO WILD HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717716.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6658.png?24469",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOHEVCHD.uk",
+    "name": "NATIONAL GEO HEVC HD",
+    "originalName": "UK: NATIONAL GEO HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717715.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?4690",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BLOOMBERGHEVCHD.uk",
+    "name": "BLOOMBERG HEVC HD",
+    "originalName": "UK: BLOOMBERG HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717714.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TLCHEVCHD.uk",
+    "name": "TLC HEVC HD",
+    "originalName": "UK: TLC HEVC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717713.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?44351",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UKDOCUMENTARYHEVC4K",
+    "name": "### UK DOCUMENTARY HEVC/4K ###",
+    "originalName": "### UK DOCUMENTARY HEVC/4K ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717712.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYHEVC4K.uk",
+    "name": "DISCOVERY HEVC 4K",
+    "originalName": "UK: DISCOVERY HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717711.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CRIMEINVESTIGATIONHEVC4K.uk",
+    "name": "CRIME INVESTIGATION HEVC 4K",
+    "originalName": "UK: CRIME INVESTIGATION HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717710.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?53935",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATGEOWILDHEVC4K.uk",
+    "name": "NAT GEO WILD HEVC 4K",
+    "originalName": "UK: NAT GEO WILD HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717709.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOHEVC4K.uk",
+    "name": "NATIONAL GEO HEVC 4K",
+    "originalName": "UK: NATIONAL GEO HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717708.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORYHEVC4K.uk",
+    "name": "HISTORY HEVC 4K",
+    "originalName": "UK: HISTORY HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717707.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY2HEVC4K.uk",
+    "name": "HISTORY 2 HEVC 4K",
+    "originalName": "UK: HISTORY 2 HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717706.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BLOOMBERGHEVC4K.uk",
+    "name": "BLOOMBERG HEVC 4K",
+    "originalName": "UK: BLOOMBERG HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717705.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?69851",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TLCHEVC4K.uk",
+    "name": "TLC HEVC 4K",
+    "originalName": "UK: TLC HEVC 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717704.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?33829",
+    "category": "Documentary",
+    "originalCategory": "UK| DOCUMENTARY ʰᵉᵛᶜ",
+    "country": "UK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTAIREHD4K",
+    "name": "##### DOCUMENTAIRE HD/4K #####",
+    "originalName": "##### DOCUMENTAIRE HD/4K #####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/507456.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AnimalPlanet.nl",
+    "name": "Animal Planet ᴿᴬᵂ ◉",
+    "originalName": "NL: Animal Planet ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1530.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?78215",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Discovery.nl",
+    "name": "Discovery ᴿᴬᵂ ◉",
+    "originalName": "NL: Discovery ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1570.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?45985",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DiscoveryScience.nl",
+    "name": "Discovery Science ᴿᴬᵂ ◉",
+    "originalName": "NL: Discovery Science ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1573.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?89118",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CICrimeInvestogation.nl",
+    "name": "CI Crime Investogation ᴿᴬᵂ ◉",
+    "originalName": "NL: CI Crime Investogation ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1574.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/646.jpg?78660",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NatGeoWild.nl",
+    "name": "Nat Geo Wild ᴿᴬᵂ ◉",
+    "originalName": "NL: Nat Geo Wild ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1532.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?29753",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NationalGeographicChannel4K.nl",
+    "name": "National Geographic Channel 4K ◉",
+    "originalName": "NL: National Geographic Channel 4K ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1571.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?4998",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBCFIRST.nl",
+    "name": "BBC FIRST ᴿᴬᵂ ◉",
+    "originalName": "NL: BBC FIRST ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/18408.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12579.jpg?ver=6196",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBCOne.nl",
+    "name": "BBC One ᴿᴬᵂ ◉",
+    "originalName": "NL: BBC One ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/209244.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12575.jpg?ver=53985",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBCTwo.nl",
+    "name": "BBC Two ᴿᴬᵂ ◉",
+    "originalName": "NL: BBC Two ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/209245.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12578.jpg?ver=13452",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "E.nl",
+    "name": "E! ᴿᴬᵂ ◉",
+    "originalName": "NL: E! ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1534.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/664.png?918",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY.nl",
+    "name": "HISTORY ᴿᴬᵂ ◉",
+    "originalName": "NL: HISTORY ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1539.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?89075",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ID.nl",
+    "name": "ID ᴿᴬᵂ ◉",
+    "originalName": "NL: ID ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1594.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/622.jpg?99797",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TLC.nl",
+    "name": "TLC ᴿᴬᵂ ◉",
+    "originalName": "NL: TLC ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1526.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?57060",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LoveNature.nl",
+    "name": "Love Nature ᴿᴬᵂ ◉",
+    "originalName": "NL: Love Nature ᴿᴬᵂ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/317776.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6088.jpg?38460",
+    "category": "Documentary",
+    "originalCategory": "NL| DOCUMENTAIRE HD/4K",
+    "country": "NL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GRDOCUMENTARYVIP",
+    "name": "##### GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP #####",
+    "originalName": "##### GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP #####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/801499.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COSMOTEHISTORY.gr",
+    "name": "COSMOTE HISTORY ᵁᴴᴰ ◉",
+    "originalName": "GR: COSMOTE HISTORY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842886.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3924.jpg?42966",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERY.gr",
+    "name": "DISCOVERY ᵁᴴᴰ ◉",
+    "originalName": "GR: DISCOVERY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842885.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7937.jpg?16624",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYID.gr",
+    "name": "DISCOVERY ID ᵁᴴᴰ ◉",
+    "originalName": "GR: DISCOVERY ID ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842884.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7937.jpg?16624",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CRIMEINVESTIGATION.gr",
+    "name": "CRIME INVESTIGATION ◉",
+    "originalName": "GR: CRIME INVESTIGATION ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842882.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?4335",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHIC.gr",
+    "name": "NATIONAL GEOGRAPHIC ᵁᴴᴰ ◉",
+    "originalName": "GR: NATIONAL GEOGRAPHIC ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842881.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?43932",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHICWILD.gr",
+    "name": "NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ ◉",
+    "originalName": "GR: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842880.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?69698",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ANIMALPLANET.gr",
+    "name": "ANIMAL PLANET ᵁᴴᴰ ◉",
+    "originalName": "GR: ANIMAL PLANET ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842879.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?29298",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY.gr",
+    "name": "HISTORY ᵁᴴᴰ ◉",
+    "originalName": "GR: HISTORY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842878.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/733.jpg?54536",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY2.gr",
+    "name": "HISTORY 2 ᵁᴴᴰ ◉",
+    "originalName": "GR: HISTORY 2 ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842877.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?63490",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBCEARTH.gr",
+    "name": "BBC EARTH ᵁᴴᴰ ◉",
+    "originalName": "GR: BBC EARTH ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842876.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?87783",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATHISTORY.gr",
+    "name": "VIASAT HISTORY ᵁᴴᴰ ◉",
+    "originalName": "GR: VIASAT HISTORY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842875.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/719.jpg?34523",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATNATURE.gr",
+    "name": "VIASAT NATURE ᵁᴴᴰ ◉",
+    "originalName": "GR: VIASAT NATURE ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842874.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/724.jpg?19357",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATEXPLORE.gr",
+    "name": "VIASAT EXPLORE ᵁᴴᴰ ◉",
+    "originalName": "GR: VIASAT EXPLORE ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842873.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/720.jpg?35531",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TLC.gr",
+    "name": "TLC ᵁᴴᴰ ◉",
+    "originalName": "GR: TLC ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842872.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?90789",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ENTERTAIMENT.gr",
+    "name": "ENTERTAIMENT ᵁᴴᴰ ◉",
+    "originalName": "GR: ENTERTAIMENT ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842871.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6562.jpg?57666",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TRAVEL.gr",
+    "name": "TRAVEL ᵁᴴᴰ ◉",
+    "originalName": "GR: TRAVEL ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842870.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7959.jpg?84076",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY VIP",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTARY",
+    "name": "#### ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY ####",
+    "originalName": "#### ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY ####",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/623113.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBCEARTHHD.gr",
+    "name": "BBC EARTH HD",
+    "originalName": "GR: BBC EARTH HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460807.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COSMOTEHISTORYHD.gr",
+    "name": "COSMOTE HISTORY HD",
+    "originalName": "GR: COSMOTE HISTORY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460813.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotehistoryhd.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYCHANNELHD.gr",
+    "name": "DISCOVERY CHANNEL HD",
+    "originalName": "GR: DISCOVERY CHANNEL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460815.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/discoverychannelhd.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMNANTAIR.gr",
+    "name": "DOCUMNANTAIR",
+    "originalName": "GR: DOCUMNANTAIR",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460811.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/documentary.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYIDHD.gr",
+    "name": "DISCOVERY ID HD",
+    "originalName": "GR: DISCOVERY ID HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460683.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3967.png?45963",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FOODNETWORKHD.gr",
+    "name": "FOOD NETWORK HD",
+    "originalName": "GR: FOOD NETWORK HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460806.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/FOOD-NETWORK-HD.jpg",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INSIGHT.gr",
+    "name": "INSIGHT",
+    "originalName": "GR: INSIGHT",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460607.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/insight.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HISTORY.gr",
+    "name": "HISTORY",
+    "originalName": "GR: HISTORY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460802.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/history.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHICHD.gr",
+    "name": "NATIONAL GEOGRAPHIC HD",
+    "originalName": "GR: NATIONAL GEOGRAPHIC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460819.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/nationalgeographichd.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHICWILDHD.gr",
+    "name": "NATIONAL GEOGRAPHIC WILD HD",
+    "originalName": "GR: NATIONAL GEOGRAPHIC WILD HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460818.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/natgeowildhd.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NRGTV.gr",
+    "name": "NRG TV",
+    "originalName": "GR: NRG TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460598.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/nrg.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OTEHISTORY.gr",
+    "name": "OTE HISTORY",
+    "originalName": "GR: OTE HISTORY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460801.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/cosmotehistory.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OUTDOORCHANNELHD.gr",
+    "name": "OUTDOOR CHANNEL HD",
+    "originalName": "GR: OUTDOOR CHANNEL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460805.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/OUTDOOR-CHANNEL-HD.jpg",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PLAYTV.gr",
+    "name": "PLAY TV",
+    "originalName": "GR: PLAY TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460596.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/playtv.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TLC.gr",
+    "name": "TLC",
+    "originalName": "GR: TLC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460625.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/TLC-HD.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TRAVELCHANNEL.gr",
+    "name": "TRAVEL CHANNEL",
+    "originalName": "GR: TRAVEL CHANNEL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460800.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/travelchannel.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATEXPLORE.gr",
+    "name": "VIASAT EXPLORE",
+    "originalName": "GR: VIASAT EXPLORE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460808.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/VIASAT-EXPLORER.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATHISTORY.gr",
+    "name": "VIASAT HISTORY",
+    "originalName": "GR: VIASAT HISTORY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460809.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/VIASAT-HISTORY.jpeg",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATNATURE.gr",
+    "name": "VIASAT NATURE",
+    "originalName": "GR: VIASAT NATURE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460810.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/VIASAT-NATURE-.jpg",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "XPLORE.gr",
+    "name": "XPLORE",
+    "originalName": "GR: XPLORE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460589.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/XPLORE-.png",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ZOUGLATV.gr",
+    "name": "ZOUGLA TV",
+    "originalName": "GR: ZOUGLA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460588.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ZOUGLA-TV.jpeg",
+    "category": "Documentary",
+    "originalCategory": "GR| ΝΤΟΚΙΜΑΝΤΕΡ/DOCUMENTARY",
+    "country": "GR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTARYFR",
+    "name": "######## DOCUMENTARY FR ########",
+    "originalName": "######## DOCUMENTARY FR ########",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/413880.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRAHC",
+    "name": "CA FR: AHC",
+    "originalName": "CA FR: AHC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412814.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11097.jpg?61256",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRAMITELEHD",
+    "name": "CA FR: AMI TELE HD",
+    "originalName": "CA FR: AMI TELE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412937.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3003.jpg?50634",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRAPTN",
+    "name": "CA FR: APTN",
+    "originalName": "CA FR: APTN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412813.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/5992.jpg?37074",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRCANALV",
+    "name": "CA FR: CANAL V",
+    "originalName": "CA FR: CANAL V",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412875.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10031.jpg?76379",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRCASA",
+    "name": "CA FR: CASA",
+    "originalName": "CA FR: CASA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412949.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRCASAHD",
+    "name": "CA FR: CASA HD",
+    "originalName": "CA FR: CASA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412892.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRHISTORIA",
+    "name": "CA FR: HISTORIA",
+    "originalName": "CA FR: HISTORIA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412943.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?24778",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRHISTORIAHD",
+    "name": "CA FR: HISTORIA HD",
+    "originalName": "CA FR: HISTORIA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412863.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?86555",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRICIRADIOCANADATELEMONCTONHD",
+    "name": "CA FR: ICI RADIO CANADA TELE MONCTON HD",
+    "originalName": "CA FR: ICI RADIO CANADA TELE MONCTON HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412836.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRICIRADIOCANADATELEVANCOUVERHD",
+    "name": "CA FR: ICI RADIO CANADA TELE VANCOUVER HD",
+    "originalName": "CA FR: ICI RADIO CANADA TELE VANCOUVER HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412835.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRICIRADIOTELETORONTOHD",
+    "name": "CA FR: ICI RADIO TELE TORONTO HD",
+    "originalName": "CA FR: ICI RADIO TELE TORONTO HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412838.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRICIRADIOCANADATELETORONTO",
+    "name": "CA FR: ICI RADIO-CANADA TELE TORONTO",
+    "originalName": "CA FR: ICI RADIO-CANADA TELE TORONTO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412839.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRICIRADIOCANADATLTORONTOHD",
+    "name": "CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD",
+    "originalName": "CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412837.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAFRINVESTIGATIONHD",
+    "name": "CA FR: INVESTIGATION HD",
+    "originalName": "CA FR: INVESTIGATION HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/412872.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY FR",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENANIMALPLANETHD",
+    "name": "CA EN: ANIMAL PLANET HD",
+    "originalName": "CA EN: ANIMAL PLANET HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414083.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENCRIMEINVERSTIGATION",
+    "name": "CA EN: CRIME + INVERSTIGATION",
+    "originalName": "CA EN: CRIME + INVERSTIGATION",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414073.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENDISCOVERYHD",
+    "name": "CA EN: DISCOVERY HD",
+    "originalName": "CA EN: DISCOVERY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414076.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?24942",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENDISCOVERYSCIENCE",
+    "name": "CA EN: DISCOVERY SCIENCE",
+    "originalName": "CA EN: DISCOVERY SCIENCE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414077.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49458",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENDISCOVERYVELOCITYHD",
+    "name": "CA EN: DISCOVERY VELOCITY HD",
+    "originalName": "CA EN: DISCOVERY VELOCITY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414078.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENH2HD",
+    "name": "CA EN: H2 HD",
+    "originalName": "CA EN: H2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414090.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENHISTORYHD",
+    "name": "CA EN: HISTORY HD",
+    "originalName": "CA EN: HISTORY HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414091.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/733.jpg?36560",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENNATIONALGEOGRAPHICHD",
+    "name": "CA EN: NATIONAL GEOGRAPHIC HD",
+    "originalName": "CA EN: NATIONAL GEOGRAPHIC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414080.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAENNATIONALGEOGRAPHICWILDHD",
+    "name": "CA EN: NATIONAL GEOGRAPHIC WILD HD",
+    "originalName": "CA EN: NATIONAL GEOGRAPHIC WILD HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/414081.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713",
+    "category": "Documentary",
+    "originalCategory": "CA| DOCUMENTARY EN",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTARYTV",
+    "name": "###### DOCUMENTARY TV ######",
+    "originalName": "###### DOCUMENTARY TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251795.ts",
+    "logo": "",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AbuDhabiNatioanlGeo4K.ar",
+    "name": "Abu Dhabi Natioanl Geo 4K",
+    "originalName": "AR: Abu Dhabi Natioanl Geo 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/3115.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AbuDhabiNatioanlGeoHD.ar",
+    "name": "Abu Dhabi Natioanl Geo HD",
+    "originalName": "AR: Abu Dhabi Natioanl Geo HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/337961.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/59.jpg",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlJazeeraDocumentary4K.ar",
+    "name": "Al Jazeera Documentary 4K",
+    "originalName": "AR: Al Jazeera Documentary 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2320.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1183.jpg",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlWathaeqya4K.ar",
+    "name": "Al Wathaeqya 4K",
+    "originalName": "AR: Al Wathaeqya 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/458438.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3188.png?98011",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlWathaeqyaHD.ar",
+    "name": "Al Wathaeqya HD",
+    "originalName": "AR: Al Wathaeqya HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499132.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3188.png?98011",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlmajdDocumentary.ar",
+    "name": "Almajd Documentary",
+    "originalName": "AR: Almajd Documentary",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/214812.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12970.png?ver=82607",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CGTNArabicDocumentary.ar",
+    "name": "CGTN Arabic Documentary",
+    "originalName": "AR: CGTN Arabic Documentary",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/321892.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/377.png",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CGTNEnglishDocumentary.ar",
+    "name": "CGTN English Documentary",
+    "originalName": "AR: CGTN English Documentary",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4465.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/377.png",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NHKWORLDJAPANDocumentary.ar",
+    "name": "NHK WORLD JAPAN Documentary",
+    "originalName": "AR: NHK WORLD JAPAN Documentary",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/321893.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?40441",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTARY 4K ▶ وثائقي",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DOCUMENTERLOWINTERNET",
+    "name": "### DOCUMENTER LOW INTERNET ###",
+    "originalName": "### DOCUMENTER LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499564.ts",
+    "logo": "",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTER LQ ▼ وثائقية",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ALJAZEERADOCUMENTARYLQ.ar",
+    "name": "AL JAZEERA DOCUMENTARY LQ",
+    "originalName": "AR: AL JAZEERA DOCUMENTARY LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499581.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1183.jpg?63322",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTER LQ ▼ وثائقية",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ADNATGEOLQ.ar",
+    "name": "AD NATGEO LQ",
+    "originalName": "AR: AD NATGEO LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499563.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?74965",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTER LQ ▼ وثائقية",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NHKWORLDJAPANLQ.ar",
+    "name": "NHK WORLD JAPAN LQ",
+    "originalName": "AR: NHK WORLD JAPAN LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/505916.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13435.png?40441",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTER LQ ▼ وثائقية",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ALWATHAEQYALQ.ar",
+    "name": "AL WATHAEQYA LQ",
+    "originalName": "AR: AL WATHAEQYA LQ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499561.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3188.png?78703",
+    "category": "Documentary",
+    "originalCategory": "AR| DOCUMENTER LQ ▼ وثائقية",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "eNsC6GxX1XiJq8",
     "name": "Asharq Documentary",
+    "originalName": "Asharq Documentary",
     "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "SA",
-    "countryName": "Saudi Arabia",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
-    "logoText": "ASH",
-    "streamCount": 1,
-    "allStreams": [
-      "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "54R2DRyAaS8Mcs",
+    "tvgId": "54R2DRyAaS8Mcs",
     "name": "Atlas",
+    "originalName": "Atlas",
     "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "ATL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BKprRPWc9ugskl",
+    "tvgId": "BKprRPWc9ugskl",
     "name": "Backstage",
+    "originalName": "Backstage",
     "url": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BAC",
-    "streamCount": 2,
-    "allStreams": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "eQ0MWZIQb0YBdg",
+    "tvgId": "eQ0MWZIQb0YBdg",
     "name": "BBC Earth US",
+    "originalName": "BBC Earth US",
     "url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BBC",
-    "streamCount": 3,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
-      "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "WH7adDfFfMrDqi",
+    "tvgId": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals US",
+    "originalName": "Bloomberg Originals US",
     "url": "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BLO",
-    "streamCount": 2,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
-      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "zV7a20HW4WTHRY",
+    "tvgId": "zV7a20HW4WTHRY",
     "name": "BritBox Mysteries",
+    "originalName": "BritBox Mysteries",
     "url": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BRI",
-    "streamCount": 2,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
-      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "8qbHNd2Zc2MjWY",
+    "tvgId": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
+    "originalName": "CCTV-9",
     "url": "https://xykt-fix.github.io/Y77.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "CN",
-    "countryName": "China",
-    "languages": [
-      "zho"
-    ],
-    "description": "Canal de TV de China. Idioma: zho.",
-    "logoText": "CCT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://xykt-fix.github.io/Y77.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "u673t64oVwJcTF",
+    "tvgId": "u673t64oVwJcTF",
     "name": "CGTN Documentary",
+    "originalName": "CGTN Documentary",
     "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "CN",
-    "countryName": "China",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de China. Idioma: eng.",
-    "logoText": "CGT",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GDeVF43cbBphiD",
+    "tvgId": "GDeVF43cbBphiD",
     "name": "ClickTV Chile",
+    "originalName": "ClickTV Chile",
     "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "CL",
-    "countryName": "Chile",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Chile. Idioma: spa.",
-    "logoText": "CLI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HJhyKYuHh72Bmv",
+    "tvgId": "HJhyKYuHh72Bmv",
     "name": "CNA Originals",
+    "originalName": "CNA Originals",
     "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "SG",
-    "countryName": "Singapore",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Singapore. Idioma: eng.",
-    "logoText": "CNA",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sm6jSJZU2R13Dv",
-    "name": "Court TV",
-    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-    "category": "Documentary",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "COU",
-    "streamCount": 3,
-    "allStreams": [
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "e5yFtaZLgEF4ai",
+    "tvgId": "e5yFtaZLgEF4ai",
     "name": "Curiosity NOW US",
+    "originalName": "Curiosity NOW US",
     "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CUR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "37KaLwlp7l7x5S",
-    "name": "Danger TV",
-    "url": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
-    "category": "Documentary",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "jAekBDqlLERFF0",
-    "name": "Dateline 24/7",
-    "url": "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
-    "category": "Documentary",
-    "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DAT",
-    "streamCount": 3,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
-      "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029",
-      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8"
-    ]
-  },
-  {
-    "id": "0rdsN692AZWVnA",
+    "tvgId": "0rdsN692AZWVnA",
     "name": "Deadly Women UK",
+    "originalName": "Deadly Women UK",
     "url": "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "DEA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "86GG55Alt5PoRN",
+    "tvgId": "86GG55Alt5PoRN",
     "name": "Discovering China",
+    "originalName": "Discovering China",
     "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "CN",
-    "countryName": "China",
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "description": "Canal de TV de China. Idioma: eng, zho.",
-    "logoText": "DIS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "2fMuVMErYSbQJN",
+    "tvgId": "2fMuVMErYSbQJN",
     "name": "Documentary+ International",
+    "originalName": "Documentary+ International",
     "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DOC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "n8oW0usQhgVDsW",
+    "tvgId": "n8oW0usQhgVDsW",
     "name": "Documentary+ US",
+    "originalName": "Documentary+ US",
     "url": "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DOC",
-    "streamCount": 2,
-    "allStreams": [
-      "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8",
-      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FQVKNsI92Y63Vf",
+    "tvgId": "FQVKNsI92Y63Vf",
     "name": "Dokusat",
+    "originalName": "Dokusat",
     "url": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "DOK",
-    "streamCount": 1,
-    "allStreams": [
-      "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FOmh48Vhhwgsmx",
+    "tvgId": "FOmh48Vhhwgsmx",
     "name": "Ecovision",
+    "originalName": "Ecovision",
     "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "DO",
-    "countryName": "Dominican Republic",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Dominican Republic. Idioma: spa.",
-    "logoText": "ECO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "J5HDeVjO016Oz1",
+    "tvgId": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
+    "originalName": "EPlanet TV",
     "url": "https://eplhls.wns.live/hls/stream.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "IR",
-    "countryName": "Iran",
-    "languages": [
-      "fas"
-    ],
-    "description": "Canal de TV de Iran. Idioma: fas.",
-    "logoText": "EPL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://eplhls.wns.live/hls/stream.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ok1XbdadbIAXgd",
+    "tvgId": "ok1XbdadbIAXgd",
     "name": "Francophonie24",
+    "originalName": "Francophonie24",
     "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "FR",
-    "countryName": "France",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de France. Idioma: fra.",
-    "logoText": "FRA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QsnZdQrvWuaOtn",
+    "tvgId": "QsnZdQrvWuaOtn",
     "name": "Get.factual UK",
+    "originalName": "Get.factual UK",
     "url": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "GET",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OdnRloFb9PVDPW",
+    "tvgId": "OdnRloFb9PVDPW",
     "name": "History Asia",
+    "originalName": "History Asia",
     "url": "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HIS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HZEhjsWnhssch2",
+    "tvgId": "HZEhjsWnhssch2",
     "name": "History Hit",
+    "originalName": "History Hit",
     "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "HIS",
-    "streamCount": 3,
-    "allStreams": [
-      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IweKaw5SjiSSz1",
+    "tvgId": "IweKaw5SjiSSz1",
     "name": "History TV18",
+    "originalName": "History TV18",
     "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng",
-      "hin",
-      "tam",
-      "tel"
-    ],
-    "description": "Canal de TV de India. Idioma: eng, hin, tam, tel.",
-    "logoText": "HIS",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "slEajb8UgnTx3L",
+    "tvgId": "slEajb8UgnTx3L",
     "name": "Into Crime",
+    "originalName": "Into Crime",
     "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "FR",
-    "countryName": "France",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de France. Idioma: fra.",
-    "logoText": "INT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FlqGAqnBqpvJeH",
+    "tvgId": "FlqGAqnBqpvJeH",
     "name": "INWILD",
+    "originalName": "INWILD",
     "url": "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de India. Idioma: eng.",
-    "logoText": "INW",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KkqMuLxaMTBFSE",
+    "tvgId": "KkqMuLxaMTBFSE",
     "name": "KTOO-TV 3.3",
+    "originalName": "KTOO-TV 3.3",
     "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "KTO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ECyw9lmqQ9xfIM",
+    "tvgId": "ECyw9lmqQ9xfIM",
     "name": "Love Pets US",
+    "originalName": "Love Pets US",
     "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LOV",
-    "streamCount": 3,
-    "allStreams": [
-      "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
-      "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
-      "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "vc83h8nvdBt03n",
+    "tvgId": "vc83h8nvdBt03n",
     "name": "Love The Planet English",
+    "originalName": "Love The Planet English",
     "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LOV",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "29K3gt1fuyfoWN",
+    "tvgId": "29K3gt1fuyfoWN",
     "name": "Lucky Dog",
+    "originalName": "Lucky Dog",
     "url": "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LUC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "2IhVNnNGaDMY0V",
+    "tvgId": "2IhVNnNGaDMY0V",
     "name": "MagellanTV Now",
+    "originalName": "MagellanTV Now",
     "url": "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MAG",
-    "streamCount": 3,
-    "allStreams": [
-      "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
-      "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
-      "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yWqRPjIHcgYftM",
+    "tvgId": "yWqRPjIHcgYftM",
     "name": "Nano",
+    "originalName": "Nano",
     "url": "https://s1.tv-nano.com/Nano_rec/index.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "NAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://s1.tv-nano.com/Nano_rec/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AbcJxYxf3cyf3H",
+    "tvgId": "AbcJxYxf3cyf3H",
     "name": "Nature Time",
+    "originalName": "Nature Time",
     "url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "NAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SbCVyIRCGshv9Z",
-    "name": "Nature Time",
-    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
-    "category": "Documentary",
-    "country": "FR",
-    "countryName": "France",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de France. Idioma: fra.",
-    "logoText": "NAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "T0TMY0MmpuHlBC",
-    "name": "Nature Time",
-    "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
-    "category": "Documentary",
-    "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "NAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "846V8NIrMo8bSl",
+    "tvgId": "846V8NIrMo8bSl",
     "name": "NatureTime",
+    "originalName": "NatureTime",
     "url": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "NAT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
-      "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tmL08cxsScFKuK",
+    "tvgId": "tmL08cxsScFKuK",
     "name": "NatureTime AU",
+    "originalName": "NatureTime AU",
     "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "AU",
-    "countryName": "Australia",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Australia. Idioma: eng.",
-    "logoText": "NAT",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
-      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5dGASmS4TNjspn",
+    "tvgId": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
+    "originalName": "O'zbekiston Tarixi",
     "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "UZ",
-    "countryName": "Uzbekistan",
-    "languages": [
-      "uzb"
-    ],
-    "description": "Canal de TV de Uzbekistan. Idioma: uzb.",
-    "logoText": "O'Z",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Slt5syXsekpkl9",
+    "tvgId": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
+    "originalName": "RT Documentary English",
     "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Russia. Idioma: eng.",
-    "logoText": "RT ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
-      "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "0mulGVhtSW9kDC",
+    "tvgId": "0mulGVhtSW9kDC",
     "name": "RTД",
+    "originalName": "RTД",
     "url": "https://streaming.thestream.cyou/live/554.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "RU",
-    "countryName": "Russia",
-    "languages": [
-      "rus"
-    ],
-    "description": "Canal de TV de Russia. Idioma: rus.",
-    "logoText": "RTД",
-    "streamCount": 2,
-    "allStreams": [
-      "https://streaming.thestream.cyou/live/554.m3u8",
-      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "x77twNOeEoFaIl",
+    "tvgId": "x77twNOeEoFaIl",
     "name": "Safari TV",
+    "originalName": "Safari TV",
     "url": "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "mal"
-    ],
-    "description": "Canal de TV de India. Idioma: mal.",
-    "logoText": "SAF",
-    "streamCount": 2,
-    "allStreams": [
-      "https://cdn-6.pishow.tv/live/1513/master.m3u8",
-      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "OR0bcDdbzNJR50",
+    "tvgId": "OR0bcDdbzNJR50",
     "name": "Terra Mater WILD English",
+    "originalName": "Terra Mater WILD English",
     "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "TER",
-    "streamCount": 2,
-    "allStreams": [
-      "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
-      "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ExqfRu5vFNM6yj",
+    "tvgId": "ExqfRu5vFNM6yj",
     "name": "Total Crime CA",
+    "originalName": "Total Crime CA",
     "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+    "logo": "",
     "category": "Documentary",
+    "originalCategory": "Documentary",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Canada. Idioma: eng.",
-    "logoText": "TOT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

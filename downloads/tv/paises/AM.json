@@ -1,79 +1,38 @@
 [
   {
-    "id": "Armenia1.am",
+    "tvgId": "nNFimxQyKo4XVv",
     "name": "Armenia 1",
-    "logo": "https://i.imgur.com/HIwJ4lc.png",
-    "logoText": "ARM",
+    "originalName": "Armenia 1",
     "url": "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://dash2.antik.sk/live/test_armenia/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "AM",
-    "countryName": "Armenia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: https://www.1tv.am/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Armenia2.am",
+    "tvgId": "WYGFKQdrOFbKnq",
     "name": "Armenia 2",
-    "logo": "https://i.imgur.com/AXmXw9X.png",
-    "logoText": "ARM",
+    "originalName": "Armenia 2",
     "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "AM",
-    "countryName": "Armenia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: http://www.tv.am/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FirstChannelNews.am",
+    "tvgId": "pKOdpT5WzCBSuI",
     "name": "First Channel News",
-    "logo": "https://i.imgur.com/RlYJUH4.png",
-    "logoText": "FIR",
+    "originalName": "First Channel News",
     "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "AM",
-    "countryName": "Armenia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Armenia. Language: N/A. Website: https://www.1lurer.am/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

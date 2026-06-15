@@ -1,1087 +1,350 @@
 [
   {
-    "id": "ADBTV.pt",
+    "tvgId": "EGYPTTV.pt",
+    "name": "###### EGYPT TV ######",
+    "originalName": "###### EGYPT TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251815.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Egypt.gif",
+    "category": "Ar| Egypt 4K ▶ مصر",
+    "originalCategory": "AR| EGYPT 4K ▶ مصر",
+    "country": "PT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "EGYPTLOWINTERNET.pt",
+    "name": "### EGYPT LOW INTERNET ###",
+    "originalName": "### EGYPT LOW INTERNET ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499699.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Egypt.gif",
+    "category": "Ar| Egypt Lq ▼ مصر",
+    "originalCategory": "AR| EGYPT LQ ▼ مصر",
+    "country": "PT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "UMtS6zsgi9sFxf",
     "name": "ADB TV",
-    "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
-    "logoText": "ADB",
+    "originalName": "ADB TV",
     "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://live.adburaca.org/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ARTV.pt",
-    "name": "ARTV",
-    "logo": "https://i.imgur.com/y00t9hr.png",
-    "logoText": "ART",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "k9YVnaB9vAhdV8",
+    "name": "Angel TV Portuguese",
+    "originalName": "Angel TV Portuguese",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://canal.parlamento.pt"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DisneyChannel.pt",
-    "name": "Disney Channel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "logoText": "DIS",
-    "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://tv.disney.pt/"
-  },
-  {
-    "id": "Famatv.pt",
-    "name": "Famatv",
-    "logo": "https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg",
-    "logoText": "FAM",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://famatv.pt/"
-  },
-  {
-    "id": "FUELTV.pt",
-    "name": "FUEL TV",
-    "logo": "https://i.imgur.com/I8mviBy.png",
-    "logoText": "FUE",
+    "tvgId": "Iuaewjg35O2O7W",
+    "name": "FUEL TV APAC",
+    "originalName": "FUEL TV APAC",
     "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      },
-      {
-        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8?ads.vf=gbdyvfXODOK",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      },
-      {
-        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://fuel.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KuriakosCine.pt",
+    "tvgId": "q2KimDhflePyDK",
+    "name": "FUEL TV Europe",
+    "originalName": "FUEL TV Europe",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "logo": "",
+    "category": "Sports",
+    "originalCategory": "Sports",
+    "country": "PT",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "nbBlXP4f3cSDbo",
+    "name": "FUEL TV US",
+    "originalName": "FUEL TV US",
+    "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "Sports",
+    "originalCategory": "Sports",
+    "country": "PT",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "b7x9FsdKa3CXRR",
     "name": "Kuriakos Cine",
-    "logo": "https://i.imgur.com/CZViCwB.jpg",
-    "logoText": "KUR",
+    "originalName": "Kuriakos Cine",
     "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "originalCategory": "Movies",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KuriakosKids.pt",
+    "tvgId": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
-    "logo": "https://i.imgur.com/SRX6EPY.png",
-    "logoText": "KUR",
+    "originalName": "Kuriakos Kids",
     "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids",
-      "religious"
-    ],
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://kuriakos-kids.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KuriakosMusic.pt",
-    "name": "Kuriakos Music",
-    "logo": "https://i.imgur.com/Zl40NYi.jpg",
-    "logoText": "KUR",
-    "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A."
-  },
-  {
-    "id": "KuriakosTV.pt",
+    "tvgId": "FvVFbOQRNLjmw4",
     "name": "Kuriakos TV",
-    "logo": "https://i.imgur.com/xdAW0D5.png",
-    "logoText": "KUR",
+    "originalName": "Kuriakos TV",
     "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.kuriakos-tv.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaChurchOnline.pt",
+    "tvgId": "0J7I6WaxhPR14s",
     "name": "Mana Church Online",
-    "logo": "https://i.imgur.com/FRDJSim.png",
-    "logoText": "MAN",
+    "originalName": "Mana Church Online",
     "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.igreja-online.co.uk/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaCirkevOnline.pt",
+    "tvgId": "Juc1gztvVlHTFZ",
     "name": "Mana Cirkev Online",
-    "logo": "https://i.imgur.com/tYhXeRq.png",
-    "logoText": "MAN",
+    "originalName": "Mana Cirkev Online",
     "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://cirkev-online.sk/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaEgliseOnline.pt",
+    "tvgId": "zLkjrrJO2d7fZT",
     "name": "Mana Eglise Online",
-    "logo": "https://i.imgur.com/xQYly8O.png",
-    "logoText": "MAN",
+    "originalName": "Mana Eglise Online",
     "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://eglise-online.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaIglesiaOnline.pt",
+    "tvgId": "uxVkA6yj2qeiYj",
     "name": "Mana Iglesia Online",
-    "logo": "https://i.imgur.com/0IUvfcJ.png",
-    "logoText": "MAN",
+    "originalName": "Mana Iglesia Online",
     "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.iglesia-online.es/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaIgrejaOnline.pt",
+    "tvgId": "vzYrcxLiw69sbE",
     "name": "Mana Igreja Online",
-    "logo": "https://i.imgur.com/0IUvfcJ.png",
-    "logoText": "MAN",
+    "originalName": "Mana Igreja Online",
     "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.igreja-online.tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ManaTserkovOnlayn.pt",
+    "tvgId": "2pdGna4gJSqznu",
     "name": "Mana Tserkov' Onlayn",
-    "logo": "https://i.imgur.com/PruXLqS.png",
-    "logoText": "MAN",
+    "originalName": "Mana Tserkov' Onlayn",
     "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.igreja-online.ru/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NPCRadioeTV.pt",
+    "tvgId": "IowNjd0p51Ov4o",
     "name": "NPC Radio e TV",
-    "logo": "https://i.imgur.com/mw1lYWE.png",
-    "logoText": "NPC",
+    "originalName": "NPC Radio e TV",
     "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://www.nasciparacantar.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ONFM.pt",
+    "tvgId": "oGBDTLuvXcCKsV",
     "name": "ON FM",
-    "logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
-    "logoText": "ON ",
+    "originalName": "ON FM",
     "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://www.onfm.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "PortoCanal.pt",
+    "tvgId": "xjxSZKwVluReVC",
     "name": "Porto Canal",
-    "logo": "https://i.imgur.com/DwziwMY.png",
-    "logoText": "POR",
+    "originalName": "Porto Canal",
     "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://portocanal.sapo.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioSines.pt",
+    "tvgId": "zyLVOcYTONpkxG",
     "name": "Radio Sines",
-    "logo": "https://i.imgur.com/Oe6F1nL.png",
-    "logoText": "RAD",
+    "originalName": "Radio Sines",
     "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://radiosines.sapo.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RFPtv.pt",
+    "tvgId": "PUdpiv6E36htAt",
     "name": "RFPtv",
-    "logo": "https://i.imgur.com/I60nQuR.png",
-    "logoText": "RFP",
+    "originalName": "RFPtv",
     "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://www.rfptv.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTP1.pt",
-    "name": "RTP 1",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.rtp.pt/rtp1/"
-  },
-  {
-    "id": "RTP2.pt",
-    "name": "RTP 2",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.rtp.pt/rtp2/"
-  },
-  {
-    "id": "RTPAcores.pt",
-    "name": "RTP Acores",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      },
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://acores.rtp.pt/"
-  },
-  {
-    "id": "RTPAfrica.pt",
-    "name": "RTP Africa",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://africa.rtp.pt/"
-  },
-  {
-    "id": "RTPMadeira.pt",
-    "name": "RTP Madeira",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://madeira.rtp.pt/"
-  },
-  {
-    "id": "RTPMemoria.pt",
-    "name": "RTP Memoria",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.rtp.pt/rtpmemoria/"
-  },
-  {
-    "id": "RTPMundo.pt",
-    "name": "RTP Mundo",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
-    "logoText": "RTP",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      },
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://mundo.rtp.pt/"
-  },
-  {
-    "id": "RTPNoticias.pt",
-    "name": "RTP Noticias",
-    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
-    "logoText": "RTP",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "streams": [
-      {
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      },
-      {
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://www.rtp.pt/noticias/"
-  },
-  {
-    "id": "SIC.pt",
+    "tvgId": "wviT8L1evQdgaR",
     "name": "SIC",
-    "logo": "https://i.imgur.com/SPMqiDG.png",
-    "logoText": "SIC",
-    "url": "https://sic.live.impresa.pt/sic.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sic.live.impresa.pt/sic.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "SIC",
+    "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://sic.pt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SICAltaDefinicao.pt",
-    "name": "SIC Alta Definicao",
-    "logo": "https://i.imgur.com/VdPwyQv.png",
-    "logoText": "SIC",
-    "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://opto.sic.pt/"
-  },
-  {
-    "id": "SICNoticias.pt",
-    "name": "SIC Noticias",
-    "logo": "https://i.imgur.com/Gi6Q26M.png",
-    "logoText": "SIC",
-    "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://sicnoticias.pt/"
-  },
-  {
-    "id": "SICReplay.pt",
-    "name": "SIC Replay",
-    "logo": "https://i.imgur.com/fj84mXz.png",
-    "logoText": "SIC",
-    "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://opto.sic.pt/"
-  },
-  {
-    "id": "TVMana1.pt",
+    "tvgId": "f1Qql9BKGeNMZz",
     "name": "TV Mana 1",
-    "logo": "https://i.imgur.com/6jNqpTP.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana 1",
     "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmana1.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVMana2.pt",
+    "tvgId": "3uF7WRN0kFbgMG",
     "name": "TV Mana 2",
-    "logo": "https://i.imgur.com/VYNjVov.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana 2",
     "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmana2.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVManaBrasil.pt",
+    "tvgId": "jkn0Y9QQQ5juVa",
     "name": "TV Mana Brasil",
-    "logo": "https://i.imgur.com/AFb712e.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana Brasil",
     "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmanabrasil.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVManaEnglish.pt",
+    "tvgId": "dwddHqZf8SNFMu",
     "name": "TV Mana English",
-    "logo": "https://i.imgur.com/I66IkCw.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana English",
     "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmana-english.ar/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVManaEspanhol.pt",
+    "tvgId": "uCIQpHv1Z9YPGJ",
     "name": "TV Mana Espanhol",
-    "logo": "https://i.imgur.com/sUlrSwP.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana Espanhol",
     "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmana-espanhol.ar/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVManaRusskiy.pt",
+    "tvgId": "tSl4b1yvIcpNm0",
     "name": "TV Mana Russkiy",
-    "logo": "https://i.imgur.com/fACHqmY.png",
-    "logoText": "TV ",
+    "originalName": "TV Mana Russkiy",
     "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvmanarusskii.ru/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVI.pt",
+    "tvgId": "8Zval48r5m3T99",
     "name": "TVI",
-    "logo": "https://i.imgur.com/H8Tgl7m.png",
-    "logoText": "TVI",
+    "originalName": "TVI",
     "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: http://www.tvi.iol.pt/"
-  },
-  {
-    "id": "TVIFiccao.pt",
-    "name": "TVI Ficcao",
-    "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
-    "logoText": "TVI",
-    "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Series",
-    "categories": [
-      "series"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tviplayer.iol.pt/direto/TVI_FICCAO"
-  },
-  {
-    "id": "TVIReality.pt",
-    "name": "TVI Reality",
-    "logo": "https://i.imgur.com/C9rxqA5.png",
-    "logoText": "TVI",
-    "url": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvi.iol.pt/tvireality/"
-  },
-  {
-    "id": "VPlusTVI.pt",
-    "name": "V+ TVI",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
-    "logoText": "V+ ",
-    "url": "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://tvi.iol.pt/vmais/"
-  },
-  {
-    "id": "WayTV.pt",
-    "name": "Way TV",
-    "logo": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png",
-    "logoText": "WAY",
-    "url": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "PT",
-    "countryName": "Portugal",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Portugal. Language: N/A. Website: https://www.waytv.pt/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JVUe7nnKCNgESR" tvg-name="3Cat Cameres del temps" group-title="Weather" tvg-country="ES",3Cat Cameres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="AQflHxNei4CCgO" tvg-name="AccuWeather NOW" group-title="Weather" tvg-country="US",AccuWeather NOW
+https://accuweather-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CkqK0vHvwZKLiX" tvg-name="Sky News Weather" group-title="Weather" tvg-country="UK",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rsgBN1CiczuZvL" tvg-name="WeatherNation" group-title="Weather" tvg-country="US",WeatherNation
+https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
+#EXTINF:-1 tvg-id="1e4u9CoSiGAicT" tvg-name="WeatherSpy" group-title="Weather" tvg-country="US",WeatherSpy
+https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Kvj45TeK4JM1CO" tvg-name="WMUR-TV 9.1" group-title="Weather" tvg-country="US",WMUR-TV 9.1
+https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8

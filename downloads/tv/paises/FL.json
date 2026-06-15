@@ -1,0 +1,110 @@
+[
+  {
+    "tvgId": "MTVURHEILU1.fl",
+    "name": "MTV URHEILU 1 ᴿᴬᵂ",
+    "originalName": "FL: MTV URHEILU 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562515.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10598.png?20526",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MTVURHEILU2.fl",
+    "name": "MTV URHEILU 2 ᴿᴬᵂ",
+    "originalName": "FL: MTV URHEILU 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562514.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12648.png?97640",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VSPORTSUOMI.fl",
+    "name": "V SPORT + SUOMI ᴿᴬᵂ",
+    "originalName": "FL: V SPORT + SUOMI ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562513.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4765.png?91631",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VSPORTFOOTBALL.fl",
+    "name": "V SPORT FOOTBALL ᴿᴬᵂ",
+    "originalName": "FL: V SPORT FOOTBALL ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562512.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10642.jpg?33626",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VSPORTGOLF.fl",
+    "name": "V SPORT GOLF ᴿᴬᵂ",
+    "originalName": "FL: V SPORT GOLF ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562511.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14049.jpg?2100",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VSPORTMOTOR.fl",
+    "name": "V SPORT MOTOR ᴿᴬᵂ",
+    "originalName": "FL: V SPORT MOTOR ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562510.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14578.png?27036",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VSPORTVINTER.fl",
+    "name": "V SPORT VINTER ᴿᴬᵂ",
+    "originalName": "FL: V SPORT VINTER ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562509.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14579.jpg?69905",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATSPORT1SUOMI.fl",
+    "name": "VIASAT SPORT 1 SUOMI ᴿᴬᵂ",
+    "originalName": "FL: VIASAT SPORT 1 SUOMI ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562508.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12502.png?8505",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATSPORT2SUOMI.fl",
+    "name": "VIASAT SPORT 2 SUOMI ᴿᴬᵂ",
+    "originalName": "FL: VIASAT SPORT 2 SUOMI ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562507.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12502.png?8505",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "FL",
+    "type": "live",
+    "source": "xtream"
+  }
+]

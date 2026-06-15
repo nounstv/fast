@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IRELAND" tvg-name="##### IRELAND  #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Animated-Flag-Ireland.gif" group-title="Ie| Ireland Hd/4K",##### IRELAND  #####
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/681521.ts
+#EXTINF:-1 tvg-id="IRLRTEONEHD" tvg-name="IRL: RTE ONE HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?619293" group-title="Ie| Ireland Hd/4K",IRL: RTE ONE HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/585496.ts
+#EXTINF:-1 tvg-id="IRLRTETWOHD" tvg-name="IRL: RTE TWO HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12037.jpg?13227" group-title="Ie| Ireland Hd/4K",IRL: RTE TWO HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380822.ts
+#EXTINF:-1 tvg-id="IRLRTEONE4K" tvg-name="IRL: RTE ONE 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?619293" group-title="Ie| Ireland Hd/4K",IRL: RTE ONE 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380821.ts
+#EXTINF:-1 tvg-id="IRLRTETWO4K" tvg-name="IRL: RTE TWO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12037.jpg?13227" group-title="Ie| Ireland Hd/4K",IRL: RTE TWO 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/857390.ts
+#EXTINF:-1 tvg-id="IRLVIRGINMEDIAONE" tvg-name="IRL: VIRGIN MEDIA ONE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12121.jpg?12138" group-title="Ie| Ireland Hd/4K",IRL: VIRGIN MEDIA ONE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380823.ts
+#EXTINF:-1 tvg-id="IRLVIRGINMEDIATWO" tvg-name="IRL: VIRGIN MEDIA TWO ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2320.jpg?14568" group-title="Ie| Ireland Hd/4K",IRL: VIRGIN MEDIA TWO ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380824.ts
+#EXTINF:-1 tvg-id="IRLVIRGINMEDIATHREE" tvg-name="IRL: VIRGIN MEDIA THREE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1231.jpg?83050" group-title="Ie| Ireland Hd/4K",IRL: VIRGIN MEDIA THREE ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380825.ts
+#EXTINF:-1 tvg-id="IRLVIRGINMEDIAEXTRA14K" tvg-name="IRL: VIRGIN MEDIA EXTRA 1 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12123.png?48124" group-title="Ie| Ireland Hd/4K",IRL: VIRGIN MEDIA EXTRA 1 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/681520.ts
+#EXTINF:-1 tvg-id="IRLVIRGINMEDIAFOUR4K" tvg-name="IRL: VIRGIN MEDIA FOUR 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12123.png?48124" group-title="Ie| Ireland Hd/4K",IRL: VIRGIN MEDIA FOUR 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/681518.ts
+#EXTINF:-1 tvg-id="IRLBBCONENORTHERN4K" tvg-name="IRL: BBC ONE NORTHERN 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?83552" group-title="Ie| Ireland Hd/4K",IRL: BBC ONE NORTHERN 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/524967.ts
+#EXTINF:-1 tvg-id="IRLPREMIERSPORTS14K" tvg-name="IRL: PREMIER SPORTS 1 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12272.jpg?91072" group-title="Ie| Ireland Hd/4K",IRL: PREMIER SPORTS 1 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/386052.ts
+#EXTINF:-1 tvg-id="IRLPREMIERSPORTS24K" tvg-name="IRL: PREMIER SPORTS 2 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12273.jpg?24018" group-title="Ie| Ireland Hd/4K",IRL: PREMIER SPORTS 2 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/386053.ts
+#EXTINF:-1 tvg-id="IRLRTENEWS" tvg-name="IRL: RTE NEWS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6359.jpg?32137" group-title="Ie| Ireland Hd/4K",IRL: RTE NEWS ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380828.ts
+#EXTINF:-1 tvg-id="IRLTG4HD" tvg-name="IRL: TG 4 HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8047.jpg?28574" group-title="Ie| Ireland Hd/4K",IRL: TG 4 HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380826.ts
+#EXTINF:-1 tvg-id="IRLTG4" tvg-name="IRL: TG4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8047.jpg?28574" group-title="Ie| Ireland Hd/4K",IRL: TG4 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380827.ts
+#EXTINF:-1 tvg-id="IRLRTEJUNIOR" tvg-name="IRL: RTE JUNIOR ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6355.jpg?54860" group-title="Ie| Ireland Hd/4K",IRL: RTE JUNIOR ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380829.ts
+#EXTINF:-1 tvg-id="IRLUTV4K" tvg-name="IRL: UTV 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3283.png?76030" group-title="Ie| Ireland Hd/4K",IRL: UTV 4K ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380830.ts
+#EXTINF:-1 tvg-id="IRLUTVHD" tvg-name="IRL: UTV HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3283.png?76030" group-title="Ie| Ireland Hd/4K",IRL: UTV HD ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380831.ts
+#EXTINF:-1 tvg-id="IRLUTV1" tvg-name="IRL: UTV +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3012.png?69546" group-title="Ie| Ireland Hd/4K",IRL: UTV +1 ◉
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/380832.ts

@@ -1,243 +1,350 @@
 [
   {
-    "id": "DelfiTV.lt",
-    "name": "Delfi TV",
-    "logo": "https://i.imgur.com/IFoHP5M.png",
-    "logoText": "DEL",
-    "url": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "VIASATNATUREHDEUROPE.lt",
+    "name": "VIASAT NATURE HD EUROPE",
+    "originalName": "LT: VIASAT NATURE HD EUROPE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277108.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://www.delfi.lt/video/puslapis/tv"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "LietuvosRytasTV.lt",
+    "tvgId": "VIASATHISTORYHDEUROPE.lt",
+    "name": "VIASAT HISTORY HD EUROPE",
+    "originalName": "LT: VIASAT HISTORY HD EUROPE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277109.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "VIASATEXPLOREHDEUROPE.lt",
+    "name": "VIASAT EXPLORE HD EUROPE",
+    "originalName": "LT: VIASAT EXPLORE HD EUROPE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277110.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV8HDLIETUVA.lt",
+    "name": "TV8 HD LIETUVA",
+    "originalName": "LT: TV8 HD LIETUVA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277111.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV1000RUSSIANMOVIEHD.lt",
+    "name": "TV1000 RUSSIAN MOVIE HD",
+    "originalName": "LT: TV1000 RUSSIAN MOVIE HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277112.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV1000EASTHD.lt",
+    "name": "TV1000 EAST HD",
+    "originalName": "LT: TV1000 EAST HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277113.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV1000ACTIONHD.lt",
+    "name": "TV1000 ACTION HD",
+    "originalName": "LT: TV1000 ACTION HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277114.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SPORT1BALTIC.lt",
+    "name": "SPORT 1 BALTIC",
+    "originalName": "LT: SPORT 1 BALTIC",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277115.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RYTASHD.lt",
+    "name": "RYTAS HD",
+    "originalName": "LT: RYTAS HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277116.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RETV.lt",
+    "name": "RETV",
+    "originalName": "LT: RETV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277117.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATIONALGEOGRAPHICSHDEUROPE.lt",
+    "name": "NATIONAL GEOGRAPHICS HD EUROPE",
+    "originalName": "LT: NATIONAL GEOGRAPHICS HD EUROPE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277118.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MTVHITSEUROPE.lt",
+    "name": "MTV HITS EUROPE",
+    "originalName": "LT: MTV HITS EUROPE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277119.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "3PLUS.lt",
+    "name": "3PLUS",
+    "originalName": "LT: 3PLUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277121.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "3SPORTHD.lt",
+    "name": "3 SPORT HD",
+    "originalName": "LT: 3 SPORT HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277122.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "3SPORT2HD.lt",
+    "name": "3 SPORT 2 HD",
+    "originalName": "LT: 3 SPORT 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277123.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LRTHD.lt",
+    "name": "LRT HD",
+    "originalName": "LT: LRT HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277124.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LRTPLIUS.lt",
+    "name": "LRT PLIUS",
+    "originalName": "LT: LRT PLIUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277125.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BALTICUMAUKSINIS.lt",
+    "name": "BALTICUM AUKSINIS",
+    "originalName": "LT: BALTICUM AUKSINIS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277128.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BALTICUMPLATINUM.lt",
+    "name": "BALTICUM PLATINUM",
+    "originalName": "LT: BALTICUM PLATINUM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277129.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LINK1HD.lt",
+    "name": "LINK 1 HD",
+    "originalName": "LT: LINK 1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277130.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LIETUVOSRYTASTVHD.lt",
+    "name": "LIETUVOS RYTAS TV HD",
+    "originalName": "LT: LIETUVOS RYTAS TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277131.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV8LIETUVA.lt",
+    "name": "TV8 LIETUVA",
+    "originalName": "LT: TV8 LIETUVA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277132.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV3FILM.lt",
+    "name": "TV3 FILM",
+    "originalName": "LT: TV3 FILM",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/277133.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12934.png?6705",
+    "category": "Lt| Lithuania",
+    "originalCategory": "LT| LITHUANIA",
+    "country": "LT",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "C7oEv16dfu5JbY",
     "name": "Lietuvos Rytas TV",
-    "logo": "https://i.imgur.com/5wpxVI0.png",
-    "logoText": "LIE",
+    "originalName": "Lietuvos Rytas TV",
     "url": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: http://tv.lrytas.lt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LRTKlasika.lt",
+    "tvgId": "b9QdwOWvuoD0L1",
     "name": "LRT Klasika",
-    "logo": "https://i.imgur.com/Fa8Vhu0.png",
-    "logoText": "LRT",
+    "originalName": "LRT Klasika",
     "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://www.lrt.lt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LRTLituanica.lt",
+    "tvgId": "OGTxaWnBlezwNQ",
     "name": "LRT Lituanica",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
-    "logoText": "LRT",
+    "originalName": "LRT Lituanica",
     "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: http://www.lrt.lt/televizija/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LRTOpus.lt",
+    "tvgId": "n9ltANAvf9McB6",
     "name": "LRT Opus",
-    "logo": "https://i.imgur.com/oLuZTMH.png",
-    "logoText": "LRT",
+    "originalName": "LRT Opus",
     "url": "https://stream-live.lrt.lt/opus/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-live.lrt.lt/opus/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://www.lrt.lt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LRTPlius.lt",
-    "name": "LRT Plius",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
-    "logoText": "LRT",
-    "url": "https://stream-live.lrt.lt/plius/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-live.lrt.lt/plius/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "sports"
-    ],
-    "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: http://www.lrt.lt/televizija/"
-  },
-  {
-    "id": "LRTRadijas.lt",
+    "tvgId": "KOfOkbRRfb8Nzi",
     "name": "LRT Radijas",
-    "logo": "https://i.imgur.com/gYoaqju.png",
-    "logoText": "LRT",
+    "originalName": "LRT Radijas",
     "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://www.lrt.lt/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "LRTTV.lt",
-    "name": "LRT TV",
-    "logo": "https://i.imgur.com/FL2ZuGC.png",
-    "logoText": "LRT",
-    "url": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: http://www.lrt.lt/televizija/"
-  },
-  {
-    "id": "M1.lt",
+    "tvgId": "TD6r7rS9yoQWgK",
     "name": "M-1",
-    "logo": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
-    "logoText": "M-1",
+    "originalName": "M-1",
     "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://www.m-1.fm/"
-  },
-  {
-    "id": "PowerHitRadio.lt",
-    "name": "Power Hit Radio",
-    "logo": "https://i.imgur.com/GOlQbfC.png",
-    "logoText": "POW",
-    "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "LT",
-    "countryName": "Lithuania",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Lithuania. Language: N/A. Website: https://powerhitradio.tv3.lt/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

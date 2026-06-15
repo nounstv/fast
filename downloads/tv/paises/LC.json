@@ -1,26 +1,14 @@
 [
   {
-    "id": "CaribbeanHot7TV.lc",
+    "tvgId": "JYgSlfQhruwWoQ",
     "name": "Caribbean Hot 7 TV",
-    "logo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
-    "logoText": "CAR",
+    "originalName": "Caribbean Hot 7 TV",
     "url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LC",
-    "countryName": "Saint Lucia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Saint Lucia. Language: N/A. Website: https://www.caribbeanhottv.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

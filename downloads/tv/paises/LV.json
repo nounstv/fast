@@ -1,244 +1,206 @@
 [
   {
-    "id": "Gribuvisuzinat.lv",
-    "name": "Gribu visu zinat",
-    "logo": "",
-    "logoText": "GRI",
-    "url": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "BEST4SPORTTV.lv",
+    "name": "BEST4 SPORT TV ᴿᴬᵂ",
+    "originalName": "LV: BEST4 SPORT TV ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562505.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14580.jpg?18715",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MovifyKino.lv",
-    "name": "Movify Kino",
-    "logo": "https://i.imgur.com/XIk5EJN.png",
-    "logoText": "MOV",
-    "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies",
-      "classic"
-    ],
+    "tvgId": "BEST4SPORTTV2.lv",
+    "name": "BEST4 SPORT TV-2 ᴿᴬᵂ",
+    "originalName": "LV: BEST4 SPORT TV-2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562504.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14580.jpg?18715",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Multimania.lv",
-    "name": "Multimania",
-    "logo": "https://i.imgur.com/J9Lwc0T.png",
-    "logoText": "MUL",
-    "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
+    "tvgId": "EUROSPORT2.lv",
+    "name": "EURO SPORT 2 ᴿᴬᵂ",
+    "originalName": "LV: EURO SPORT 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562502.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?90337",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://movify.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Pingviins.lv",
+    "tvgId": "GO3SPORT1.lv",
+    "name": "GO3 SPORT 1 ᴿᴬᵂ",
+    "originalName": "LV: GO3 SPORT 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562501.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14581.png?26570",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GO3SPORT2.lv",
+    "name": "GO3 SPORT 2 ᴿᴬᵂ",
+    "originalName": "LV: GO3 SPORT 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562500.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14582.jpg?38283",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GO3SPORT3.lv",
+    "name": "GO3 SPORT 3 ᴿᴬᵂ",
+    "originalName": "LV: GO3 SPORT 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562499.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14583.jpg?41145",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GO3SPORTOPEN.lv",
+    "name": "GO3 SPORT OPEN ᴿᴬᵂ",
+    "originalName": "LV: GO3 SPORT OPEN ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562498.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14584.jpg?11682",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SETANTASPORTS1.lv",
+    "name": "SETANTA SPORTS 1 ᴿᴬᵂ",
+    "originalName": "LV: SETANTA SPORTS 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562497.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14585.jpg?55162",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SETANTASPORTS2.lv",
+    "name": "SETANTA SPORTS 2 ᴿᴬᵂ",
+    "originalName": "LV: SETANTA SPORTS 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562496.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14586.png?6643",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV3LIFE.lv",
+    "name": "TV3 LIFE ᴿᴬᵂ",
+    "originalName": "LV: TV3 LIFE ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562495.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14587.png?82956",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NBA.lv",
+    "name": "NBA ᴿᴬᵂ",
+    "originalName": "LV: NBA ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562494.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11230.jpg?15356",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FIGHTSPORTS.lv",
+    "name": "FIGHT SPORTS ᴿᴬᵂ",
+    "originalName": "LV: FIGHT SPORTS ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562493.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4744.jpg?53023",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "LV",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PyldYXsoAXUikk",
     "name": "Pingviins",
-    "logo": "https://i.imgur.com/hfXoJIY.png",
-    "logoText": "PIN",
-    "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
+    "originalName": "Pingviins",
+    "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+    "logo": "",
+    "category": "Kids",
+    "originalCategory": "Kids",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: http://www.lolotv.lv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RadioSWHTV.lv",
+    "tvgId": "LHzrqD9sr7EPlw",
     "name": "Radio SWH TV",
-    "logo": "https://i.imgur.com/cFrNsXn.png",
-    "logoText": "RAD",
+    "originalName": "Radio SWH TV",
     "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://play.radioswh.lv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ReTV.lv",
+    "tvgId": "YigI7cZVQDDBuz",
     "name": "Re TV",
-    "logo": "https://i.imgur.com/Z3cre5Xm.png",
-    "logoText": "RE ",
+    "originalName": "Re TV",
     "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://www.retv.lv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVJurmala.lv",
-    "name": "TV Jurmala",
-    "logo": "https://i.imgur.com/tQHkHD0.png",
-    "logoText": "TV ",
-    "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://jurmala.tv/tiesraide/"
-  },
-  {
-    "id": "TVXXI.lv",
-    "name": "TV XXI",
-    "logo": "https://i.imgur.com/Fja4bWt.png",
-    "logoText": "TV ",
-    "url": "http://31.148.48.15/TV_XXI/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.148.48.15/TV_XXI/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: http://www.tv21.lv/"
-  },
-  {
-    "id": "TVNET.lv",
+    "tvgId": "sgMHs1obQ8lL7A",
     "name": "TVNET",
-    "logo": "https://i.imgur.com/jzv1ssE.png",
-    "logoText": "TVN",
+    "originalName": "TVNET",
     "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "VidusdaugavasTelevizija.lv",
+    "tvgId": "D4XzxfQIBxlNgz",
     "name": "Vidusdaugavas Televizija",
-    "logo": "https://i.imgur.com/L5U3PQR.png",
-    "logoText": "VID",
+    "originalName": "Vidusdaugavas Televizija",
     "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "LV",
-    "countryName": "Latvia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Latvia. Language: N/A. Website: https://www.vdtv.lv"
+    "type": "live",
+    "source": "famelack"
   }
 ]

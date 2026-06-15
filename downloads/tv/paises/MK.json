@@ -1,664 +1,962 @@
 [
   {
-    "id": "Alsat.mk",
-    "name": "Alsat",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
-    "logoText": "ALS",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "MRT1.mk",
+    "name": "MRT 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: MRT 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460740.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6135.jpg?52817",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: http://alsat-m.tv"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CoolTV.mk",
-    "name": "Cool TV",
-    "logo": "https://i.imgur.com/2tFrjUz.png",
-    "logoText": "COO",
-    "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "MRT2.mk",
+    "name": "MRT 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: MRT 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460739.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6135.jpg?52817",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/cooltv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "FolkTV.mk",
-    "name": "Folk TV",
-    "logo": "https://i.imgur.com/4b9aZ9P.png",
-    "logoText": "FOL",
-    "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "MRT3.mk",
+    "name": "MRT 3 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: MRT 3 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460738.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6135.jpg?52817",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/folktv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "JazzTV.mk",
-    "name": "Jazz TV",
-    "logo": "https://i.imgur.com/CbQlSFX.png",
-    "logoText": "JAZ",
-    "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "MRT4.mk",
+    "name": "MRT 4 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: MRT 4 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460737.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6135.jpg?52817",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/jazztv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Kanal5.mk",
-    "name": "Kanal 5",
-    "logo": "https://i.imgur.com/Qw7N3S2.png",
-    "logoText": "KAN",
-    "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "MRT5.mk",
+    "name": "MRT 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: MRT 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460736.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6135.jpg?52817",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.kanal5.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "LoveTV.mk",
-    "name": "Love TV",
-    "logo": "https://i.imgur.com/B8iaejQ.png",
-    "logoText": "LOV",
-    "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "SOBRANISKIKANAL.mk",
+    "name": "SOBRANISKI KANAL ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: SOBRANISKI KANAL ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460735.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14289.png?16903",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/lovetv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MNetHD.mk",
-    "name": "M-Net HD",
-    "logo": "https://i.imgur.com/HDYqWuR.png",
-    "logoText": "M-N",
-    "url": "http://ares.mnet.mk/hls/mnet.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://ares.mnet.mk/hls/mnet.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.mnet.mk/hls/mnet.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "SITEL.mk",
+    "name": "SITEL ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: SITEL ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460734.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3823.png?7332",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mnet.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MNetInfo.mk",
-    "name": "M-Net Info",
-    "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
-    "logoText": "M-N",
-    "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "ALSATM.mk",
+    "name": "ALSAT M ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: ALSAT M ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460733.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3360.png?47083",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://info.mnet.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MNetKids.mk",
-    "name": "M-Net Kids",
-    "logo": "https://i.imgur.com/SbKkpuH.png",
-    "logoText": "M-N",
-    "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "tvgId": "ALFA.mk",
+    "name": "ALFA ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: ALFA ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460732.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10774.png?10711",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://kids.mnet.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MNetSport.mk",
-    "name": "M-Net Sport",
-    "logo": "https://i.imgur.com/7k8ar1Z.png",
-    "logoText": "M-N",
-    "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "tvgId": "NASHATV.mk",
+    "name": "NASHA TV ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: NASHA TV ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460731.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7776.png?83685",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: http://sport.mnet.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MRT1.mk",
-    "name": "MRT 1",
-    "logo": "https://i.imgur.com/EkkyAE0.png",
-    "logoText": "MRT",
-    "url": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "TV21.mk",
+    "name": "TV 21 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV 21 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460730.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3249.jpg?45539",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MRT2.mk",
-    "name": "MRT 2",
-    "logo": "https://i.imgur.com/YvOrUnN.png",
-    "logoText": "MRT",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "tvgId": "TV24.mk",
+    "name": "TV 24 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV 24 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460729.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3822.png?58371",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MRTSobraniskikanal.mk",
-    "name": "MRT Sobraniski kanal",
-    "logo": "https://i.imgur.com/fyNQ8Nf.png",
-    "logoText": "MRT",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "KANAL5.mk",
+    "name": "KANAL 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: KANAL 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460728.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?23351",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.mrt.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MTM.mk",
-    "name": "MTM",
-    "logo": "https://i.ibb.co/HCRZVVz/images-4.png",
-    "logoText": "MTM",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "TV2GOSTIVAR.mk",
+    "name": "TV 2 GOSTIVAR ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV 2 GOSTIVAR ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460727.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3025.png?7806",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mtm.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NasaTV.mk",
-    "name": "Nasa TV",
-    "logo": "https://i.imgur.com/9rB4VZy.png",
-    "logoText": "NAS",
-    "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "TELMA.mk",
+    "name": "TELMA ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TELMA ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460726.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3815.png?34929",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://nasatv.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "RockTV.mk",
-    "name": "Rock TV",
-    "logo": "https://i.imgur.com/Y9miDQo.png",
-    "logoText": "ROC",
-    "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "24KITCHEN.mk",
+    "name": "24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460725.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/647.jpg?12205",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://stream.nasatv.com.mk/rocktv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Sitel.mk",
-    "name": "Sitel",
-    "logo": "https://i.imgur.com/pdobwKt.png",
-    "logoText": "SIT",
-    "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "DISCOVERYCHANNEL.mk",
+    "name": "DISCOVERY CHANNEL ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: DISCOVERY CHANNEL ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460722.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?30215",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://sitel.com.mk/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "SkyFolkTV.mk",
+    "tvgId": "TLC.mk",
+    "name": "TLC ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TLC ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460718.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?39877",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CINEMAX1.mk",
+    "name": "CINEMAX 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: CINEMAX 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460713.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3970.png?4338",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "STARCHANNEL.mk",
+    "name": "STAR CHANNEL ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: STAR CHANNEL ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460711.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9339.png?67147",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TV1000.mk",
+    "name": "TV 1000 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV 1000 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460704.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12071.jpg?69871",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVPLUS.mk",
+    "name": "TV PLUS ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV PLUS ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460701.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14025.jpg?ver=26082",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKAJFOLK.mk",
+    "name": "SKAJ FOLK ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: SKAJ FOLK ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460700.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14290.jpg?97995",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INTV1.mk",
+    "name": "INTV 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: INTV 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460699.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14291.jpg?50941",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INTV2.mk",
+    "name": "INTV 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: INTV 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460698.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14291.jpg?50941",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO1.mk",
+    "name": "TV HUGO 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 1 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460697.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO2.mk",
+    "name": "TV HUGO 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 2 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460696.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO3.mk",
+    "name": "TV HUGO 3 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 3 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460695.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO4.mk",
+    "name": "TV HUGO 4 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 4 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460694.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO5.mk",
+    "name": "TV HUGO 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 5 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460693.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO6.mk",
+    "name": "TV HUGO 6 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 6 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460692.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO7.mk",
+    "name": "TV HUGO 7 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 7 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460691.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO8.mk",
+    "name": "TV HUGO 8 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 8 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460690.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO9.mk",
+    "name": "TV HUGO 9 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 9 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460689.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVHUGO10.mk",
+    "name": "TV HUGO 10 ⱽᴵᴾ ᴿᴬᵂ",
+    "originalName": "MK: TV HUGO 10 ⱽᴵᴾ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1460688.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14293.png?88443",
+    "category": "Mk| Macedonia ⱽᴵᴾ ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ⱽᴵᴾ ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "24VESTIHD.mk",
+    "name": "24 VESTI HD",
+    "originalName": "MK: 24 VESTI HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287461.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3822.png?58371",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ALSATMHD.mk",
+    "name": "ALSAT M HD",
+    "originalName": "MK: ALSAT M HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287515.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3360.png?47083",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ANIMALPLANETMultiSub.mk",
+    "name": "ANIMAL PLANET [Multi-Sub]",
+    "originalName": "MK: ANIMAL PLANET [Multi-Sub]",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287514.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?7214",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BALKANMUSICHD.mk",
+    "name": "BALKAN MUSIC HD",
+    "originalName": "MK: BALKAN MUSIC HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287513.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3338.jpg?6934",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CINEPLEXHD.mk",
+    "name": "CINEPLEX HD",
+    "originalName": "MK: CINEPLEX HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287512.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10162.png?88982",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CINESTARTVPREMIERE1.mk",
+    "name": "CINESTAR TV PREMIERE 1",
+    "originalName": "MK: CINESTAR TV PREMIERE 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287511.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6477.png?76462",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CINESTARTVPREMIERE2.mk",
+    "name": "CINESTAR TV PREMIERE 2",
+    "originalName": "MK: CINESTAR TV PREMIERE 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287510.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6477.png?76462",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISCOVERYCHANNELMultiSub.mk",
+    "name": "DISCOVERY CHANNEL [Multi-Sub]",
+    "originalName": "MK: DISCOVERY CHANNEL [Multi-Sub]",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287509.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?30215",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FILMBOXPLUS.mk",
+    "name": "FILM BOX PLUS",
+    "originalName": "MK: FILM BOX PLUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287508.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3285.png?28875",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FOLKHD.mk",
+    "name": "FOLK HD",
+    "originalName": "MK: FOLK HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287481.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3897.jpg?4406",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FOLKKLUBTVHD.mk",
+    "name": "FOLK KLUB TV HD",
+    "originalName": "MK: FOLK KLUB TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287507.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3897.jpg?54795",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HBO2FHD.mk",
+    "name": "HBO 2 FHD",
+    "originalName": "MK: HBO 2 FHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287504.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3267.jpg?36118",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HBO3FHD.mk",
+    "name": "HBO 3 FHD",
+    "originalName": "MK: HBO 3 FHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287503.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1918.jpg?86076",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HBOFHD.mk",
+    "name": "HBO FHD",
+    "originalName": "MK: HBO FHD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287505.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?36252",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HOBBYLOV.mk",
+    "name": "HOBBY LOV",
+    "originalName": "MK: HOBBY LOV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287471.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13485.jpg?91519",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HUGOTVHD.mk",
+    "name": "HUGO TV HD",
+    "originalName": "MK: HUGO TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287502.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3216.jpg?19367",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "INTVAVSTRALIJAHD.mk",
+    "name": "INTV AVSTRALIJA HD",
+    "originalName": "MK: INTV AVSTRALIJA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287500.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3114.jpg?90402",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "K3.mk",
+    "name": "K3",
+    "originalName": "MK: K3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287467.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8528.jpg?19321",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KAFANSKAHD.mk",
+    "name": "KAFANSKA HD",
+    "originalName": "MK: KAFANSKA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287497.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13556.png?6819",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KANAL5HD.mk",
+    "name": "KANAL 5 HD",
+    "originalName": "MK: KANAL 5 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287462.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?23351",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KANAL5PLUSHD.mk",
+    "name": "KANAL 5 PLUS HD",
+    "originalName": "MK: KANAL 5 PLUS HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287499.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?50077",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KANAL8.mk",
+    "name": "KANAL 8",
+    "originalName": "MK: KANAL 8",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287470.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3820.png?42930",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KANAL21TV.mk",
+    "name": "KANAL 21 TV",
+    "originalName": "MK: KANAL 21 TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287498.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4730.png?14288",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KOHATVHD.mk",
+    "name": "KOHA TV HD",
+    "originalName": "MK: KOHA TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287494.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3243.png?47965",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "KTVKAVADARCI.mk",
+    "name": "KTV KAVADARCI",
+    "originalName": "MK: KTV KAVADARCI",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287501.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3208.png?44483",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MAKEDONSKATV.mk",
+    "name": "MAKEDONSKA TV",
+    "originalName": "MK: MAKEDONSKA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287496.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7899.jpg?50371",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MEGABITOLAHD.mk",
+    "name": "MEGA BITOLA HD",
+    "originalName": "MK: MEGA BITOLA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287495.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7893.jpg?2725",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MPT14K.mk",
+    "name": "MPT 1 4K",
+    "originalName": "MK: MPT 1 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/525356.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3819.jpg?90947",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MPT2HD.mk",
+    "name": "MPT 2 HD",
+    "originalName": "MK: MPT 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287490.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8377.png?84329",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MPT3.mk",
+    "name": "MPT 3",
+    "originalName": "MK: MPT 3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287463.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8374.jpg?5121",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NASHATV.mk",
+    "name": "NASHA TV",
+    "originalName": "MK: NASHA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287468.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7776.png?83685",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "O2OHRIDHD.mk",
+    "name": "O2 OHRID HD",
+    "originalName": "MK: O2 OHRID HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287506.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9952.jpg?55259",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PLANETATVHD.mk",
+    "name": "PLANETA TV HD",
+    "originalName": "MK: PLANETA TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287487.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4776.jpg?62011",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RTV21HD.mk",
+    "name": "RTV21 HD",
+    "originalName": "MK: RTV21 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287517.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3249.jpg?45539",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SITELHD.mk",
+    "name": "SITEL HD",
+    "originalName": "MK: SITEL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287464.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3823.png?7332",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYFOLKHD.mk",
+    "name": "SKY FOLK HD",
+    "originalName": "MK: SKY FOLK HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287483.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?58663",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SKYFOLKMK.mk",
+    "name": "SKYFOLK MK",
+    "originalName": "MK: SKYFOLK MK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287465.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6485.jpg?84028",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SUTELTV.mk",
+    "name": "SUTEL TV",
+    "originalName": "MK: SUTEL TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287469.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3120.jpg?45886",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TELMAHD.mk",
+    "name": "TELMA HD",
+    "originalName": "MK: TELMA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287480.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3815.png?34929",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVKUMANOVO.mk",
+    "name": "TV+ KUMANOVO",
+    "originalName": "MK: TV+ KUMANOVO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287489.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8521.png?44404",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVNOVA.mk",
+    "name": "TV NOVA",
+    "originalName": "MK: TV NOVA",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287475.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7732.png?81983",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVPLUS.mk",
+    "name": "TV PLUS",
+    "originalName": "MK: TV PLUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287485.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/4743.png?21027",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVSONCE.mk",
+    "name": "TV SONCE",
+    "originalName": "MK: TV SONCE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287474.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3025.png?7806",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVTERABITOLAHD.mk",
+    "name": "TV TERA BITOLA HD",
+    "originalName": "MK: TV TERA BITOLA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/287477.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10593.png?70532",
+    "category": "Mk| Macedonia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "MK| MACEDONIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "MK",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "6jTUHlY33vUmQu",
     "name": "Sky Folk TV",
-    "logo": "https://i.imgur.com/ya5xpUL.png",
-    "logoText": "SKY",
+    "originalName": "Sky Folk TV",
     "url": "https://eu.live.skyfolk.mk/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://eu.live.skyfolk.mk/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://skyfolk.mk/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
-  },
-  {
-    "id": "StarPlusTelevizija.mk",
-    "name": "Star Plus Televizija",
-    "logo": "https://i.imgur.com/01yz22a.png",
-    "logoText": "STA",
-    "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://starplustv.com/"
-  },
-  {
-    "id": "SutelTV.mk",
-    "name": "Sutel TV",
-    "logo": "https://i.imgur.com/hk3lhuF.png",
-    "logoText": "SUT",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
-  },
-  {
-    "id": "TopEstradaTV.mk",
-    "name": "TopEstrada TV",
-    "logo": "https://i.imgur.com/0Dh1FJZ.png",
-    "logoText": "TOP",
-    "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://topestrada.tv/"
-  },
-  {
-    "id": "TV24.mk",
-    "name": "TV 24",
-    "logo": "https://i.imgur.com/o5n40jq.png",
-    "logoText": "TV ",
-    "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://www.24.mk/"
-  },
-  {
-    "id": "TVERA.mk",
-    "name": "TV ERA",
-    "logo": "https://i.imgur.com/ds0uf7A.png",
-    "logoText": "TV ",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
-  },
-  {
-    "id": "TVNOVA12.mk",
-    "name": "TV NOVA 12",
-    "logo": "https://i.imgur.com/Qo3Hj3t.png",
-    "logoText": "TV ",
-    "url": "http://151.236.247.171:8080/nova/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://151.236.247.171:8080/nova/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://tvnova12.mk/"
-  },
-  {
-    "id": "TVShenja.mk",
-    "name": "TV Shenja",
-    "logo": "https://i.imgur.com/JsdUpB8.png",
-    "logoText": "TV ",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
-  },
-  {
-    "id": "TVZdravkin.mk",
-    "name": "TV Zdravkin",
-    "logo": "https://i.imgur.com/w4rRUNQ.png",
-    "logoText": "TV ",
-    "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A."
-  },
-  {
-    "id": "TV21.mk",
-    "name": "TV21",
-    "logo": "https://i.imgur.com/IC1f4h3.png",
-    "logoText": "TV2",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MK",
-    "countryName": "North Macedonia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: North Macedonia. Language: N/A. Website: https://mk.tv21.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,462 +1,902 @@
 [
   {
-    "id": "AlfaSport.cy",
-    "name": "Alfa Sport",
-    "logo": "https://i.imgur.com/vhMPYIW.png",
-    "logoText": "ALF",
-    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "tvgId": "RIK.cy",
+    "name": "RIK ᴴᴰ",
+    "originalName": "CY: RIK ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842701.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10723.png?96404",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.alphacyprus.com.cy/live"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ANT1Cyprus.cy",
-    "name": "ANT1 Cyprus",
-    "logo": "https://i.imgur.com/2KAObBt.png",
-    "logoText": "ANT",
-    "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "RIK1SD.cy",
+    "name": "RIK 1 SD ◉",
+    "originalName": "CY: RIK 1 SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842700.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10723.png?96404",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.ant1.com.cy/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BRT1.cy",
-    "name": "BRT 1",
-    "logo": "https://i.imgur.com/gOPAi2c.png",
-    "logoText": "BRT",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://canlitvulusal.xyz/live/brt1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "RIK2SD.cy",
+    "name": "RIK 2 SD ◉",
+    "originalName": "CY: RIK 2 SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842699.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3950.png?30863",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://brtk.net/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BRT2.cy",
-    "name": "BRT 2",
-    "logo": "https://i.imgur.com/t5kbIuj.png",
-    "logoText": "BRT",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://canlitvulusal.xyz/live/brt2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "SIGMASD.cy",
+    "name": "SIGMA SD ◉",
+    "originalName": "CY: SIGMA SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842698.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8217.png?3288",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://brtk.net/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BRT3.cy",
-    "name": "BRT 3",
-    "logo": "https://i.imgur.com/uczNZ3E.png",
-    "logoText": "BRT",
-    "url": "http://185.234.111.229:8000/play/a07e",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://185.234.111.229:8000/play/a07e",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "SIGMA.cy",
+    "name": "SIGMA ᴴᴰ (ᴮᴷ)",
+    "originalName": "CY: SIGMA ᴴᴰ (ᴮᴷ)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1275752.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8217.png?48601",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://brtk.net/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CityChannel.cy",
-    "name": "City Channel",
-    "logo": "https://i.imgur.com/oo2fxta.png",
-    "logoText": "CIT",
-    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "OMEGASD.cy",
+    "name": "OMEGA SD ◉",
+    "originalName": "CY: OMEGA SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842697.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8390.png?58965",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: http://www.citychannel.ie"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "KanalSim.cy",
-    "name": "Kanal Sim",
-    "logo": "https://i.imgur.com/UHYJURw.png",
-    "logoText": "KAN",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "OMEGA.cy",
+    "name": "OMEGA ᴴᴰ (ᴮᴷ)",
+    "originalName": "CY: OMEGA ᴴᴰ (ᴮᴷ)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1275751.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8390.png?ver=5501",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: http://www.kanalsim.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "KibrisGencTV.cy",
-    "name": "Kibris Genc TV",
-    "logo": "https://i.imgur.com/eBdQn9h.png",
-    "logoText": "KIB",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "PLUSTVSD.cy",
+    "name": "PLUS TV SD ◉",
+    "originalName": "CY: PLUS TV SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842696.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3171.jpg?78156",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.kibrisgenctv.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "KibrisKanalT.cy",
-    "name": "Kibris Kanal T",
-    "logo": "https://i.imgur.com/4bA4pXT.png",
-    "logoText": "KIB",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "CAPITALSD.cy",
+    "name": "CAPITAL SD",
+    "originalName": "CY: CAPITAL SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842695.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12489.jpg?28038",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: http://www.kanalt.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "KibrisTV.cy",
-    "name": "Kibris TV",
-    "logo": "https://i.imgur.com/5MJZPTo.png",
-    "logoText": "KIB",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "ONECHANNELCYSD.cy",
+    "name": "ONE CHANNEL CY SD ◉",
+    "originalName": "CY: ONE CHANNEL CY SD ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842694.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12050.jpg?32096",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.kibristv.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "RIKSat.cy",
-    "name": "RIK Sat",
-    "logo": "https://i.imgur.com/BIKwFhD.png",
-    "logoText": "RIK",
-    "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "VERGINACYSD.cy",
+    "name": "VERGINA CY SD",
+    "originalName": "CY: VERGINA CY SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842693.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10722.jpg?16429",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: http://cybc.com.cy/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Sat7Arabic.cy",
+    "tvgId": "RIKSATSD.cy",
+    "name": "RIK SAT SD",
+    "originalName": "CY: RIK SAT SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842692.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10079.jpg?94173",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GREEKCINEMASD.cy",
+    "name": "GREEK CINEMA SD",
+    "originalName": "CY: GREEK CINEMA SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842691.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6481.png?29256",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GREEKCINEMA.cy",
+    "name": "GREEK CINEMA ᵁᴴᴰ (ᴮᴷ)",
+    "originalName": "CY: GREEK CINEMA ᵁᴴᴰ (ᴮᴷ)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1275750.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12079.jpg?966",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BABYTVSD.cy",
+    "name": "BABY TV SD",
+    "originalName": "CY: BABY TV SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842689.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?83022",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MOVIESBEST.cy",
+    "name": "MOVIES BEST ᵁᴴᴰ",
+    "originalName": "CY: MOVIES BEST ᵁᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842688.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12989.jpg?30476",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ANT1CY.cy",
+    "name": "ANT1 CY ᵁᴴᴰ ◉",
+    "originalName": "CY: ANT1 CY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842687.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/914.jpg?30356",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ALPHACY.cy",
+    "name": "ALPHA CY ᵁᴴᴰ ◉",
+    "originalName": "CY: ALPHA CY ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842686.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3361.jpg?40026",
+    "category": "Cy| Κυπριακα/Cyprus Vip",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSPORT1.cy",
+    "name": "CABLENET SPORT 1 ᴴᴰ ◉",
+    "originalName": "CY: CABLENET SPORT 1 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842676.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3024.jpg?ver=62545",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSPORT2.cy",
+    "name": "CABLENET SPORT 2 ᴴᴰ ◉",
+    "originalName": "CY: CABLENET SPORT 2 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842675.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3024.jpg?ver=62545",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSPORT3.cy",
+    "name": "CABLENET SPORT 3 ᴴᴰ ◉",
+    "originalName": "CY: CABLENET SPORT 3 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842674.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3024.jpg?ver=62545",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT1.cy",
+    "name": "CYTAVISION SPORT 1 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 1 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842684.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT2.cy",
+    "name": "CYTAVISION SPORT 2 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 2 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842683.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT3.cy",
+    "name": "CYTAVISION SPORT 3 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 3 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842682.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT4.cy",
+    "name": "CYTAVISION SPORT 4 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 4 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842681.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT5.cy",
+    "name": "CYTAVISION SPORT 5 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 5 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842680.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT6.cy",
+    "name": "CYTAVISION SPORT 6 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 6 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842679.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT7.cy",
+    "name": "CYTAVISION SPORT 7 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 7 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842678.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT8.cy",
+    "name": "CYTAVISION SPORT 8 ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT 8 ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1118017.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTPREMIERELEAGUE.cy",
+    "name": "CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842685.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3979.jpg?56008",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORT.cy",
+    "name": "CYTAVISION SPORT ᵁᴴᴰ ◉",
+    "originalName": "CY: CYTAVISION SPORT ᵁᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/842677.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OMONOIATV.cy",
+    "name": "OMONOIA TV ᴴᴰ ◉",
+    "originalName": "CY: OMONOIA TV ᴴᴰ ◉",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/892095.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13555.jpg?47738",
+    "category": "Cy| Cytavision Vip",
+    "originalCategory": "CY| CYTAVISION VIP",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ERTWORLDNA.cy",
+    "name": "ERT WORLD (NA)",
+    "originalName": "CY: ERT WORLD (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460778.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ERT-WORLD.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ANT1.cy",
+    "name": "ANT1",
+    "originalName": "CY: ANT1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460762.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ANT1-.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "4ETV.cy",
+    "name": "4E TV",
+    "originalName": "CY: 4E TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460743.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/4e.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RIKSAT.cy",
+    "name": "RIK SAT",
+    "originalName": "CY: RIK SAT",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/341612.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10079.jpg?7351",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RIK.cy",
+    "name": "RIK",
+    "originalName": "CY: RIK",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460725.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/RIK-1.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RIK2.cy",
+    "name": "RIK 2",
+    "originalName": "CY: RIK 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460724.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/RIK-2.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PLUSCYPRUS.cy",
+    "name": "PLUS CYPRUS",
+    "originalName": "CY: PLUS CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460723.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/PLUS-CYPRUS.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OMEGACYPRUS.cy",
+    "name": "OMEGA CYPRUS",
+    "originalName": "CY: OMEGA CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460722.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/OMEGA-CYPRUS.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "EXTRACYPRUS.cy",
+    "name": "EXTRA CYPRUS",
+    "originalName": "CY: EXTRA CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460721.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EXTRA-CYPRUS.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAPITALCYPRUS.cy",
+    "name": "CAPITAL CYPRUS",
+    "originalName": "CY: CAPITAL CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460720.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/CAPITAL-CYPRUS.jpeg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ANT1CYPRUS.cy",
+    "name": "ANT1 CYPRUS",
+    "originalName": "CY: ANT1 CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460719.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ANT1-CYPRUS.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ALPHACYPRUS.cy",
+    "name": "ALPHA CYPRUS",
+    "originalName": "CY: ALPHA CYPRUS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460718.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ALPHA-CYPRUS.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ERTWORLD.cy",
+    "name": "ERT WORLD",
+    "originalName": "CY: ERT WORLD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460674.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ERT-WORLD.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RIKSATCY.cy",
+    "name": "RIK SAT CY",
+    "originalName": "CY: RIK SAT CY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460647.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/riksat.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SIGMACY.cy",
+    "name": "SIGMA CY",
+    "originalName": "CY: SIGMA CY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460645.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/SIGMA-CYPRUS.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SMILETVCY.cy",
+    "name": "SMILE TV CY",
+    "originalName": "CY: SMILE TV CY",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460644.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/SMILE-TV.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVIZIONSP1HD.cy",
+    "name": "CYTA VIZION SP1 HD",
+    "originalName": "CY: CYTA VIZION SP1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460822.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVIZIONSP2HD.cy",
+    "name": "CYTA VIZION SP2 HD",
+    "originalName": "CY: CYTA VIZION SP2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460821.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RELOADRADIO.cy",
+    "name": "RELOAD RADIO",
+    "originalName": "CY: RELOAD RADIO",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460648.ts",
+    "logo": "https://i.imgur.com/fwPUazv.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSP1HD.cy",
+    "name": "CABLENET SP1 HD",
+    "originalName": "CY: CABLENET SP1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460823.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/CABLENET-SPORTS-3.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTASPORT1HDLIVEEVENT.cy",
+    "name": "CYTA SPORT 1 HD [LIVE-EVENT]",
+    "originalName": "CY: CYTA SPORT 1 HD [LIVE-EVENT]",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460836.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTASPORT2HDLIVEEVENT.cy",
+    "name": "CYTA SPORT 2 HD [LIVE-EVENT]",
+    "originalName": "CY: CYTA SPORT 2 HD [LIVE-EVENT]",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460835.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSPORTS1HD.cy",
+    "name": "CABLENET SPORTS 1 HD",
+    "originalName": "CY: CABLENET SPORTS 1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460882.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS1.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CABLENETSPORTS2HD.cy",
+    "name": "CABLENET SPORTS 2 HD",
+    "originalName": "CY: CABLENET SPORTS 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460881.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS2.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS1HD.cy",
+    "name": "CYTAVISION SPORTS 1 HD",
+    "originalName": "CY: CYTAVISION SPORTS 1 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460830.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS2HD.cy",
+    "name": "CYTAVISION SPORTS 2 HD",
+    "originalName": "CY: CYTAVISION SPORTS 2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460829.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS3HD.cy",
+    "name": "CYTAVISION SPORTS 3 HD",
+    "originalName": "CY: CYTAVISION SPORTS 3 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460828.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS4HD.cy",
+    "name": "CYTAVISION SPORTS 4 HD",
+    "originalName": "CY: CYTAVISION SPORTS 4 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460827.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS5HD.cy",
+    "name": "CYTAVISION SPORTS 5 HD",
+    "originalName": "CY: CYTAVISION SPORTS 5 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460826.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS6HD.cy",
+    "name": "CYTAVISION SPORTS 6 HD",
+    "originalName": "CY: CYTAVISION SPORTS 6 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460825.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CYTAVISIONSPORTS7HD.cy",
+    "name": "CYTAVISION SPORTS 7 HD",
+    "originalName": "CY: CYTAVISION SPORTS 7 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460824.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "EUROSPORT1.cy",
+    "name": "EUROSPORT 1",
+    "originalName": "CY: EUROSPORT 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460615.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/eurosport1.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "EUROSPORT2.cy",
+    "name": "EUROSPORT 2",
+    "originalName": "CY: EUROSPORT 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460614.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/eurosport2.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISNEYXDHD.cy",
+    "name": "DISNEY XD HD",
+    "originalName": "CY: DISNEY XD HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460741.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/disneyxdhd.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISNEYCHANNELHD.cy",
+    "name": "DISNEY CHANNEL HD",
+    "originalName": "CY: DISNEY CHANNEL HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460740.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/disneychannelhd.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "DISNEYJUNIORHD.cy",
+    "name": "DISNEY JUNIOR HD",
+    "originalName": "CY: DISNEY JUNIOR HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460739.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/disneyjuniorhd.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NICKELODEONHD.cy",
+    "name": "NICKELODEON HD",
+    "originalName": "CY: NICKELODEON HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460738.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/nickelodeonhd.png",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SMILETV.cy",
+    "name": "SMILE TV",
+    "originalName": "CY: SMILE TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460737.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/SMILE-TV.jpg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CAPITAL.cy",
+    "name": "CAPITAL",
+    "originalName": "CY: CAPITAL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/460623.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/logos/CAPITAL-CYPRUS.jpeg",
+    "category": "Cy| Κυπριακα/Cyprus",
+    "originalCategory": "CY| ΚΥΠΡΙΑΚΑ/CYPRUS",
+    "country": "CY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "m0RI6HqHFeSa3t",
     "name": "Sat 7 Arabic",
-    "logo": "https://i.imgur.com/BzDjQeQ.png",
-    "logoText": "SAT",
+    "originalName": "Sat 7 Arabic",
     "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://sat7.org/our-channels/channel-overview/sat-7-arabic"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Sat7Kids.cy",
-    "name": "Sat 7 Kids",
-    "logo": "https://i.imgur.com/M0ik0i2.png",
-    "logoText": "SAT",
-    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids",
-      "religious"
-    ],
-    "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: http://sat7kids.com/"
-  },
-  {
-    "id": "Sat7Pars.cy",
+    "tvgId": "U2TjaOAocV2jZQ",
     "name": "Sat 7 Pars",
-    "logo": "https://i.imgur.com/VTLQeul.png",
-    "logoText": "SAT",
+    "originalName": "Sat 7 Pars",
     "url": "https://sat7phls.wns.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sat7phls.wns.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.sat7pars.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Sat7Turk.cy",
+    "tvgId": "SOB7xKVjpXl8L7",
     "name": "Sat 7 Turk",
-    "logo": "https://i.imgur.com/cKQIK4i.png",
-    "logoText": "SAT",
+    "originalName": "Sat 7 Turk",
     "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.sat7turk.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SigmaTV.cy",
+    "tvgId": "ruuMQF3yDU6CZB",
     "name": "Sigma TV",
-    "logo": "https://i.imgur.com/DXKx102.png",
-    "logoText": "SIG",
+    "originalName": "Sigma TV",
     "url": "https://sl2.sigmatv.com/hls/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sl2.sigmatv.com/hls/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.sigmatv.com/"
-  },
-  {
-    "id": "TV2020.cy",
-    "name": "TV 2020",
-    "logo": "https://i.imgur.com/rtfsNdd.png",
-    "logoText": "TV ",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://www.diyaloggazetesi.com/"
-  },
-  {
-    "id": "TVGunes.cy",
-    "name": "TV Gunes",
-    "logo": "https://i.imgur.com/XmlXofJ.png",
-    "logoText": "TV ",
-    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A."
-  },
-  {
-    "id": "VouliTV.cy",
-    "name": "Vouli TV",
-    "logo": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png",
-    "logoText": "VOU",
-    "url": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CY",
-    "countryName": "Cyprus",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Cyprus. Language: N/A. Website: https://vouli.tv/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

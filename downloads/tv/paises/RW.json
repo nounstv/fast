@@ -1,209 +1,50 @@
 [
   {
-    "id": "BPlusTV.rw",
+    "tvgId": "FXQtm2S6eQXf1s",
     "name": "B+ TV",
-    "logo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
-    "logoText": "B+ ",
+    "originalName": "B+ TV",
     "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://btnrwanda.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "BTNTV.rw",
-    "name": "BTN TV",
-    "logo": "https://i.imgur.com/WmaP8zP.png",
-    "logoText": "BTN",
-    "url": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://btnrwanda.com/"
-  },
-  {
-    "id": "IsangoTV.rw",
-    "name": "Isango TV",
-    "logo": "https://i.imgur.com/EfsHaMQ.png",
-    "logoText": "ISA",
-    "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: http://www.isangostar.rw/"
-  },
-  {
-    "id": "IsiboTV.rw",
+    "tvgId": "ImKv4xWjIX02Ek",
     "name": "Isibo TV",
-    "logo": "https://i.imgur.com/bXhEeTC.png",
-    "logoText": "ISI",
+    "originalName": "Isibo TV",
     "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://www.isibo.tv/maintenance/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KC2.rw",
-    "name": "KC2",
-    "logo": "https://i.imgur.com/PsYPzNc.png",
-    "logoText": "KC2",
-    "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://www.rba.co.rw/kc2"
-  },
-  {
-    "id": "RwandaTV.rw",
+    "tvgId": "vQHcA6mmqDdzeF",
     "name": "Rwanda TV",
-    "logo": "https://i.imgur.com/4nbGvxW.png",
-    "logoText": "RWA",
-    "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Rwanda TV",
+    "url": "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://www.rba.co.rw/tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TV1.rw",
-    "name": "TV1",
-    "logo": "https://i.imgur.com/wk59tHA.png",
-    "logoText": "TV1",
-    "url": "https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.tv1.rw/live/tv1rwanda_480/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: https://www.tv1.rw/"
-  },
-  {
-    "id": "TV10.rw",
+    "tvgId": "xlbj1xHjnlV1Js",
     "name": "TV10",
-    "logo": "https://i.imgur.com/DeaWC1N.png",
-    "logoText": "TV1",
+    "originalName": "TV10",
     "url": "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "RW",
-    "countryName": "Rwanda",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Rwanda. Language: N/A. Website: http://www.radiotv10.rw/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

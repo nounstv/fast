@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SUDANTV" tvg-name="###### SUDAN TV ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif" group-title="Ar| Sudan 4K ▶ سودان",###### SUDAN TV ######
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251797.ts
+#EXTINF:-1 tvg-id="SudanTV.ar" tvg-name="Sudan TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/464.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Sudan TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4438.ts
+#EXTINF:-1 tvg-id="SudanAlBarlemania.ar" tvg-name="Sudan Al Barlemania" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/464.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Sudan Al Barlemania
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/169850.ts
+#EXTINF:-1 tvg-id="ElmourabitonTV.ar" tvg-name="Elmourabiton TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/344.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Elmourabiton TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4306.ts
+#EXTINF:-1 tvg-id="KhartoumTV.ar" tvg-name="Khartoum TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1136.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Khartoum TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2273.ts
+#EXTINF:-1 tvg-id="Sudania244K.ar" tvg-name="Sudania 24 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/311.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Sudania 24 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4269.ts
+#EXTINF:-1 tvg-id="ShamaliaTV.ar" tvg-name="Shamalia TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1161.jpg" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Shamalia TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2271.ts
+#EXTINF:-1 tvg-id="SouthSudanSSBC.ar" tvg-name="South Sudan SSBC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1021.jpg?3198" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",South Sudan SSBC
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/288168.ts
+#EXTINF:-1 tvg-id="DabangoSudan.ar" tvg-name="Dabango Sudan" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13392.jpeg?32982" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Dabango Sudan
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/317979.ts
+#EXTINF:-1 tvg-id="SudanChinguitTV.ar" tvg-name="Sudan Chinguit TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13393.png?90007" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Sudan Chinguit TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/318057.ts
+#EXTINF:-1 tvg-id="AlzargaTV4K.ar" tvg-name="Alzarga TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14493.png?93521" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Alzarga TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1548683.ts
+#EXTINF:-1 tvg-id="TDMPromotional.ar" tvg-name="TDM Promotional" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13397.png?45249" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",TDM Promotional
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/318061.ts
+#EXTINF:-1 tvg-id="TaybaTV.ar" tvg-name="Tayba TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12746.jpg?94921" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Tayba TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4488.ts
+#EXTINF:-1 tvg-id="ALBALADTVHD.ar" tvg-name="AL BALAD TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14921.png?29746" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",AL BALAD TV HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1852787.ts
+#EXTINF:-1 tvg-id="MouritanaQamerTV4K.ar" tvg-name="Mouritana Qamer TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13396.png?63531" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Mouritana Qamer TV 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/318060.ts
+#EXTINF:-1 tvg-id="MouritanaArriadiaTV.ar" tvg-name="Mouritana Arriadia TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12819.png" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Mouritana Arriadia TV
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4464.ts
+#EXTINF:-1 tvg-id="MouritanaQamerHD.ar" tvg-name="Mouritana Qamer HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13396.png?63531" group-title="Ar| Sudan 4K ▶ سودان" tvg-country="AR",Mouritana Qamer HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499149.ts

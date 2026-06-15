@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UKGENERALHEVCHD" tvg-name="### UK GENERAL HEVC/HD ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| General ʰᵉᵛᶜ",### UK GENERAL HEVC/HD ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717683.ts
+#EXTINF:-1 tvg-id="BBC1HEVCHD.uk" tvg-name="BBC 1 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?91682" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",BBC 1 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717682.ts
+#EXTINF:-1 tvg-id="BBC2HEVCHD.uk" tvg-name="BBC 2 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?71921" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",BBC 2 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717681.ts
+#EXTINF:-1 tvg-id="ITV1HEVCHD.uk" tvg-name="ITV 1 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?69431" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 1 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717680.ts
+#EXTINF:-1 tvg-id="ITV2HEVCHD.uk" tvg-name="ITV 2 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?72300" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 2 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717679.ts
+#EXTINF:-1 tvg-id="ITV3HEVCHD.uk" tvg-name="ITV 3 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?57850" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 3 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717678.ts
+#EXTINF:-1 tvg-id="ITV4HEVCHD.uk" tvg-name="ITV 4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?69435" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 4 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717677.ts
+#EXTINF:-1 tvg-id="CHANNEL4HEVCHD.uk" tvg-name="CHANNEL 4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?42046" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",CHANNEL 4 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717676.ts
+#EXTINF:-1 tvg-id="E4HEVCHD.uk" tvg-name="E4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?30711" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",E4 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717674.ts
+#EXTINF:-1 tvg-id="CHANNEL5HEVCHD.uk" tvg-name="CHANNEL 5 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?76649" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",CHANNEL 5 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717675.ts
+#EXTINF:-1 tvg-id="MORE4HEVCHD.uk" tvg-name="MORE 4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?ver=36147" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",MORE 4 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717673.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRALHEVCHD.uk" tvg-name="COMEDY CENTRAL HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?ver=53843" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",COMEDY CENTRAL HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717672.ts
+#EXTINF:-1 tvg-id="FILM4HEVCHD.uk" tvg-name="FILM 4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12111.png?94248" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",FILM 4 HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717671.ts
+#EXTINF:-1 tvg-id="WATCHHEVCHD.uk" tvg-name="WATCH HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13629.png?69598" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",WATCH HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717669.ts
+#EXTINF:-1 tvg-id="GOLDHEVCHD.uk" tvg-name="GOLD HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/823.jpg?33065" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",GOLD HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717670.ts
+#EXTINF:-1 tvg-id="ALIBIHEVCHD.uk" tvg-name="ALIBI HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42541" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ALIBI HEVC HD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717668.ts
+#EXTINF:-1 tvg-id="UKGENERALHEVC4K" tvg-name="### UK GENERAL HEVC/4K ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="Uk| General ʰᵉᵛᶜ",### UK GENERAL HEVC/4K ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717667.ts
+#EXTINF:-1 tvg-id="BBC1HEVC4K.uk" tvg-name="BBC 1 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?99647" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",BBC 1 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717666.ts
+#EXTINF:-1 tvg-id="BBC2HEVC4K.uk" tvg-name="BBC 2 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?44461" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",BBC 2 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717665.ts
+#EXTINF:-1 tvg-id="ITV1HEVC4K.uk" tvg-name="ITV 1 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?8441" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 1 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717664.ts
+#EXTINF:-1 tvg-id="ITV2HEVC4K.uk" tvg-name="ITV 2 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12001.jpg?36811" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 2 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717663.ts
+#EXTINF:-1 tvg-id="ITV4HEVC4K.uk" tvg-name="ITV 4 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?16719" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 4 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717661.ts
+#EXTINF:-1 tvg-id="ITV3HEVC4K.uk" tvg-name="ITV 3 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?98063" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ITV 3 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717662.ts
+#EXTINF:-1 tvg-id="CHANNEL4HEVC4K.uk" tvg-name="CHANNEL 4 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?67770" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",CHANNEL 4 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717660.ts
+#EXTINF:-1 tvg-id="CHANNEL5HEVC4K.uk" tvg-name="CHANNEL 5 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?75206" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",CHANNEL 5 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717659.ts
+#EXTINF:-1 tvg-id="E4HEVC4K.uk" tvg-name="E4  HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?57654" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",E4  HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717658.ts
+#EXTINF:-1 tvg-id="FILM4HEVC4K.uk" tvg-name="FILM 4 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12111.png?99257" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",FILM 4 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717657.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRALHEVC4K.uk" tvg-name="COMEDY CENTRAL HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?41235" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",COMEDY CENTRAL HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717656.ts
+#EXTINF:-1 tvg-id="MORE4HEVC4K.uk" tvg-name="MORE 4 HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?70719" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",MORE 4 HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717655.ts
+#EXTINF:-1 tvg-id="WATCHHEVC4K.uk" tvg-name="WATCH HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13629.png?79339" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",WATCH HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717654.ts
+#EXTINF:-1 tvg-id="GOLDHEVC4K.uk" tvg-name="GOLD HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/823.jpg?74563" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",GOLD HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717653.ts
+#EXTINF:-1 tvg-id="ALIBIHEVC4K.uk" tvg-name="ALIBI HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?30493" group-title="Uk| General ʰᵉᵛᶜ" tvg-country="UK",ALIBI HEVC 4K
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/717652.ts

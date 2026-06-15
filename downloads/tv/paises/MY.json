@@ -1,498 +1,698 @@
 [
   {
-    "id": "8TV.my",
-    "name": "8TV",
-    "logo": "https://i.imgur.com/Jkx9W88.png",
-    "logoText": "8TV",
-    "url": "http://cdn6.163189.xyz/163189/8tv",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://cdn6.163189.xyz/163189/8tv",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "MBC1.my",
+    "name": "MBC 1 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC 1 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313324.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
     "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "AwesomeTV.my",
-    "name": "Awesome TV",
-    "logo": "https://i.imgur.com/x90U1Bf.png",
-    "logoText": "AWE",
-    "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "MBC2.my",
+    "name": "MBC 2 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC 2 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313323.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
     "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://awesometv.my/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BeritaRTM.my",
-    "name": "Berita RTM",
-    "logo": "https://i.imgur.com/1Xzxsgl.png",
-    "logoText": "BER",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "MBC3.my",
+    "name": "MBC 3 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC 3 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313322.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
     "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.rtm.gov.my/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CinemaWorld.my",
-    "name": "CinemaWorld",
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "logoText": "CIN",
-    "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "tvgId": "MBC4.my",
+    "name": "MBC 4 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC 4 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313321.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
     "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://cinemaworld.asia/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "DuniaSinema.my",
-    "name": "Dunia Sinema",
+    "tvgId": "MBCMASR.my",
+    "name": "MBC MASR ᶠ ᴴᴰ",
+    "originalName": "MY: MBC MASR ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313320.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMASR2.my",
+    "name": "MBC MASR 2 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC MASR 2 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313319.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCDRAMA.my",
+    "name": "MBC DRAMA ᶠ ᴴᴰ",
+    "originalName": "MY: MBC DRAMA ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313318.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCDRAMA.my",
+    "name": "MBC DRAMA+ ᶠ ᴴᴰ",
+    "originalName": "MY: MBC DRAMA+ ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313317.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCIRAQ.my",
+    "name": "MBC IRAQ ᶠ ᴴᴰ",
+    "originalName": "MY: MBC IRAQ ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313316.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCACTION.my",
+    "name": "MBC ACTION ᶠ ᴴᴰ",
+    "originalName": "MY: MBC ACTION ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313315.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMAX.my",
+    "name": "MBC MAX ᶠ ᴴᴰ",
+    "originalName": "MY: MBC MAX ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313314.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCBOLLYWOOD.my",
+    "name": "MBC BOLLYWOOD ᶠ ᴴᴰ",
+    "originalName": "MY: MBC BOLLYWOOD ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313313.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCVARIETY.my",
+    "name": "MBC VARIETY ᶠ ᴴᴰ",
+    "originalName": "MY: MBC VARIETY ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313312.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCWANASAH.my",
+    "name": "MBC WANASAH ᶠ ᴴᴰ",
+    "originalName": "MY: MBC WANASAH ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313311.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC1.my",
+    "name": "MBC+ 1 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ 1 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313309.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC2.my",
+    "name": "MBC+ 2 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ 2 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313308.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC3.my",
+    "name": "MBC+ 3 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ 3 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313307.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC5.my",
+    "name": "MBC+ 5 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ 5 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313306.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMASR.my",
+    "name": "MBC+ MASR ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ MASR ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313305.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMASR2.my",
+    "name": "MBC+ MASR 2 ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ MASR 2 ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313304.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCDRAMAEXTRA.my",
+    "name": "MBC+ DRAMA EXTRA ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ DRAMA EXTRA ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313303.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCIRAQ.my",
+    "name": "MBC+ IRAQ ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ IRAQ ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313302.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCFM.my",
+    "name": "MBC+ FM ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ FM ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313301.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCWANASAH.my",
+    "name": "MBC+ WANASAH ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ WANASAH ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313300.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCACTION.my",
+    "name": "MBC+ ACTION ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ ACTION ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313298.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCPANORAMA.my",
+    "name": "MBC+ PANORAMA ᶠ ᴴᴰ",
+    "originalName": "MY: MBC+ PANORAMA ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313297.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBC1SD.my",
+    "name": "MBC MBC 1 SD",
+    "originalName": "MY: MBC MBC 1 SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313295.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBC2SD.my",
+    "name": "MBC MBC 2 SD",
+    "originalName": "MY: MBC MBC 2 SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313294.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBC3SD.my",
+    "name": "MBC MBC 3 SD",
+    "originalName": "MY: MBC MBC 3 SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313293.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBC4SD.my",
+    "name": "MBC MBC 4 SD",
+    "originalName": "MY: MBC MBC 4 SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313292.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBCDRAMASD.my",
+    "name": "MBC MBC DRAMA SD",
+    "originalName": "MY: MBC MBC DRAMA SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313290.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBCIRAQSD.my",
+    "name": "MBC MBC IRAQ SD",
+    "originalName": "MY: MBC MBC IRAQ SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313289.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBCACTIONSD.my",
+    "name": "MBC MBC ACTION SD",
+    "originalName": "MY: MBC MBC ACTION SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313288.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMBCMAXSD.my",
+    "name": "MBC MBC MAX SD",
+    "originalName": "MY: MBC MBC MAX SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313287.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCBOLLYWOODSD.my",
+    "name": "MBC BOLLYWOOD SD",
+    "originalName": "MY: MBC BOLLYWOOD SD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313286.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC1.my",
+    "name": "MBC 1 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC 1 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313284.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC2.my",
+    "name": "MBC 2 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC 2 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313283.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC4.my",
+    "name": "MBC 4 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC 4 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313282.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC3.my",
+    "name": "MBC 3 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC 3 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313281.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBC5.my",
+    "name": "MBC 5 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC 5 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313280.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMASR.my",
+    "name": "MBC MASR ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC MASR ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313279.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMASR2.my",
+    "name": "MBC MASR 2 ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC MASR 2 ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313278.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCIRAQ.my",
+    "name": "MBC IRAQ ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC IRAQ ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313277.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCDRAMA.my",
+    "name": "MBC DRAMA ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC DRAMA ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313276.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCDRAMA.my",
+    "name": "MBC DRAMA+ ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC DRAMA+ ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313275.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCMAX.my",
+    "name": "MBC MAX ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC MAX ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313274.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCACTION.my",
+    "name": "MBC ACTION ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC ACTION ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313273.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCBOLLYWOOD.my",
+    "name": "MBC BOLLYWOOD ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC BOLLYWOOD ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313272.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCVARIETY.my",
+    "name": "MBC VARIETY ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC VARIETY ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313271.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PANORAMAFM.my",
+    "name": "PANORAMA FM ᶠ ᴿᴬᵂ",
+    "originalName": "MY: PANORAMA FM ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313270.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCPANORAMA.my",
+    "name": "MBC PANORAMA ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC PANORAMA ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313269.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCWANASAH.my",
+    "name": "MBC WANASAH ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC WANASAH ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313268.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCPERSIAN.my",
+    "name": "MBC PERSIAN ᶠ ᴿᴬᵂ",
+    "originalName": "MY: MBC PERSIAN ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313267.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NETFLIX.my",
+    "name": "NETFLIX ᶠ ᴿᴬᵂ",
+    "originalName": "MY: NETFLIX ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313266.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BOXOFFICE.my",
+    "name": "BOX OFFICE ᶠ ᴿᴬᵂ",
+    "originalName": "MY: BOX OFFICE ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313265.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SHAHIDVIP.my",
+    "name": "SHAHID VIP ᶠ ᴿᴬᵂ",
+    "originalName": "MY: SHAHID VIP ᶠ ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313264.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SHAHIDVIP.my",
+    "name": "SHAHID VIP ᶠ ᴴᴰ",
+    "originalName": "MY: SHAHID VIP ᶠ ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1313263.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12781.jpg?95656",
+    "category": "Ar| Myhd ᶠ ᴿᴬᵂ",
+    "originalCategory": "AR| MYHD ᶠ ᴿᴬᵂ",
+    "country": "MY",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "68Yr0ZtgcyFDZd",
+    "name": "Susun TV",
+    "originalName": "Susun TV",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
     "logo": "",
-    "logoText": "DUN",
-    "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://unifi.com.my/tv"
-  },
-  {
-    "id": "MaahTV.my",
-    "name": "Maah TV",
-    "logo": "https://i.imgur.com/FkyueH6.png",
-    "logoText": "MAA",
-    "url": "https://hls.maahtv.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hls.maahtv.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Movies",
-    "categories": [
-      "movies"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://maahtv.com/"
-  },
-  {
-    "id": "NTV7.my",
-    "name": "NTV7",
-    "logo": "https://i.imgur.com/jDWR3xI.png",
-    "logoText": "NTV",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
-  },
-  {
-    "id": "Okey.my",
-    "name": "Okey",
-    "logo": "https://i.imgur.com/V2jREQ5.png",
-    "logoText": "OKE",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://okey.rtm.gov.my/"
-  },
-  {
-    "id": "PROSportInternational.my",
-    "name": "PRO Sport International",
-    "logo": "",
-    "logoText": "PRO",
-    "url": "https://proshls.wns.live/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://proshls.wns.live/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
-  },
-  {
-    "id": "RTMASEAN.my",
-    "name": "RTM ASEAN",
-    "logo": "https://i.imgur.com/skAiUxg.png",
-    "logoText": "RTM",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmklik.rtm.gov.my/live/rtmasean"
-  },
-  {
-    "id": "RTMParlimenDewanNegara.my",
-    "name": "RTM Parlimen Dewan Negara",
-    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
-    "logoText": "RTM",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmparlimen.rtm.gov.my/"
-  },
-  {
-    "id": "RTMParlimenDewanRakyat.my",
-    "name": "RTM Parlimen Dewan Rakyat",
-    "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
-    "logoText": "RTM",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://rtmparlimen.rtm.gov.my/"
-  },
-  {
-    "id": "SelangorTV.my",
-    "name": "SelangorTV",
-    "logo": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
-    "logoText": "SEL",
-    "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://selangortv.my/"
-  },
-  {
-    "id": "SukanRTM.my",
-    "name": "Sukan RTM",
-    "logo": "https://i.imgur.com/1pYYSu2.png",
-    "logoText": "SUK",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: http://www.rtm.gov.my/"
-  },
-  {
-    "id": "SukeTV.my",
-    "name": "Suke TV",
-    "logo": "https://i.imgur.com/hCwH3s0.png",
-    "logoText": "SUK",
-    "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://suketv.com/"
-  },
-  {
-    "id": "TV1.my",
-    "name": "TV1",
-    "logo": "https://i.imgur.com/wSyPmiY.png",
-    "logoText": "TV1",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
-  },
-  {
-    "id": "TV2.my",
-    "name": "TV2",
-    "logo": "https://i.imgur.com/LGEdeyJ.png",
-    "logoText": "TV2",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
-  },
-  {
-    "id": "TV6.my",
-    "name": "TV6",
-    "logo": "https://i.imgur.com/bK8UH9D.png",
-    "logoText": "TV6",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
-  },
-  {
-    "id": "TV9.my",
-    "name": "TV9",
-    "logo": "https://i.imgur.com/Krh1F8d.png",
-    "logoText": "TV9",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A. Website: https://www.xtra.com.my/"
-  },
-  {
-    "id": "TVIKIM.my",
-    "name": "TVIKIM",
-    "logo": "https://i.imgur.com/X6JKNEE.png",
-    "logoText": "TVI",
-    "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "MY",
-    "countryName": "Malaysia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Malaysia. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   }
 ]

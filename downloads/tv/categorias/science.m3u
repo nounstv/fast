@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BZ9ohjnwvpwyuR" tvg-name="Cosmos TV" group-title="Science" tvg-country="PY",Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="vGCm6ufhO0hHv0" tvg-name="MediBizTV" group-title="Science" tvg-country="IN",MediBizTV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="JLRlLiosJOhAzH" tvg-name="UMSA TVU Internacional" group-title="Science" tvg-country="BO",UMSA TVU Internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="M9HwvmHmrMZElD" tvg-name="Wonder" group-title="Science" tvg-country="UK",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8

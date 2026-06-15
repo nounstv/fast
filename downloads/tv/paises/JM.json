@@ -1,122 +1,14 @@
 [
   {
-    "id": "BlessTV.jm",
-    "name": "Bless TV",
-    "logo": "https://i.imgur.com/USshSMj.png",
-    "logoText": "BLE",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=V3yg36zq5AW",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "streams": [
-      {
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=V3yg36zq5AW",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "JM",
-    "countryName": "Jamaica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jamaica. Language: N/A. Website: http://blesstvjm.org/"
-  },
-  {
-    "id": "Fame95FM.jm",
-    "name": "Fame95 FM",
-    "logo": "https://i.imgur.com/n3PUxes.png",
-    "logoText": "FAM",
-    "url": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "JM",
-    "countryName": "Jamaica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jamaica. Language: N/A. Website: https://www.fame95fm.com/"
-  },
-  {
-    "id": "JamaicaOnlineTV.jm",
-    "name": "Jamaica Online TV",
-    "logo": "https://i.imgur.com/Aw9u4Ax.png",
-    "logoText": "JAM",
-    "url": "https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "JM",
-    "countryName": "Jamaica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jamaica. Language: N/A. Website: https://jamaicaonlinetv.com/"
-  },
-  {
-    "id": "MercyandTruthMinistriesTelevision.jm",
-    "name": "Mercy and Truth Ministries Television",
-    "logo": "https://i.imgur.com/krcVhrx.png",
-    "logoText": "MER",
-    "url": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "JM",
-    "countryName": "Jamaica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jamaica. Language: N/A. Website: https://www.mercyandtruth.tv/"
-  },
-  {
-    "id": "TVJ.jm",
+    "tvgId": "BeW3PAeEGZgHvP",
     "name": "TVJ",
-    "logo": "https://i.imgur.com/R4PoC3L.png",
-    "logoText": "TVJ",
+    "originalName": "TVJ",
     "url": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "JM",
-    "countryName": "Jamaica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Jamaica. Language: N/A. Website: https://www.televisionjamaica.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,1465 +1,518 @@
 [
   {
-    "id": "360RFTV.cr",
-    "name": "360 RFTV",
-    "logo": "https://i.imgur.com/EBtgnxR.png",
-    "logoText": "360",
-    "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://riofriotv.com/"
-  },
-  {
-    "id": "88Stereo.cr",
-    "name": "88 Stereo",
-    "logo": "https://i.imgur.com/i3YwORV.png",
-    "logoText": "88 ",
-    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.88stereo.com/"
-  },
-  {
-    "id": "AgrotendenciaTV.cr",
-    "name": "Agrotendencia TV",
-    "logo": "https://i.imgur.com/frd60hR.png",
-    "logoText": "AGR",
-    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Outdoor",
-    "categories": [
-      "outdoor"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://agrotendencia.tv/en-directo/"
-  },
-  {
-    "id": "AntenaSeisTV.cr",
-    "name": "Antena Seis TV",
-    "logo": "https://i.imgur.com/9Nh2mo9.png",
-    "logoText": "ANT",
-    "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.antenaseis.com/"
-  },
-  {
-    "id": "BestClasicosTV.cr",
-    "name": "BestClasicosTV",
-    "logo": "https://i.imgur.com/a/BRb8AVL.png",
-    "logoText": "BES",
-    "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.mediosdecostarica.com/2025/07/best-clasicos-tv.html"
-  },
-  {
-    "id": "Canal1.cr",
-    "name": "Canal 1",
-    "logo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
-    "logoText": "CAN",
-    "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://canal1cr.com/"
-  },
-  {
-    "id": "Canal10.cr",
-    "name": "Canal 10",
-    "logo": "https://i.imgur.com/TO6WQbW.png",
-    "logoText": "CAN",
-    "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "Canal11.cr",
-    "name": "Canal 11",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
-    "logoText": "CAN",
-    "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.repretel.com/"
-  },
-  {
-    "id": "Canal2.cr",
-    "name": "Canal 2",
-    "logo": "https://i.imgur.com/Nn8BtH5.png",
-    "logoText": "CAN",
-    "url": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.repretel.com/envivo-canal2/"
-  },
-  {
-    "id": "Canal3KMKTV.cr",
-    "name": "Canal 3 KMK TV",
-    "logo": "https://i.imgur.com/sgRDRBK.jpg",
-    "logoText": "CAN",
-    "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "Canal4.cr",
-    "name": "Canal 4",
-    "logo": "https://i.imgur.com/5arZEgO.png",
-    "logoText": "CAN",
-    "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.repretel.com/"
-  },
-  {
-    "id": "Canal6.cr",
-    "name": "Canal 6",
-    "logo": "https://i.imgur.com/nfKJftW.png",
-    "logoText": "CAN",
-    "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.repretel.com/"
-  },
-  {
-    "id": "Canal8.cr",
-    "name": "Canal 8",
-    "logo": "https://i.imgur.com/nefPi2Y.png",
-    "logoText": "CAN",
-    "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.telediario.cr/television"
-  },
-  {
-    "id": "CartagoMediosTV.cr",
-    "name": "Cartago Medios TV",
-    "logo": "https://i.imgur.com/Vcd40AL.png",
-    "logoText": "CAR",
-    "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://cartagomedios.com/"
-  },
-  {
-    "id": "ColosalTV.cr",
-    "name": "Colosal TV",
-    "logo": "https://i.imgur.com/0DZB3eB.png",
-    "logoText": "COL",
-    "url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://colosalstereo.com/"
-  },
-  {
-    "id": "CostaRicaChannel.cr",
-    "name": "Costa Rica Channel",
-    "logo": "https://i.imgur.com/N4pFVVF.png",
-    "logoText": "COS",
-    "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "travel"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://costaricachannel.org/"
-  },
-  {
-    "id": "CotoBrusTV.cr",
-    "name": "Coto Brus TV",
-    "logo": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
-    "logoText": "COT",
-    "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "Enlace.cr",
-    "name": "Enlace",
-    "logo": "https://i.imgur.com/YwUVTmS.png",
-    "logoText": "ENL",
-    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.enlace.org/"
-  },
-  {
-    "id": "ExtremaKidsTV.cr",
-    "name": "Extrema Kids TV",
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
-    "logoText": "EXT",
-    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Animation",
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://extrematv.org/extrema-kids"
-  },
-  {
-    "id": "ExtremaTV.cr",
-    "name": "Extrema TV",
-    "logo": "https://i.imgur.com/E9AuhOU.png",
-    "logoText": "EXT",
-    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://extrematv.org/"
-  },
-  {
-    "id": "GAMTVcr.cr",
-    "name": "GAMTV.cr",
-    "logo": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
-    "logoText": "GAM",
-    "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://gamtvcr.com/"
-  },
-  {
-    "id": "GarabitoTV.cr",
-    "name": "Garabito TV",
-    "logo": "https://i.imgur.com/sAYNKJ8.png",
-    "logoText": "GAR",
-    "url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://garabitotv.com/"
-  },
-  {
-    "id": "GexTV.cr",
-    "name": "Gex TV",
-    "logo": "https://gextv.com/LOGO-WHITE.png",
-    "logoText": "GEX",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music",
-      "entertainment"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://gextv.com/"
-  },
-  {
-    "id": "IQChannel.cr",
-    "name": "IQ Channel",
-    "logo": "https://i.imgur.com/hwuaomt.png",
-    "logoText": "IQ ",
-    "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "LimonTV.cr",
-    "name": "Limon TV",
-    "logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
-    "logoText": "LIM",
-    "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.limonhoy.com"
-  },
-  {
-    "id": "LosSantosTV.cr",
-    "name": "Los Santos TV",
-    "logo": "https://i.imgur.com/5xw86wu.png",
-    "logoText": "LOS",
-    "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.lossantostv.com/"
-  },
-  {
-    "id": "NicoyaTV.cr",
-    "name": "NicoyaTV",
-    "logo": "https://i.imgur.com/Lj2jRn3.png",
-    "logoText": "NIC",
-    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.nicoyatv.com/"
-  },
-  {
-    "id": "NorteInformativoTV.cr",
-    "name": "Norte Informativo TV",
-    "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
-    "logoText": "NOR",
-    "url": "https://videohd.live:19360/8076/8076.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://videohd.live:19360/8076/8076.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://norteinformativo.com/"
-  },
-  {
-    "id": "QuinceUCR.cr",
-    "name": "Quince UCR",
-    "logo": "https://i.imgur.com/U7DUlem.png",
-    "logoText": "QUI",
-    "url": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.quinceucr.tv/"
-  },
-  {
-    "id": "RadioTurrialbaTVSports.cr",
-    "name": "Radio Turrialba TV Sports",
-    "logo": "https://i.imgur.com/2ZcUXbE.png",
-    "logoText": "RAD",
-    "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "RetroxTV.cr",
-    "name": "Retrox TV",
-    "logo": "https://i.imgur.com/viJBL6f.png",
-    "logoText": "RET",
-    "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Classic",
-    "categories": [
-      "classic"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://retroxtv.com/"
-  },
-  {
-    "id": "RTTV.cr",
-    "name": "RTTV",
-    "logo": "https://i.imgur.com/eTfsCCq.png",
-    "logoText": "RTT",
-    "url": "https://cloudvideo.servers10.com:19360/8212/8212.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:19360/8212/8212.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.radioturrialba.com/"
-  },
-  {
-    "id": "RTVChirripo.cr",
-    "name": "RTV Chirripo",
-    "logo": "https://i.imgur.com/XWmwwbj.jpg",
-    "logoText": "RTV",
-    "url": "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://radiotvchirripo.com/"
-  },
-  {
-    "id": "SanJoseTV.cr",
-    "name": "San Jose TV",
-    "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
-    "logoText": "SAN",
-    "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "SarapiquiTV.cr",
-    "name": "Sarapiqui TV",
-    "logo": "https://i.imgur.com/obTnd32.png",
-    "logoText": "SAR",
-    "url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://lstv.duckdns.org:449/hls/stv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.sarapiquitvcr.com/"
-  },
-  {
-    "id": "SOYPlanchaTV.cr",
-    "name": "SOY Plancha TV",
-    "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
-    "logoText": "SOY",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://soyplancha.tv/"
-  },
-  {
-    "id": "SuperCable.cr",
-    "name": "Super Cable",
-    "logo": "https://i.imgur.com/KYtJp8F.png",
-    "logoText": "SUP",
-    "url": "http://191.102.39.254:5000/live/5up3r5/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://191.102.39.254:5000/live/5up3r5/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.supercable.co.cr/"
-  },
-  {
-    "id": "TDtv.cr",
-    "name": "TDtv",
-    "logo": "https://i.imgur.com/OFSOvpd.jpg",
-    "logoText": "TDT",
-    "url": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://cloudvideo.servers10.com/public/8230"
-  },
-  {
-    "id": "TeleUno.cr",
-    "name": "Tele Uno",
-    "logo": "https://i.imgur.com/eRwYxc2.png",
-    "logoText": "TEL",
-    "url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "TeleBrunca.cr",
-    "name": "TeleBrunca",
-    "logo": "https://i.imgur.com/m3xu6Ms.png",
-    "logoText": "TEL",
-    "url": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.cablebruncacr.com/telebrunca"
-  },
-  {
-    "id": "Telefides.cr",
-    "name": "Telefides",
-    "logo": "https://i.ibb.co/yn5M8dw/telefides-costa-rica.png",
-    "logoText": "TEL",
-    "url": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://telefides.com/"
-  },
-  {
-    "id": "TeleMas.cr",
-    "name": "TeleMas",
-    "logo": "https://i.imgur.com/5Rc8mA5.png",
-    "logoText": "TEL",
-    "url": "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://telemascr.com/"
-  },
-  {
-    "id": "TeleredTelevision.cr",
-    "name": "Telered Television",
-    "logo": "https://i.imgur.com/cIvfnsa.jpg",
-    "logoText": "TEL",
-    "url": "https://k20.usastreams.com:8081/telered/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://k20.usastreams.com:8081/telered/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://teleredtelevision.com/"
-  },
-  {
-    "id": "TeleSURCostaRica.cr",
-    "name": "TeleSUR Costa Rica",
-    "logo": "https://i.imgur.com/KUpgeOf.png",
-    "logoText": "TEL",
-    "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "Teletica7.cr",
-    "name": "Teletica 7",
-    "logo": "https://i.imgur.com/ctnvE3c.png",
-    "logoText": "TEL",
-    "url": "https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.teletica.com/"
-  },
-  {
-    "id": "TicaVision.cr",
-    "name": "TicaVision",
-    "logo": "https://i.imgur.com/mev90pC.jpg",
-    "logoText": "TIC",
-    "url": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://ticavisiontv.com/"
-  },
-  {
-    "id": "TigoSports.cr",
-    "name": "Tigo Sports",
-    "logo": "https://i.imgur.com/UrsLSRs.png",
-    "logoText": "TIG",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.tigosports.cr/"
-  },
-  {
-    "id": "Trivision36.cr",
-    "name": "Trivision 36",
-    "logo": "https://i.imgur.com/aadWnIx.jpg",
-    "logoText": "TRI",
-    "url": "https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "streams": [
-      {
-        "url": "https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://trivision36.com/"
-  },
-  {
-    "id": "TVSurCanal14.cr",
-    "name": "TV Sur Canal 14",
-    "logo": "https://i.imgur.com/OpHYYZA.png",
-    "logoText": "TV ",
-    "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "TVSurCanal9.cr",
-    "name": "TV Sur Canal 9",
-    "logo": "https://i.imgur.com/7HbISMV.png",
-    "logoText": "TV ",
-    "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "TVN14.cr",
-    "name": "TVN 14",
-    "logo": "https://i.imgur.com/1aNEo6U.png",
-    "logoText": "TVN",
-    "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://www.tvn14.com/"
-  },
-  {
-    "id": "UrbanoTV.cr",
-    "name": "Urbano TV",
-    "logo": "https://i.imgur.com/KVVU9PI.png",
-    "logoText": "URB",
-    "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://urbanotvcr.com/"
-  },
-  {
-    "id": "VideoTourChannel.cr",
-    "name": "Video Tour Channel",
-    "logo": "https://i.imgur.com/zEi8eMC.png",
-    "logoText": "VID",
-    "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://videotourchannel.com/"
-  },
-  {
-    "id": "VintageMusic.cr",
-    "name": "Vintage Music",
-    "logo": "https://i.imgur.com/KImqYnN.jpeg",
-    "logoText": "VIN",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A."
-  },
-  {
-    "id": "VMLatino.cr",
-    "name": "VM Latino",
-    "logo": "https://i.imgur.com/Dvo1b82.png",
-    "logoText": "VM ",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://vmlatino.com/"
-  },
-  {
-    "id": "VoiceOverRadioTV.cr",
-    "name": "VoiceOver Radio TV",
-    "logo": "https://i.imgur.com/HzGs1Eh.png",
-    "logoText": "VOI",
-    "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.voiceovercr.com/V.O.R.%20TV-Live.html"
-  },
-  {
-    "id": "ZonaMusicTV.cr",
-    "name": "Zona Music TV",
-    "logo": "https://i.imgur.com/TJ5l9iI.png",
-    "logoText": "ZON",
-    "url": "https://acceso.radiosportstv.online:3022/stream/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://acceso.radiosportstv.online:3022/stream/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://zonamusictvcr.wixsite.com/misitio"
-  },
-  {
-    "id": "ZurquiTV.cr",
-    "name": "Zurqui TV",
-    "logo": "https://i.imgur.com/XvktUBB.jpg",
-    "logoText": "ZUR",
-    "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: http://zurquitv.com/"
-  },
-  {
-    "id": "OPA.cr",
+    "tvgId": "fp34BcAXOlbIfX",
     "name": "¡OPA!",
-    "logo": "https://i.imgur.com/300c1ZH.png",
-    "logoText": "¡OP",
+    "originalName": "¡OPA!",
     "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "CR",
-    "countryName": "Costa Rica",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Costa Rica. Language: N/A. Website: https://www.genteopa.com/"
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "3gZO8yQ0WOkQ8B",
+    "name": "88 Stereo",
+    "originalName": "88 Stereo",
+    "url": "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "LA4o1ry7L0C9al",
+    "name": "360 RFTV",
+    "originalName": "360 RFTV",
+    "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "H8TtlIKgrW2bwo",
+    "name": "Antena Seis TV",
+    "originalName": "Antena Seis TV",
+    "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
+    "originalName": "BestClasicosTV",
+    "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "originalName": "Canal 1",
+    "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "originalName": "Canal 3 KMK TV",
+    "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "lhFBUBQYMx1tnO",
+    "name": "Canal 10",
+    "originalName": "Canal 10",
+    "url": "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
+    "originalName": "Canal 17 TV Nosara",
+    "url": "https://latamvdo.com:3870/hybrid/play.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "O4M3Z3Jo7F6qrX",
+    "name": "Cartago Medios TV",
+    "originalName": "Cartago Medios TV",
+    "url": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "bK2TlT0v8UWAuh",
+    "name": "Colosal TV",
+    "originalName": "Colosal TV",
+    "url": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "0QTowwNml7pc3D",
+    "name": "Costa Rica Channel",
+    "originalName": "Costa Rica Channel",
+    "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+    "logo": "",
+    "category": "Travel",
+    "originalCategory": "Travel",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "wXST2Lc3NQDzOF",
+    "name": "Coto Brus TV",
+    "originalName": "Coto Brus TV",
+    "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "originalName": "Enlace",
+    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
+    "originalName": "Extrema Kids TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "logo": "",
+    "category": "Kids",
+    "originalCategory": "Kids",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "g2oDIGkwBMwsy6",
+    "name": "Extrema TV",
+    "originalName": "Extrema TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "WGsDfHy5YE0QGF",
+    "name": "GAMTV.cr",
+    "originalName": "GAMTV.cr",
+    "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GD6GIT9MV0x6kz",
+    "name": "Garabito TV",
+    "originalName": "Garabito TV",
+    "url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
+    "originalName": "Gex TV",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
+    "originalName": "IQ Channel",
+    "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "YEWQw0DloTzS1o",
+    "name": "Limon TV",
+    "originalName": "Limon TV",
+    "url": "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
+    "originalName": "Los Santos TV",
+    "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "L1OBT7Lnf5SKDh",
+    "name": "NicoyaTV",
+    "originalName": "NicoyaTV",
+    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "4hISVyUvSKd79p",
+    "name": "Norte Informativo TV",
+    "originalName": "Norte Informativo TV",
+    "url": "https://videohd.live:19360/8076/8076.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "gVTlfz80oD0tzA",
+    "name": "Quince UCR",
+    "originalName": "Quince UCR",
+    "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "originalName": "Retrox TV",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "logo": "",
+    "category": "Classic",
+    "originalCategory": "Classic",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "HYkbd92n6SC6wf",
+    "name": "San Jose TV",
+    "originalName": "San Jose TV",
+    "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
+    "originalName": "Sarapiqui TV",
+    "url": "https://lstv.duckdns.org:449/hls/stv.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "originalName": "SOY Plancha TV",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "TBkO2VeN8pxR9c",
+    "name": "TDtv",
+    "originalName": "TDtv",
+    "url": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "djrpK6AnIX1OhR",
+    "name": "Tele Uno",
+    "originalName": "Tele Uno",
+    "url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "originalName": "TeleBrunca",
+    "url": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
+    "originalName": "Telefides",
+    "url": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "0dNDSI0p6Xtcvm",
+    "name": "TeleMas",
+    "originalName": "TeleMas",
+    "url": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "nCrZkPwSbsCSnz",
+    "name": "Telered Television",
+    "originalName": "Telered Television",
+    "url": "https://k20.usastreams.com:8081/telered/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "aeI6TVNDKNvZiP",
+    "name": "TeleSUR Costa Rica",
+    "originalName": "TeleSUR Costa Rica",
+    "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "originalName": "TicaVision",
+    "url": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Y3sTV1ejuknKgG",
+    "name": "TV Sur Canal 14",
+    "originalName": "TV Sur Canal 14",
+    "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "originalName": "Urbano TV",
+    "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "originalName": "Video Tour Channel",
+    "url": "https://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "originalName": "Vintage Music",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "originalName": "VM Latino",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "logo": "",
+    "category": "Music",
+    "originalCategory": "Music",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1lxmOusZyEa4Zg",
+    "name": "Zurqui TV",
+    "originalName": "Zurqui TV",
+    "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "CR",
+    "type": "live",
+    "source": "famelack"
   }
 ]

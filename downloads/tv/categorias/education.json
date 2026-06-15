@@ -1,1419 +1,974 @@
 [
   {
-    "id": "2iEMu7y7Pfmad9",
+    "tvgId": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
+    "originalName": "Al Hiwar TV",
     "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: ara.",
-    "logoText": "AL ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IJpns8FI8lNpRr",
+    "tvgId": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
+    "originalName": "ARD-alpha",
     "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "ARD",
-    "streamCount": 1,
-    "allStreams": [
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5ZGnLxWOqASmvp",
+    "tvgId": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
+    "originalName": "Asharq Discovery",
     "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "SA",
-    "countryName": "Saudi Arabia",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Saudi Arabia. Idioma: ara.",
-    "logoText": "ASH",
-    "streamCount": 1,
-    "allStreams": [
-      "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "7vuNKG15VuJZNX",
+    "tvgId": "7vuNKG15VuJZNX",
     "name": "Campus TV",
+    "originalName": "Campus TV",
     "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "HN",
-    "countryName": "Honduras",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Honduras. Idioma: spa.",
-    "logoText": "CAM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "7nyUSJn5aAWm7k",
+    "tvgId": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
+    "originalName": "Canal Educacao",
     "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "kmgZCVMju22EeN",
+    "tvgId": "kmgZCVMju22EeN",
     "name": "Canal Educativo",
+    "originalName": "Canal Educativo",
     "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "CU",
-    "countryName": "Cuba",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Cuba. Idioma: spa.",
-    "logoText": "CAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tv.picta.cu/educativo/educativo_0.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "p0zKKJn9B3MYSH",
+    "tvgId": "p0zKKJn9B3MYSH",
     "name": "CFTU-DT",
+    "originalName": "CFTU-DT",
     "url": "https://hls.savoir.media/live/stream.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "CA",
-    "countryName": "Canada",
-    "languages": [
-      "fra"
-    ],
-    "description": "Canal de TV de Canada. Idioma: fra.",
-    "logoText": "CFT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://hls.savoir.media/live/stream.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Sb9t7HbJFX4dw4",
+    "tvgId": "Sb9t7HbJFX4dw4",
     "name": "Ciftci TV",
+    "originalName": "Ciftci TV",
     "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TR",
-    "countryName": "Türkiye",
-    "languages": [
-      "tur"
-    ],
-    "description": "Canal de TV de Türkiye. Idioma: tur.",
-    "logoText": "CIF",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "pXvSXoe4kL9IM4",
+    "tvgId": "pXvSXoe4kL9IM4",
     "name": "Classic Arts Showcase",
+    "originalName": "Classic Arts Showcase",
     "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CLA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "fT1CQ25imNXXMk",
+    "tvgId": "fT1CQ25imNXXMk",
     "name": "Cloudflare TV",
+    "originalName": "Cloudflare TV",
     "url": "https://cloudflare.tv/hls/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CLO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cloudflare.tv/hls/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "j4D1370IbcmDeK",
+    "tvgId": "j4D1370IbcmDeK",
     "name": "CMAC 2",
+    "originalName": "CMAC 2",
     "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CMA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "EHP7r0Fg5OJVXF",
+    "tvgId": "EHP7r0Fg5OJVXF",
     "name": "Create",
+    "originalName": "Create",
     "url": "https://create.lls.pbs.org/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CRE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://create.lls.pbs.org/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sDj67ih6xvn8ol",
+    "tvgId": "sDj67ih6xvn8ol",
     "name": "CreaTV Channel 28",
+    "originalName": "CreaTV Channel 28",
     "url": "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CRE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "bzf3dBvi0fNXti",
+    "tvgId": "bzf3dBvi0fNXti",
     "name": "CVC Education",
+    "originalName": "CVC Education",
     "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "CVC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "YTVWjtiueoaZQc",
+    "tvgId": "YTVWjtiueoaZQc",
     "name": "Da Vinci Asia Vietnam",
+    "originalName": "Da Vinci Asia Vietnam",
     "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "VN",
-    "countryName": "Vietnam",
-    "languages": [
-      "eng",
-      "vie"
-    ],
-    "description": "Canal de TV de Vietnam. Idioma: eng, vie.",
-    "logoText": "DA ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "eLA4bv6WnWPRvW",
+    "tvgId": "eLA4bv6WnWPRvW",
     "name": "DKN",
+    "originalName": "DKN",
     "url": "https://video.oct.dc.gov/out/u/DKN.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "DKN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZPk578ujZjTXPa",
+    "tvgId": "ZPk578ujZjTXPa",
     "name": "DLTV 1",
+    "originalName": "DLTV 1",
     "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FH7NvrC8IdGbek",
+    "tvgId": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
+    "originalName": "DLTV 2",
     "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Z2nBboETrkSzIa",
+    "tvgId": "Z2nBboETrkSzIa",
     "name": "DLTV 3",
+    "originalName": "DLTV 3",
     "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "28rjnzXjPjea82",
+    "tvgId": "28rjnzXjPjea82",
     "name": "DLTV 4",
+    "originalName": "DLTV 4",
     "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RfFYZpw2B1Tu6O",
+    "tvgId": "RfFYZpw2B1Tu6O",
     "name": "DLTV 5",
+    "originalName": "DLTV 5",
     "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "SBNkYWrTHUHlU6",
+    "tvgId": "SBNkYWrTHUHlU6",
     "name": "DLTV 6",
+    "originalName": "DLTV 6",
     "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5n7uTj1v7KJgAK",
+    "tvgId": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
+    "originalName": "DLTV 7",
     "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AtqNekEK9bqlpP",
+    "tvgId": "AtqNekEK9bqlpP",
     "name": "DLTV 8",
+    "originalName": "DLTV 8",
     "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ReBKejReML00hL",
+    "tvgId": "ReBKejReML00hL",
     "name": "DLTV 9",
+    "originalName": "DLTV 9",
     "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "J2tWh2yACsVBKq",
+    "tvgId": "J2tWh2yACsVBKq",
     "name": "DLTV 10",
+    "originalName": "DLTV 10",
     "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "1UZOek5lIzCih6",
+    "tvgId": "1UZOek5lIzCih6",
     "name": "DLTV 11",
+    "originalName": "DLTV 11",
     "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9tRf46L4LZNOGa",
+    "tvgId": "9tRf46L4LZNOGa",
     "name": "DLTV 12",
+    "originalName": "DLTV 12",
     "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZPUnfb9kCWJfnO",
+    "tvgId": "ZPUnfb9kCWJfnO",
     "name": "DLTV 13",
+    "originalName": "DLTV 13",
     "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv13.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "i5UXCyXzVkJ6Kf",
+    "tvgId": "i5UXCyXzVkJ6Kf",
     "name": "DLTV 14",
+    "originalName": "DLTV 14",
     "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv14.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sfr4boA9nNaI9M",
+    "tvgId": "sfr4boA9nNaI9M",
     "name": "DLTV 15",
+    "originalName": "DLTV 15",
     "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TH",
-    "countryName": "Thailand",
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "description": "Canal de TV de Thailand. Idioma: eng, tha.",
-    "logoText": "DLT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "IvsuFrM7fgKeFe",
+    "tvgId": "IvsuFrM7fgKeFe",
     "name": "EBS 1TV",
+    "originalName": "EBS 1TV",
     "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: kor.",
-    "logoText": "EBS",
-    "streamCount": 2,
-    "allStreams": [
-      "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-      "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "mMfQkG8CWfVeNj",
+    "tvgId": "mMfQkG8CWfVeNj",
     "name": "EBS 2TV",
+    "originalName": "EBS 2TV",
     "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: kor.",
-    "logoText": "EBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TH2UspcIuapB4I",
+    "tvgId": "TH2UspcIuapB4I",
     "name": "EBS English",
+    "originalName": "EBS English",
     "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "eng",
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: eng, kor.",
-    "logoText": "EBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "kn5TVoJjDEx7yb",
+    "tvgId": "kn5TVoJjDEx7yb",
     "name": "EBS Plus 1",
+    "originalName": "EBS Plus 1",
     "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: kor.",
-    "logoText": "EBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ODIhPYL5EPIjtl",
+    "tvgId": "ODIhPYL5EPIjtl",
     "name": "EBS Plus 2",
+    "originalName": "EBS Plus 2",
     "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "eng",
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: eng, kor.",
-    "logoText": "EBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sJtHUQ2FEosClO",
+    "tvgId": "sJtHUQ2FEosClO",
     "name": "Educa TV",
+    "originalName": "Educa TV",
     "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Ecuador. Idioma: spa.",
-    "logoText": "EDU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "DuJd4u0fDHyZVy",
+    "tvgId": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
+    "originalName": "Eduvision",
     "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "CO",
-    "countryName": "Colombia",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Colombia. Idioma: spa.",
-    "logoText": "EDU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Qo704xbyXZJTCe",
+    "tvgId": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
+    "originalName": "En Lengua de Senas TV",
     "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "PY",
-    "countryName": "Paraguay",
-    "languages": [
-      "spa",
-      "ssp"
-    ],
-    "description": "Canal de TV de Paraguay. Idioma: spa, ssp.",
-    "logoText": "EN ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "b9z8Esreszehk1",
+    "tvgId": "b9z8Esreszehk1",
     "name": "English Club TV",
+    "originalName": "English Club TV",
     "url": "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "UK",
-    "countryName": "United Kingdom",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United Kingdom. Idioma: eng.",
-    "logoText": "ENG",
-    "streamCount": 2,
-    "allStreams": [
-      "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
-      "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hdMP1gFBmOJ5tJ",
+    "tvgId": "hdMP1gFBmOJ5tJ",
     "name": "Gyandarshan",
+    "originalName": "Gyandarshan",
     "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "hin"
-    ],
-    "description": "Canal de TV de India. Idioma: hin.",
-    "logoText": "GYA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cdn-6.pishow.tv/live/14/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sb5v19pRAmTp7P",
+    "tvgId": "sb5v19pRAmTp7P",
     "name": "HTV Key",
+    "originalName": "HTV Key",
     "url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "VN",
-    "countryName": "Vietnam",
-    "languages": [
-      "vie"
-    ],
-    "description": "Canal de TV de Vietnam. Idioma: vie.",
-    "logoText": "HTV",
-    "streamCount": 1,
-    "allStreams": [
-      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "9NYf5msdVIxgC1",
+    "tvgId": "9NYf5msdVIxgC1",
     "name": "ILCE Canal 15 Summa Saberes",
+    "originalName": "ILCE Canal 15 Summa Saberes",
     "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "ILC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "wBMPZbYU5rhwEy",
+    "tvgId": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
+    "originalName": "iSTUFF",
     "url": "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "IST",
-    "streamCount": 1,
-    "allStreams": [
-      "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-    "category": "Education",
-    "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "IST",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ]
-  },
-  {
-    "id": "Pz1CuDeSJYHivR",
+    "tvgId": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
+    "originalName": "Jalisco TV",
     "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "JAL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Su2JotqrpBqWFz",
+    "tvgId": "Su2JotqrpBqWFz",
     "name": "KCAT",
+    "originalName": "KCAT",
     "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "KCA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "gd2Fi6EkFmVQHE",
+    "tvgId": "gd2Fi6EkFmVQHE",
     "name": "Kite Victers",
+    "originalName": "Kite Victers",
     "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "mal"
-    ],
-    "description": "Canal de TV de India. Idioma: mal.",
-    "logoText": "KIT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "FbWSenBaWBJHNe",
+    "tvgId": "FbWSenBaWBJHNe",
     "name": "KMOS-TV 6.1",
+    "originalName": "KMOS-TV 6.1",
     "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "KMO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ttd3hwX2ADeiyl",
+    "tvgId": "ttd3hwX2ADeiyl",
     "name": "LA36",
+    "originalName": "LA36",
     "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LA3",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "HPKbjRLkFZzXAw",
+    "tvgId": "HPKbjRLkFZzXAw",
     "name": "Leominster TV Educational",
+    "originalName": "Leominster TV Educational",
     "url": "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "LEO",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xx7eina1wOQhnp",
+    "tvgId": "xx7eina1wOQhnp",
     "name": "MCN6 Arts Channel",
+    "originalName": "MCN6 Arts Channel",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MCN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "tqCNZa0HLCee0u",
+    "tvgId": "tqCNZa0HLCee0u",
     "name": "Midpen Media Center Channel 28",
+    "originalName": "Midpen Media Center Channel 28",
     "url": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MID",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ZPgJUziKYvsqXI",
+    "tvgId": "ZPgJUziKYvsqXI",
     "name": "Monroe Community Media Education Channel",
+    "originalName": "Monroe Community Media Education Channel",
     "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "MON",
-    "streamCount": 1,
-    "allStreams": [
-      "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RnFrGKKVa14zlp",
+    "tvgId": "RnFrGKKVa14zlp",
     "name": "Nashua ETV",
+    "originalName": "Nashua ETV",
     "url": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "NAS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "1juHBAKtJpASKF",
+    "tvgId": "1juHBAKtJpASKF",
     "name": "Natick Education Channel",
+    "originalName": "Natick Education Channel",
     "url": "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "NAT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "miOqdRnG0LrRce",
+    "tvgId": "miOqdRnG0LrRce",
     "name": "NBS",
+    "originalName": "NBS",
     "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [
-      "kor"
-    ],
-    "description": "Canal de TV de South Korea. Idioma: kor.",
-    "logoText": "NBS",
-    "streamCount": 1,
-    "allStreams": [
-      "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "dYt045ogXamqS6",
+    "tvgId": "dYt045ogXamqS6",
     "name": "NRWision",
+    "originalName": "NRWision",
     "url": "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "DE",
-    "countryName": "Germany",
-    "languages": [
-      "deu"
-    ],
-    "description": "Canal de TV de Germany. Idioma: deu.",
-    "logoText": "NRW",
-    "streamCount": 1,
-    "allStreams": [
-      "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qHPud6QAjClK6g",
+    "tvgId": "qHPud6QAjClK6g",
     "name": "Palestine Edu",
+    "originalName": "Palestine Edu",
     "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "PS",
-    "countryName": "Palestine",
-    "languages": [
-      "ara"
-    ],
-    "description": "Canal de TV de Palestine. Idioma: ara.",
-    "logoText": "PAL",
-    "streamCount": 1,
-    "allStreams": [
-      "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "mIqvcrNhrJUtN4",
+    "tvgId": "mIqvcrNhrJUtN4",
     "name": "PBS National East",
+    "originalName": "PBS National East",
     "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "PBS",
-    "streamCount": 2,
-    "allStreams": [
-      "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
-      "https://pbs.lls.cdn.pbs.org/pst/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "plcbFbhZX5D3nx",
+    "tvgId": "plcbFbhZX5D3nx",
     "name": "Persiana Medical",
+    "originalName": "Persiana Medical",
     "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "IR",
-    "countryName": "Iran",
-    "languages": [
-      "fas"
-    ],
-    "description": "Canal de TV de Iran. Idioma: fas.",
-    "logoText": "PER",
-    "streamCount": 2,
-    "allStreams": [
-      "https://phd2hls.persiana.live/hls/stream.m3u8",
-      "https://tfnhls.wns.live/hls/stream.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "I0DVGAmN7OWX0l",
+    "tvgId": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
+    "originalName": "Platzi TV",
     "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "ES",
-    "countryName": "Spain",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Spain. Idioma: spa.",
-    "logoText": "PLA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "uOeqeeP7q9Tix0",
+    "tvgId": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
+    "originalName": "Red Apple 21",
     "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "RED",
-    "streamCount": 1,
-    "allStreams": [
-      "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "sI8hLOEw48l5jP",
+    "tvgId": "sI8hLOEw48l5jP",
     "name": "Santa Cecilia TV",
+    "originalName": "Santa Cecilia TV",
     "url": "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "SAN",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "xT4SS5ryo4F6PC",
+    "tvgId": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
+    "originalName": "SMCTV Channel 24",
     "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "SMC",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "3JgrZVIyLGdoxu",
+    "tvgId": "3JgrZVIyLGdoxu",
     "name": "TRT EBA",
+    "originalName": "TRT EBA",
     "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "TR",
-    "countryName": "Türkiye",
-    "languages": [
-      "tur"
-    ],
-    "description": "Canal de TV de Türkiye. Idioma: tur.",
-    "logoText": "TRT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "t0egfkOjbwVtc1",
+    "tvgId": "t0egfkOjbwVtc1",
     "name": "TUTV",
+    "originalName": "TUTV",
     "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "TUT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "r1oGqxJA7bXTXS",
+    "tvgId": "r1oGqxJA7bXTXS",
     "name": "TV Maya",
+    "originalName": "TV Maya",
     "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "GT",
-    "countryName": "Guatemala",
-    "languages": [
-      "yua"
-    ],
-    "description": "Canal de TV de Guatemala. Idioma: yua.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "g7YtvRUN199O67",
+    "tvgId": "g7YtvRUN199O67",
     "name": "TV UG",
+    "originalName": "TV UG",
     "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "wbA0Ma6O1OQNwg",
+    "tvgId": "wbA0Ma6O1OQNwg",
     "name": "TV UJAT",
+    "originalName": "TV UJAT",
     "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "TV ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "eTCuy4QKHtum76",
+    "tvgId": "eTCuy4QKHtum76",
     "name": "TVE RS",
+    "originalName": "TVE RS",
     "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "BR",
-    "countryName": "Brazil",
-    "languages": [
-      "por"
-    ],
-    "description": "Canal de TV de Brazil. Idioma: por.",
-    "logoText": "TVE",
-    "streamCount": 1,
-    "allStreams": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "m3PpQXO8kJ3GQC",
+    "tvgId": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
+    "originalName": "TVK 2",
     "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KH",
-    "countryName": "Cambodia",
-    "languages": [
-      "khm"
-    ],
-    "description": "Canal de TV de Cambodia. Idioma: khm.",
-    "logoText": "TVK",
-    "streamCount": 1,
-    "allStreams": [
-      "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "jzeCGcHiZBHblX",
+    "tvgId": "jzeCGcHiZBHblX",
     "name": "UCTV",
+    "originalName": "UCTV",
     "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "UCT",
-    "streamCount": 1,
-    "allStreams": [
-      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "uhXaKy0zwMPJAb",
+    "tvgId": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
+    "originalName": "UNIANDES TV",
     "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "EC",
-    "countryName": "Ecuador",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Ecuador. Idioma: spa.",
-    "logoText": "UNI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "vvLSrEdftAhFqe",
+    "tvgId": "vvLSrEdftAhFqe",
     "name": "Vyas Channel",
+    "originalName": "Vyas Channel",
     "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "IN",
-    "countryName": "India",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de India. Idioma: eng.",
-    "logoText": "VYA",
-    "streamCount": 1,
-    "allStreams": [
-      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "JliijnACP4jH0u",
+    "tvgId": "JliijnACP4jH0u",
     "name": "Wiki TV",
+    "originalName": "Wiki TV",
     "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "KH",
-    "countryName": "Cambodia",
-    "languages": [
-      "khm"
-    ],
-    "description": "Canal de TV de Cambodia. Idioma: khm.",
-    "logoText": "WIK",
-    "streamCount": 1,
-    "allStreams": [
-      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "yH37xpeaIkAvpZ",
+    "tvgId": "yH37xpeaIkAvpZ",
     "name": "WKMJ-TV 68.1",
+    "originalName": "WKMJ-TV 68.1",
     "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "WKM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "UPWLXwfzXbRgpH",
+    "tvgId": "UPWLXwfzXbRgpH",
     "name": "World Channel",
+    "originalName": "World Channel",
     "url": "https://world.lls.pbs.org/index.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "WOR",
-    "streamCount": 1,
-    "allStreams": [
-      "https://world.lls.pbs.org/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "qY3In36TCPaQmA",
+    "tvgId": "qY3In36TCPaQmA",
     "name": "XEIPN-TDT",
+    "originalName": "XEIPN-TDT",
     "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "XEI",
-    "streamCount": 1,
-    "allStreams": [
-      "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "5X15DRPWWS1LoX",
+    "tvgId": "5X15DRPWWS1LoX",
     "name": "XHMNL-TDT",
+    "originalName": "XHMNL-TDT",
     "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "XHM",
-    "streamCount": 1,
-    "allStreams": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MvxVdnZ8G06Wbd",
+    "tvgId": "MvxVdnZ8G06Wbd",
     "name": "XHPBZC-TDT2",
+    "originalName": "XHPBZC-TDT2",
     "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "XHP",
-    "streamCount": 1,
-    "allStreams": [
-      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "47o1HNzoeOQk95",
+    "tvgId": "47o1HNzoeOQk95",
     "name": "XHUNES-TDT",
+    "originalName": "XHUNES-TDT",
     "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "logo": "",
     "category": "Education",
+    "originalCategory": "Education",
     "country": "MX",
-    "countryName": "Mexico",
-    "languages": [
-      "spa"
-    ],
-    "description": "Canal de TV de Mexico. Idioma: spa.",
-    "logoText": "XHU",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]

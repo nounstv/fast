@@ -1,500 +1,554 @@
 [
   {
-    "id": "BHRT.ba",
-    "name": "BHRT",
-    "logo": "https://i.imgur.com/01bZ5rw.png",
-    "logoText": "BHR",
-    "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "tvgId": "Bht1.ba",
+    "name": "Bht 1",
+    "originalName": "BA: Bht 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2387.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3757.jpg?96052",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A."
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BHT1.ba",
-    "name": "BHT 1",
-    "logo": "https://i.imgur.com/LEwlEEE.png",
-    "logoText": "BHT",
-    "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1",
-    "streams": [
-      {
-        "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1"
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "FTV.ba",
+    "name": "FTV",
+    "originalName": "BA: FTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2380.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3748.png?23532",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://bhrt.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Federalnatelevizija.ba",
-    "name": "Federalna televizija",
-    "logo": "https://i.imgur.com/astdRrE.png",
-    "logoText": "FED",
-    "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "Obn.ba",
+    "name": "Obn",
+    "originalName": "BA: Obn",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2367.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/756.png?12534",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.federalna.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Hayat.ba",
-    "name": "Hayat",
-    "logo": "https://i.imgur.com/JugiLHM.png",
-    "logoText": "HAY",
-    "url": "http://158.180.39.89:5033/hayat.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://158.180.39.89:5033/hayat.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "NovaBh.ba",
+    "name": "Nova Bh",
+    "originalName": "BA: Nova Bh",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2351.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3746.png?34084",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HayatFolk.ba",
-    "name": "Hayat Folk",
-    "logo": "https://i.imgur.com/LteJva4.png",
-    "logoText": "HAY",
-    "url": "http://158.180.39.89:5033/folk.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://158.180.39.89:5033/folk.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "NovaHDBh.ba",
+    "name": "Nova HD Bh",
+    "originalName": "BA: Nova HD Bh",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2368.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3746.png?56194",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HayatMusic.ba",
-    "name": "Hayat Music",
-    "logo": "https://i.imgur.com/9p8q1yX.png",
-    "logoText": "HAY",
-    "url": "http://158.180.39.89:5033/music.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://158.180.39.89:5033/music.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "PinkBH.ba",
+    "name": "Pink BH",
+    "originalName": "BA: Pink BH",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2364.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3733.png?47471",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HayatPlus.ba",
-    "name": "Hayat Plus",
-    "logo": "https://i.imgur.com/NThsVzJ.png",
-    "logoText": "HAY",
-    "url": "http://158.180.39.89:5033/hayatplus.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://158.180.39.89:5033/hayatplus.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "Bn.ba",
+    "name": "Bn",
+    "originalName": "BA: Bn",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2386.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3760.png?34493",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Hayatovci.ba",
+    "tvgId": "N1.ba",
+    "name": "N 1",
+    "originalName": "BA: N 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/688683.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3909.png?77481",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Alternativna.ba",
+    "name": "Alternativna",
+    "originalName": "BA: Alternativna",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2389.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3755.jpg?49494",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TvSarajevo.ba",
+    "name": "Tv Sarajevo",
+    "originalName": "BA: Tv Sarajevo",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2354.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7714.jpg?86664",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RTVHB.ba",
+    "name": "RTVHB",
+    "originalName": "BA: RTVHB",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/564988.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3133.jpg?15967",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RTVSANAHD.ba",
+    "name": "RTV SANA HD",
+    "originalName": "BA: RTV SANA HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1598029.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14625.jpg?84550",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TvBugojno.ba",
+    "name": "Tv Bugojno",
+    "originalName": "BA: Tv Bugojno",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2355.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3732.png?77599",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Tv1.ba",
+    "name": "Tv 1",
+    "originalName": "BA: Tv 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2356.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3730.jpg?60700",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Sevdah.ba",
+    "name": "Sevdah",
+    "originalName": "BA: Sevdah",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2357.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8426.png?31286",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Tatabrada4K.ba",
+    "name": "Tatabrada 4K",
+    "originalName": "BA: Tatabrada 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/617493.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3133.jpg?15967",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Televizija5HD.ba",
+    "name": "Televizija 5 HD",
+    "originalName": "BA: Televizija 5 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/682499.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3133.jpg?15967",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Sehara.ba",
+    "name": "Sehara",
+    "originalName": "BA: Sehara",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2358.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3724.jpg?30630",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RtvZenica.ba",
+    "name": "Rtv Zenica",
+    "originalName": "BA: Rtv Zenica",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2359.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3146.png?68603",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RtvUsk.ba",
+    "name": "Rtv Usk",
+    "originalName": "BA: Rtv Usk",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2360.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3728.jpg?15734",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "RtrsPlus.ba",
+    "name": "Rtrs Plus",
+    "originalName": "BA: Rtrs Plus",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2361.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3728.jpg?15734",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Rtrs.ba",
+    "name": "Rtrs",
+    "originalName": "BA: Rtrs",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2362.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3728.jpg?15734",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PosavinaTV.ba",
+    "name": "Posavina TV",
+    "originalName": "BA: Posavina TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2363.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3735.jpg?67377",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "OtvValentino.ba",
+    "name": "Otv Valentino",
+    "originalName": "BA: Otv Valentino",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2365.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3731.png?53454",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HAYATTVHD.ba",
+    "name": "HAYAT TV HD",
+    "originalName": "BA: HAYAT TV HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2366.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3749.jpg?ver=77221",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NovaBHBackup.ba",
+    "name": "Nova BH Backup",
+    "originalName": "BA: Nova BH Backup",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2369.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3746.png?56194",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MtvIgman.ba",
+    "name": "Mtv Igman",
+    "originalName": "BA: Mtv Igman",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2370.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/6534.jpg?65714",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "K3Prnjavor.ba",
+    "name": "K3 Prnjavor",
+    "originalName": "BA: K3 Prnjavor",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2371.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8528.jpg?42022",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "IZVORNATV.ba",
+    "name": "IZVORNA TV",
+    "originalName": "BA: IZVORNA TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2372.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7784.jpg?22323",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "HitTelevizijaBrcko.ba",
+    "name": "Hit Televizija Brcko",
+    "originalName": "BA: Hit Televizija Brcko",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2373.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3190.jpg?35424",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Hayatovci.ba",
     "name": "Hayatovci",
-    "logo": "https://i.imgur.com/eqd3kvW.png",
-    "logoText": "HAY",
-    "url": "http://158.180.39.89:5033/hayatovci.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://158.180.39.89:5033/hayatovci.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalName": "BA: Hayatovci",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2374.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3743.png?31463",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.hayat.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "Kanal6.ba",
-    "name": "Kanal 6",
-    "logo": "https://i.imgur.com/GGhvR0l.png",
-    "logoText": "KAN",
-    "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "HayatPlus.ba",
+    "name": "Hayat Plus",
+    "originalName": "BA: Hayat Plus",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2376.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3744.png?43724",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://kanal6.ba/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MariaPlusVisionMedjugorje.ba",
-    "name": "Maria+Vision Medjugorje",
-    "logo": "https://i.imgur.com/xUOspBx.png",
-    "logoText": "MAR",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "HayatMusic.ba",
+    "name": "Hayat Music",
+    "originalName": "BA: Hayat Music",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2377.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3750.jpg?11814",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.mariavisionmedjugorje.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NTVICKakanj.ba",
+    "tvgId": "HayatFolk.ba",
+    "name": "Hayat Folk",
+    "originalName": "BA: Hayat Folk",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2378.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3745.jpg?83338",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "GlasDrine.ba",
+    "name": "Glas Drine",
+    "originalName": "BA: Glas Drine",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2379.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3747.png?28279",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FacetvHD.ba",
+    "name": "Face tv HD",
+    "originalName": "BA: Face tv HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2381.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3754.jpg?33875",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CITYTVTest.ba",
+    "name": "CITY TV Test",
+    "originalName": "BA: CITY TV Test",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2382.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?70006",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BnSat.ba",
+    "name": "Bn Sat",
+    "originalName": "BA: Bn Sat",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2384.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3751.png?3807",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BnMusic.ba",
+    "name": "Bn Music",
+    "originalName": "BA: Bn Music",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2385.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3752.png?93714",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlfaTv.ba",
+    "name": "Alfa Tv",
+    "originalName": "BA: Alfa Tv",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2390.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10774.png?9618",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "AlJezzeraBalkans.ba",
+    "name": "Al Jezzera Balkans",
+    "originalName": "BA: Al Jezzera Balkans",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/2391.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3367.jpg?10729",
+    "category": "Bh| Bosnia ᴴᴰ/ᴿᴬᵂ",
+    "originalCategory": "BH| BOSNIA ᴴᴰ/ᴿᴬᵂ",
+    "country": "BA",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "1iuIRvnoniSJBQ",
+    "name": "BHRT",
+    "originalName": "BHRT",
+    "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "BA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "1mg1i4tpsnA6yL",
+    "name": "Malta",
+    "originalName": "Malta",
+    "url": "https://webtvstream.bhtelecom.ba/malta.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
+    "country": "BA",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "yLVZgzeSuuMtfC",
     "name": "NTV IC Kakanj",
-    "logo": "https://i.imgur.com/EtaHm2P.png",
-    "logoText": "NTV",
+    "originalName": "NTV IC Kakanj",
     "url": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.ntvic.ba/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTRSplus.ba",
-    "name": "RTRS plus",
-    "logo": "https://i.imgur.com/k06WvYl.png",
-    "logoText": "RTR",
-    "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://plus.rtrs.tv/"
-  },
-  {
-    "id": "RTRSTV.ba",
-    "name": "RTRS TV",
-    "logo": "https://i.imgur.com/2Sgs5gM.png",
-    "logoText": "RTR",
-    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.rtrs.tv/"
-  },
-  {
-    "id": "RTVGlasDrine.ba",
-    "name": "RTV Glas Drine",
-    "logo": "https://i.imgur.com/9NgxOdb.png",
-    "logoText": "RTV",
-    "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general",
-      "music"
-    ],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://rtvglasdrine.com/"
-  },
-  {
-    "id": "RTVHB.ba",
+    "tvgId": "ZZiuO9trJGMIcY",
     "name": "RTV HB",
-    "logo": "https://i.imgur.com/6FNL8Iv.png",
-    "logoText": "RTV",
+    "originalName": "RTV HB",
     "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://rtv-hb.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "RTVZenica.ba",
-    "name": "RTV Zenica",
-    "logo": "https://i.imgur.com/TKUaflB.png",
-    "logoText": "RTV",
-    "url": "https://stream.rtvze.ba/live/123/123.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.rtvze.ba/live/123/123.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.rtvze.ba/"
-  },
-  {
-    "id": "SuperTV.ba",
-    "name": "Super TV",
-    "logo": "https://i.imgur.com/XYWgd3E.png",
-    "logoText": "SUP",
-    "url": "https://mirtv.club/live/mirtv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mirtv.club/live/mirtv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://www.supertelevizija.com/"
-  },
-  {
-    "id": "Televizija5.ba",
-    "name": "Televizija 5",
-    "logo": "https://i.imgur.com/znpvJys.png",
-    "logoText": "TEL",
-    "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: http://www.televizija5.ba/"
-  },
-  {
-    "id": "TelevizijaM.ba",
+    "tvgId": "aDxZ6NMX7FAxtt",
     "name": "Televizija M",
-    "logo": "https://i.imgur.com/jT95ZEI.png",
-    "logoText": "TEL",
+    "originalName": "Televizija M",
     "url": "https://live.tv-m.net/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.tv-m.net/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://tv-m.net/"
-  },
-  {
-    "id": "TNTKidsTV.ba",
-    "name": "TNT Kids TV",
-    "logo": "https://i.imgur.com/irTDbpn.png",
-    "logoText": "TNT",
-    "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A. Website: https://tntkids.tv/"
-  },
-  {
-    "id": "TVSlonExtra.ba",
-    "name": "TV Slon Extra",
-    "logo": "https://i.imgur.com/AohYgH1.png",
-    "logoText": "TV ",
-    "url": "http://31.47.0.130:8082",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.47.0.130:8082",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Bosnia and Herzegovina. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   }
 ]

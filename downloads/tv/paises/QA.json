@@ -1,734 +1,134 @@
 [
   {
-    "id": "AlArabyTV.qa",
+    "tvgId": "2H7AGmwfBbb0P2",
     "name": "Al Araby TV",
-    "logo": "https://i.imgur.com/YMqWEe4.png",
-    "logoText": "AL ",
+    "originalName": "Al Araby TV",
     "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alaraby.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlArabyTV2.qa",
+    "tvgId": "VyhE2uMDKGWvi8",
     "name": "Al Araby TV 2",
-    "logo": "https://i.imgur.com/Gp5mNea.png",
-    "logoText": "AL ",
+    "originalName": "Al Araby TV 2",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alaraby.com/alaraby2"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlJazeera.qa",
-    "name": "Al Jazeera",
-    "logo": "https://i.imgur.com/7bRVpnu.png",
-    "logoText": "AL ",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "tvgId": "mIaAqLMCDH73r4",
+    "name": "Al Jazeera Arabic",
+    "originalName": "Al Jazeera Arabic",
+    "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.aljazeera.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlJazeera2.qa",
-    "name": "Al Jazeera 2",
-    "logo": "https://i.imgur.com/miq8O1Q.png",
-    "logoText": "AL ",
-    "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A."
-  },
-  {
-    "id": "AlJazeeraDocumentary.qa",
-    "name": "Al Jazeera Documentary",
-    "logo": "https://i.imgur.com/5dNJlLo.png",
-    "logoText": "AL ",
-    "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Documentary",
-    "categories": [
-      "documentary"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: http://doc.aljazeera.net/"
-  },
-  {
-    "id": "AlJazeeraMubasher.qa",
-    "name": "Al Jazeera Mubasher",
-    "logo": "https://i.imgur.com/X80DQvF.png",
-    "logoText": "AL ",
-    "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: http://mubasher.aljazeera.net/"
-  },
-  {
-    "id": "AlJazeeraMubasher24.qa",
+    "tvgId": "WVCjkBMypSAImO",
     "name": "Al Jazeera Mubasher 24",
-    "logo": "https://i.imgur.com/LMCcIZ2.png",
-    "logoText": "AL ",
+    "originalName": "Al Jazeera Mubasher 24",
     "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.aljazeeramubasher.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlJazeeraMubasherBroadcast2.qa",
+    "tvgId": "pPCtUkOMoSQ0hW",
     "name": "Al Jazeera Mubasher Broadcast 2",
-    "logo": "https://i.imgur.com/nJmi6G6.png",
-    "logoText": "AL ",
+    "originalName": "Al Jazeera Mubasher Broadcast 2",
     "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.aljazeeramubasher.net/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlMaarefTV.qa",
+    "tvgId": "HHV5a8cn94GYcS",
     "name": "Al Maaref TV",
-    "logo": "https://i.imgur.com/QFnztgo.png",
-    "logoText": "AL ",
+    "originalName": "Al Maaref TV",
     "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://almaaref.ch/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlRayyanOldTV.qa",
+    "tvgId": "z0QVI0gadd5X4p",
     "name": "Al Rayyan Old TV",
-    "logo": "https://i.imgur.com/4qB5iN0.png",
-    "logoText": "AL ",
+    "originalName": "Al Rayyan Old TV",
     "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alrayyan.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlRayyanTV.qa",
+    "tvgId": "WhmO3Ns2GASpVE",
     "name": "Al Rayyan TV",
-    "logo": "https://i.imgur.com/Ts3RjTV.png",
-    "logoText": "AL ",
+    "originalName": "Al Rayyan TV",
     "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alrayyan.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlkassFive.qa",
-    "name": "Alkass Five",
-    "logo": "https://i.imgur.com/6RGNGsM.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassFour.qa",
-    "name": "Alkass Four",
-    "logo": "https://i.imgur.com/iDL65Wu.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassOne.qa",
-    "name": "Alkass One",
-    "logo": "https://i.imgur.com/10mmlha.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassSeven.qa",
-    "name": "Alkass Seven",
-    "logo": "https://i.imgur.com/3eyHP3S.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassSHOOF.qa",
-    "name": "Alkass SHOOF",
-    "logo": "https://shoof.alkass.net/assets/images/shoof.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://shoof.alkass.net/live?ch=shoof"
-  },
-  {
-    "id": "AlkassSHOOF2.qa",
-    "name": "Alkass SHOOF 2",
-    "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassSix.qa",
-    "name": "Alkass Six",
-    "logo": "https://i.imgur.com/CrPSPSC.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassThree.qa",
-    "name": "Alkass Three",
-    "logo": "https://i.imgur.com/d57BdFh.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "AlkassTwo.qa",
-    "name": "Alkass Two",
-    "logo": "https://i.imgur.com/8w61kFX.png",
-    "logoText": "ALK",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://www.alkass.net/"
-  },
-  {
-    "id": "LibyaAlAhrarTV.qa",
+    "tvgId": "K2pY7DHGd3QmlJ",
     "name": "Libya Al Ahrar TV",
-    "logo": "https://i.imgur.com/xkQKVGi.png",
-    "logoText": "LIB",
+    "originalName": "Libya Al Ahrar TV",
     "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: https://libyaalahrar.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QatarTelevision.qa",
+    "tvgId": "sCYZ4Box9Vsqsi",
     "name": "Qatar Television",
-    "logo": "https://i.imgur.com/N5RB4sp.png",
-    "logoText": "QAT",
+    "originalName": "Qatar Television",
     "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: http://www.qtv.qa/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QatarTelevision2.qa",
+    "tvgId": "nRS5DLp96YBtfJ",
     "name": "Qatar Television 2",
-    "logo": "https://i.imgur.com/iWJxDUm.png",
-    "logoText": "QAT",
+    "originalName": "Qatar Television 2",
     "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "QA",
-    "countryName": "Qatar",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Qatar. Language: N/A. Website: http://www.qtv.qa/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

@@ -1,26 +1,14 @@
 [
   {
-    "id": "QTVGambia.gm",
+    "tvgId": "HQd1a5NUxyiDpk",
     "name": "QTV Gambia",
-    "logo": "https://i.imgur.com/ZsTuADb.png",
-    "logoText": "QTV",
+    "originalName": "QTV Gambia",
     "url": "https://player.qtv.gm/hls/live.stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://player.qtv.gm/hls/live.stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GM",
-    "countryName": "Gambia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Gambia. Language: N/A. Website: http://qtv.gm/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

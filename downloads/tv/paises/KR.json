@@ -1,1879 +1,1262 @@
 [
   {
-    "id": "ABN.kr",
-    "name": "ABN",
-    "logo": "https://www.abn.co.kr/resources/images/logo.png",
-    "logoText": "ABN",
-    "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "SOUTHKOREA.kr",
+    "name": "####### SOUTH KOREA #######",
+    "originalName": "####### SOUTH KOREA #######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320929.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Animated-Flag-South-Korea.gif",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.abn.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ArirangRadio.kr",
-    "name": "Arirang Radio",
-    "logo": "https://i.imgur.com/dtfiG9k.png",
-    "logoText": "ARI",
-    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "ARIRANGNA.kr",
+    "name": "ARIRANG (NA)",
+    "originalName": "KR: ARIRANG (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320928.ts",
+    "logo": "http://103.176.90.118/picons/logos/ARIRANG.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.arirang.com/radio"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ArirangTV.kr",
-    "name": "Arirang TV",
-    "logo": "https://i.imgur.com/Asu5pE9.png",
-    "logoText": "ARI",
-    "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-      },
-      {
-        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news",
-      "general"
-    ],
+    "tvgId": "CTSNA.kr",
+    "name": "CTS (NA)",
+    "originalName": "KR: CTS (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320927.ts",
+    "logo": "http://103.176.90.118/picons/logos/CTS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.arirang.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ArirangUN.kr",
-    "name": "Arirang UN",
-    "logo": "https://i.imgur.com/Jdy3WNm.png",
-    "logoText": "ARI",
-    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "EBSNA.kr",
+    "name": "EBS (NA)",
+    "originalName": "KR: EBS (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320926.ts",
+    "logo": "http://103.176.90.118/picons/logos/ebs.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.arirang.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BBSTV.kr",
+    "tvgId": "KBSWORLDNA.kr",
+    "name": "KBS WORLD (NA)",
+    "originalName": "KR: KBS WORLD (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320925.ts",
+    "logo": "http://103.176.90.118/picons/logos/kbsworld.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBCNA.kr",
+    "name": "MBC (NA)",
+    "originalName": "KR: MBC (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320924.ts",
+    "logo": "http://103.176.90.118/picons/logos/MBC-SOUTHKOREA.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MBNNA.kr",
+    "name": "MBN (NA)",
+    "originalName": "KR: MBN (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320923.ts",
+    "logo": "http://103.176.90.118/picons/logos/MBN-KOREA.jpg",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "NATGEONA.kr",
+    "name": "NATGEO (NA)",
+    "originalName": "KR: NATGEO (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320922.ts",
+    "logo": "http://103.176.90.118/picons/logos/natgeo.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SBSNA.kr",
+    "name": "SBS (NA)",
+    "originalName": "KR: SBS (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320921.ts",
+    "logo": "http://103.176.90.118/picons/logos/SBS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "SBSPLUSNA.kr",
+    "name": "SBS PLUS (NA)",
+    "originalName": "KR: SBS PLUS (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320920.ts",
+    "logo": "http://103.176.90.118/picons/logos/SBS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TANNA.kr",
+    "name": "TAN (NA)",
+    "originalName": "KR: TAN (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320919.ts",
+    "logo": "http://103.176.90.118/picons/logos/TAN.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "TVNNA.kr",
+    "name": "TVN (NA)",
+    "originalName": "KR: TVN (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320918.ts",
+    "logo": "http://103.176.90.118/picons/logos/tvn.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "YTNNA.kr",
+    "name": "YTN  (NA)",
+    "originalName": "KR: YTN  (NA)",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320917.ts",
+    "logo": "http://103.176.90.118/picons/logos/YTN-.jpg",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ARTE.kr",
+    "name": "ARTE",
+    "originalName": "KR: ARTE",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320916.ts",
+    "logo": "http://103.176.90.118/picons/logos/ARTE.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BBSTV.kr",
     "name": "BBS TV",
-    "logo": "https://i.imgur.com/01UmXRe.png",
-    "logoText": "BBS",
-    "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalName": "KR: BBS TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320915.ts",
+    "logo": "http://103.176.90.118/picons/logos/BBS_tv.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.bbsi.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "BTNTV.kr",
-    "name": "BTN TV",
-    "logo": "https://i.imgur.com/sOoS7RQ.png",
-    "logoText": "BTN",
-    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "CCHANNEL.kr",
+    "name": "CCHANNEL",
+    "originalName": "KR: CCHANNEL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320914.ts",
+    "logo": "http://103.176.90.118/picons/logos/CCHANNEL.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.btn.co.kr/btntv/main.asp"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CGNTVSouthKorea.kr",
-    "name": "CGNTV South Korea",
-    "logo": "https://i.imgur.com/zwZASOB.png",
-    "logoText": "CGN",
-    "url": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "TVNSPORT.kr",
+    "name": "TVN SPORT",
+    "originalName": "KR: TVN SPORT",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320913.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/9826.jpg?47273",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.cgntv.net/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ChannelA.kr",
-    "name": "Channel A",
-    "logo": "https://i.imgur.com/W9laHPD.png",
-    "logoText": "CHA",
-    "url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "CTS.kr",
+    "name": "CTS",
+    "originalName": "KR: CTS",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320912.ts",
+    "logo": "http://103.176.90.118/picons/logos/CTS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ichannela.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CJOnStyle.kr",
-    "name": "CJ OnStyle",
-    "logo": "https://i.imgur.com/JiSfEBv.png",
-    "logoText": "CJ ",
-    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "EBS2HD.kr",
+    "name": "EBS 2  HD",
+    "originalName": "KR: EBS 2  HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320911.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS2.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://display.cjonstyle.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "CJOnStylePlus.kr",
-    "name": "CJ OnStyle+",
-    "logo": "https://i.imgur.com/OYmOL20.png",
-    "logoText": "CJ ",
-    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "EBSEHD.kr",
+    "name": "EBS E HD",
+    "originalName": "KR: EBS E HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320910.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://display.cjonstyle.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBS1TV.kr",
-    "name": "EBS 1TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "EBSFMHD.kr",
+    "name": "EBS FM HD",
+    "originalName": "KR: EBS FM HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320909.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.ebs.co.kr/tv/home"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBS2TV.kr",
-    "name": "EBS 2TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "EBSFM2HD.kr",
+    "name": "EBS FM2 HD",
+    "originalName": "KR: EBS FM2 HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320908.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ebs.co.kr/ebs2tv/introduce"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBSEnglish.kr",
-    "name": "EBS English",
-    "logo": "https://i.imgur.com/5wLJzb0.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "EBSIHD.kr",
+    "name": "EBS I HD",
+    "originalName": "KR: EBS I HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320907.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ebse.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBSKids.kr",
-    "name": "EBS Kids",
-    "logo": "https://i.imgur.com/62oo8Bx.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "tvgId": "EBSKIDSHD.kr",
+    "name": "EBS KIDS  HD",
+    "originalName": "KR: EBS KIDS  HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320906.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS-KIDS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ebs.co.kr/kids"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBSPlus1.kr",
-    "name": "EBS Plus 1",
-    "logo": "https://i.imgur.com/aCeuhon.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "EBS1HD.kr",
+    "name": "EBS1  HD",
+    "originalName": "KR: EBS1  HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320905.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ebsi.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "EBSPlus2.kr",
-    "name": "EBS Plus 2",
-    "logo": "https://i.imgur.com/pllIMGi.png",
-    "logoText": "EBS",
-    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "EBS2HD.kr",
+    "name": "EBS2  HD",
+    "originalName": "KR: EBS2  HD",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320904.ts",
+    "logo": "http://103.176.90.118/picons/logos/EBS2.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://primary.ebs.co.kr/main/primary"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "FGTV.kr",
+    "tvgId": "EDAILYTV.kr",
+    "name": "EDAILY TV",
+    "originalName": "KR: EDAILY TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320903.ts",
+    "logo": "http://103.176.90.118/picons/logos/EDAILY_TV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "FGTV.kr",
     "name": "FGTV",
-    "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
-    "logoText": "FGT",
-    "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalName": "KR: FGTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320902.ts",
+    "logo": "http://103.176.90.118/picons/logos/FGTV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.fgtv.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GCN.kr",
+    "tvgId": "GCN.kr",
     "name": "GCN",
-    "logo": "https://i.imgur.com/yzwtMOC.png",
-    "logoText": "GCN",
-    "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalName": "KR: GCN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320901.ts",
+    "logo": "http://103.176.90.118/picons/logos/GCN.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.gcntv.org/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GongyoungHomeShopping.kr",
-    "name": "Gongyoung Home Shopping",
-    "logo": "https://i.imgur.com/YL3rpd7.png",
-    "logoText": "GON",
-    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "GOODTV.kr",
+    "name": "GOOD TV",
+    "originalName": "KR: GOOD TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320900.ts",
+    "logo": "http://103.176.90.118/picons/logos/GOOD_TV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.gongyoungshop.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GoodTV.kr",
-    "name": "Good TV",
-    "logo": "https://i.ibb.co/1v913gn/logo-goodtv.png",
-    "logoText": "GOO",
-    "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "tvgId": "GSMYSHOP.kr",
+    "name": "GS MY SHOP",
+    "originalName": "KR: GS MY SHOP",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320899.ts",
+    "logo": "http://103.176.90.118/picons/logos/GS_MY_SHOP.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://home.goodtv.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GSMyShop.kr",
-    "name": "GS My Shop",
-    "logo": "https://i.imgur.com/ETPQwui.png",
-    "logoText": "GS ",
-    "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "GSSHOP.kr",
+    "name": "GS SHOP",
+    "originalName": "KR: GS SHOP",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320898.ts",
+    "logo": "http://103.176.90.118/picons/logos/GS_SHOP.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.gsshop.com/shop/gsmyshop/index.gs"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GSShop.kr",
-    "name": "GS Shop",
-    "logo": "https://i.imgur.com/F7QDbEy.png",
-    "logoText": "GS ",
-    "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "HOMESHOPPING.kr",
+    "name": "HOME & SHOPPING",
+    "originalName": "KR: HOME & SHOPPING",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320897.ts",
+    "logo": "http://103.176.90.118/picons/logos/HOME_y_SHOPPING.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.gsshop.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GugakTV.kr",
-    "name": "Gugak TV",
-    "logo": "https://i.imgur.com/Ey7Htm8.png",
-    "logoText": "GUG",
-    "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "tvgId": "HYUNDAIHMALL.kr",
+    "name": "HYUNDAI HMALL",
+    "originalName": "KR: HYUNDAI HMALL",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320896.ts",
+    "logo": "http://103.176.90.118/picons/logos/HYUNDAI_HMALL.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.igbf.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "GugbangTV.kr",
-    "name": "Gugbang TV",
-    "logo": "https://i.imgur.com/f1tz5fg.png",
-    "logoText": "GUG",
-    "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
+    "tvgId": "IMSHOPPING.kr",
+    "name": "IM SHOPPING",
+    "originalName": "KR: IM SHOPPING",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320895.ts",
+    "logo": "http://103.176.90.118/picons/logos/IM_SHOPPING.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.dema.mil.kr/web/main.do"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLAJDTV.kr",
-    "name": "HLAJ-DTV",
-    "logo": "https://i.imgur.com/JM4rxGU.png",
-    "logoText": "HLA",
-    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KBS1TV.kr",
+    "name": "KBS1 TV",
+    "originalName": "KR: KBS1 TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320894.ts",
+    "logo": "http://103.176.90.118/picons/logos/KBS_1.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://jejumbc.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLAMDTV.kr",
-    "name": "HLAM-DTV",
-    "logo": "https://i.imgur.com/5oraHc0.png",
-    "logoText": "HLA",
-    "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KBS2.kr",
+    "name": "KBS2",
+    "originalName": "KR: KBS2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320893.ts",
+    "logo": "http://103.176.90.118/picons/logos/kbs2.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://mpmbc.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLANDTV.kr",
-    "name": "HLAN-DTV",
-    "logo": "https://i.imgur.com/lthyx2P.png",
-    "logoText": "HLA",
-    "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KCTVCH05.kr",
+    "name": "KCTV  CH05",
+    "originalName": "KR: KCTV  CH05",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320892.ts",
+    "logo": "http://103.176.90.118/picons/logos/KCTV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://chmbc.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLAODTV.kr",
-    "name": "HLAO-DTV",
-    "logo": "https://i.imgur.com/uR0gScb.png",
-    "logoText": "HLA",
-    "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KCTVCH07.kr",
+    "name": "KCTV  CH07",
+    "originalName": "KR: KCTV  CH07",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320891.ts",
+    "logo": "http://103.176.90.118/picons/logos/KCTV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.mbccb.co.kr/rb/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLAQDTV.kr",
-    "name": "HLAQ-DTV",
-    "logo": "https://i.imgur.com/FGsKCH3.png",
-    "logoText": "HLA",
-    "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KCTVCH20.kr",
+    "name": "KCTV  CH20",
+    "originalName": "KR: KCTV  CH20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320890.ts",
+    "logo": "http://103.176.90.118/picons/logos/KCTV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.mbceg.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLATDTV.kr",
-    "name": "HLAT-DTV",
-    "logo": "https://i.imgur.com/3VSuYsn.png",
-    "logoText": "HLA",
-    "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KCTVCH21.kr",
+    "name": "KCTV  CH21",
+    "originalName": "KR: KCTV  CH21",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320889.ts",
+    "logo": "http://103.176.90.118/picons/logos/KCTV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ysmbc.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLAWDTV.kr",
-    "name": "HLAW-DTV",
-    "logo": "https://i.imgur.com/nqRWpUu.png",
-    "logoText": "HLA",
-    "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "KFNTV.kr",
+    "name": "KFN TV",
+    "originalName": "KR: KFN TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320888.ts",
+    "logo": "http://103.176.90.118/picons/logos/KFN_TV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://andongmbc.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "HLCGDTV.kr",
-    "name": "HLCG-DTV",
-    "logo": "https://i.imgur.com/ABdmZMc.png",
-    "logoText": "HLC",
-    "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.g1tv.co.kr/"
-  },
-  {
-    "id": "HLCNDTV.kr",
-    "name": "HLCN-DTV",
-    "logo": "https://i.imgur.com/wmGJgYh.png",
-    "logoText": "HLC",
-    "url": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://kjmbc.co.kr/"
-  },
-  {
-    "id": "HLCQDTV.kr",
-    "name": "HLCQ-DTV",
-    "logo": "https://i.imgur.com/HCbvAiM.png",
-    "logoText": "HLC",
-    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://tjmbc.co.kr/"
-  },
-  {
-    "id": "HLCTDTV.kr",
-    "name": "HLCT-DTV",
-    "logo": "https://i.imgur.com/LlYQR8m.png",
-    "logoText": "HLC",
-    "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://dgmbc.com/"
-  },
-  {
-    "id": "HLCXDTV.kr",
-    "name": "HLCX-DTV",
-    "logo": "https://i.imgur.com/3C57SwN.png",
-    "logoText": "HLC",
-    "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.jmbc.co.kr/"
-  },
-  {
-    "id": "HLDEDTV.kr",
-    "name": "HLDE-DTV",
-    "logo": "https://i.imgur.com/jknoVmp.png",
-    "logoText": "HLD",
-    "url": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.tbc.co.kr/"
-  },
-  {
-    "id": "HLDGDTV.kr",
-    "name": "HLDG-DTV",
-    "logo": "https://i.imgur.com/gaBq1Lz.png",
-    "logoText": "HLD",
-    "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.knn.co.kr/"
-  },
-  {
-    "id": "HLDHDTV.kr",
-    "name": "HLDH-DTV",
-    "logo": "https://i.imgur.com/Srsw4Mi.png",
-    "logoText": "HLD",
-    "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.ikbc.co.kr/"
-  },
-  {
-    "id": "HLDPDTV.kr",
-    "name": "HLDP-DTV",
-    "logo": "https://i.imgur.com/BBCoqIf.png",
-    "logoText": "HLD",
-    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://web.ubc.co.kr/wp/tv"
-  },
-  {
-    "id": "HLDQDTV.kr",
-    "name": "HLDQ-DTV",
-    "logo": "https://i.imgur.com/byss0Ld.png",
-    "logoText": "HLD",
-    "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.jtv.co.kr/"
-  },
-  {
-    "id": "HLDRDTV.kr",
-    "name": "HLDR-DTV",
-    "logo": "https://i.imgur.com/zVunmpQ.png",
-    "logoText": "HLD",
-    "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.cjb.co.kr/"
-  },
-  {
-    "id": "HLKJDTV.kr",
-    "name": "HLKJ-DTV",
-    "logo": "https://i.imgur.com/iAz0Psw.png",
-    "logoText": "HLK",
-    "url": "http://123.140.197.22/stream/1/play.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://123.140.197.22/stream/1/play.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.jibs.co.kr/"
-  },
-  {
-    "id": "HLKUDTV.kr",
-    "name": "HLKU-DTV",
-    "logo": "https://i.imgur.com/jiFOYi5.png",
-    "logoText": "HLK",
-    "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://busanmbc.co.kr/"
-  },
-  {
-    "id": "HLQSDTV.kr",
-    "name": "HLQS-DTV",
-    "logo": "https://i.imgur.com/oWB3ApR.png",
-    "logoText": "HLQ",
-    "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.obs.co.kr/"
-  },
-  {
-    "id": "HomeShopping.kr",
-    "name": "Home & Shopping",
-    "logo": "https://i.imgur.com/IcexRXG.png",
-    "logoText": "HOM",
-    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.hnsmall.com/"
-  },
-  {
-    "id": "HyundaiHomeShopping.kr",
-    "name": "Hyundai Home Shopping",
-    "logo": "https://i.imgur.com/NJpECmq.png",
-    "logoText": "HYU",
-    "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.hmall.com/"
-  },
-  {
-    "id": "HyundaiHomeShoppingPlusShop.kr",
-    "name": "Hyundai Home Shopping + Shop",
-    "logo": "https://i.imgur.com/DoNOuZE.png",
-    "logoText": "HYU",
-    "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.hmall.com/"
-  },
-  {
-    "id": "JobplusTV.kr",
-    "name": "Jobplus TV",
-    "logo": "https://i.imgur.com/Y5Zg5SR.png",
-    "logoText": "JOB",
-    "url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Business",
-    "categories": [
-      "business"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.jobplustv.or.kr/"
-  },
-  {
-    "id": "KShopping.kr",
-    "name": "K Shopping",
-    "logo": "https://i.imgur.com/Tmb3xK8.png",
-    "logoText": "K S",
-    "url": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.kshop.co.kr/"
-  },
-  {
-    "id": "KBSWorld.kr",
-    "name": "KBS World",
-    "logo": "https://i.imgur.com/7DqgELX.png",
-    "logoText": "KBS",
-    "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://kbsworld.kbs.co.kr/"
-  },
-  {
-    "id": "KCTV.kr",
-    "name": "KCTV",
-    "logo": "https://i.imgur.com/IHkZpaI.png",
-    "logoText": "KCT",
-    "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.kctv.co.kr/"
-  },
-  {
-    "id": "KTV.kr",
+    "tvgId": "KTV.kr",
     "name": "KTV",
-    "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",
-    "logoText": "KTV",
-    "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative",
-      "news"
-    ],
+    "originalName": "KR: KTV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320887.ts",
+    "logo": "http://103.176.90.118/picons/logos/ktv.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.ktv.go.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "LotteHomeShopping.kr",
-    "name": "Lotte Home Shopping",
-    "logo": "https://i.imgur.com/dJeNehc.png",
-    "logoText": "LOT",
-    "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "LOTTEHOMESHOPPING.kr",
+    "name": "LOTTE HOMESHOPPING",
+    "originalName": "KR: LOTTE HOMESHOPPING",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320886.ts",
+    "logo": "http://103.176.90.118/picons/logos/LOTTE_HOMESHOPPING.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.lotteimall.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "LotteOneTV.kr",
-    "name": "Lotte OneTV",
-    "logo": "https://i.imgur.com/bXe7tYE.png",
-    "logoText": "LOT",
-    "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "M20TV.kr",
+    "name": "M20 TV",
+    "originalName": "KR: M20 TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320885.ts",
+    "logo": "http://103.176.90.118/picons/logos/M20_tv.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.lotteimall.com/onetv.lotte"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MBCDrama.kr",
-    "name": "MBC Drama",
-    "logo": "https://i.imgur.com/Q20rqnX.png",
-    "logoText": "MBC",
-    "url": "http://mytv.dothome.co.kr/ch/catv/26.php",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://mytv.dothome.co.kr/ch/catv/26.php",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "MBCSPORTSTV.kr",
+    "name": "MBC SPORTS  TV",
+    "originalName": "KR: MBC SPORTS  TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320884.ts",
+    "logo": "http://103.176.90.118/picons/logos/mbc.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.mbcplus.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "MBCGyeongnamTV.kr",
-    "name": "MBC Gyeongnam TV",
-    "logo": "https://i.imgur.com/Ronb1JP.png",
-    "logoText": "MBC",
-    "url": "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://mbcgn.kr/"
-  },
-  {
-    "id": "MBCNet.kr",
-    "name": "MBC Net",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png",
-    "logoText": "MBC",
-    "url": "http://mytv.dothome.co.kr/ch/catv/28.php",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://mytv.dothome.co.kr/ch/catv/28.php",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.mbcnet.co.kr/"
-  },
-  {
-    "id": "MTN.kr",
+    "tvgId": "MTN.kr",
     "name": "MTN",
-    "logo": "https://i.imgur.com/MS0lqoG.png",
-    "logoText": "MTN",
-    "url": "http://183.110.27.87/mtnlive/720/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://183.110.27.87/mtnlive/720/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "KR: MTN",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320883.ts",
+    "logo": "http://103.176.90.118/picons/logos/MTN.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.mtn.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NationalAssemblyTV.kr",
-    "name": "National Assembly TV",
-    "logo": "https://i.imgur.com/UKdB8vD.png",
-    "logoText": "NAT",
-    "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
+    "tvgId": "NSHOMESHOPPING.kr",
+    "name": "NS HOME SHOPPING",
+    "originalName": "KR: NS HOME SHOPPING",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320882.ts",
+    "logo": "http://103.176.90.118/picons/logos/NS_HOME_SHOPPING.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.assembly.go.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NBS.kr",
-    "name": "NBS",
-    "logo": "https://i.imgur.com/pOSroOE.png",
-    "logoText": "NBS",
-    "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
+    "tvgId": "OBSGYEONGINTV.kr",
+    "name": "OBS GYEONGIN TV",
+    "originalName": "KR: OBS GYEONGIN TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320881.ts",
+    "logo": "http://103.176.90.118/picons/logos/OBS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.inbs.co.kr/main.do"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NHTV.kr",
-    "name": "NHTV",
-    "logo": "https://i.imgur.com/DfECkgB.png",
-    "logoText": "NHT",
-    "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "tvgId": "OBSW.kr",
+    "name": "OBS W",
+    "originalName": "KR: OBS W",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320880.ts",
+    "logo": "http://103.176.90.118/picons/logos/OBS.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://nhtv.co.kr/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NSHomeShopping.kr",
-    "name": "NS Home Shopping",
-    "logo": "https://i.imgur.com/Q9xsDQo.png",
-    "logoText": "NS ",
-    "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "OCNTV.kr",
+    "name": "OCN TV",
+    "originalName": "KR: OCN TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320879.ts",
+    "logo": "http://103.176.90.118/picons/logos/ontv.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://pr.nsmall.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "NSShopPlus.kr",
-    "name": "NS Shop+",
-    "logo": "https://i.imgur.com/7KmXNci.png",
-    "logoText": "NS ",
-    "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "tvgId": "RTOMATOTV.kr",
+    "name": "R TOMATO TV",
+    "originalName": "KR: R TOMATO TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320878.ts",
+    "logo": "http://103.176.90.118/picons/logos/R_TOMATO_TV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://pr.nsmall.com/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "OUN.kr",
-    "name": "OUN",
-    "logo": "https://i.imgur.com/7s6JtcU.png",
-    "logoText": "OUN",
-    "url": "https://live.knou.ac.kr/knou1/live1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.knou.ac.kr/knou1/live1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Education",
-    "categories": [
-      "education"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://oun.knou.ac.kr/"
-  },
-  {
-    "id": "RTV.kr",
-    "name": "RTV",
-    "logo": "https://i.imgur.com/Vhp7yR7.png",
-    "logoText": "RTV",
-    "url": "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://rtv.or.kr/"
-  },
-  {
-    "id": "RUTCTV.kr",
+    "tvgId": "RUTCTV.kr",
     "name": "RUTC TV",
-    "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
-    "logoText": "RUT",
-    "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalName": "KR: RUTC TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1320877.ts",
+    "logo": "http://103.176.90.118/picons/logos/RUTC_TV.png",
+    "category": "Kr| South Korea",
+    "originalCategory": "KR| SOUTH KOREA",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://rutc.tv/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "ShinsegaeTVShopping.kr",
+    "tvgId": "COUPANGPLAYPPV1.kr",
+    "name": "COUPANG PLAY PPV 1",
+    "originalName": "KR: COUPANG PLAY PPV 1",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791597.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV2.kr",
+    "name": "COUPANG PLAY PPV 2",
+    "originalName": "KR: COUPANG PLAY PPV 2",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791596.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV3.kr",
+    "name": "COUPANG PLAY PPV 3",
+    "originalName": "KR: COUPANG PLAY PPV 3",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791595.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV4.kr",
+    "name": "COUPANG PLAY PPV 4",
+    "originalName": "KR: COUPANG PLAY PPV 4",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791594.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV5.kr",
+    "name": "COUPANG PLAY PPV 5",
+    "originalName": "KR: COUPANG PLAY PPV 5",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791593.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV6.kr",
+    "name": "COUPANG PLAY PPV 6",
+    "originalName": "KR: COUPANG PLAY PPV 6",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791592.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV7.kr",
+    "name": "COUPANG PLAY PPV 7",
+    "originalName": "KR: COUPANG PLAY PPV 7",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791591.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV8.kr",
+    "name": "COUPANG PLAY PPV 8",
+    "originalName": "KR: COUPANG PLAY PPV 8",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791590.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV9.kr",
+    "name": "COUPANG PLAY PPV 9",
+    "originalName": "KR: COUPANG PLAY PPV 9",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791589.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV10.kr",
+    "name": "COUPANG PLAY PPV 10",
+    "originalName": "KR: COUPANG PLAY PPV 10",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791588.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV11.kr",
+    "name": "COUPANG PLAY PPV 11",
+    "originalName": "KR: COUPANG PLAY PPV 11",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791587.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV12.kr",
+    "name": "COUPANG PLAY PPV 12",
+    "originalName": "KR: COUPANG PLAY PPV 12",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791586.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV13.kr",
+    "name": "COUPANG PLAY PPV 13",
+    "originalName": "KR: COUPANG PLAY PPV 13",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791585.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV14.kr",
+    "name": "COUPANG PLAY PPV 14",
+    "originalName": "KR: COUPANG PLAY PPV 14",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791584.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV15.kr",
+    "name": "COUPANG PLAY PPV 15",
+    "originalName": "KR: COUPANG PLAY PPV 15",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791583.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV16.kr",
+    "name": "COUPANG PLAY PPV 16",
+    "originalName": "KR: COUPANG PLAY PPV 16",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791582.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV17.kr",
+    "name": "COUPANG PLAY PPV 17",
+    "originalName": "KR: COUPANG PLAY PPV 17",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791581.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV18.kr",
+    "name": "COUPANG PLAY PPV 18",
+    "originalName": "KR: COUPANG PLAY PPV 18",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791580.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV19.kr",
+    "name": "COUPANG PLAY PPV 19",
+    "originalName": "KR: COUPANG PLAY PPV 19",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791579.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "COUPANGPLAYPPV20.kr",
+    "name": "COUPANG PLAY PPV 20",
+    "originalName": "KR: COUPANG PLAY PPV 20",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1791578.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14755.jpg?ver=89886",
+    "category": "Kr| Coupang Play Ppv",
+    "originalCategory": "KR| COUPANG PLAY PPV",
+    "country": "KR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Tbc3pRPpRtjmFA",
+    "name": "Arirang Radio",
+    "originalName": "Arirang Radio",
+    "url": "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "HeXayd4ifeh0ao",
+    "name": "Arirang TV",
+    "originalName": "Arirang TV",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "MLoSafen2Et7rW",
+    "name": "Arirang UN",
+    "originalName": "Arirang UN",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "3DWH3Zf0EtNUaG",
+    "name": "BTN TV",
+    "originalName": "BTN TV",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GACglLCSkdixy6",
+    "name": "CBS TV",
+    "originalName": "CBS TV",
+    "url": "https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "H2CDIH8qBgxAa8",
+    "name": "CJ OnStyle",
+    "originalName": "CJ OnStyle",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "nwjpk1GgnvBj65",
+    "name": "CJ OnStyle+",
+    "originalName": "CJ OnStyle+",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "IvsuFrM7fgKeFe",
+    "name": "EBS 1TV",
+    "originalName": "EBS 1TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "mMfQkG8CWfVeNj",
+    "name": "EBS 2TV",
+    "originalName": "EBS 2TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "TH2UspcIuapB4I",
+    "name": "EBS English",
+    "originalName": "EBS English",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "mkS2euN6WoaBGB",
+    "name": "EBS Kids",
+    "originalName": "EBS Kids",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Kids",
+    "originalCategory": "Kids",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "kn5TVoJjDEx7yb",
+    "name": "EBS Plus 1",
+    "originalName": "EBS Plus 1",
+    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "ODIhPYL5EPIjtl",
+    "name": "EBS Plus 2",
+    "originalName": "EBS Plus 2",
+    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "BHUk7W2sHiMZn9",
+    "name": "Gongyoung Home Shopping",
+    "originalName": "Gongyoung Home Shopping",
+    "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "hJP0GSnYM15Xax",
+    "name": "HLAJ-DTV",
+    "originalName": "HLAJ-DTV",
+    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "pnA1ESNuQBhdp0",
+    "name": "HLAT-DTV",
+    "originalName": "HLAT-DTV",
+    "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GCDtsdmWOrJKEn",
+    "name": "HLCQ-DTV",
+    "originalName": "HLCQ-DTV",
+    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "jOYpv2cv2xRFLe",
+    "name": "HLCT-DTV",
+    "originalName": "HLCT-DTV",
+    "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "pl6NNNGCvJKobd",
+    "name": "HLDH-DTV",
+    "originalName": "HLDH-DTV",
+    "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "hI9SMCGhwuM1Tn",
+    "name": "HLDP-DTV",
+    "originalName": "HLDP-DTV",
+    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "klJTuuuc9Rkoag",
+    "name": "HLKJ-DTV",
+    "originalName": "HLKJ-DTV",
+    "url": "https://123.140.197.22/stream/1/play.m3u8",
+    "logo": "",
+    "category": "General",
+    "originalCategory": "General",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "JdXXEWHEkhS0rD",
+    "name": "Hyundai Home Shopping",
+    "originalName": "Hyundai Home Shopping",
+    "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "UShqKN6AAa2tbY",
+    "name": "Hyundai Home Shopping + Shop",
+    "originalName": "Hyundai Home Shopping + Shop",
+    "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "xgn0FUKlpDXRRt",
+    "name": "Lotte Home Shopping",
+    "originalName": "Lotte Home Shopping",
+    "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "6c1onCC872cpGK",
+    "name": "Lotte OneTV",
+    "originalName": "Lotte OneTV",
+    "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "miOqdRnG0LrRce",
+    "name": "NBS",
+    "originalName": "NBS",
+    "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+    "logo": "",
+    "category": "Education",
+    "originalCategory": "Education",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "e5F89xwHW6PISK",
+    "name": "NHTV",
+    "originalName": "NHTV",
+    "url": "https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+    "logo": "",
+    "category": "Entertainment",
+    "originalCategory": "Entertainment",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
+    "originalName": "NS Shop+",
+    "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+    "logo": "",
+    "category": "Shop",
+    "originalCategory": "Shop",
+    "country": "KR",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "fnE13NFNokanvE",
     "name": "Shinsegae TV Shopping",
-    "logo": "https://i.imgur.com/Hq3yjqA.png",
-    "logoText": "SHI",
+    "originalName": "Shinsegae TV Shopping",
     "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "originalCategory": "Shop",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.shinsegaetvshopping.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "ShoppingNT.kr",
+    "tvgId": "hiABpRG1XhgOmb",
     "name": "Shopping NT",
-    "logo": "https://i.imgur.com/BgbJp5X.png",
-    "logoText": "SHO",
+    "originalName": "Shopping NT",
     "url": "https://live.shoppingntmall.com/live/10011.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.shoppingntmall.com/live/10011.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "originalCategory": "Shop",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.shoppingntmall.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TBSTV.kr",
+    "tvgId": "WiOl654PXu3URa",
     "name": "TBS TV",
-    "logo": "https://i.imgur.com/iOnWS6V.png",
-    "logoText": "TBS",
+    "originalName": "TBS TV",
     "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://tbs.seoul.kr/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVChosun.kr",
-    "name": "TV Chosun",
-    "logo": "https://i.imgur.com/62EwaCG.png",
-    "logoText": "TV ",
-    "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.tvchosun.com/"
-  },
-  {
-    "id": "TVChosun2.kr",
-    "name": "TV Chosun 2",
-    "logo": "https://i.imgur.com/Ev5JoBJ.png",
-    "logoText": "TV ",
-    "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: http://www.tvchosun2.com/"
-  },
-  {
-    "id": "WShopping.kr",
+    "tvgId": "4If9DGlBIwVH9j",
     "name": "W Shopping",
-    "logo": "https://i.imgur.com/hfXjVJd.png",
-    "logoText": "W S",
+    "originalName": "W Shopping",
     "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Shop",
-    "categories": [
-      "shop"
-    ],
+    "originalCategory": "Shop",
     "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://w-shopping.co.kr/"
-  },
-  {
-    "id": "WBSTV.kr",
-    "name": "WBS TV",
-    "logo": "https://i.imgur.com/Lhz1Egi.png",
-    "logoText": "WBS",
-    "url": "http://157.245.196.186/live/livestream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://157.245.196.186/live/livestream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://wbsi.kr/index_tv.php"
-  },
-  {
-    "id": "YTN.kr",
-    "name": "YTN",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png",
-    "logoText": "YTN",
-    "url": "http://202.60.106.14:8080/214/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://202.60.106.14:8080/214/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://202.60.106.14:21585/214/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KR",
-    "countryName": "South Korea",
-    "languages": [],
-    "description": "Global IPTV stream. Country: South Korea. Language: N/A. Website: https://www.ytn.co.kr/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

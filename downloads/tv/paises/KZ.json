@@ -1,630 +1,110 @@
 [
   {
-    "id": "24KZ.kz",
-    "name": "24KZ",
-    "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
-    "logoText": "24K",
-    "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://24.kz/"
-  },
-  {
-    "id": "31Kanal.kz",
-    "name": "31 Kanal",
-    "logo": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg",
-    "logoText": "31 ",
-    "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://31.kz/"
-  },
-  {
-    "id": "AbaiTV.kz",
+    "tvgId": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
-    "logo": "https://i.imgur.com/Nw2R7Dq.png",
-    "logoText": "ABA",
+    "originalName": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Culture",
-    "categories": [
-      "culture"
-    ],
+    "originalCategory": "Culture",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://abaitv.kz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "AlauTV.kz",
+    "tvgId": "jIgDetReIEdnsC",
     "name": "Alau TV",
-    "logo": "https://i.imgur.com/gK6ZRzp.png",
-    "logoText": "ALA",
+    "originalName": "Alau TV",
     "url": "https://otv.wotom.net/alau/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://otv.wotom.net/alau/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Aqjaiyq.kz",
-    "name": "Aqjaiyq",
-    "logo": "https://i.imgur.com/ZqIzzmf.png",
-    "logoText": "AQJ",
-    "url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://oraltv.kz/"
-  },
-  {
-    "id": "Aqtobe.kz",
-    "name": "Aqtobe",
-    "logo": "https://i.imgur.com/csKl1z6.png",
-    "logoText": "AQT",
-    "url": "https://stream.kaztrk.kz/regional/aktobetv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/aktobetv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://aktobetv.kz/"
-  },
-  {
-    "id": "Atyray.kz",
-    "name": "Atyray",
-    "logo": "https://i.imgur.com/kva4O3T.png",
-    "logoText": "ATY",
-    "url": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://atyrautv.kz/"
-  },
-  {
-    "id": "Balapan.kz",
+    "tvgId": "NsRP1rTNLBH991",
     "name": "Balapan",
-    "logo": "https://i.imgur.com/2o5T0gi.png",
-    "logoText": "BAL",
+    "originalName": "Balapan",
     "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Kids",
-    "categories": [
-      "kids"
-    ],
+    "originalCategory": "Kids",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://balapan.kaztrk.kz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Ertis.kz",
-    "name": "Ertis",
-    "logo": "https://i.imgur.com/tghMiwW.png",
-    "logoText": "ERT",
-    "url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://pavlodartv.kz/"
-  },
-  {
-    "id": "Jambyl.kz",
-    "name": "Jambyl",
-    "logo": "https://i.imgur.com/X7N3JK4.png",
-    "logoText": "JAM",
-    "url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://jambyltv.kz/kz"
-  },
-  {
-    "id": "Kokshe.kz",
-    "name": "Kokshe",
-    "logo": "https://i.imgur.com/pOR3FSR.png",
-    "logoText": "KOK",
-    "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://kokshetautv.kz/"
-  },
-  {
-    "id": "KTK.kz",
+    "tvgId": "3AVsF9F3MmLx0i",
     "name": "KTK",
-    "logo": "https://i.imgur.com/BurrNTo.png",
-    "logoText": "KTK",
+    "originalName": "KTK",
     "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://www.ktk.kz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Mangystay.kz",
-    "name": "Mangystay",
-    "logo": "https://i.imgur.com/9JfLseu.png",
-    "logoText": "MAN",
-    "url": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://mangystautv.kz/kz"
-  },
-  {
-    "id": "MTRK.kz",
+    "tvgId": "5b8XYlH65LRz6N",
     "name": "MTRK",
-    "logo": "https://i.imgur.com/XMyRwDk.png",
-    "logoText": "MTR",
+    "originalName": "MTRK",
     "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://mtrk.kz/ru/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MuzzOne.kz",
-    "name": "MuzzOne",
-    "logo": "https://i.imgur.com/nHVABXh.png",
-    "logoText": "MUZ",
-    "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://muzzone.tv/"
-  },
-  {
-    "id": "Novoetelevidenie.kz",
-    "name": "Novoe televidenie",
-    "logo": "https://i.imgur.com/mmKWrWs.png",
-    "logoText": "NOV",
-    "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://novoetv.kz/smotret-onlajn/"
-  },
-  {
-    "id": "Ontustik.kz",
-    "name": "Ontustik",
-    "logo": "https://i.imgur.com/xqr1hjN.png",
-    "logoText": "ONT",
-    "url": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://shymkenttv.kz/"
-  },
-  {
-    "id": "Qazaqstan.kz",
+    "tvgId": "PUtkKNBhatXQzk",
     "name": "Qazaqstan",
-    "logo": "https://i.imgur.com/oI8g396.png",
-    "logoText": "QAZ",
+    "originalName": "Qazaqstan",
     "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://qazaqstan.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QazaqstanInternational.kz",
+    "tvgId": "u6Kfd6P0YKGpB4",
     "name": "Qazaqstan International",
-    "logo": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
-    "logoText": "QAZ",
+    "originalName": "Qazaqstan International",
     "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://qazaqstan.tv/live"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "QazSport.kz",
+    "tvgId": "RlDh4IHVR4WpZw",
     "name": "QazSport",
-    "logo": "https://i.imgur.com/UDJ0P5Q.png",
-    "logoText": "QAZ",
+    "originalName": "QazSport",
     "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://qazsporttv.kz/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Qostanai.kz",
-    "name": "Qostanai",
-    "logo": "https://i.imgur.com/eOz4xJ8.png",
-    "logoText": "QOS",
-    "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://kostanaytv.kz/"
-  },
-  {
-    "id": "Qyzyljar.kz",
-    "name": "Qyzyljar",
-    "logo": "https://i.imgur.com/7l1WSDJ.png",
-    "logoText": "QYZ",
-    "url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://petropavltv.kz/kz"
-  },
-  {
-    "id": "Qyzylorda.kz",
-    "name": "Qyzylorda",
-    "logo": "https://i.imgur.com/r4BFQpE.png",
-    "logoText": "QYZ",
-    "url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://kyzylordatv.kz/"
-  },
-  {
-    "id": "Saryarqa.kz",
-    "name": "Saryarqa",
-    "logo": "https://i.imgur.com/EIXwi1c.png",
-    "logoText": "SAR",
-    "url": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: http://kartv.kz/"
-  },
-  {
-    "id": "Semei.kz",
-    "name": "Semei",
-    "logo": "https://i.ibb.co/P9V0532/Captura.png",
-    "logoText": "SEM",
-    "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://semeitv.kz/"
-  },
-  {
-    "id": "SilkWay.kz",
+    "tvgId": "TomqBXbWstBWEq",
     "name": "Silk Way",
-    "logo": "https://i.imgur.com/SJNDksF.png",
-    "logoText": "SIL",
+    "originalName": "Silk Way",
     "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KZ",
-    "countryName": "Kazakhstan",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kazakhstan. Language: N/A. Website: https://silkwaytv.kz/en"
+    "type": "live",
+    "source": "famelack"
   }
 ]

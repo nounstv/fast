@@ -1,0 +1,122 @@
+[
+  {
+    "tvgId": "PRIMA",
+    "name": "####### PRIMA ᴴᴰ #######",
+    "originalName": "####### PRIMA ᴴᴰ #######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228844.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMA.cz",
+    "name": "PRIMA ᴴᴰ",
+    "originalName": "CZ: PRIMA ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228843.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMACOOL.cz",
+    "name": "PRIMA COOL ᴴᴰ",
+    "originalName": "CZ: PRIMA COOL ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228842.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMAKRIMI.cz",
+    "name": "PRIMA KRIMI ᴴᴰ",
+    "originalName": "CZ: PRIMA KRIMI ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228841.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMALOVE.cz",
+    "name": "PRIMA LOVE ᴴᴰ",
+    "originalName": "CZ: PRIMA LOVE ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228840.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMAMAX.cz",
+    "name": "PRIMA MAX ᴴᴰ",
+    "originalName": "CZ: PRIMA MAX ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228839.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMASHOW.cz",
+    "name": "PRIMA SHOW ᴴᴰ",
+    "originalName": "CZ: PRIMA SHOW ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228838.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMASTAR.cz",
+    "name": "PRIMA STAR ᴴᴰ",
+    "originalName": "CZ: PRIMA STAR ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228837.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "PRIMAZOOM.cz",
+    "name": "PRIMA ZOOM ᴴᴰ",
+    "originalName": "CZ: PRIMA ZOOM ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228836.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "CNNPRIMANEWS.cz",
+    "name": "CNN PRIMA NEWS ᴴᴰ",
+    "originalName": "CZ: CNN PRIMA NEWS ᴴᴰ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1228835.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12485.png?ver=99023",
+    "category": "Cz| Iprima ᴴᴰ",
+    "originalCategory": "CZ| IPRIMA ᴴᴰ",
+    "country": "CZ",
+    "type": "live",
+    "source": "xtream"
+  }
+]

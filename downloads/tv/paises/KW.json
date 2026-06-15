@@ -1,280 +1,122 @@
 [
   {
-    "id": "Bahry.kw",
-    "name": "Bahry",
-    "logo": "https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png",
-    "logoText": "BAH",
-    "url": "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://bahry.com/"
-  },
-  {
-    "id": "Ch4Teen.kw",
+    "tvgId": "IEZUnNbmJOqVVw",
     "name": "Ch4Teen",
-    "logo": "https://i.imgur.com/pHpFGeg.png",
-    "logoText": "CH4",
+    "originalName": "Ch4Teen",
     "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://www.ch14.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KTV1.kw",
+    "tvgId": "qmnARgUFZrDat0",
     "name": "KTV 1",
-    "logo": "https://i.imgur.com/kG0d8Ay.png",
-    "logoText": "KTV",
+    "originalName": "KTV 1",
     "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KTV2.kw",
+    "tvgId": "wlRG0aqJ5L1mdG",
     "name": "KTV 2",
-    "logo": "https://i.imgur.com/hB57mNh.png",
-    "logoText": "KTV",
+    "originalName": "KTV 2",
     "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture",
-      "news"
-    ],
-    "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
-  },
-  {
-    "id": "KTVAlQurain.kw",
-    "name": "KTV Al Qurain",
-    "logo": "https://i.imgur.com/naVEZtj.png",
-    "logoText": "KTV",
-    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
-  },
-  {
-    "id": "KTVArabe.kw",
-    "name": "KTV Arabe",
-    "logo": "https://i.imgur.com/jg3VAxO.png",
-    "logoText": "KTV",
-    "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Culture",
-    "categories": [
-      "culture"
-    ],
-    "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
-  },
-  {
-    "id": "KTVEthraa.kw",
-    "name": "KTV Ethraa",
-    "logo": "https://i.imgur.com/hqEbc49.png",
-    "logoText": "KTV",
-    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Religious",
-    "categories": [
-      "religious"
-    ],
-    "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
-  },
-  {
-    "id": "KTVNews.kw",
-    "name": "KTV News",
-    "logo": "https://i.imgur.com/erZ0Ol1.png",
-    "logoText": "KTV",
-    "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KTVSport.kw",
+    "tvgId": "NIQOtoyZQ8vFBv",
+    "name": "KTV Al Qurain",
+    "originalName": "KTV Al Qurain",
+    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "KW",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "x84vEYjClS3UTx",
+    "name": "KTV Arabe",
+    "originalName": "KTV Arabe",
+    "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "category": "Culture",
+    "originalCategory": "Culture",
+    "country": "KW",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "bOv9uULNJkqzNN",
+    "name": "KTV Ethraa",
+    "originalName": "KTV Ethraa",
+    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "category": "Religious",
+    "originalCategory": "Religious",
+    "country": "KW",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "gut5k2zpuhXsW8",
+    "name": "KTV News",
+    "originalName": "KTV News",
+    "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "category": "News",
+    "originalCategory": "News",
+    "country": "KW",
+    "type": "live",
+    "source": "famelack"
+  },
+  {
+    "tvgId": "wry8kPUipkC3Ee",
     "name": "KTV Sport",
-    "logo": "https://i.imgur.com/R1hGX1d.png",
-    "logoText": "KTV",
+    "originalName": "KTV Sport",
     "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: https://media.gov.kw/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "KTVSportPlus.kw",
+    "tvgId": "u6GFOdoySx8qXc",
     "name": "KTV Sport Plus",
-    "logo": "https://i.imgur.com/l4oX0gf.png",
-    "logoText": "KTV",
+    "originalName": "KTV Sport Plus",
     "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Sports",
-    "categories": [
-      "sports"
-    ],
+    "originalCategory": "Sports",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A."
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MarinaTV.kw",
+    "tvgId": "e1v76QQ8jEJlyU",
     "name": "Marina TV",
-    "logo": "https://i.imgur.com/F2PzEaw.png",
-    "logoText": "MAR",
+    "originalName": "Marina TV",
     "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "KW",
-    "countryName": "Kuwait",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Kuwait. Language: N/A. Website: http://www.marinatv.me/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

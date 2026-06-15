@@ -1,344 +1,74 @@
 [
   {
-    "id": "1TV.ge",
+    "tvgId": "gsTBbyeaJICffC",
     "name": "1TV",
-    "logo": "https://i.imgur.com/FSkYLPK.png",
-    "logoText": "1TV",
+    "originalName": "1TV",
     "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://1tv.ge/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "2TV.ge",
+    "tvgId": "lq6L1vPrWklTqu",
     "name": "2 TV",
-    "logo": "https://i.imgur.com/FJBL6zI.png",
-    "logoText": "2 T",
+    "originalName": "2 TV",
     "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://rustavi2.ge/en/contact"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Adjarasport1.ge",
-    "name": "Adjarasport 1",
-    "logo": "https://i.imgur.com/SVV5xHC.png",
-    "logoText": "ADJ",
-    "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Sports",
-    "categories": [
-      "sports"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://adjarasport.tv/"
-  },
-  {
-    "id": "ComedyTV.ge",
-    "name": "Comedy TV",
-    "logo": "https://i.imgur.com/i1TANKv.png",
-    "logoText": "COM",
-    "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Comedy",
-    "categories": [
-      "comedy"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A."
-  },
-  {
-    "id": "Ertsulovneba.ge",
+    "tvgId": "tB7WZ5Zyx0f84V",
     "name": "Ertsulovneba",
-    "logo": "https://i.imgur.com/KuuODMM.png",
-    "logoText": "ERT",
+    "originalName": "Ertsulovneba",
     "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Religious",
-    "categories": [
-      "religious"
-    ],
+    "originalCategory": "Religious",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://www.televizia.org/ertsulovneba/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Formula.ge",
+    "tvgId": "oWVSeCGvoYHgK5",
     "name": "Formula",
-    "logo": "https://i.imgur.com/fsqBn8G.png",
-    "logoText": "FOR",
+    "originalName": "Formula",
     "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://formula.ge/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "GDSTV.ge",
-    "name": "GDS TV",
-    "logo": "https://i.imgur.com/gv61tFf.png",
-    "logoText": "GDS",
-    "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A."
-  },
-  {
-    "id": "ImediTV.ge",
+    "tvgId": "Hgbu5O46qteEA9",
     "name": "Imedi TV",
-    "logo": "https://i.imgur.com/94hNyxZ.png",
-    "logoText": "IME",
+    "originalName": "Imedi TV",
     "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://www.imedi.ge/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "MtavariArkhi.ge",
-    "name": "Mtavari Arkhi",
-    "logo": "https://i.imgur.com/tLtGnJW.png",
-    "logoText": "MTA",
-    "url": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://mtavari.tv/"
-  },
-  {
-    "id": "ObieqtiviTV.ge",
-    "name": "Obieqtivi TV",
-    "logo": "https://i.imgur.com/Kqc8H8X.png",
-    "logoText": "OBI",
-    "url": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "News",
-    "categories": [
-      "news"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: http://www.obieqtivi.net/"
-  },
-  {
-    "id": "PalitraNews.ge",
+    "tvgId": "ulKdgYZsOoWr3b",
     "name": "Palitra News",
-    "logo": "https://i.imgur.com/BW95PMF.png",
-    "logoText": "PAL",
+    "originalName": "Palitra News",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "News",
-    "categories": [
-      "news"
-    ],
+    "originalCategory": "News",
     "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://palitranews.ge/"
-  },
-  {
-    "id": "RioniTV.ge",
-    "name": "Rioni TV",
-    "logo": "https://i.imgur.com/ogMqmth.png",
-    "logoText": "RIO",
-    "url": "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A."
-  },
-  {
-    "id": "Rustavi2.ge",
-    "name": "Rustavi 2",
-    "logo": "https://i.imgur.com/rPqd1Cx.png",
-    "logoText": "RUS",
-    "url": "http://31.146.5.178:8087/play/a008/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.146.5.178:8087/play/a008/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: http://www.rustavi2.ge/"
-  },
-  {
-    "id": "TVC.ge",
-    "name": "TVC",
-    "logo": "https://sul.ge/images/televizia/tvc.png",
-    "logoText": "TVC",
-    "url": "http://31.146.5.178:8087/play/a009/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "http://31.146.5.178:8087/play/a009/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
-    "country": "GE",
-    "countryName": "Georgia",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Georgia. Language: N/A. Website: https://tvc.ge/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

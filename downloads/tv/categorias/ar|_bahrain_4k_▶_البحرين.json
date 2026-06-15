@@ -1,0 +1,50 @@
+[
+  {
+    "tvgId": "BAHRAINTV",
+    "name": "###### BAHRAIN TV ######",
+    "originalName": "###### BAHRAIN TV ######",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251806.ts",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif",
+    "category": "Ar| Bahrain 4K ▶ البحرين",
+    "originalCategory": "AR| BAHRAIN 4K ▶ البحرين",
+    "country": "",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "Bahrain4K.ar",
+    "name": "Bahrain 4K",
+    "originalName": "AR: Bahrain 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4503.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/512.jpg",
+    "category": "Ar| Bahrain 4K ▶ البحرين",
+    "originalCategory": "AR| BAHRAIN 4K ▶ البحرين",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "BahrainInternational4K.ar",
+    "name": "Bahrain International 4K",
+    "originalName": "AR: Bahrain International 4K",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4288.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/325.jpg",
+    "category": "Ar| Bahrain 4K ▶ البحرين",
+    "originalCategory": "AR| BAHRAIN 4K ▶ البحرين",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "LuaLuaTV.ar",
+    "name": "LuaLua TV",
+    "originalName": "AR: LuaLua TV",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/316409.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/1160.jpg?89484",
+    "category": "Ar| Bahrain 4K ▶ البحرين",
+    "originalCategory": "AR| BAHRAIN 4K ▶ البحرين",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  }
+]

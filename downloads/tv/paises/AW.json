@@ -1,209 +1,62 @@
 [
   {
-    "id": "ArubaTV.aw",
+    "tvgId": "aNWcalM8ImXSeK",
     "name": "Aruba.TV",
-    "logo": "https://i.imgur.com/9fWY09U.png",
-    "logoText": "ARU",
+    "originalName": "Aruba.TV",
     "url": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Travel",
-    "categories": [
-      "travel"
-    ],
+    "originalCategory": "Travel",
     "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://aruba.tv/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "CoolFM989.aw",
+    "tvgId": "ynzFVHU7oaBdM1",
     "name": "Cool FM 98.9",
-    "logo": "https://i.imgur.com/uGE6lZ2.png",
-    "logoText": "COO",
+    "originalName": "Cool FM 98.9",
     "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://coolaruba.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NosIslaTV.aw",
+    "tvgId": "T58f95dx4sdCvQ",
     "name": "Nos Isla TV",
-    "logo": "https://i.imgur.com/sH7ZkPx.png",
-    "logoText": "NOS",
-    "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36"
-      },
-      {
-        "url": "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Nos Isla TV",
+    "url": "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8",
+    "logo": "",
     "category": "Entertainment",
-    "categories": [
-      "entertainment"
-    ],
+    "originalCategory": "Entertainment",
     "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://nosisla.tv"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Power1017FM.aw",
+    "tvgId": "tadaKAwuktrkov",
     "name": "Power 101.7 FM",
-    "logo": "https://i.imgur.com/bkQrXjB.png",
-    "logoText": "POW",
+    "originalName": "Power 101.7 FM",
     "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "logo": "",
     "category": "Music",
-    "categories": [
-      "music"
-    ],
+    "originalCategory": "Music",
     "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: http://www.powerfm1017.com/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "Telearuba.aw",
+    "tvgId": "liCjcd8JRXz6UB",
     "name": "Telearuba",
-    "logo": "https://i.imgur.com/PY3P0aM.png",
-    "logoText": "TEL",
-    "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
-    "streams": [
-      {
-        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36"
-      },
-      {
-        "url": "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
+    "originalName": "Telearuba",
+    "url": "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8",
+    "logo": "",
     "category": "General",
-    "categories": [
-      "general"
-    ],
+    "originalCategory": "General",
     "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://telearuba.aw/"
-  },
-  {
-    "id": "VIPTV.aw",
-    "name": "VIP TV",
-    "logo": "https://i.imgur.com/6N0qITv.png",
-    "logoText": "VIP",
-    "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: http://www.viponlineradio.com/vip-tv/"
-  },
-  {
-    "id": "WavezFM.aw",
-    "name": "Wavez FM",
-    "logo": "https://i.imgur.com/uyROZSS.png",
-    "logoText": "WAV",
-    "url": "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://www.wavezfmaruba.com/"
-  },
-  {
-    "id": "X1027FM.aw",
-    "name": "X 102.7 FM",
-    "logo": "https://i.imgur.com/28b810Y.png",
-    "logoText": "X 1",
-    "url": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Music",
-    "categories": [
-      "music"
-    ],
-    "country": "AW",
-    "countryName": "Aruba",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Aruba. Language: N/A. Website: https://xfmaruba.com/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

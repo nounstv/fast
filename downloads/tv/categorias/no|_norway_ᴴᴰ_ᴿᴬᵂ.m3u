@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?36712" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452320.ts
+#EXTINF:-1 tvg-id="NRK2.no" tvg-name="NRK2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10656.png?88202" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452319.ts
+#EXTINF:-1 tvg-id="NRKSuperNRK3.no" tvg-name="NRK Super / NRK3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10662.png?69034" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK Super / NRK3 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452318.ts
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?36935" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452317.ts
+#EXTINF:-1 tvg-id="NRK2.no" tvg-name="NRK2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10656.png?61066" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452316.ts
+#EXTINF:-1 tvg-id="NRKSuperNRK3.no" tvg-name="NRK Super / NRK3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10662.png?19266" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK Super / NRK3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/452315.ts
+#EXTINF:-1 tvg-id="SFKANALEN.no" tvg-name="SF-KANALEN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14092.png?14582" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",SF-KANALEN ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641260.ts
+#EXTINF:-1 tvg-id="TV4HITS.no" tvg-name="TV4 HITS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14095.png?962" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV4 HITS ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641198.ts
+#EXTINF:-1 tvg-id="TV4STAR.no" tvg-name="TV4 STAR ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14096.png?74326" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV4 STAR ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641199.ts
+#EXTINF:-1 tvg-id="TV2LIVSSTIL.no" tvg-name="TV2 LIVSSTIL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 LIVSSTIL ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641154.ts
+#EXTINF:-1 tvg-id="TV2NYHETER.no" tvg-name="TV2 NYHETER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 NYHETER ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641153.ts
+#EXTINF:-1 tvg-id="TV2ZEBRA.no" tvg-name="TV2 ZEBRA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 ZEBRA ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641152.ts
+#EXTINF:-1 tvg-id="TV3.no" tvg-name="TV 3 +" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14094.jpg?74024" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV 3 +
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/734737.ts
+#EXTINF:-1 tvg-id="TV6.no" tvg-name="TV6 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14045.jpg?1394" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV6 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641149.ts
+#EXTINF:-1 tvg-id="TVVESTROGALAND.no" tvg-name="TV VEST ROGALAND ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14099.png?4928" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV VEST ROGALAND ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641401.ts
+#EXTINF:-1 tvg-id="TVVESTVESTLAND.no" tvg-name="TV VEST VESTLAND ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14099.png?4928" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV VEST VESTLAND ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641400.ts
+#EXTINF:-1 tvg-id="TVHAUGALAND.no" tvg-name="TV HAUGALAND ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14100.png?67885" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV HAUGALAND ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641399.ts
+#EXTINF:-1 tvg-id="MAX.no" tvg-name="MAX ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10173.png?1737" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",MAX ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/734738.ts
+#EXTINF:-1 tvg-id="SUNNMRELIVE.no" tvg-name="SUNNMØRE LIVE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14101.png?78875" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",SUNNMØRE LIVE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641398.ts
+#EXTINF:-1 tvg-id="TRNDERTV.no" tvg-name="TRØNDER TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14102.png?86596" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TRØNDER TV ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641397.ts
+#EXTINF:-1 tvg-id="TVAGDER.no" tvg-name="TV AGDER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14103.jpeg?82965" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV AGDER ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641396.ts
+#EXTINF:-1 tvg-id="TV1.no" tvg-name="TV1Ø ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14104.png?73727" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV1Ø ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641395.ts
+#EXTINF:-1 tvg-id="TVSTFOLD.no" tvg-name="TV ØSTFOLD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14105.jpeg?29393" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV ØSTFOLD ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641394.ts
+#EXTINF:-1 tvg-id="TVNORD.no" tvg-name="TV NORD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14106.png?87474" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV NORD ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641393.ts
+#EXTINF:-1 tvg-id="SKYSHOWTIME1.no" tvg-name="SKY SHOWTIME 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14011.png?62776" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",SKY SHOWTIME 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641197.ts
+#EXTINF:-1 tvg-id="VFILMACTION.no" tvg-name="V FILM ACTION ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14060.png?34486" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V FILM ACTION ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641206.ts
+#EXTINF:-1 tvg-id="VFILMPREMIERE.no" tvg-name="V FILM PREMIERE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14062.png?91668" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V FILM PREMIERE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641203.ts
+#EXTINF:-1 tvg-id="VSERIES.no" tvg-name="V SERIES ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14065.png?75627" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SERIES ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641200.ts
+#EXTINF:-1 tvg-id="VEXPLORE.no" tvg-name="V EXPLORE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14067.png?4715" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V EXPLORE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641207.ts
+#EXTINF:-1 tvg-id="VHISTORY.no" tvg-name="V HISTORY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14068.png?86123" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V HISTORY ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641202.ts
+#EXTINF:-1 tvg-id="VNATURE.no" tvg-name="V NATURE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14069.png?67630" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V NATURE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641201.ts
+#EXTINF:-1 tvg-id="TV2SPORT1.no" tvg-name="TV2 SPORT 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 SPORT 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641211.ts
+#EXTINF:-1 tvg-id="TV2SPORT2.no" tvg-name="TV2 SPORT 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 SPORT 2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839751.ts
+#EXTINF:-1 tvg-id="TV2SPORTPREMIUM.no" tvg-name="TV2 SPORT PREMIUM ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 SPORT PREMIUM ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641208.ts
+#EXTINF:-1 tvg-id="TV2SPORTPREMIUM2.no" tvg-name="TV2 SPORT PREMIUM 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14097.jpg?65036" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TV2 SPORT PREMIUM 2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641209.ts
+#EXTINF:-1 tvg-id="VSPORTULTRAUHD.no" tvg-name="V SPORT ULTRA UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?19897" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT ULTRA UHD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641220.ts
+#EXTINF:-1 tvg-id="VSPORTULTRA.no" tvg-name="V SPORT ULTRA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?19897" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT ULTRA ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641219.ts
+#EXTINF:-1 tvg-id="VSPORTULTRA.no" tvg-name="V SPORT ULTRA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?19897" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT ULTRA ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641218.ts
+#EXTINF:-1 tvg-id="VSPORTULTRASD.no" tvg-name="V SPORT ULTRA SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?19897" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT ULTRA SD
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641217.ts
+#EXTINF:-1 tvg-id="VSPORTPREMIERLEAGUE.no" tvg-name="V SPORT PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14107.png?90923" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT PREMIER LEAGUE ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/389850.ts
+#EXTINF:-1 tvg-id="VSPORTPREMIERLEAGUE1.no" tvg-name="V SPORT PREMIER LEAGUE 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14108.png?5351" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT PREMIER LEAGUE 1 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/389849.ts
+#EXTINF:-1 tvg-id="VSPORTPREMIERLEAGUE2.no" tvg-name="V SPORT PREMIER LEAGUE 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14109.png?53527" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT PREMIER LEAGUE 2 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/389848.ts
+#EXTINF:-1 tvg-id="VSPORTPREMIERLEAGUE3.no" tvg-name="V SPORT PREMIER LEAGUE 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14110.png?76550" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT PREMIER LEAGUE 3 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/389847.ts
+#EXTINF:-1 tvg-id="VSPORTPREMIERLEAGUE4.no" tvg-name="V SPORT PREMIER LEAGUE 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14111.png?49754" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT PREMIER LEAGUE 4 ᴿᴬᵂ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/389846.ts
+#EXTINF:-1 tvg-id="VSPORT1.no" tvg-name="V SPORT 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14046.jpg?8314" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641215.ts
+#EXTINF:-1 tvg-id="VSPORT2.no" tvg-name="V SPORT 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14047.jpg?5480" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT 2 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641214.ts
+#EXTINF:-1 tvg-id="VSPORT3.no" tvg-name="V SPORT 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14048.jpg?33556" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V SPORT 3 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641213.ts
+#EXTINF:-1 tvg-id="VGOLF.no" tvg-name="V GOLF ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14049.jpg?75276" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",V GOLF ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641212.ts
+#EXTINF:-1 tvg-id="EUROSPORT.no" tvg-name="EURO SPORT ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14072.png?93607" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",EURO SPORT ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839754.ts
+#EXTINF:-1 tvg-id="EUROSPORT1.no" tvg-name="EURO SPORT 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14072.png?93607" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",EURO SPORT 1 ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641180.ts
+#EXTINF:-1 tvg-id="VIAPLAYVSPORT.no" tvg-name="VIAPLAY V SPORT + ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14112.png?38965" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",VIAPLAY V SPORT + ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839745.ts
+#EXTINF:-1 tvg-id="NATUR1KANAL.no" tvg-name="NATUR 1 KANAL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14069.png?67630" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NATUR 1 KANAL ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641170.ts
+#EXTINF:-1 tvg-id="MTV00S.no" tvg-name="MTV00S ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14113.png?33979" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",MTV00S ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641173.ts
+#EXTINF:-1 tvg-id="MTV80S.no" tvg-name="MTV80S ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?38416" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",MTV80S ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641172.ts
+#EXTINF:-1 tvg-id="BLOOMBERG.no" tvg-name="BLOOMBERG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14085.png?46091" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",BLOOMBERG ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641195.ts
+#EXTINF:-1 tvg-id="NICKJR.no" tvg-name="NICK.JR ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14073.png?62233" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NICK.JR ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641169.ts
+#EXTINF:-1 tvg-id="BBCNEWS.no" tvg-name="BBC NEWS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?82638" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",BBC NEWS ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641190.ts
+#EXTINF:-1 tvg-id="HEIM.no" tvg-name="HEIM ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14115.png?99831" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",HEIM ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641178.ts
+#EXTINF:-1 tvg-id="NRK1INNLANDET.no" tvg-name="NRK 1 INNLANDET ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?10502" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 INNLANDET ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641166.ts
+#EXTINF:-1 tvg-id="NRK1MIDTNYTT.no" tvg-name="NRK 1 MIDTNYTT ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?10502" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 MIDTNYTT ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641165.ts
+#EXTINF:-1 tvg-id="NRK1MOREOGROSMDAL.no" tvg-name="NRK 1 MORE OG ROSMDAL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?10502" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 MORE OG ROSMDAL ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641164.ts
+#EXTINF:-1 tvg-id="NRK1NORDLAND.no" tvg-name="NRK 1 NORDLAND ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?18661" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 NORDLAND ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641163.ts
+#EXTINF:-1 tvg-id="NRK1NORDNYTT.no" tvg-name="NRK 1 NORDNYTT ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?39140" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 NORDNYTT ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641162.ts
+#EXTINF:-1 tvg-id="NRK1ROGLAND.no" tvg-name="NRK 1 ROGLAND ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?39140" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 ROGLAND ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641161.ts
+#EXTINF:-1 tvg-id="NRK1SORLANDET.no" tvg-name="NRK 1 SORLANDET ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?39140" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 SORLANDET ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641160.ts
+#EXTINF:-1 tvg-id="NRK1VESTFOLDOGTELEMARK.no" tvg-name="NRK 1 VESTFOLD OG TELEMARK ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?15144" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 VESTFOLD OG TELEMARK ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839753.ts
+#EXTINF:-1 tvg-id="NRK1VESTLANDSREVYEN.no" tvg-name="NRK 1 VESTLANDSREVYEN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?15144" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",NRK 1 VESTLANDSREVYEN ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839752.ts
+#EXTINF:-1 tvg-id="TVL.no" tvg-name="TVL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14116.png?41696" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TVL ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641402.ts
+#EXTINF:-1 tvg-id="AKVARIUM.no" tvg-name="AKVARIUM ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12518.png?1145" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",AKVARIUM ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/641390.ts
+#EXTINF:-1 tvg-id="TVNFEM.no" tvg-name="TVN FEM ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14052.jpg?17148" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TVN FEM ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839749.ts
+#EXTINF:-1 tvg-id="TVNLIVE.no" tvg-name="TVN LIVE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14119.png?60822" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TVN LIVE ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839748.ts
+#EXTINF:-1 tvg-id="TVNMAX.no" tvg-name="TVN MAX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14119.png?60822" group-title="No| Norway ᴴᴰ/ᴿᴬᵂ" tvg-country="NO",TVN MAX ᴴᴰ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/839747.ts

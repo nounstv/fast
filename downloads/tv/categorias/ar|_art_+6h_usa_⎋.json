@@ -1,0 +1,62 @@
+[
+  {
+    "tvgId": "ART6HNA.us",
+    "name": "### ART +6H NA ###",
+    "originalName": "### ART +6H NA ###",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/562808.ts",
+    "logo": "",
+    "category": "Ar| Art +6H Usa ⎋",
+    "originalCategory": "AR| ART +6H USA ⎋",
+    "country": "US",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ARTHEKAYAT16H.ar",
+    "name": "ART HEKAYAT 1 +6H",
+    "originalName": "AR: ART HEKAYAT 1 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183134.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/45.jpg",
+    "category": "Ar| Art +6H Usa ⎋",
+    "originalCategory": "AR| ART +6H USA ⎋",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ARTHEKAYAT26H.ar",
+    "name": "ART HEKAYAT 2 +6H",
+    "originalName": "AR: ART HEKAYAT 2 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183135.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/67.jpg",
+    "category": "Ar| Art +6H Usa ⎋",
+    "originalCategory": "AR| ART +6H USA ⎋",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ARTAFLAM16H.ar",
+    "name": "ART AFLAM 1 +6H",
+    "originalName": "AR: ART AFLAM 1 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183136.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/12880.jpg?44291",
+    "category": "Ar| Art +6H Usa ⎋",
+    "originalCategory": "AR| ART +6H USA ⎋",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "ARTAFLAM26H.ar",
+    "name": "ART AFLAM 2 +6H",
+    "originalName": "AR: ART AFLAM 2 +6H",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/183137.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/56.jpg",
+    "category": "Ar| Art +6H Usa ⎋",
+    "originalCategory": "AR| ART +6H USA ⎋",
+    "country": "AR",
+    "type": "live",
+    "source": "xtream"
+  }
+]

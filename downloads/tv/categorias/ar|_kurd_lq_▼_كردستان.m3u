@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KURDLOWINTERNET" tvg-name="### KURD LOW INTERNET ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Kurdish.gif" group-title="Ar| Kurd Lq ▼ كردستان",### KURD LOW INTERNET ###
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499530.ts
+#EXTINF:-1 tvg-id="RUDAWLQ.ar" tvg-name="RUDAW LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/976.jpg?25067" group-title="Ar| Kurd Lq ▼ كردستان" tvg-country="AR",RUDAW LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499529.ts
+#EXTINF:-1 tvg-id="BANGAWAZTVLQ.ar" tvg-name="BANGAWAZ TV LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/964.png?ver=99752" group-title="Ar| Kurd Lq ▼ كردستان" tvg-country="AR",BANGAWAZ TV LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499528.ts
+#EXTINF:-1 tvg-id="CHANNEL8KURLQ.ar" tvg-name="CHANNEL 8 KUR LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12115.jpg?89170" group-title="Ar| Kurd Lq ▼ كردستان" tvg-country="AR",CHANNEL 8 KUR LQ
+http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/700983.ts

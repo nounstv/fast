@@ -1,148 +1,62 @@
 [
   {
-    "id": "RadiotelevizijaRozaje.me",
-    "name": "Radio televizija Rozaje",
-    "logo": "https://i.imgur.com/vTZjEC5.png",
-    "logoText": "RAD",
-    "url": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [
-      "general"
-    ],
+    "tvgId": "MNESOPRT1.me",
+    "name": "MNE SOPRT 1 ᴿᴬᵂ",
+    "originalName": "ME: MNE SOPRT 1 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562924.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14523.jpg?15036",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
     "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: https://www.radiorozaje.me/"
+    "type": "live",
+    "source": "xtream"
   },
   {
-    "id": "TVNiksic.me",
+    "tvgId": "MNESOPRT2.me",
+    "name": "MNE SOPRT 2 ᴿᴬᵂ",
+    "originalName": "ME: MNE SOPRT 2 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562923.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14523.jpg?15036",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "ME",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "MNESOPRT3.me",
+    "name": "MNE SOPRT 3 ᴿᴬᵂ",
+    "originalName": "ME: MNE SOPRT 3 ᴿᴬᵂ",
+    "url": "http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/1562922.ts",
+    "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/14523.jpg?15036",
+    "category": "Sports",
+    "originalCategory": "8K| SPORT ON AIR ⁸ᴷ",
+    "country": "ME",
+    "type": "live",
+    "source": "xtream"
+  },
+  {
+    "tvgId": "T7OkqMf3hEUsSO",
     "name": "TV Niksic",
-    "logo": "https://i.imgur.com/51fGwzn.png",
-    "logoText": "TV ",
+    "originalName": "TV Niksic",
     "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: https://www.rtnk.me/"
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "TVCG1.me",
-    "name": "TVCG 1",
-    "logo": "https://i.imgur.com/QORHrXu.png",
-    "logoText": "TVC",
-    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: http://www.rtcg.me/"
-  },
-  {
-    "id": "TVCG2.me",
-    "name": "TVCG 2",
-    "logo": "https://i.imgur.com/WECmUKH.png",
-    "logoText": "TVC",
-    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
-    "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: http://www.rtcg.me/"
-  },
-  {
-    "id": "TVCG3.me",
-    "name": "TVCG 3",
-    "logo": "https://i.imgur.com/0ZT3Bc2.png",
-    "logoText": "TVC",
-    "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "Legislative",
-    "categories": [
-      "legislative"
-    ],
-    "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: https://rtcg.me/tv/gledaj-tvcg3.html"
-  },
-  {
-    "id": "TVCGMNE.me",
+    "tvgId": "IlFU54Q8lNJ2L3",
     "name": "TVCG MNE",
-    "logo": "https://i.imgur.com/pf8VEwf.png",
-    "logoText": "TVC",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd",
-    "httpReferrer": null,
-    "userAgent": null,
-    "streams": [
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      },
-      {
-        "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
-        "http_referrer": null,
-        "user_agent": null
-      }
-    ],
-    "category": "General",
-    "categories": [],
+    "originalName": "TVCG MNE",
+    "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+    "logo": "",
+    "category": "Geral",
+    "originalCategory": "Geral",
     "country": "ME",
-    "countryName": "Montenegro",
-    "languages": [],
-    "description": "Global IPTV stream. Country: Montenegro. Language: N/A. Website: http://www.rtcg.me/"
+    "type": "live",
+    "source": "famelack"
   }
 ]

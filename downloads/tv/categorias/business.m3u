@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2TkyVV55zzBzz3" tvg-name="Al Arabiya Business" group-title="Business" tvg-country="AE",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="hNpror6ZnqPuws" tvg-name="Aleph Business" group-title="Business" tvg-country="RO",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="OTtgOdMuzH3Ad4" tvg-name="Ausbiz TV" group-title="Business" tvg-country="AU",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="jJ5KY3frn8Mets" tvg-name="Bilyonaryo News Channel" group-title="Business" tvg-country="PH",Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="GQEjero7WWkJqT" tvg-name="Bloomberg HT" group-title="Business" tvg-country="TR",Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="TGIxs2mxFIlLmz" tvg-name="Bloomberg TV US" group-title="Business" tvg-country="US",Bloomberg TV US
+https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8
+#EXTINF:-1 tvg-id="cUUd6iJP5ivAhb" tvg-name="Business 24 Africa" group-title="Business" tvg-country="CI",Business 24 Africa
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="b8gunvy17bdMzO" tvg-name="Cafe Trade TV" group-title="Business" tvg-country="US",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="0w7Ai7GtLMZNLS" tvg-name="Canal Pro" group-title="Business" tvg-country="PY",Canal Pro
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-id="vxtY5UyNAjZlYv" tvg-name="CGTN Global Biz" group-title="Business" tvg-country="CN",CGTN Global Biz
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="vrlS9LYggqZr3W" tvg-name="Class CNBC" group-title="Business" tvg-country="IT",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="acbY5wCKKgtMnI" tvg-name="CNBC Arabiya" group-title="Business" tvg-country="AE",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="G00HUpBKHxckzh" tvg-name="CNBC Asia" group-title="Business" tvg-country="SG",CNBC Asia
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-id="MGainK9O6Ki8Pq" tvg-name="CNBC Awaaz" group-title="Business" tvg-country="IN",CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="DdROsd1Q2nYJRU" tvg-name="CNBC Bajar" group-title="Business" tvg-country="IN",CNBC Bajar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="mEIRNL8QzgtqGN" tvg-name="CNBC TV18" group-title="Business" tvg-country="IN",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="9LN6MzHXKTHs5F" tvg-name="CNBC TV18 Prime HD" group-title="Business" tvg-country="IN",CNBC TV18 Prime HD
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="2E1QCHJTYwtjGg" tvg-name="DeFiance Media" group-title="Business" tvg-country="PR",DeFiance Media
+https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vlv7oVLxod7s5c" tvg-name="ET Now Swadesh" group-title="Business" tvg-country="IN",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="E9smyEh0BaQpif" tvg-name="JOB TV" group-title="Business" tvg-country="RO",JOB TV
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PrbGgJSVKuINgQ" tvg-name="NDTV Profit" group-title="Business" tvg-country="IN",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="rW8dm4MTBacJXv" tvg-name="Negocios TV" group-title="Business" tvg-country="ES",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="CEAdR8bknBDUPA" tvg-name="RBK-TV" group-title="Business" tvg-country="RU",RBK-TV
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-id="7Hi1mkEHCgVdat" tvg-name="Schwab Network" group-title="Business" tvg-country="US",Schwab Network
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BlvOv7Ksnyq1tc" tvg-name="Telewizja Biznesowa" group-title="Business" tvg-country="PL",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="Buf371rRZBbDSG" tvg-name="Tevex" group-title="Business" tvg-country="CL",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="b4Usnwe7Qsd37O" tvg-name="Yahoo! Finance" group-title="Business" tvg-country="US",Yahoo! Finance
+https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8

@@ -1,78 +1,50 @@
 [
   {
-    "id": "lxtnwZjaAVKkTo",
+    "tvgId": "lxtnwZjaAVKkTo",
     "name": "10 Bold Adelaide",
+    "originalName": "10 Bold Adelaide",
     "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+    "logo": "",
     "category": "Relax",
+    "originalCategory": "Relax",
     "country": "AU",
-    "countryName": "Australia",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de Australia. Idioma: eng.",
-    "logoText": "10 ",
-    "streamCount": 1,
-    "allStreams": [
-      "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NI9bA34mB8Hi1j",
+    "tvgId": "NI9bA34mB8Hi1j",
     "name": "Better Life Nature Channel",
+    "originalName": "Better Life Nature Channel",
     "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+    "logo": "",
     "category": "Relax",
+    "originalCategory": "Relax",
     "country": "US",
-    "countryName": "United States",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de United States. Idioma: eng.",
-    "logoText": "BET",
-    "streamCount": 1,
-    "allStreams": [
-      "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "hDKihfnR1gIzAi",
+    "tvgId": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
+    "originalName": "MyZen TV",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "logo": "",
     "category": "Relax",
+    "originalCategory": "Relax",
     "country": "FR",
-    "countryName": "France",
-    "languages": [
-      "bul",
-      "eng",
-      "fra",
-      "rus",
-      "spa",
-      "tur"
-    ],
-    "description": "Canal de TV de France. Idioma: bul, eng, fra, rus, spa, tur.",
-    "logoText": "MYZ",
-    "streamCount": 2,
-    "allStreams": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   },
   {
-    "id": "NpJ5K3Avxx4otV",
+    "tvgId": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
+    "originalName": "WildEarth",
     "url": "https://wildearth-xumo.amagi.tv/master.m3u8",
+    "logo": "",
     "category": "Relax",
+    "originalCategory": "Relax",
     "country": "ZA",
-    "countryName": "South Africa",
-    "languages": [
-      "eng"
-    ],
-    "description": "Canal de TV de South Africa. Idioma: eng.",
-    "logoText": "WIL",
-    "streamCount": 3,
-    "allStreams": [
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
-      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
-    ]
+    "type": "live",
+    "source": "famelack"
   }
 ]
