@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-type="tv" tvg-name="###### BAHRAIN TV ######" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif" group-title="AR| BAHRAIN 4K ▶ البحرين",###### BAHRAIN TV ######
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/251806.ts
-#EXTINF:-1 tvg-type="tv" tvg-name="AR: Bahrain 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/512.jpg" group-title="AR| BAHRAIN 4K ▶ البحرين",AR: Bahrain 4K
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4503.ts
-#EXTINF:-1 tvg-type="tv" tvg-name="AR: Bahrain International 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/325.jpg" group-title="AR| BAHRAIN 4K ▶ البحرين",AR: Bahrain International 4K
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/4288.ts
-#EXTINF:-1 tvg-type="tv" tvg-name="AR: LuaLua TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1160.jpg?89484" group-title="AR| BAHRAIN 4K ▶ البحرين",AR: LuaLua TV
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/316409.ts

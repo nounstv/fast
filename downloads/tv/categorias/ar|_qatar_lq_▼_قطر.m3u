@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="QATARLOWINTERNET" tvg-name="### QATAR LOW INTERNET ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif" group-title="Ar| Qatar Lq ▼ قطر",### QATAR LOW INTERNET ###
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499549.ts
-#EXTINF:-1 tvg-id="QATARTVLQ.ar" tvg-name="QATAR TV LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg?43099" group-title="Ar| Qatar Lq ▼ قطر" tvg-country="AR",QATAR TV LQ
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499548.ts
-#EXTINF:-1 tvg-id="QATAR2LQ.ar" tvg-name="QATAR 2 LQ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/439.jpg?43099" group-title="Ar| Qatar Lq ▼ قطر" tvg-country="AR",QATAR 2 LQ
-http://cf.business-cdn-8k.com/cf9b10a37c7c/f4bb9ed47c/499547.ts
