@@ -1,0 +1,257 @@
+#EXTM3U
+
+
+# ==========================================
+# BRASIL (CANAIS MAIS ASSISTIDOS - 29)
+# ==========================================
+
+#EXTINF:-1 tvg-id="TVGlobo.br@RioDeJaneiro" tvg-name="TV Globo Rio de Janeiro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png" group-title="Brasil" tvg-country="BR",TV Globo Rio de Janeiro
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBT.br@Nacional" tvg-name="SBT Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SBT_logo.svg/960px-SBT_logo.svg.png" group-title="Brasil" tvg-country="BR",SBT Nacional
+http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Brasil" tvg-country="BR",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Record_logo_2023.svg/960px-Record_logo_2023.svg.png" group-title="Brasil" tvg-country="BR",Record TV
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Record_News_logo_2024.png/960px-Record_News_logo_2024.png" group-title="Brasil" tvg-country="BR",Record News
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rede_Bandeirantes_2018.svg/960px-Rede_Bandeirantes_2018.svg.png" group-title="Brasil" tvg-country="BR",Band HD
+http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="CulturaFast.br@SD" tvg-name="TV Cultura (Cultura Fast)" tvg-logo="https://i.imgur.com/nm0jXMM.png" group-title="Brasil" tvg-country="BR",TV Cultura (Cultura Fast)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/960px-CNN_Brasil_logo.svg.png" group-title="Brasil" tvg-country="BR",CNN Brasil
+http://45.162.64.114/CNN_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil" tvg-country="BR",Jovem Pan News
+http://45.190.28.50/JP_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="RedeTV!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RedeTV%21_logo_2017.svg/960px-RedeTV%21_logo_2017.svg.png" group-title="Brasil" tvg-country="BR",RedeTV!
+http://45.190.28.50/REDE_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="Brasil" tvg-country="BR",TV Brasil
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" group-title="Brasil" tvg-country="BR",Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-name="Canal UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil" tvg-country="BR",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (Grupo Band)" tvg-logo="https://i.imgur.com/kR1w2Wp.png" group-title="Brasil" tvg-country="BR",Arte 1 (Grupo Band)
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (Grupo Band)" tvg-logo="https://i.imgur.com/sYFfR4K.png" group-title="Brasil" tvg-country="BR",AgroMais (Grupo Band)
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/t3r56o1.png" group-title="Brasil" tvg-country="BR",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Brasil" tvg-country="BR",A&E Brasil
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Brasil" tvg-country="BR",AXN Brasil
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Brasil" tvg-country="BR",AMC Brasil
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-name="Adult Swim Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Brasil" tvg-country="BR",Adult Swim Brasil
+http://45.190.28.50/TRUTV_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BandNews_TV_2018.svg/960px-BandNews_TV_2018.svg.png" group-title="Brasil" tvg-country="BR",BandNews TV
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV_Gazeta_logo.svg/960px-TV_Gazeta_logo.svg.png" group-title="Brasil" tvg-country="BR",TV Gazeta
+http://45.162.64.114/GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Brasil" tvg-country="BR",ESPN Brasil
+http://45.190.28.50/ESPN_HD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.br@SD" tvg-name="Discovery Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/960px-Discovery_Channel_2019.svg.png" group-title="Brasil" tvg-country="BR",Discovery Channel Brasil
+http://45.190.28.50/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br@SD" tvg-name="Animal Planet Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_2018.svg/960px-Animal_Planet_2018.svg.png" group-title="Brasil" tvg-country="BR",Animal Planet Brasil
+http://45.162.64.114/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-name="History Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="Brasil" tvg-country="BR",History Channel Brasil
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br@SD" tvg-name="Warner Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Warner_Channel_logo_2024.png/960px-Warner_Channel_logo_2024.png" group-title="Brasil" tvg-country="BR",Warner Channel Brasil
+http://45.190.28.50/WARNER_HD/index.m3u8
+#EXTINF:-1 tvg-id="Space.br@SD" tvg-name="Space Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Space_logo_2020.svg/960px-Space_logo_2020.svg.png" group-title="Brasil" tvg-country="BR",Space Brasil
+http://45.190.28.50/SPACE_HD/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.br@SD" tvg-name="Cartoon Network Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Brasil" tvg-country="BR",Cartoon Network Brasil
+http://45.190.28.50/CARTOON_HD/index.m3u8
+
+# ==========================================
+# ESTADOS UNIDOS (CANAIS MAIS ASSISTIDOS - 22)
+# ==========================================
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ABC_News_Live_2021_logo.svg/960px-ABC_News_Live_2021_logo.svg.png" group-title="Estados Unidos" tvg-country="US",ABC News Live
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News_24-7_logo.svg/960px-CBS_News_24-7_logo.svg.png" group-title="Estados Unidos" tvg-country="US",CBS News 24/7
+https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NBC_News_NOW_2023.svg/960px-NBC_News_NOW_2023.svg.png" group-title="Estados Unidos" tvg-country="US",NBC News NOW
+https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-name="Scripps News 24/7" tvg-logo="https://i.imgur.com/vH1N7xL.png" group-title="Estados Unidos" tvg-country="US",Scripps News 24/7
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us@SD" tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/qDq5HjS.png" group-title="Estados Unidos" tvg-country="US",Cheddar News
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-name="Yahoo! Finance Live" tvg-logo="https://i.imgur.com/2Xy5E4S.png" group-title="Estados Unidos" tvg-country="US",Yahoo! Finance Live
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD" tvg-name="AccuWeather Now (1080p)" tvg-logo="https://i.imgur.com/X0kZ4k5.png" group-title="Estados Unidos" tvg-country="US",AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-name="Fox Weather (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Estados Unidos" tvg-country="US",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us@SD" tvg-name="Law & Crime Network" tvg-logo="https://i.imgur.com/pZzZ0uM.png" group-title="Estados Unidos" tvg-country="US",Law & Crime Network
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us@SD" tvg-name="Red Bull TV US (1080p)" tvg-logo="https://i.imgur.com/X8D1Uf2.png" group-title="Estados Unidos" tvg-country="US",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Reuters.us@SD" tvg-name="Reuters TV Global" tvg-logo="https://i.imgur.com/mEwO1lU.png" group-title="Estados Unidos" tvg-country="US",Reuters TV Global
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-name="Newsmax 2 (1080p)" tvg-logo="https://i.imgur.com/vH9Z1iP.png" group-title="Estados Unidos" tvg-country="US",Newsmax 2 (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/6UeK8kP.png" group-title="Estados Unidos" tvg-country="US",PBS Antiques Roadshow
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS48Hours.us@SD" tvg-name="CBS 48 Hours Live" tvg-logo="https://i.imgur.com/7o4c8zQ.png" group-title="Estados Unidos" tvg-country="US",CBS 48 Hours Live
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="AE.us@SD" tvg-name="A&E US (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Estados Unidos" tvg-country="US",A&E US (720p)
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="HistoryHit.us@SD" tvg-name="History Hit US (1080p)" tvg-logo="https://i.imgur.com/vH9Z1iP.png" group-title="Estados Unidos" tvg-country="US",History Hit US (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@SD" tvg-name="FailArmy Official (1080p)" tvg-logo="https://i.imgur.com/Y4N0r1s.png" group-title="Estados Unidos" tvg-country="US",FailArmy Official (1080p)
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Weathernews.us@SD" tvg-name="Weathernews Live (720p)" tvg-logo="https://i.imgur.com/sA5s1eS.png" group-title="Estados Unidos" tvg-country="US",Weathernews Live (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-name="30A TV Classic Movies" tvg-logo="https://i.imgur.com/eE1Z1vL.png" group-title="Estados Unidos" tvg-country="US",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="30ASidewalks.us@SD" tvg-name="30A Sidewalks Live" tvg-logo="https://i.imgur.com/eE1Z1vL.png" group-title="Estados Unidos" tvg-country="US",30A Sidewalks Live
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="NASATV.us@SD" tvg-name="NASA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/960px-NASA_logo.svg.png" group-title="Estados Unidos" tvg-country="US",NASA TV HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us@SD" tvg-name="Bloomberg Quicktake" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bloomberg_Quicktake_logo.svg/960px-Bloomberg_Quicktake_logo.svg.png" group-title="Estados Unidos" tvg-country="US",Bloomberg Quicktake
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+# ==========================================
+# AMÉRICA LATINA (CANAIS MAIS ASSISTIDOS - 23)
+# ==========================================
+
+#EXTINF:-1 tvg-id="Telefe.ar@BuenosAires" tvg-name="Telefe Buenos Aires (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_logo_2018.svg/960px-Telefe_logo_2018.svg.png" group-title="América Latina" tvg-country="AR",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 Noticias (Argentina)" tvg-logo="https://i.imgur.com/gO0tHjN.png" group-title="América Latina" tvg-country="AR",Canal 26 Noticias (Argentina)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="C5N.ar@SD" tvg-name="C5N (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C5N_logo_2023.svg/960px-C5N_logo_2023.svg.png" group-title="América Latina" tvg-country="AR",C5N (Argentina)
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-name="TN (Todo Noticias)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png" group-title="América Latina" tvg-country="AR",TN (Todo Noticias)
+http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas TVN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/24_Horas_TVN_logo_2020.svg/960px-24_Horas_TVN_logo_2020.svg.png" group-title="América Latina" tvg-country="CL",24 Horas TVN Chile
+http://45.162.193.35/TVN/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-name="El Trece HD (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_Trece_logo_2016.svg/960px-El_Trece_logo_2016.svg.png" group-title="América Latina" tvg-country="AR",El Trece HD (Argentina)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="ADN 40 (México)" tvg-logo="https://i.imgur.com/7Y2x8tA.png" group-title="América Latina" tvg-country="MX",ADN 40 (México)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-name="Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/TV_Azteca_logo_2020.svg/960px-TV_Azteca_logo_2020.svg.png" group-title="América Latina" tvg-country="MX",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportes.mx@SD" tvg-name="Azteca Deportes Network (1080p)" tvg-logo="https://i.imgur.com/7Y2x8tA.png" group-title="América Latina" tvg-country="MX",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-name="Latina Televisión (Perú)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Latina_Televisi%C3%B3n_logo_2019.svg/960px-Latina_Televisi%C3%B3n_logo_2019.svg.png" group-title="América Latina" tvg-country="PE",Latina Televisión (Perú)
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-name="Latina Noticias 24/7 (1080p)" tvg-logo="https://i.imgur.com/3N8f7yC.png" group-title="América Latina" tvg-country="PE",Latina Noticias 24/7 (1080p)
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-name="A24 Noticias (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A24_logo_2021.svg/960px-A24_logo_2021.svg.png" group-title="América Latina" tvg-country="AR",A24 Noticias (Argentina)
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+#EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-name="TV Pública Fueguina (Argentina)" tvg-logo="https://i.imgur.com/qE4l5bV.png" group-title="América Latina" tvg-country="AR",TV Pública Fueguina (Argentina)
+https://nd106.republicaservers.com/hls/c8094/index.m3u8
+#EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel TV (Chile)" tvg-logo="https://i.imgur.com/4gW5E3x.png" group-title="América Latina" tvg-country="CL",Chile Channel TV (Chile)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ConcepcionTV.cl@SD" tvg-name="Concepción TV (Chile)" tvg-logo="https://i.imgur.com/tY7r2oQ.png" group-title="América Latina" tvg-country="CL",Concepción TV (Chile)
+https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-id="Argentinisima.ar@SD" tvg-name="Argentinísima Satelital (Argentina)" tvg-logo="https://i.imgur.com/s6O7PqB.png" group-title="América Latina" tvg-country="AR",Argentinísima Satelital (Argentina)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="AireDeSantaFe.ar@SD" tvg-name="Aire de Santa Fe (Argentina)" tvg-logo="https://i.imgur.com/hR7v0wG.png" group-title="América Latina" tvg-country="AR",Aire de Santa Fe (Argentina)
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal247.ar@SD" tvg-name="24/7 Canal de Noticias (Argentina)" tvg-logo="https://i.imgur.com/vL5h7tA.png" group-title="América Latina" tvg-country="AR",24/7 Canal de Noticias (Argentina)
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="América Latina" tvg-country="AR",AXN Latin America South
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="ZonaLatina.cl@SD" tvg-name="Zona Latina (Chile)" tvg-logo="https://i.imgur.com/4gW5E3x.png" group-title="América Latina" tvg-country="CL",Zona Latina (Chile)
+http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="Las Estrellas (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Las_Estrellas_logo.svg/960px-Las_Estrellas_logo.svg.png" group-title="América Latina" tvg-country="MX",Las Estrellas (México)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol Televisión HD (Colômbia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caracol_Televisi%C3%B3n_logo.svg/960px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="América Latina" tvg-country="CO",Caracol Televisión HD (Colômbia)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="Canal RCN (Colômbia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_RCN_logo_2019.svg/960px-Canal_RCN_logo_2019.svg.png" group-title="América Latina" tvg-country="CO",Canal RCN (Colômbia)
+http://138.121.15.230:9002/RCN/index.m3u8
+
+# ==========================================
+# EUROPA (CANAIS MAIS ASSISTIDOS - 21)
+# ==========================================
+
+#EXTINF:-1 tvg-id="BBCNews.uk@SD" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/960px-BBC_News_2022.svg.png" group-title="Europa" tvg-country="UK",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk@SD" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sky_News_logo_2021.svg/960px-Sky_News_logo_2021.svg.png" group-title="Europa" tvg-country="UK",Sky News
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:SkyNewsWeatherLive_1001-200001_hls.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 Français HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png" group-title="Europa" tvg-country="FR",France 24 Français HD
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="France 24 Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png" group-title="Europa" tvg-country="FR",France 24 Español HD
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-name="RTVE La 1 (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/La_1_de_RTVE_logo_2008.svg/960px-La_1_de_RTVE_logo_2008.svg.png" group-title="Europa" tvg-country="ES",RTVE La 1 (España)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" tvg-name="RTVE La 2 (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/La_2_de_RTVE_logo_2008.svg/960px-La_2_de_RTVE_logo_2008.svg.png" group-title="Europa" tvg-country="ES",RTVE La 2 (España)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt@SD" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RTP_Internacional_2016.svg/960px-RTP_Internacional_2016.svg.png" group-title="Europa" tvg-country="PT",RTP Internacional
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@SD" tvg-name="Rai News 24 (Itália)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rai_News_24_logo_%282017%29.svg/960px-Rai_News_24_logo_%282017%29.svg.png" group-title="Europa" tvg-country="IT",Rai News 24 (Itália)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es@SD" tvg-name="Telemadrid HD (España)" tvg-logo="https://i.imgur.com/oA2p1eW.png" group-title="Europa" tvg-country="ES",Telemadrid HD (España)
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@SD" tvg-name="CNBC Europe Live HD" tvg-logo="https://i.imgur.com/5U5h3cM.png" group-title="Europa" tvg-country="UK",CNBC Europe Live HD
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@SD" tvg-name="DW (Deutsche Welle) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/960px-Deutsche_Welle_logo.svg.png" group-title="Europa" tvg-country="DE",DW (Deutsche Welle) HD
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr@French" tvg-name="Euronews Français HD" tvg-logo="https://i.imgur.com/yN9t3qC.png" group-title="Europa" tvg-country="FR",Euronews Français HD
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte.fr@SD" tvg-name="Arte HD Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Arte_logo_2017.svg/960px-Arte_logo_2017.svg.png" group-title="Europa" tvg-country="FR",Arte HD Europe
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History HD" tvg-logo="https://i.imgur.com/vH9Z1iP.png" group-title="Europa" tvg-country="DE",Autentic History HD
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-name="Autentic Travel & Discovery HD" tvg-logo="https://i.imgur.com/3K4i4zP.png" group-title="Europa" tvg-country="DE",Autentic Travel & Discovery HD
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.uk@SD" tvg-name="Adventure Earth HD" tvg-logo="https://i.imgur.com/mO2v7zP.png" group-title="Europa" tvg-country="UK",Adventure Earth HD
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="GetFactual.de@SD" tvg-name="Get.Factual Documentaries HD" tvg-logo="https://i.imgur.com/6UeK8kP.png" group-title="Europa" tvg-country="DE",Get.Factual Documentaries HD
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.uk@SD" tvg-name="Clubbing TV UK" tvg-logo="https://i.imgur.com/X8D1Uf2.png" group-title="Europa" tvg-country="UK",Clubbing TV UK
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="DeadlyWomen.uk@SD" tvg-name="Deadly Women Channel HD" tvg-logo="https://i.imgur.com/7o4c8zQ.png" group-title="Europa" tvg-country="UK",Deadly Women Channel HD
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-id="FailArmy.uk@SD" tvg-name="FailArmy Europe HD" tvg-logo="https://i.imgur.com/Y4N0r1s.png" group-title="Europa" tvg-country="UK",FailArmy Europe HD
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de@SD" tvg-name="DW English HD (Deutsche Welle)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/960px-Deutsche_Welle_logo.svg.png" group-title="Europa" tvg-country="DE",DW English HD (Deutsche Welle)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+# ==========================================
+# ÁSIA (CANAIS MAIS ASSISTIDOS - 20)
+# ==========================================
+
+#EXTINF:-1 tvg-id="NHKGeneral.jp@SD" tvg-name="NHK General TV HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" group-title="Ásia" tvg-country="JP",NHK General TV HD (Japão)
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp@SD" tvg-name="Nippon TV (NTV Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nippon_Television_logo_2014.svg/960px-Nippon_Television_logo_2014.svg.png" group-title="Ásia" tvg-country="JP",Nippon TV (NTV Japão)
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="FujiTV.jp@SD" tvg-name="Fuji TV HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Fuji_Television_logo.svg/960px-Fuji_Television_logo.svg.png" group-title="Ásia" tvg-country="JP",Fuji TV HD (Japão)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp@SD" tvg-name="TV Asahi HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TV_Asahi_Logo.svg/960px-TV_Asahi_Logo.svg.png" group-title="Ásia" tvg-country="JP",TV Asahi HD (Japão)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-id="TBSTokyo.jp@SD" tvg-name="TBS Tokyo Broadcasting (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TBS_logo_2020.svg/960px-TBS_logo_2020.svg.png" group-title="Ásia" tvg-country="JP",TBS Tokyo Broadcasting (Japão)
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.jp@SD" tvg-name="TV Tokyo HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TV_Tokyo_logo_2023.svg/960px-TV_Tokyo_logo_2023.svg.png" group-title="Ásia" tvg-country="JP",TV Tokyo HD (Japão)
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA Originals (Channel NewsAsia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNA_logo_2019.svg/960px-CNA_logo_2019.svg.png" group-title="Ásia" tvg-country="SG",CNA Originals (Channel NewsAsia)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist/amg01082-cna-cna-rlaxxus/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World (Coreia do Sul)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KBS_World_logo.svg/960px-KBS_World_logo.svg.png" group-title="Ásia" tvg-country="KR",KBS World (Coreia do Sul)
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN (China Global Television)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CGTN_logo.svg/960px-CGTN_logo.svg.png" group-title="Ásia" tvg-country="CN",CGTN (China Global Television)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@SD" tvg-name="Al Jazeera English / Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_English_logo.svg/960px-Al_Jazeera_English_logo.svg.png" group-title="Ásia" tvg-country="QA",Al Jazeera English / Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-name="India Today Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/India_Today_logo.svg/960px-India_Today_logo.svg.png" group-title="Ásia" tvg-country="IN",India Today Live
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-name="Arirang TV Korea (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arirang_TV_logo.svg/960px-Arirang_TV_logo.svg.png" group-title="Ásia" tvg-country="KR",Arirang TV Korea (HD)
+http://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1 tvg-id="ArirangWorld.kr@SD" tvg-name="Arirang World 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arirang_TV_logo.svg/960px-Arirang_TV_logo.svg.png" group-title="Ásia" tvg-country="KR",Arirang World 1080p
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews Live HD (Japão)" tvg-logo="https://i.imgur.com/7D2x1vA.png" group-title="Ásia" tvg-country="JP",Weathernews Live HD (Japão)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="TBSSeoul.kr@SD" tvg-name="TBS Seoul (Coreia do Sul)" tvg-logo="https://i.imgur.com/yK1v4rA.png" group-title="Ásia" tvg-country="KR",TBS Seoul (Coreia do Sul)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNTV.kr@SD" tvg-name="ABN TV Korea HD" tvg-logo="https://i.imgur.com/yK1v4rA.png" group-title="Ásia" tvg-country="KR",ABN TV Korea HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-name="Gugak TV Korean Arts HD" tvg-logo="https://i.imgur.com/s6O7PqB.png" group-title="Ásia" tvg-country="KR",Gugak TV Korean Arts HD
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-name="CJ OnStyle Korea HD" tvg-logo="https://i.imgur.com/hR7v0wG.png" group-title="Ásia" tvg-country="KR",CJ OnStyle Korea HD
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr@SD" tvg-name="GS Shop Korea 1080p" tvg-logo="https://i.imgur.com/tY7r2oQ.png" group-title="Ásia" tvg-country="KR",GS Shop Korea 1080p
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QVCJapan.jp@SD" tvg-name="QVC Japan HD" tvg-logo="https://i.imgur.com/sA5s1eS.png" group-title="Ásia" tvg-country="JP",QVC Japan HD
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
