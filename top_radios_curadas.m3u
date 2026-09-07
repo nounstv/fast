@@ -1,527 +1,521 @@
 #EXTM3U
 
-
-# ==========================================
-# BRASIL (TOP 50 RÁDIOS MAIS OUVIDAS)
-# ==========================================
-
-#EXTINF:-1 radio="true" tvg-name="Antena 1 São Paulo, SP" tvg-logo="" group-title="Brasil" tvg-country="BR",Antena 1 São Paulo, SP
-http://antena1.newradio.it/stream?ext=.mp3
-#EXTINF:-1 radio="true" tvg-name="Rádio Flashback Fm" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Flashback Fm
-http://hd.matutos.com.br:8008/;stream.mp3
-#EXTINF:-1 radio="true" tvg-name="Antena 1 FM 94.7 São Paulo" tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Brasil" tvg-country="BR",Antena 1 FM 94.7 São Paulo
-http://antena1.newradio.it/stream
-#EXTINF:-1 radio="true" tvg-name="Antena 1 FM 103.7 Rio de Janeiro" tvg-logo="" group-title="Brasil" tvg-country="BR",Antena 1 FM 103.7 Rio de Janeiro
-http://a1rj.streams.com.br:7801/stream
-#EXTINF:-1 radio="true" tvg-name="Rádio Bossa Nova Brazil" tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="Brasil" tvg-country="BR",Rádio Bossa Nova Brazil
-http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
-#EXTINF:-1 radio="true" tvg-name="Rádio Saudade FM 99.7" tvg-logo="https://img.radios.com.br/radio/lg/radio8_1626274312.png" group-title="Brasil" tvg-country="BR",Rádio Saudade FM 99.7
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Rádio Disco Funk BR" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Disco Funk BR
-http://streaming12.hstbr.net:8084/live
-#EXTINF:-1 radio="true" tvg-name="Máquina do Tempo (Internacional)" tvg-logo="" group-title="Brasil" tvg-country="BR",Máquina do Tempo (Internacional)
-http://servidor28.brlogic.com:8212/live
-#EXTINF:-1 radio="true" tvg-name="Máquina do Tempo (MPB Brasil)" tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" group-title="Brasil" tvg-country="BR",Máquina do Tempo (MPB Brasil)
-http://servidor28.brlogic.com:8032/live
-#EXTINF:-1 radio="true" tvg-name="Bossa Jazz Brasil" tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png" group-title="Brasil" tvg-country="BR",Bossa Jazz Brasil
-https://centova5.transmissaodigital.com:20104/live
-#EXTINF:-1 radio="true" tvg-name="JB FM" tvg-logo="" group-title="Brasil" tvg-country="BR",JB FM
-http://26663.live.streamtheworld.com:3690/JBFMAAC_SC
-#EXTINF:-1 radio="true" tvg-name="Antena 1 Rio de Janeiro, RJ" tvg-logo="" group-title="Brasil" tvg-country="BR",Antena 1 Rio de Janeiro, RJ
-http://a1rj.streams.com.br:7801/sm
-#EXTINF:-1 radio="true" tvg-name="89 A Radio Rock" tvg-logo="" group-title="Brasil" tvg-country="BR",89 A Radio Rock
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
-#EXTINF:-1 radio="true" tvg-name="Rádio Bandeirantes - São Paulo" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Bandeirantes - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
-#EXTINF:-1 radio="true" tvg-name="Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Super Radio Tupi 96.5" tvg-logo="" group-title="Brasil" tvg-country="BR",Super Radio Tupi 96.5
-https://8923.brasilstream.com.br/stream
-#EXTINF:-1 radio="true" tvg-name="Smooth Jazz Lounge" tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="Brasil" tvg-country="BR",Smooth Jazz Lounge
-https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
-#EXTINF:-1 radio="true" tvg-name="Rádio Transamérica Hits (Barreiras)" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Transamérica Hits (Barreiras)
-http://servidor39.brlogic.com:8146/live
-#EXTINF:-1 radio="true" tvg-name="bandnews fm sp" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Brasil" tvg-country="BR",bandnews fm sp
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
-#EXTINF:-1 radio="true" tvg-name="Radio Mix FM" tvg-logo="" group-title="Brasil" tvg-country="BR",Radio Mix FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Atlântida - ATL" tvg-logo="http://graph.facebook.com/redeatlantida/picture?type=large" group-title="Brasil" tvg-country="BR",Atlântida - ATL
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="Gaúcha" tvg-logo="https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png" group-title="Brasil" tvg-country="BR",Gaúcha
-https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="FM O DIA 100.5" tvg-logo="" group-title="Brasil" tvg-country="BR",FM O DIA 100.5
-http://streaming.livespanel.com:20000/live
-#EXTINF:-1 radio="true" tvg-name="Clube FM 99.1" tvg-logo="" group-title="Brasil" tvg-country="BR",Clube FM 99.1
-https://radio.saopaulo01.com.br:10913/stream
-#EXTINF:-1 radio="true" tvg-name="Rádio Band FM 96.1 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" group-title="Brasil" tvg-country="BR",Rádio Band FM 96.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
-#EXTINF:-1 radio="true" tvg-name="Rádio Grenal" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Grenal
-https://grenal.audiostream.com.br:20000/aac
-#EXTINF:-1 radio="true" tvg-name="Mix Rio 102.1 Rio de Janeiro, RJ" tvg-logo="" group-title="Brasil" tvg-country="BR",Mix Rio 102.1 Rio de Janeiro, RJ
-http://26563.live.streamtheworld.com:3690/MIXRIOAAC_SC
-#EXTINF:-1 radio="true" tvg-name="Radio Pampa FM 97,5 - Porto Alegre" tvg-logo="" group-title="Brasil" tvg-country="BR",Radio Pampa FM 97,5 - Porto Alegre
-http://cast4.audiostream.com.br:8653/aac
-#EXTINF:-1 radio="true" tvg-name="Rádio MGT Sertanejo" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio MGT Sertanejo
-https://cast.mgtradio.net/radio/8000/aac
-#EXTINF:-1 radio="true" tvg-name="Alpha FM 101.7 MHz (São Paulo - SP)" tvg-logo="https://cdn-profiles.tunein.com/s8129/images/logod.jpg" group-title="Brasil" tvg-country="BR",Alpha FM 101.7 MHz (São Paulo - SP)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
-#EXTINF:-1 radio="true" tvg-name="Fita Cassete" tvg-logo="https://img.radios.com.br/radio/lg/radio162745_1603505533.jpg" group-title="Brasil" tvg-country="BR",Fita Cassete
-https://server01.ouvir.radio.br:8018/stream
-#EXTINF:-1 radio="true" tvg-name="RÁDIO LIGA SAMBA" tvg-logo="https://www.radio-ao-vivo.com/favicon.ico" group-title="Brasil" tvg-country="BR",RÁDIO LIGA SAMBA
-http://srv1.braudio.com.br:7308/;stream.nsv
-#EXTINF:-1 radio="true" tvg-name="GOLD INSTRUMENTAL" tvg-logo="https://static.wixstatic.com/ficons/688516_5438a05ca6d2407493112faa1c5ccdd2%7emv2.ico" group-title="Brasil" tvg-country="BR",GOLD INSTRUMENTAL
-https://centova.svdns.com.br:19373/stream1
-#EXTINF:-1 radio="true" tvg-name="Rádio Metropolitana 98.5 FM Sertanejo" tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="Brasil" tvg-country="BR",Rádio Metropolitana 98.5 FM Sertanejo
-https://ice.fabricahost.com.br/metrospsertanejo
-#EXTINF:-1 radio="true" tvg-name="Jovem Pan Florianópolis" tvg-logo="" group-title="Brasil" tvg-country="BR",Jovem Pan Florianópolis
-http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8
-#EXTINF:-1 radio="true" tvg-name="Nova Brasil Fm São Paulo" tvg-logo="" group-title="Brasil" tvg-country="BR",Nova Brasil Fm São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Rádio Itatiaia 95.7 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg" group-title="Brasil" tvg-country="BR",Rádio Itatiaia 95.7 FM
-https://8903.brasilstream.com.br/stream
-#EXTINF:-1 radio="true" tvg-name="Music FM 88.7" tvg-logo="https://static.radios.com.br/img/apple-touch-icon.png" group-title="Brasil" tvg-country="BR",Music FM 88.7
-http://cast4.audiostream.com.br:8006/live
-#EXTINF:-1 radio="true" tvg-name="Rádio 80FM" tvg-logo="https://www.radio80fm.com.br/favicon.ico" group-title="Brasil" tvg-country="BR",Rádio 80FM
-http://104.247.221.130:9020/stream1
-#EXTINF:-1 radio="true" tvg-name="Rádio Mix 106.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio13955_1720711597.png" group-title="Brasil" tvg-country="BR",Rádio Mix 106.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 radio="true" tvg-name="BandNews FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="Brasil" tvg-country="BR",BandNews FM
+# ========================================================
+# REGIÃO: BRASIL (TOP 50)
+# ========================================================
+#EXTINF:-1 tvg-id="Kiss FM 92.5 (São Paulo)" tvg-name="Kiss FM 92.5 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Kiss_FM_logo.png/320px-Kiss_FM_logo.png" tvg-country="BR" group-title="Rádios - Brasil",Kiss FM 92.5 (São Paulo)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac
+#EXTINF:-1 tvg-id="Energia 97 FM (São Paulo)" tvg-name="Energia 97 FM (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/47/Logotipo_Energia_97.png/300px-Logotipo_Energia_97.png" tvg-country="BR" group-title="Rádios - Brasil",Energia 97 FM (São Paulo)
+https://streaming.inweb.com.br/energia
+#EXTINF:-1 tvg-id="Metropolitana FM 98.5 (São Paulo)" tvg-name="Metropolitana FM 98.5 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Logo_Metropolitana_FM.png/300px-Logo_Metropolitana_FM.png" tvg-country="BR" group-title="Rádios - Brasil",Metropolitana FM 98.5 (São Paulo)
+https://ice.fabricahost.com.br/metropolitana985sp
+#EXTINF:-1 tvg-id="Novabrasil FM 89.5 (São Paulo)" tvg-name="Novabrasil FM 89.5 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Logotipo_Novabrasil_FM.png/300px-Logotipo_Novabrasil_FM.png" tvg-country="BR" group-title="Rádios - Brasil",Novabrasil FM 89.5 (São Paulo)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SP.mp3
+#EXTINF:-1 tvg-id="BandNews FM 96.9 (São Paulo)" tvg-name="BandNews FM 96.9 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e0/BandNews_FM_logo.png/320px-BandNews_FM_logo.png" tvg-country="BR" group-title="Rádios - Brasil",BandNews FM 96.9 (São Paulo)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC
-#EXTINF:-1 radio="true" tvg-name="Antena 1 - Porto Alegre" tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Brasil" tvg-country="BR",Antena 1 - Porto Alegre
-https://antenaone.crossradio.com.br/stream/1
-#EXTINF:-1 radio="true" tvg-name="Radio Reggae Brasil" tvg-logo="https://manager.suaradionanet.net/storage/radios/reggaebrasil/site_basic/63f193d9235468.08684969.png" group-title="Brasil" tvg-country="BR",Radio Reggae Brasil
-https://casthttps.suaradionanet.net/13805/stream
-#EXTINF:-1 radio="true" tvg-name="Rádio Buteco Sertanejo" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Buteco Sertanejo
-https://stream.zeno.fm/6kumndewqbruv
-#EXTINF:-1 radio="true" tvg-name="MGT FORRÓ" tvg-logo="https://www.mgtradio.net/favicon.ico" group-title="Brasil" tvg-country="BR",MGT FORRÓ
-https://cast.mgtradio.net/radio/8050/aac
-#EXTINF:-1 radio="true" tvg-name="Só Cacarecos - Classic Rock" tvg-logo="" group-title="Brasil" tvg-country="BR",Só Cacarecos - Classic Rock
-http://sokakarecos.ddns.net:9030/rock128
-#EXTINF:-1 radio="true" tvg-name="Rádio Antena 1 94.7 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio9505_1574106966.jpg" group-title="Brasil" tvg-country="BR",Rádio Antena 1 94.7 FM
-https://antenaone.crossradio.com.br/stream/1;
-#EXTINF:-1 radio="true" tvg-name="Tropical Smooth Jazz" tvg-logo="https://public-rf-upload.minhawebradio.net/47137/favicon/6c0b5a4fbc04adeb8117f49ccabeb70b.jpg" group-title="Brasil" tvg-country="BR",Tropical Smooth Jazz
-https://servidor32-3.brlogic.com:8230/live
-#EXTINF:-1 radio="true" tvg-name="Fay Só Forró das Antigas" tvg-logo="" group-title="Brasil" tvg-country="BR",Fay Só Forró das Antigas
-https://ssl.xcast.com.br:7132/stremig
-#EXTINF:-1 radio="true" tvg-name="Rádio Anos 80" tvg-logo="" group-title="Brasil" tvg-country="BR",Rádio Anos 80
-http://live2.livemus.com.br:27400/live
+#EXTINF:-1 tvg-id="Jovem Pan FM 100.9 (São Paulo)" tvg-name="Jovem Pan FM 100.9 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jovem_Pan_FM_logo.svg/320px-Jovem_Pan_FM_logo.svg.png" tvg-country="BR" group-title="Rádios - Brasil",Jovem Pan FM 100.9 (São Paulo)
+https://paineldj5.com.br:20028/stream
+#EXTINF:-1 tvg-id="Eldorado FM 107.3 (São Paulo)" tvg-name="Eldorado FM 107.3 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/36/R%C3%A1dio_Eldorado_FM_logo.png/300px-R%C3%A1dio_Eldorado_FM_logo.png" tvg-country="BR" group-title="Rádios - Brasil",Eldorado FM 107.3 (São Paulo)
+https://cast4.audiostream.com.br:2652/mp3
+#EXTINF:-1 tvg-id="Antena 1 FM 94.7 (São Paulo)" tvg-name="Antena 1 FM 94.7 (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Antena_1_FM.png/300px-Logo_Antena_1_FM.png" tvg-country="BR" group-title="Rádios - Brasil",Antena 1 FM 94.7 (São Paulo)
+http://antena1.newradio.it/stream?ext=.mp3
+#EXTINF:-1 tvg-id="Rádio Flashback Fm" tvg-name="Rádio Flashback Fm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k53s9e3p82k2.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Flashback Fm
+http://hd.matutos.com.br:8008/;stream.mp3
+#EXTINF:-1 tvg-id="Rádio Bossa Nova Brazil" tvg-name="Rádio Bossa Nova Brazil" tvg-logo="http://www.vip-radios.fm/favicon.ico" tvg-country="BR" group-title="Rádios - Brasil",Rádio Bossa Nova Brazil
+http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
+#EXTINF:-1 tvg-id="Rádio Saudade FM 99.7" tvg-name="Rádio Saudade FM 99.7" tvg-logo="https://img.radios.com.br/radio/lg/radio8_1626274312.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Saudade FM 99.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+#EXTINF:-1 tvg-id="Rádio Disco Funk BR" tvg-name="Rádio Disco Funk BR" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Disco Funk BR
+http://streaming12.hstbr.net:8084/live
+#EXTINF:-1 tvg-id="Máquina do Tempo (Internacional)" tvg-name="Máquina do Tempo (Internacional)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/894676b2v9qf.png" tvg-country="BR" group-title="Rádios - Brasil",Máquina do Tempo (Internacional)
+http://servidor28.brlogic.com:8212/live
+#EXTINF:-1 tvg-id="Máquina do Tempo (MPB Brasil)" tvg-name="Máquina do Tempo (MPB Brasil)" tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" tvg-country="BR" group-title="Rádios - Brasil",Máquina do Tempo (MPB Brasil)
+http://servidor28.brlogic.com:8032/live
+#EXTINF:-1 tvg-id="Bossa Jazz Brasil" tvg-name="Bossa Jazz Brasil" tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png" tvg-country="BR" group-title="Rádios - Brasil",Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1 tvg-id="JB FM" tvg-name="JB FM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/77/Jbfm_logo.png/300px-Jbfm_logo.png" tvg-country="BR" group-title="Rádios - Brasil",JB FM
+http://26663.live.streamtheworld.com:3690/JBFMAAC_SC
+#EXTINF:-1 tvg-id="89 A Radio Rock" tvg-name="89 A Radio Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/89_FM_A_R%C3%A1dio_Rock_logo.png/320px-89_FM_A_R%C3%A1dio_Rock_logo.png" tvg-country="BR" group-title="Rádios - Brasil",89 A Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1 tvg-id="Rádio Bandeirantes - São Paulo" tvg-name="Rádio Bandeirantes - São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3a/Logo_R%C3%A1dio_Bandeirantes.png/300px-Logo_R%C3%A1dio_Bandeirantes.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Bandeirantes - São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
+#EXTINF:-1 tvg-id="Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462" tvg-name="Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/52/Radio_cidade_rj.png/300px-Radio_cidade_rj.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1 tvg-id="Super Radio Tupi 96.5" tvg-name="Super Radio Tupi 96.5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Super_R%C3%A1dio_Tupi.png/300px-Super_R%C3%A1dio_Tupi.png" tvg-country="BR" group-title="Rádios - Brasil",Super Radio Tupi 96.5
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="Smooth Jazz Lounge" tvg-name="Smooth Jazz Lounge" tvg-logo="https://www.vip-radios.fm/favicon.ico" tvg-country="BR" group-title="Rádios - Brasil",Smooth Jazz Lounge
+https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
+#EXTINF:-1 tvg-id="Rádio Transamérica Hits (Barreiras)" tvg-name="Rádio Transamérica Hits (Barreiras)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Logo_da_Rede_Transam%C3%A9rica.png/320px-Logo_da_Rede_Transam%C3%A9rica.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Transamérica Hits (Barreiras)
+http://servidor39.brlogic.com:8146/live
+#EXTINF:-1 tvg-id="Radio Mix FM" tvg-name="Radio Mix FM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Mix_FM_logo.png/300px-Mix_FM_logo.png" tvg-country="BR" group-title="Rádios - Brasil",Radio Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1 tvg-id="Atlântida - ATL" tvg-name="Atlântida - ATL" tvg-logo="http://graph.facebook.com/redeatlantida/picture?type=large" tvg-country="BR" group-title="Rádios - Brasil",Atlântida - ATL
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Gaúcha" tvg-name="Gaúcha" tvg-logo="https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png" tvg-country="BR" group-title="Rádios - Brasil",Gaúcha
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FM O DIA 100.5" tvg-name="FM O DIA 100.5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/15/FM_O_Dia_logo.png/300px-FM_O_Dia_logo.png" tvg-country="BR" group-title="Rádios - Brasil",FM O DIA 100.5
+http://streaming.livespanel.com:20000/live
+#EXTINF:-1 tvg-id="Clube FM 99.1" tvg-name="Clube FM 99.1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7a/Logotipo_da_Rede_Clube_FM.png/300px-Logotipo_da_Rede_Clube_FM.png" tvg-country="BR" group-title="Rádios - Brasil",Clube FM 99.1
+https://radio.saopaulo01.com.br:10913/stream
+#EXTINF:-1 tvg-id="Rádio Band FM 96.1 FM" tvg-name="Rádio Band FM 96.1 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" tvg-country="BR" group-title="Rádios - Brasil",Rádio Band FM 96.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
+#EXTINF:-1 tvg-id="Rádio Grenal" tvg-name="Rádio Grenal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4e/R%C3%A1dio_Grenal_logo.png/300px-R%C3%A1dio_Grenal_logo.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio Grenal
+https://grenal.audiostream.com.br:20000/aac
+#EXTINF:-1 tvg-id="Mix Rio 102.1 Rio de Janeiro, RJ" tvg-name="Mix Rio 102.1 Rio de Janeiro, RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Mix_FM_logo.png/300px-Mix_FM_logo.png" tvg-country="BR" group-title="Rádios - Brasil",Mix Rio 102.1 Rio de Janeiro, RJ
+http://26563.live.streamtheworld.com:3690/MIXRIOAAC_SC
+#EXTINF:-1 tvg-id="Radio Pampa FM 97,5 - Porto Alegre" tvg-name="Radio Pampa FM 97,5 - Porto Alegre" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a9/Logotipo_da_Rede_Pampa.png/300px-Logotipo_da_Rede_Pampa.png" tvg-country="BR" group-title="Rádios - Brasil",Radio Pampa FM 97,5 - Porto Alegre
+http://cast4.audiostream.com.br:8653/aac
+#EXTINF:-1 tvg-id="Rádio MGT Sertanejo" tvg-name="Rádio MGT Sertanejo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",Rádio MGT Sertanejo
+https://cast.mgtradio.net/radio/8000/aac
+#EXTINF:-1 tvg-id="Alpha FM 101.7 MHz (São Paulo - SP)" tvg-name="Alpha FM 101.7 MHz (São Paulo - SP)" tvg-logo="https://cdn-profiles.tunein.com/s8129/images/logod.jpg" tvg-country="BR" group-title="Rádios - Brasil",Alpha FM 101.7 MHz (São Paulo - SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+#EXTINF:-1 tvg-id="Fita Cassete" tvg-name="Fita Cassete" tvg-logo="https://img.radios.com.br/radio/lg/radio162745_1603505533.jpg" tvg-country="BR" group-title="Rádios - Brasil",Fita Cassete
+https://server01.ouvir.radio.br:8018/stream
+#EXTINF:-1 tvg-id="98 FM (Belo Horizonte)" tvg-name="98 FM (Belo Horizonte)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",98 FM (Belo Horizonte)
+https://9554.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="105 FM (São Paulo)" tvg-name="105 FM (São Paulo)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logo_105_FM.png/300px-Logo_105_FM.png" tvg-country="BR" group-title="Rádios - Brasil",105 FM (São Paulo)
+https://wz7.servidoresbrasil.com:8070/stream
+#EXTINF:-1 tvg-id="92 FM (Porto Alegre)" tvg-name="92 FM (Porto Alegre)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",92 FM (Porto Alegre)
+https://1592747t.ha.azioncdn.net/primary/92fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="91 Rock (Curitiba)" tvg-name="91 Rock (Curitiba)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",91 Rock (Curitiba)
+https://servidor40.brlogic.com:8044/live
+#EXTINF:-1 tvg-id="Adoro Flashback" tvg-name="Adoro Flashback" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k53s9e3p82k2.png" tvg-country="BR" group-title="Rádios - Brasil",Adoro Flashback
+https://server01.ouvir.radio.br:8018/stream
+#EXTINF:-1 tvg-id="96 FM (Bauru)" tvg-name="96 FM (Bauru)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",96 FM (Bauru)
+https://streaming.ei3.com.br/radio/8000/mp3
+#EXTINF:-1 tvg-id="012 Rock News" tvg-name="012 Rock News" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",012 Rock News
+https://9881.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="98 Rock Brasil" tvg-name="98 Rock Brasil" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",98 Rock Brasil
+https://8185.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="A Tarde FM (Salvador)" tvg-name="A Tarde FM (Salvador)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",A Tarde FM (Salvador)
+https://stm35.srvstm.com:7920/stream
+#EXTINF:-1 tvg-id="107 FM (São Paulo Interior)" tvg-name="107 FM (São Paulo Interior)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",107 FM (São Paulo Interior)
+https://ice.fabricahost.com.br/107fm
+#EXTINF:-1 tvg-id="94 FM (Natal)" tvg-name="94 FM (Natal)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",94 FM (Natal)
+https://cidadedosolaac.jmvstream.com/stream
+#EXTINF:-1 tvg-id="96 FM (Arapiraca)" tvg-name="96 FM (Arapiraca)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",96 FM (Arapiraca)
+https://www.appradio.app:8182/live
+#EXTINF:-1 tvg-id="97 FM (Natal)" tvg-name="97 FM (Natal)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",97 FM (Natal)
+https://azevedo.jmvstream.com/stream
+#EXTINF:-1 tvg-id="104 FM (Goioerê)" tvg-name="104 FM (Goioerê)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",104 FM (Goioerê)
+https://ice.fabricahost.com.br/104fmgoioerepr
+#EXTINF:-1 tvg-id="94 Live" tvg-name="94 Live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",94 Live
+https://94fm64aac.jmvstream.com/stream
+#EXTINF:-1 tvg-id="93 FM (Alagoinhas)" tvg-name="93 FM (Alagoinhas)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="BR" group-title="Rádios - Brasil",93 FM (Alagoinhas)
+https://cast.radiu.live:9346/stream
 
-# ==========================================
-# ESTADOS UNIDOS (TOP 50 RÁDIOS MAIS OUVIDAS)
-# ==========================================
-
-#EXTINF:-1 radio="true" tvg-name="Radio Paradise Main Mix (EU) 320k AAC" tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="Estados Unidos" tvg-country="US",Radio Paradise Main Mix (EU) 320k AAC
+# ========================================================
+# REGIÃO: ESTADOS UNIDOS (TOP 50)
+# ========================================================
+#EXTINF:-1 tvg-id="Radio Paradise Main Mix (EU) 320k AAC" tvg-name="Radio Paradise Main Mix (EU) 320k AAC" tvg-logo="https://radioparadise.com/apple-touch-icon.png" tvg-country="US" group-title="Rádios - Estados Unidos",Radio Paradise Main Mix (EU) 320k AAC
 http://stream-uk1.radioparadise.com/aac-320
-#EXTINF:-1 radio="true" tvg-name="Classic Vinyl HD" tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Estados Unidos" tvg-country="US",Classic Vinyl HD
+#EXTINF:-1 tvg-id="Classic Vinyl HD" tvg-name="Classic Vinyl HD" tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",Classic Vinyl HD
 https://icecast.walmradio.com:8443/classic
-#EXTINF:-1 radio="true" tvg-name="101 SMOOTH JAZZ" tvg-logo="http://101smoothjazz.com/favicon.ico" group-title="Estados Unidos" tvg-country="US",101 SMOOTH JAZZ
+#EXTINF:-1 tvg-id="101 SMOOTH JAZZ" tvg-name="101 SMOOTH JAZZ" tvg-logo="http://101smoothjazz.com/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",101 SMOOTH JAZZ
 http://jking.cdnstream1.com/b22139_128mp3
-#EXTINF:-1 radio="true" tvg-name="CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie" tvg-logo="" group-title="Estados Unidos" tvg-country="US",CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie
+#EXTINF:-1 tvg-id="CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie" tvg-name="CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c6mvd746h35z.png" tvg-country="US" group-title="Rádios - Estados Unidos",CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie
 https://radiopanther.radiolebowski.com/play
-#EXTINF:-1 radio="true" tvg-name=".977 80s" tvg-logo="" group-title="Estados Unidos" tvg-country="US",.977 80s
-http://17573.live.streamtheworld.com/977_80_SC
-#EXTINF:-1 radio="true" tvg-name="181.FM - Old School HipHop/RnB" tvg-logo="http://www.181.fm/favicon.ico" group-title="Estados Unidos" tvg-country="US",181.FM - Old School HipHop/RnB
+#EXTINF:-1 tvg-id=".977 80s" tvg-name=".977 80s" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27443d.png" tvg-country="US" group-title="Rádios - Estados Unidos",.977 80s
+https://26433.live.streamtheworld.com/977_80_SC
+#EXTINF:-1 tvg-id="181.FM - Old School HipHop/RnB" tvg-name="181.FM - Old School HipHop/RnB" tvg-logo="http://www.181.fm/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",181.FM - Old School HipHop/RnB
 http://listen.181fm.com/181-oldschool_128k.mp3
-#EXTINF:-1 radio="true" tvg-name=".977 Country" tvg-logo="" group-title="Estados Unidos" tvg-country="US",.977 Country
-http://26343.live.streamtheworld.com/977_COUNTRY_SC
-#EXTINF:-1 radio="true" tvg-name="Your Classical - Relax" tvg-logo="http://www.yourclassical.org/apple-touch-icon.png" group-title="Estados Unidos" tvg-country="US",Your Classical - Relax
+#EXTINF:-1 tvg-id=".977 Country" tvg-name=".977 Country" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27443d.png" tvg-country="US" group-title="Rádios - Estados Unidos",.977 Country
+https://26343.live.streamtheworld.com/977_COUNTRY_SC
+#EXTINF:-1 tvg-id="Your Classical - Relax" tvg-name="Your Classical - Relax" tvg-logo="http://www.yourclassical.org/apple-touch-icon.png" tvg-country="US" group-title="Rádios - Estados Unidos",Your Classical - Relax
 http://relax.stream.publicradio.org/relax.mp3
-#EXTINF:-1 radio="true" tvg-name=".977 Hitz" tvg-logo="" group-title="Estados Unidos" tvg-country="US",.977 Hitz
-http://18863.live.streamtheworld.com/977_HITS_SC
-#EXTINF:-1 radio="true" tvg-name="Ambient Sleeping Pill" tvg-logo="" group-title="Estados Unidos" tvg-country="US",Ambient Sleeping Pill
+#EXTINF:-1 tvg-id=".977 Hitz" tvg-name=".977 Hitz" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27443d.png" tvg-country="US" group-title="Rádios - Estados Unidos",.977 Hitz
+https://18493.live.streamtheworld.com/977_HITS_SC
+#EXTINF:-1 tvg-id="Ambient Sleeping Pill" tvg-name="Ambient Sleeping Pill" tvg-logo="https://ambientsleepingpill.com/images/asp-logo.png" tvg-country="US" group-title="Rádios - Estados Unidos",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
-#EXTINF:-1 radio="true" tvg-name="Frisky" tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Estados Unidos" tvg-country="US",Frisky
+#EXTINF:-1 tvg-id="Frisky" tvg-name="Frisky" tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" tvg-country="US" group-title="Rádios - Estados Unidos",Frisky
 http://stream2.friskyradio.com/frisky_mp3_hi
-#EXTINF:-1 radio="true" tvg-name="Rockabilly-radio.net" tvg-logo="" group-title="Estados Unidos" tvg-country="US",Rockabilly-radio.net
+#EXTINF:-1 tvg-id="Rockabilly-radio.net" tvg-name="Rockabilly-radio.net" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",Rockabilly-radio.net
 http://lin3.ash.fast-serv.com:6026/stream_96
-#EXTINF:-1 radio="true" tvg-name="SomaFM Groove Salad (128k MP3)" tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="Estados Unidos" tvg-country="US",SomaFM Groove Salad (128k MP3)
-https://ice5.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 radio="true" tvg-name=".977 The Mix" tvg-logo="" group-title="Estados Unidos" tvg-country="US",.977 The Mix
-http://26343.live.streamtheworld.com:3690/977_MIX_SC
-#EXTINF:-1 radio="true" tvg-name="Big R Radio - 80s Metal FM" tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png" group-title="Estados Unidos" tvg-country="US",Big R Radio - 80s Metal FM
+#EXTINF:-1 tvg-id="SomaFM Groove Salad (128k MP3)" tvg-name="SomaFM Groove Salad (128k MP3)" tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Groove Salad (128k MP3)
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id=".977 The Mix" tvg-name=".977 The Mix" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27443d.png" tvg-country="US" group-title="Rádios - Estados Unidos",.977 The Mix
+https://24293.live.streamtheworld.com/977_MIX_SC
+#EXTINF:-1 tvg-id="Big R Radio - 80s Metal FM" tvg-name="Big R Radio - 80s Metal FM" tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png" tvg-country="US" group-title="Rádios - Estados Unidos",Big R Radio - 80s Metal FM
 http://bigrradio.cdnstream1.com/5186_128
-#EXTINF:-1 radio="true" tvg-name="SomaFM Secret Agent (128k MP3)" tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="Estados Unidos" tvg-country="US",SomaFM Secret Agent (128k MP3)
-https://ice6.somafm.com/secretagent-128-mp3
-#EXTINF:-1 radio="true" tvg-name="Hard Rock Heaven" tvg-logo="" group-title="Estados Unidos" tvg-country="US",Hard Rock Heaven
+#EXTINF:-1 tvg-id="SomaFM Secret Agent (128k MP3)" tvg-name="SomaFM Secret Agent (128k MP3)" tvg-logo="https://somafm.com/img3/secretagent-400.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Secret Agent (128k MP3)
+https://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-id="Hard Rock Heaven" tvg-name="Hard Rock Heaven" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",Hard Rock Heaven
 http://hydra.cdnstream.com/1521_128
-#EXTINF:-1 radio="true" tvg-name="181.FM - The Beat (HipHop/R&B)" tvg-logo="http://www.181.fm/favicon.ico" group-title="Estados Unidos" tvg-country="US",181.FM - The Beat (HipHop/R&B)
+#EXTINF:-1 tvg-id="181.FM - The Beat (HipHop/R&B)" tvg-name="181.FM - The Beat (HipHop/R&B)" tvg-logo="http://www.181.fm/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",181.FM - The Beat (HipHop/R&B)
 http://listen.181fm.com/181-beat_128k.mp3
-#EXTINF:-1 radio="true" tvg-name="Cryosleep" tvg-logo="http://www.echoesofbluemars.org/images/favicon.ico" group-title="Estados Unidos" tvg-country="US",Cryosleep
+#EXTINF:-1 tvg-id="Cryosleep" tvg-name="Cryosleep" tvg-logo="http://www.echoesofbluemars.org/images/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",Cryosleep
 http://streams.echoesofbluemars.org:8000/cryosleep
-#EXTINF:-1 radio="true" tvg-name="NPR 24 Hour Program Stream" tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="Estados Unidos" tvg-country="US",NPR 24 Hour Program Stream
+#EXTINF:-1 tvg-id="NPR 24 Hour Program Stream" tvg-name="NPR 24 Hour Program Stream" tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" tvg-country="US" group-title="Rádios - Estados Unidos",NPR 24 Hour Program Stream
 http://npr-ice.streamguys1.com/live.mp3
-#EXTINF:-1 radio="true" tvg-name="SomaFM Underground 80s (128k MP3)" tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="Estados Unidos" tvg-country="US",SomaFM Underground 80s (128k MP3)
-https://ice6.somafm.com/u80s-128-mp3
-#EXTINF:-1 radio="true" tvg-name="Infowars" tvg-logo="" group-title="Estados Unidos" tvg-country="US",Infowars
-http://stream-mp3.infowars.com/
-#EXTINF:-1 radio="true" tvg-name="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-logo="" group-title="Estados Unidos" tvg-country="US",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
+#EXTINF:-1 tvg-id="SomaFM Underground 80s (128k MP3)" tvg-name="SomaFM Underground 80s (128k MP3)" tvg-logo="https://somafm.com/img3/u80s-400.png" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Underground 80s (128k MP3)
+https://ice1.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-id="KEXP 90.3 FM Seattle" tvg-name="KEXP 90.3 FM Seattle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KEXP-FM_logo.svg/320px-KEXP-FM_logo.svg.png" tvg-country="US" group-title="Rádios - Estados Unidos",KEXP 90.3 FM Seattle
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1 tvg-id="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-name="LOVE RADIO Only Love Songs 70s80s90s - www.love.radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
 http://shoutcast3.streamingmedia.it:3162/
-#EXTINF:-1 radio="true" tvg-name="The Big 80s Station" tvg-logo="" group-title="Estados Unidos" tvg-country="US",The Big 80s Station
+#EXTINF:-1 tvg-id="The Big 80s Station" tvg-name="The Big 80s Station" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",The Big 80s Station
 http://158.69.114.190:8065/;
-#EXTINF:-1 radio="true" tvg-name="Bassdrive" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg" group-title="Estados Unidos" tvg-country="US",Bassdrive
+#EXTINF:-1 tvg-id="Bassdrive" tvg-name="Bassdrive" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",Bassdrive
 http://ice.bassdrive.net/stream
-#EXTINF:-1 radio="true" tvg-name="SomaFM Space Station Soma (128k AAC)" tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="Estados Unidos" tvg-country="US",SomaFM Space Station Soma (128k AAC)
-https://ice5.somafm.com/spacestation-128-aac
-#EXTINF:-1 radio="true" tvg-name="NBC News Radio" tvg-logo="https://iscale.iheart.com/catalog/live/6043" group-title="Estados Unidos" tvg-country="US",NBC News Radio
+#EXTINF:-1 tvg-id="SomaFM Space Station Soma (128k AAC)" tvg-name="SomaFM Space Station Soma (128k AAC)" tvg-logo="https://somafm.com/img3/spacestation-400.png" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Space Station Soma (128k AAC)
+https://ice1.somafm.com/spacestation-128-aac
+#EXTINF:-1 tvg-id="NBC News Radio" tvg-name="NBC News Radio" tvg-logo="https://iscale.iheart.com/catalog/live/6043" tvg-country="US" group-title="Rádios - Estados Unidos",NBC News Radio
 http://stream.revma.ihrhls.com/zc6043
-#EXTINF:-1 radio="true" tvg-name="SomaFM PopTron (128k MP3)" tvg-logo="https://somafm.com/img3/poptron-400.png" group-title="Estados Unidos" tvg-country="US",SomaFM PopTron (128k MP3)
-https://ice2.somafm.com/poptron-128-mp3
-#EXTINF:-1 radio="true" tvg-name=".977 Smooth Jazz" tvg-logo="" group-title="Estados Unidos" tvg-country="US",.977 Smooth Jazz
-http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC
-#EXTINF:-1 radio="true" tvg-name="SomaFM Indie Pop Rocks! (128k AAC)" tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="Estados Unidos" tvg-country="US",SomaFM Indie Pop Rocks! (128k AAC)
-https://ice6.somafm.com/indiepop-128-aac
-#EXTINF:-1 radio="true" tvg-name="181.FM - Highway 181" tvg-logo="http://www.181.fm/favicon.ico" group-title="Estados Unidos" tvg-country="US",181.FM - Highway 181
+#EXTINF:-1 tvg-id="SomaFM PopTron (128k MP3)" tvg-name="SomaFM PopTron (128k MP3)" tvg-logo="https://somafm.com/img3/poptron-400.png" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM PopTron (128k MP3)
+https://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-id=".977 Smooth Jazz" tvg-name=".977 Smooth Jazz" tvg-logo="https://cdn-radiotime-logos.tunein.com/s27443d.png" tvg-country="US" group-title="Rádios - Estados Unidos",.977 Smooth Jazz
+https://14543.live.streamtheworld.com/977_SMOOJAZZ_SC
+#EXTINF:-1 tvg-id="SomaFM Indie Pop Rocks! (128k AAC)" tvg-name="SomaFM Indie Pop Rocks! (128k AAC)" tvg-logo="https://somafm.com/img3/indiepop-400.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Indie Pop Rocks! (128k AAC)
+https://ice1.somafm.com/indiepop-128-aac
+#EXTINF:-1 tvg-id="181.FM - Highway 181" tvg-name="181.FM - Highway 181" tvg-logo="http://www.181.fm/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",181.FM - Highway 181
 http://listen.181fm.com/181-highway_128k.mp3
-#EXTINF:-1 radio="true" tvg-name="SomaFM Left Coast 70s (320k MP3)" tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="Estados Unidos" tvg-country="US",SomaFM Left Coast 70s (320k MP3)
-https://ice5.somafm.com/seventies-320-mp3
-#EXTINF:-1 radio="true" tvg-name="FUNKY RADIO - Only Funk Music (60's 70's)" tvg-logo="" group-title="Estados Unidos" tvg-country="US",FUNKY RADIO - Only Funk Music (60's 70's)
+#EXTINF:-1 tvg-id="SomaFM Left Coast 70s (320k MP3)" tvg-name="SomaFM Left Coast 70s (320k MP3)" tvg-logo="https://somafm.com/img3/seventies400.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Left Coast 70s (320k MP3)
+https://ice1.somafm.com/seventies-320-mp3
+#EXTINF:-1 tvg-id="FUNKY RADIO - Only Funk Music (60's 70's)" tvg-name="FUNKY RADIO - Only Funk Music (60's 70's)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",FUNKY RADIO - Only Funk Music (60's 70's)
 https://funkyradio.streamingmedia.it/play.mp3
-#EXTINF:-1 radio="true" tvg-name="Miami Beach Radio" tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="Estados Unidos" tvg-country="US",Miami Beach Radio
+#EXTINF:-1 tvg-id="Miami Beach Radio" tvg-name="Miami Beach Radio" tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",Miami Beach Radio
 https://streaming.radiostreamlive.com/miamibeachradio_devices
-#EXTINF:-1 radio="true" tvg-name="Radio Paradise Rock Mix 320k AAC" tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="Estados Unidos" tvg-country="US",Radio Paradise Rock Mix 320k AAC
+#EXTINF:-1 tvg-id="Radio Paradise Rock Mix 320k AAC" tvg-name="Radio Paradise Rock Mix 320k AAC" tvg-logo="https://radioparadise.com/apple-touch-icon.png" tvg-country="US" group-title="Rádios - Estados Unidos",Radio Paradise Rock Mix 320k AAC
 http://stream.radioparadise.com/rock-320
-#EXTINF:-1 radio="true" tvg-name="Radio Marti" tvg-logo="https://www.radiotelevisionmarti.com/content/responsive/ocb/img/webapp/ico-128x128.png" group-title="Estados Unidos" tvg-country="US",Radio Marti
+#EXTINF:-1 tvg-id="Radio Marti" tvg-name="Radio Marti" tvg-logo="https://www.radiotelevisionmarti.com/content/responsive/ocb/img/webapp/ico-128x128.png" tvg-country="US" group-title="Rádios - Estados Unidos",Radio Marti
 https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.net/ocb01
-#EXTINF:-1 radio="true" tvg-name="SomaFM Lush (128k MP3)" tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Estados Unidos" tvg-country="US",SomaFM Lush (128k MP3)
-https://ice2.somafm.com/lush-128-mp3
-#EXTINF:-1 radio="true" tvg-name="2000 FM - RnB & Hip-Hop" tvg-logo="" group-title="Estados Unidos" tvg-country="US",2000 FM - RnB & Hip-Hop
+#EXTINF:-1 tvg-id="SomaFM Lush (128k MP3)" tvg-name="SomaFM Lush (128k MP3)" tvg-logo="https://somafm.com/img3/lush-400.jpg" tvg-country="US" group-title="Rádios - Estados Unidos",SomaFM Lush (128k MP3)
+https://ice1.somafm.com/lush-128-mp3
+#EXTINF:-1 tvg-id="2000 FM - RnB & Hip-Hop" tvg-name="2000 FM - RnB & Hip-Hop" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",2000 FM - RnB & Hip-Hop
 http://bigrradio.cdnstream1.com/5105_128
-#EXTINF:-1 radio="true" tvg-name="CNN" tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" group-title="Estados Unidos" tvg-country="US",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",CNN
 https://tunein.cdnstream1.com/2868_96.mp3
-#EXTINF:-1 radio="true" tvg-name="VOA Chinese Radio" tvg-logo="" group-title="Estados Unidos" tvg-country="US",VOA Chinese Radio
+#EXTINF:-1 tvg-id="VOA Chinese Radio" tvg-name="VOA Chinese Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Voice_of_America_logo.svg/320px-Voice_of_America_logo.svg.png" tvg-country="US" group-title="Rádios - Estados Unidos",VOA Chinese Radio
 http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="WEOW FM 92.7" tvg-logo="" group-title="Estados Unidos" tvg-country="US",WEOW FM 92.7
+#EXTINF:-1 tvg-id="WEOW FM 92.7" tvg-name="WEOW FM 92.7" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="US" group-title="Rádios - Estados Unidos",WEOW FM 92.7
 http://ice42.securenetsystems.net/WEOW
-#EXTINF:-1 radio="true" tvg-name="181.FM - 80's Country" tvg-logo="http://www.181.fm/favicon.ico" group-title="Estados Unidos" tvg-country="US",181.FM - 80's Country
+#EXTINF:-1 tvg-id="181.FM - 80's Country" tvg-name="181.FM - 80's Country" tvg-logo="http://www.181.fm/favicon.ico" tvg-country="US" group-title="Rádios - Estados Unidos",181.FM - 80's Country
 http://listen.181fm.com/181-80scountry_128k.mp3
-#EXTINF:-1 radio="true" tvg-name="Chilltrax" tvg-logo="" group-title="Estados Unidos" tvg-country="US",Chilltrax
-http://server1.chilltrax.com:9000/
-#EXTINF:-1 radio="true" tvg-name="Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida" tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png" group-title="Estados Unidos" tvg-country="US",Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida
+#EXTINF:-1 tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://www.chilltrax.com/wp-content/uploads/2019/11/chilltrax_logo_500.png" tvg-country="US" group-title="Rádios - Estados Unidos",Chilltrax
+https://streamssl.chilltrax.com/
+#EXTINF:-1 tvg-id="Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida" tvg-name="Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida" tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png" tvg-country="US" group-title="Rádios - Estados Unidos",Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida
 https://liveaudio.lamusica.com/MIA_WCMQ_icy
-#EXTINF:-1 radio="true" tvg-name="WNYC-FM 93.9 New York Public Radio" tvg-logo="" group-title="Estados Unidos" tvg-country="US",WNYC-FM 93.9 New York Public Radio
+#EXTINF:-1 tvg-id="WNYC-FM 93.9 New York Public Radio" tvg-name="WNYC-FM 93.9 New York Public Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WNYC_logo.svg/320px-WNYC_logo.svg.png" tvg-country="US" group-title="Rádios - Estados Unidos",WNYC-FM 93.9 New York Public Radio
 https://fm939.wnyc.org/wnycfm
-#EXTINF:-1 radio="true" tvg-name="The Jazz Groove - East" tvg-logo="" group-title="Estados Unidos" tvg-country="US",The Jazz Groove - East
+#EXTINF:-1 tvg-id="The Jazz Groove - East" tvg-name="The Jazz Groove - East" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c6mvd746h35z.png" tvg-country="US" group-title="Rádios - Estados Unidos",The Jazz Groove - East
 http://east-mp3-128.streamthejazzgroove.com/stream
-#EXTINF:-1 radio="true" tvg-name="98.1 KBEAR" tvg-logo="https://pwa.tunegenie.com/kyyaam/icon-192.png" group-title="Estados Unidos" tvg-country="US",98.1 KBEAR
+#EXTINF:-1 tvg-id="98.1 KBEAR" tvg-name="98.1 KBEAR" tvg-logo="https://pwa.tunegenie.com/kyyaam/icon-192.png" tvg-country="US" group-title="Rádios - Estados Unidos",98.1 KBEAR
 http://desertmountainbroadcasting.streamguys1.com/KYYA
-#EXTINF:-1 radio="true" tvg-name="101 SMOOTH JAZZ MELLOW MIX" tvg-logo="" group-title="Estados Unidos" tvg-country="US",101 SMOOTH JAZZ MELLOW MIX
+#EXTINF:-1 tvg-id="101 SMOOTH JAZZ MELLOW MIX" tvg-name="101 SMOOTH JAZZ MELLOW MIX" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c6mvd746h35z.png" tvg-country="US" group-title="Rádios - Estados Unidos",101 SMOOTH JAZZ MELLOW MIX
 http://streaming.live365.com/b48071_128mp3
-#EXTINF:-1 radio="true" tvg-name="70s 80s Disco Funk ModernSoul Boogie" tvg-logo="" group-title="Estados Unidos" tvg-country="US",70s 80s Disco Funk ModernSoul Boogie
+#EXTINF:-1 tvg-id="70s 80s Disco Funk ModernSoul Boogie" tvg-name="70s 80s Disco Funk ModernSoul Boogie" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c6mvd746h35z.png" tvg-country="US" group-title="Rádios - Estados Unidos",70s 80s Disco Funk ModernSoul Boogie
 https://discofunk.streamingmedia.it/usa
-#EXTINF:-1 radio="true" tvg-name="181.FM - Kickin' Country" tvg-logo="" group-title="Estados Unidos" tvg-country="US",181.FM - Kickin' Country
+#EXTINF:-1 tvg-id="181.FM - Kickin' Country" tvg-name="181.FM - Kickin' Country" tvg-logo="https://cdn-radiotime-logos.tunein.com/s6975d.png" tvg-country="US" group-title="Rádios - Estados Unidos",181.FM - Kickin' Country
 http://listen.181fm.com/181-kickincountry_128k.mp3
 
-# ==========================================
-# AMÉRICA LATINA (TOP 50 RÁDIOS MAIS OUVIDAS)
-# ==========================================
-
-#EXTINF:-1 radio="true" tvg-name="Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá)" tvg-logo="http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323" group-title="América Latina" tvg-country="CO",Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá)
+# ========================================================
+# REGIÃO: AMÉRICA LATINA (TOP 50)
+# ========================================================
+#EXTINF:-1 tvg-id="Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá)" tvg-name="Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá)" tvg-logo="http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323" tvg-country="CO" group-title="Rádios - América Latina",Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá)
 http://27323.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC
-#EXTINF:-1 radio="true" tvg-name="Los 40 Principales México" tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" group-title="América Latina" tvg-country="MX",Los 40 Principales México
+#EXTINF:-1 tvg-id="Los 40 Principales México" tvg-name="Los 40 Principales México" tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" tvg-country="MX" group-title="Rádios - América Latina",Los 40 Principales México
 http://27063.live.streamtheworld.com/LOS40_MEXICO_SC
-#EXTINF:-1 radio="true" tvg-name="W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio" tvg-logo="http://wradio.com.co/pf/resources/wradio-colombia/touch-icon-ipad.png?d=172" group-title="América Latina" tvg-country="CO",W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio
+#EXTINF:-1 tvg-id="W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio" tvg-name="W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio" tvg-logo="http://wradio.com.co/pf/resources/wradio-colombia/touch-icon-ipad.png?d=172" tvg-country="CO" group-title="Rádios - América Latina",W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio
 http://26653.live.streamtheworld.com/WRADIO_SC
-#EXTINF:-1 radio="true" tvg-name="Café Romántico Radio (Monterrey)" tvg-logo="" group-title="América Latina" tvg-country="MX",Café Romántico Radio (Monterrey)
+#EXTINF:-1 tvg-id="Café Romántico Radio (Monterrey)" tvg-name="Café Romántico Radio (Monterrey)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cvrwhw48d2y4.png" tvg-country="MX" group-title="Rádios - América Latina",Café Romántico Radio (Monterrey)
 https://panel.retrolandigital.com/radio/8110/listen
-#EXTINF:-1 radio="true" tvg-name="BEAUTIFUL Instrumentals" tvg-logo="" group-title="América Latina" tvg-country="MX",BEAUTIFUL Instrumentals
+#EXTINF:-1 tvg-id="BEAUTIFUL Instrumentals" tvg-name="BEAUTIFUL Instrumentals" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/f6u2yd747h4s.png" tvg-country="MX" group-title="Rádios - América Latina",BEAUTIFUL Instrumentals
 http://s3.voscast.com:10038/
-#EXTINF:-1 radio="true" tvg-name="Cumbias Inmortales Radio (Monterrey)" tvg-logo="" group-title="América Latina" tvg-country="MX",Cumbias Inmortales Radio (Monterrey)
+#EXTINF:-1 tvg-id="Cumbias Inmortales Radio (Monterrey)" tvg-name="Cumbias Inmortales Radio (Monterrey)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/72z27wz9c264.png" tvg-country="MX" group-title="Rádios - América Latina",Cumbias Inmortales Radio (Monterrey)
 https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
-#EXTINF:-1 radio="true" tvg-name="La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24506g.png" group-title="América Latina" tvg-country="MX",La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL
+#EXTINF:-1 tvg-id="La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL" tvg-name="La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24506g.png" tvg-country="MX" group-title="Rádios - América Latina",La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL
 http://streamingcwsradio20.com:9410/stream
-#EXTINF:-1 radio="true" tvg-name="La Kalle" tvg-logo="" group-title="América Latina" tvg-country="CO",La Kalle
+#EXTINF:-1 tvg-id="La Kalle" tvg-name="La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_La_Kalle.png/320px-Logo_La_Kalle.png" tvg-country="CO" group-title="Rádios - América Latina",La Kalle
 http://26683.live.streamtheworld.com/LA_KALLE_SC
-#EXTINF:-1 radio="true" tvg-name="88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)" group-title="América Latina" tvg-country="MX",88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México
+#EXTINF:-1 tvg-id="88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México" tvg-name="88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)" tvg-country="MX" group-title="Rádios - América Latina",88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac
-#EXTINF:-1 radio="true" tvg-name="SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjGCqHNgRIXL-qgnm4HKlYyXS_1Yy-ctciPKLMI=s900-c-k-c0x00ffffff-no-rj" group-title="América Latina" tvg-country="MX",SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México
+#EXTINF:-1 tvg-id="SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México" tvg-name="SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjGCqHNgRIXL-qgnm4HKlYyXS_1Yy-ctciPKLMI=s900-c-k-c0x00ffffff-no-rj" tvg-country="MX" group-title="Rádios - América Latina",SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Oldies Internet Radio" tvg-logo="" group-title="América Latina" tvg-country="MX",Oldies Internet Radio
+#EXTINF:-1 tvg-id="Oldies Internet Radio" tvg-name="Oldies Internet Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vky6mvrq7v8z.png" tvg-country="MX" group-title="Rádios - América Latina",Oldies Internet Radio
 http://162.244.81.98:8140/listen
-#EXTINF:-1 radio="true" tvg-name="La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México" tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002851440.jpg" group-title="América Latina" tvg-country="MX",La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México
+#EXTINF:-1 tvg-id="La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México" tvg-name="La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México" tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002851440.jpg" tvg-country="MX" group-title="Rádios - América Latina",La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Panda Show Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="América Latina" tvg-country="MX",Panda Show Radio
+#EXTINF:-1 tvg-id="Panda Show Radio" tvg-name="Panda Show Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" tvg-country="MX" group-title="Rádios - América Latina",Panda Show Radio
 http://65.21.202.84:8062/
-#EXTINF:-1 radio="true" tvg-name="Top Latino" tvg-logo="" group-title="América Latina" tvg-country="PE",Top Latino
+#EXTINF:-1 tvg-id="Top Latino" tvg-name="Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Top_Latino_Radio_Logo.png/320px-Top_Latino_Radio_Logo.png" tvg-country="PE" group-title="Rádios - América Latina",Top Latino
 http://online.radiodifusion.net:8020/stream
-#EXTINF:-1 radio="true" tvg-name="La Comadre Ciudad de México - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://www.iheart.com/favicon.ico" group-title="América Latina" tvg-country="MX",La Comadre Ciudad de México - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México
+#EXTINF:-1 tvg-id="La Comadre Ciudad de México - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México" tvg-name="La Comadre Ciudad de México - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://www.iheart.com/favicon.ico" tvg-country="MX" group-title="Rádios - América Latina",La Comadre Ciudad de México - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="123 Vallenato" tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="América Latina" tvg-country="CO",123 Vallenato
+#EXTINF:-1 tvg-id="123 Vallenato" tvg-name="123 Vallenato" tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" tvg-country="CO" group-title="Rádios - América Latina",123 Vallenato
 http://radiolatina.info:7087/;
-#EXTINF:-1 radio="true" tvg-name="Salsa - Dominicana" tvg-logo="" group-title="América Latina" tvg-country="DO",Salsa - Dominicana
+#EXTINF:-1 tvg-id="Salsa - Dominicana" tvg-name="Salsa - Dominicana" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="DO" group-title="Rádios - América Latina",Salsa - Dominicana
 http://radio.domiplay.net:2002/;
-#EXTINF:-1 radio="true" tvg-name="Radiónica (HJYM 99.1 Bogotá) RTVC" tvg-logo="http://www.radionica.rocks/themes/custom/radionica_barrio/favicon.ico" group-title="América Latina" tvg-country="CO",Radiónica (HJYM 99.1 Bogotá) RTVC
+#EXTINF:-1 tvg-id="Radiónica (HJYM 99.1 Bogotá) RTVC" tvg-name="Radiónica (HJYM 99.1 Bogotá) RTVC" tvg-logo="http://www.radionica.rocks/themes/custom/radionica_barrio/favicon.ico" tvg-country="CO" group-title="Rádios - América Latina",Radiónica (HJYM 99.1 Bogotá) RTVC
 http://shoutcast.rtvc.gov.co:8010/;
-#EXTINF:-1 radio="true" tvg-name="Candela Estéreo Bogotá (HJPU 101.9)" tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="América Latina" tvg-country="CO",Candela Estéreo Bogotá (HJPU 101.9)
+#EXTINF:-1 tvg-id="Candela Estéreo Bogotá (HJPU 101.9)" tvg-name="Candela Estéreo Bogotá (HJPU 101.9)" tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" tvg-country="CO" group-title="Rádios - América Latina",Candela Estéreo Bogotá (HJPU 101.9)
 http://24403.live.streamtheworld.com:3690/CANDELAESTEREO_SC
-#EXTINF:-1 radio="true" tvg-name="El Fonógrafo, Música las 24 horas (elfonografo.mx)" tvg-logo="" group-title="América Latina" tvg-country="MX",El Fonógrafo, Música las 24 horas (elfonografo.mx)
+#EXTINF:-1 tvg-id="El Fonógrafo, Música las 24 horas (elfonografo.mx)" tvg-name="El Fonógrafo, Música las 24 horas (elfonografo.mx)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/El_Fon%C3%B3grafo_logo.png/320px-El_Fon%C3%B3grafo_logo.png" tvg-country="MX" group-title="Rádios - América Latina",El Fonógrafo, Música las 24 horas (elfonografo.mx)
 https://14553.live.streamtheworld.com:443/XEJP_AM_SC
-#EXTINF:-1 radio="true" tvg-name="UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7" group-title="América Latina" tvg-country="MX",UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+#EXTINF:-1 tvg-id="UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México" tvg-name="UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7" tvg-country="MX" group-title="Rádios - América Latina",UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="XHEXA "Exa FM" 104.9 FM Mexico City, DF" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87554q.png" group-title="América Latina" tvg-country="MX",XHEXA "Exa FM" 104.9 FM Mexico City, DF
+#EXTINF:-1 tvg-id="XHEXA "Exa FM" 104.9 FM Mexico City, DF" tvg-name="XHEXA "Exa FM" 104.9 FM Mexico City, DF" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87554q.png" tvg-country="MX" group-title="Rádios - América Latina",XHEXA "Exa FM" 104.9 FM Mexico City, DF
 http://18213.live.streamtheworld.com/XHEXA_SC
-#EXTINF:-1 radio="true" tvg-name="Olímpica Stereo (Medellín) 104.9-FM" tvg-logo="https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png" group-title="América Latina" tvg-country="CO",Olímpica Stereo (Medellín) 104.9-FM
+#EXTINF:-1 tvg-id="Olímpica Stereo (Medellín) 104.9-FM" tvg-name="Olímpica Stereo (Medellín) 104.9-FM" tvg-logo="https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png" tvg-country="CO" group-title="Rádios - América Latina",Olímpica Stereo (Medellín) 104.9-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Radio Rivadavia" tvg-logo="" group-title="América Latina" tvg-country="AR",Radio Rivadavia
+#EXTINF:-1 tvg-id="Radio Rivadavia" tvg-name="Radio Rivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_Radio_Rivadavia.png/320px-Logo_Radio_Rivadavia.png" tvg-country="AR" group-title="Rádios - América Latina",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3
-#EXTINF:-1 radio="true" tvg-name="La Mega (Medellín) 92.9 FM" tvg-logo="" group-title="América Latina" tvg-country="CO",La Mega (Medellín) 92.9 FM
+#EXTINF:-1 tvg-id="La Mega (Medellín) 92.9 FM" tvg-name="La Mega (Medellín) 92.9 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_de_La_Mega_%28Colombia%29.png/320px-Logo_de_La_Mega_%28Colombia%29.png" tvg-country="CO" group-title="Rádios - América Latina",La Mega (Medellín) 92.9 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab
-#EXTINF:-1 radio="true" tvg-name="Radio Oxígeno" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="América Latina" tvg-country="PE",Radio Oxígeno
+#EXTINF:-1 tvg-id="Radio Oxígeno" tvg-name="Radio Oxígeno" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" tvg-country="PE" group-title="Rádios - América Latina",Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
-#EXTINF:-1 radio="true" tvg-name="Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/XEFR_RadioFelicidad1180_logo.jpg" group-title="América Latina" tvg-country="MX",Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
+#EXTINF:-1 tvg-id="Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-name="Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/XEFR_RadioFelicidad1180_logo.jpg" tvg-country="MX" group-title="Rádios - América Latina",Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="La Retro 80s Chile" tvg-logo="https://www.laretro.cl/icons/apple-icon-120x120.png" group-title="América Latina" tvg-country="CL",La Retro 80s Chile
+#EXTINF:-1 tvg-id="La Retro 80s Chile" tvg-name="La Retro 80s Chile" tvg-logo="https://www.laretro.cl/icons/apple-icon-120x120.png" tvg-country="CL" group-title="Rádios - América Latina",La Retro 80s Chile
 https://s2.radio.co:80/s9ecef4f68/listen
-#EXTINF:-1 radio="true" tvg-name="La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0ca937ec97a064f3322cd" group-title="América Latina" tvg-country="MX",La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México
+#EXTINF:-1 tvg-id="La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México" tvg-name="La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0ca937ec97a064f3322cd" tvg-country="MX" group-title="Rádios - América Latina",La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Radio Bachata" tvg-logo="http://radiobachata.net/favicon.ico" group-title="América Latina" tvg-country="DO",Radio Bachata
+#EXTINF:-1 tvg-id="Radio Bachata" tvg-name="Radio Bachata" tvg-logo="http://radiobachata.net/favicon.ico" tvg-country="DO" group-title="Rádios - América Latina",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1 radio="true" tvg-name="Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires" tvg-logo="https://fmrockandpop.com/pwa/ios_192x192.png" group-title="América Latina" tvg-country="AR",Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Super Clásica" tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="América Latina" tvg-country="CO",Super Clásica
+#EXTINF:-1 tvg-id="Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires" tvg-name="Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rock_%26_Pop_95.9_logo.png/320px-Rock_%26_Pop_95.9_logo.png" tvg-country="AR" group-title="Rádios - América Latina",Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires
+https://streamlky.alsolnet.com/rockandpop_128k
+#EXTINF:-1 tvg-id="Super Clásica" tvg-name="Super Clásica" tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" tvg-country="CO" group-title="Rádios - América Latina",Super Clásica
 http://sclasica-stream.sytes.net:8012/;
-#EXTINF:-1 radio="true" tvg-name="BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL" tvg-logo="" group-title="América Latina" tvg-country="MX",BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL
+#EXTINF:-1 tvg-id="BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL" tvg-name="BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="MX" group-title="Rádios - América Latina",BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Bésame (Medellín) 94.9 FM" tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="América Latina" tvg-country="CO",Bésame (Medellín) 94.9 FM
+#EXTINF:-1 tvg-id="Bésame (Medellín) 94.9 FM" tvg-name="Bésame (Medellín) 94.9 FM" tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" tvg-country="CO" group-title="Rádios - América Latina",Bésame (Medellín) 94.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Del Sol FM" tvg-logo="https://cdn-profiles.tunein.com/s13953/images/bannerx.jpg?t=636203379790000000" group-title="América Latina" tvg-country="UY",Del Sol FM
+#EXTINF:-1 tvg-id="Del Sol FM" tvg-name="Del Sol FM" tvg-logo="https://cdn-profiles.tunein.com/s13953/images/bannerx.jpg?t=636203379790000000" tvg-country="UY" group-title="Rádios - América Latina",Del Sol FM
 http://radio.dl.uy:9950/radio
-#EXTINF:-1 radio="true" tvg-name="Instrumental Hits Radio" tvg-logo="" group-title="América Latina" tvg-country="MX",Instrumental Hits Radio
+#EXTINF:-1 tvg-id="Instrumental Hits Radio" tvg-name="Instrumental Hits Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="MX" group-title="Rádios - América Latina",Instrumental Hits Radio
 http://162.244.81.98:8130/listen
-#EXTINF:-1 radio="true" tvg-name="Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://www.iheart.com/static/assets/favicon.ico" group-title="América Latina" tvg-country="MX",Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
+#EXTINF:-1 tvg-id="Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-name="Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México" tvg-logo="https://www.iheart.com/static/assets/favicon.ico" tvg-country="MX" group-title="Rádios - América Latina",Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC_SC.aac
-#EXTINF:-1 radio="true" tvg-name="Radio Sol Classic" tvg-logo="" group-title="América Latina" tvg-country="CL",Radio Sol Classic
+#EXTINF:-1 tvg-id="Radio Sol Classic" tvg-name="Radio Sol Classic" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="CL" group-title="Rádios - América Latina",Radio Sol Classic
 https://us9.maindigitalstream.com/ssl/radiosol
-#EXTINF:-1 radio="true" tvg-name="Mitre AM 790. AAC Alta. Ciudad de Buenos Aires" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png" group-title="América Latina" tvg-country="AR",Mitre AM 790. AAC Alta. Ciudad de Buenos Aires
+#EXTINF:-1 tvg-id="Mitre AM 790. AAC Alta. Ciudad de Buenos Aires" tvg-name="Mitre AM 790. AAC Alta. Ciudad de Buenos Aires" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png" tvg-country="AR" group-title="Rádios - América Latina",Mitre AM 790. AAC Alta. Ciudad de Buenos Aires
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac
-#EXTINF:-1 radio="true" tvg-name="De los Recuerdos" tvg-logo="https://www.fmdelosrecuerdos.cl/wp-content/uploads/2023/02/cropped-fav-recuerdos-180x180.png" group-title="América Latina" tvg-country="CL",De los Recuerdos
-http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
-#EXTINF:-1 radio="true" tvg-name="Radio RPP Noticias" tvg-logo="https://mds.rpp-noticias.io/static/img/favicons/apple-touch-icon-120x120.png" group-title="América Latina" tvg-country="PE",Radio RPP Noticias
+#EXTINF:-1 tvg-id="Radio Cooperativa (Chile)" tvg-name="Radio Cooperativa (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Radio_Cooperativa_%28Chile%29_logo.svg/300px-Radio_Cooperativa_%28Chile%29_logo.svg.png" tvg-country="CL" group-title="Rádios - América Latina",Radio Cooperativa (Chile)
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1 tvg-id="Radio RPP Noticias" tvg-name="Radio RPP Noticias" tvg-logo="https://mds.rpp-noticias.io/static/img/favicons/apple-touch-icon-120x120.png" tvg-country="PE" group-title="Rádios - América Latina",Radio RPP Noticias
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
-#EXTINF:-1 radio="true" tvg-name="Mix (Medellín) 89.9 FM" tvg-logo="https://mixradio.co/icon?b8748d2f62517688" group-title="América Latina" tvg-country="CO",Mix (Medellín) 89.9 FM
+#EXTINF:-1 tvg-id="Mix (Medellín) 89.9 FM" tvg-name="Mix (Medellín) 89.9 FM" tvg-logo="https://mixradio.co/icon?b8748d2f62517688" tvg-country="CO" group-title="Rádios - América Latina",Mix (Medellín) 89.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia" tvg-logo="https://caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=174" group-title="América Latina" tvg-country="CO",Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia
-https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
-#EXTINF:-1 radio="true" tvg-name="BioBio Chile" tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="América Latina" tvg-country="CL",BioBio Chile
+#EXTINF:-1 tvg-id="Aspen 102.3 FM (Buenos Aires)" tvg-name="Aspen 102.3 FM (Buenos Aires)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aspen_102.3_logo.png/320px-Aspen_102.3_logo.png" tvg-country="AR" group-title="Rádios - América Latina",Aspen 102.3 FM (Buenos Aires)
+https://26643.live.streamtheworld.com/ASPEN.mp3
+#EXTINF:-1 tvg-id="BioBio Chile" tvg-name="BioBio Chile" tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" tvg-country="CL" group-title="Rádios - América Latina",BioBio Chile
 https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
-#EXTINF:-1 radio="true" tvg-name="¡Que Viva México!" tvg-logo="" group-title="América Latina" tvg-country="MX",¡Que Viva México!
+#EXTINF:-1 tvg-id="¡Que Viva México!" tvg-name="¡Que Viva México!" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="MX" group-title="Rádios - América Latina",¡Que Viva México!
 https://panel.retrolandigital.com/listen/que_viva_mexico/listen
-#EXTINF:-1 radio="true" tvg-name="Radio Rivadavia AM 630. Ciudad de Buenos Aires" tvg-logo="https://rivadavia.com.ar/apple-touch-icon.png" group-title="América Latina" tvg-country="AR",Radio Rivadavia AM 630. Ciudad de Buenos Aires
+#EXTINF:-1 tvg-id="Radio Rivadavia AM 630. Ciudad de Buenos Aires" tvg-name="Radio Rivadavia AM 630. Ciudad de Buenos Aires" tvg-logo="https://rivadavia.com.ar/apple-touch-icon.png" tvg-country="AR" group-title="Rádios - América Latina",Radio Rivadavia AM 630. Ciudad de Buenos Aires
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
-#EXTINF:-1 radio="true" tvg-name="Llegó El Mariachi (iHeart Radio)" tvg-logo="https://www.iheart.com/favicon.ico" group-title="América Latina" tvg-country="MX",Llegó El Mariachi (iHeart Radio)
+#EXTINF:-1 tvg-id="Llegó El Mariachi (iHeart Radio)" tvg-name="Llegó El Mariachi (iHeart Radio)" tvg-logo="https://www.iheart.com/favicon.ico" tvg-country="MX" group-title="Rádios - América Latina",Llegó El Mariachi (iHeart Radio)
 https://22963.live.streamtheworld.com:443/ACIR34_S01AAC.aac
-#EXTINF:-1 radio="true" tvg-name="La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México" tvg-logo="https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="América Latina" tvg-country="MX",La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México
+#EXTINF:-1 tvg-id="La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México" tvg-name="La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México" tvg-logo="https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" tvg-country="MX" group-title="Rádios - América Latina",La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
-#EXTINF:-1 radio="true" tvg-name="Roca Fm Clasicos Mexico" tvg-logo="" group-title="América Latina" tvg-country="MX",Roca Fm Clasicos Mexico
+#EXTINF:-1 tvg-id="Roca Fm Clasicos Mexico" tvg-name="Roca Fm Clasicos Mexico" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="MX" group-title="Rádios - América Latina",Roca Fm Clasicos Mexico
 https://xxdelgado.radioca.st/
-#EXTINF:-1 radio="true" tvg-name="La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina" tvg-logo="http://cdn-profiles.tunein.com/s6984/images/logod.jpg" group-title="América Latina" tvg-country="AR",La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
+#EXTINF:-1 tvg-id="La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina" tvg-name="La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina" tvg-logo="http://cdn-profiles.tunein.com/s6984/images/logod.jpg" tvg-country="AR" group-title="Rádios - América Latina",La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
 
-# ==========================================
-# EUROPA (TOP 50 RÁDIOS MAIS OUVIDAS)
-# ==========================================
-
-#EXTINF:-1 radio="true" tvg-name="MANGORADIO" tvg-logo="https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp" group-title="Europa" tvg-country="DE",MANGORADIO
+# ========================================================
+# REGIÃO: EUROPA (TOP 50)
+# ========================================================
+#EXTINF:-1 tvg-id="MANGORADIO" tvg-name="MANGORADIO" tvg-logo="https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp" tvg-country="DE" group-title="Rádios - Europa",MANGORADIO
 https://mangoradio.stream.laut.fm/mangoradio
-#EXTINF:-1 radio="true" tvg-name="Dance Wave!" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Europa" tvg-country="HU",Dance Wave!
+#EXTINF:-1 tvg-id="Dance Wave!" tvg-name="Dance Wave!" tvg-logo="https://dancewave.online/dw_logo.png" tvg-country="HU" group-title="Rádios - Europa",Dance Wave!
 https://dancewave.online/dance.mp3
-#EXTINF:-1 radio="true" tvg-name="BBC World Service" tvg-logo="http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1" group-title="Europa" tvg-country="GB",BBC World Service
+#EXTINF:-1 tvg-id="BBC World Service" tvg-name="BBC World Service" tvg-logo="http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1" tvg-country="GB" group-title="Rádios - Europa",BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 radio="true" tvg-name="RFE/RL Radio Farda" tvg-logo="http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico" group-title="Europa" tvg-country="CZ",RFE/RL Radio Farda
+#EXTINF:-1 tvg-id="RFE/RL Radio Farda" tvg-name="RFE/RL Radio Farda" tvg-logo="http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico" tvg-country="CZ" group-title="Rádios - Europa",RFE/RL Radio Farda
 http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
-#EXTINF:-1 radio="true" tvg-name="France Info" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="Europa" tvg-country="FR",France Info
+#EXTINF:-1 tvg-id="France Info" tvg-name="France Info" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" tvg-country="FR" group-title="Rádios - Europa",France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-#EXTINF:-1 radio="true" tvg-name="RFI Afrique" tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="Europa" tvg-country="FR",RFI Afrique
+#EXTINF:-1 tvg-id="RFI Afrique" tvg-name="RFI Afrique" tvg-logo="http://www.rfi.fr/apple-touch-icon.png" tvg-country="FR" group-title="Rádios - Europa",RFI Afrique
 http://live02.rfi.fr/rfiafrique-64.mp3
-#EXTINF:-1 radio="true" tvg-name="RMC FR" tvg-logo="https://i1.wp.com/www.mediasportif.fr/wp-content/uploads/2014/05/Radio-RMC.jpg" group-title="Europa" tvg-country="FR",RMC FR
+#EXTINF:-1 tvg-id="RMC FR" tvg-name="RMC FR" tvg-logo="https://i1.wp.com/www.mediasportif.fr/wp-content/uploads/2014/05/Radio-RMC.jpg" tvg-country="FR" group-title="Rádios - Europa",RMC FR
 https://audio.bfmtv.com/rmcradio_128.mp3
-#EXTINF:-1 radio="true" tvg-name="Jazz Radio Blues" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="Europa" tvg-country="FR",Jazz Radio Blues
+#EXTINF:-1 tvg-id="Jazz Radio Blues" tvg-name="Jazz Radio Blues" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="Rádios - Europa",Jazz Radio Blues
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-#EXTINF:-1 radio="true" tvg-name="RMF FM" tvg-logo="https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="Europa" tvg-country="PL",RMF FM
+#EXTINF:-1 tvg-id="RMF FM" tvg-name="RMF FM" tvg-logo="https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" tvg-country="PL" group-title="Rádios - Europa",RMF FM
 http://195.150.20.242:8000/rmf_fm
-#EXTINF:-1 radio="true" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/favicon.ico" group-title="Europa" tvg-country="FR",France Inter
+#EXTINF:-1 tvg-id="France Inter" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/favicon.ico" tvg-country="FR" group-title="Rádios - Europa",France Inter
 http://direct.franceinter.fr/live/franceinter-hifi.aac
-#EXTINF:-1 radio="true" tvg-name="RFI Monde" tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="Europa" tvg-country="FR",RFI Monde
+#EXTINF:-1 tvg-id="RFI Monde" tvg-name="RFI Monde" tvg-logo="http://www.rfi.fr/apple-touch-icon.png" tvg-country="FR" group-title="Rádios - Europa",RFI Monde
 http://live02.rfi.fr/rfimonde-64.mp3
-#EXTINF:-1 radio="true" tvg-name="Classic FM UK" tvg-logo="http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png" group-title="Europa" tvg-country="GB",Classic FM UK
+#EXTINF:-1 tvg-id="Classic FM UK" tvg-name="Classic FM UK" tvg-logo="http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png" tvg-country="GB" group-title="Rádios - Europa",Classic FM UK
 http://ice-the.musicradio.com/ClassicFMMP3
-#EXTINF:-1 radio="true" tvg-name="Dance Wave Retro!" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Europa" tvg-country="HU",Dance Wave Retro!
+#EXTINF:-1 tvg-id="Dance Wave Retro!" tvg-name="Dance Wave Retro!" tvg-logo="https://dancewave.online/dwr_logo.png" tvg-country="HU" group-title="Rádios - Europa",Dance Wave Retro!
 https://retro.dancewave.online/retrodance.mp3
-#EXTINF:-1 radio="true" tvg-name="France Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="Europa" tvg-country="FR",France Culture
+#EXTINF:-1 tvg-id="France Culture" tvg-name="France Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" tvg-country="FR" group-title="Rádios - Europa",France Culture
 http://icecast.radiofrance.fr/franceculture-hifi.aac
-#EXTINF:-1 radio="true" tvg-name="LBC Radio" tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="Europa" tvg-country="GB",LBC Radio
+#EXTINF:-1 tvg-id="LBC Radio" tvg-name="LBC Radio" tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" tvg-country="GB" group-title="Rádios - Europa",LBC Radio
 http://media-sov.musicradio.com/LBC973MP3Low
-#EXTINF:-1 radio="true" tvg-name="Skyrock" tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="Europa" tvg-country="FR",Skyrock
+#EXTINF:-1 tvg-id="Skyrock" tvg-name="Skyrock" tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" tvg-country="FR" group-title="Rádios - Europa",Skyrock
 http://icecast.skyrock.net/s/natio_mp3_128k
-#EXTINF:-1 radio="true" tvg-name="Intense Radio - We love Dance #HQ# FLAC" tvg-logo="https://www.intenseradio.net/wp-content/uploads/fbrfg/apple-touch-icon.png?v=gaek7lvrgd" group-title="Europa" tvg-country="NL",Intense Radio - We love Dance #HQ# FLAC
+#EXTINF:-1 tvg-id="Intense Radio - We love Dance #HQ# FLAC" tvg-name="Intense Radio - We love Dance #HQ# FLAC" tvg-logo="https://www.intenseradio.net/wp-content/uploads/fbrfg/apple-touch-icon.png?v=gaek7lvrgd" tvg-country="NL" group-title="Rádios - Europa",Intense Radio - We love Dance #HQ# FLAC
 http://secure.live-streams.nl/flac.ogg
-#EXTINF:-1 radio="true" tvg-name="Radio Zet" tvg-logo="https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png" group-title="Europa" tvg-country="PL",Radio Zet
+#EXTINF:-1 tvg-id="Radio Zet" tvg-name="Radio Zet" tvg-logo="https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png" tvg-country="PL" group-title="Rádios - Europa",Radio Zet
 http://zet-net-01.cdn.eurozet.pl:8400/
-#EXTINF:-1 radio="true" tvg-name="Jazz Radio" tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="Europa" tvg-country="FR",Jazz Radio
+#EXTINF:-1 tvg-id="Jazz Radio" tvg-name="Jazz Radio" tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="Rádios - Europa",Jazz Radio
 http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-#EXTINF:-1 radio="true" tvg-name="Radio Caroline" tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="Europa" tvg-country="GB",Radio Caroline
+#EXTINF:-1 tvg-id="Radio Caroline" tvg-name="Radio Caroline" tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" tvg-country="GB" group-title="Rádios - Europa",Radio Caroline
 http://78.129.202.200:8040/;
-#EXTINF:-1 radio="true" tvg-name="FIP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" group-title="Europa" tvg-country="FR",FIP
+#EXTINF:-1 tvg-id="FIP" tvg-name="FIP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" tvg-country="FR" group-title="Rádios - Europa",FIP
 http://icecast.radiofrance.fr/fip-hifi.aac
-#EXTINF:-1 radio="true" tvg-name="Cadena 100" tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="Europa" tvg-country="ES",Cadena 100
+#EXTINF:-1 tvg-id="Cadena 100" tvg-name="Cadena 100" tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" tvg-country="ES" group-title="Rádios - Europa",Cadena 100
 http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
-#EXTINF:-1 radio="true" tvg-name="Rai Radio 1" tvg-logo="" group-title="Europa" tvg-country="IT",Rai Radio 1
-http://icestreaming.rai.it/1.mp3
-#EXTINF:-1 radio="true" tvg-name="EuroDance 90 radio" tvg-logo="https://eurodance90.fr/favicon.ico" group-title="Europa" tvg-country="FR",EuroDance 90 radio
+#EXTINF:-1 tvg-id="Rai Radio 1" tvg-name="Rai Radio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rai_Radio_1_logo_2017.svg/300px-Rai_Radio_1_logo_2017.svg.png" tvg-country="IT" group-title="Rádios - Europa",Rai Radio 1
+https://icestreaming.rai.it/8.mp3
+#EXTINF:-1 tvg-id="EuroDance 90 radio" tvg-name="EuroDance 90 radio" tvg-logo="https://eurodance90.fr/favicon.ico" tvg-country="FR" group-title="Rádios - Europa",EuroDance 90 radio
 https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
-#EXTINF:-1 radio="true" tvg-name="Capital FM London" tvg-logo="http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" group-title="Europa" tvg-country="GB",Capital FM London
+#EXTINF:-1 tvg-id="Capital FM London" tvg-name="Capital FM London" tvg-logo="http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" tvg-country="GB" group-title="Rádios - Europa",Capital FM London
 http://media-ice.musicradio.com/CapitalMP3
-#EXTINF:-1 radio="true" tvg-name="Ibiza Global Radio" tvg-logo="" group-title="Europa" tvg-country="ES",Ibiza Global Radio
+#EXTINF:-1 tvg-id="Ibiza Global Radio" tvg-name="Ibiza Global Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ibiza_Global_Radio_logo.png/300px-Ibiza_Global_Radio_logo.png" tvg-country="ES" group-title="Rádios - Europa",Ibiza Global Radio
 http://ibizaglobalradio.streaming-pro.com:8024/
-#EXTINF:-1 radio="true" tvg-name="Virgin Radio Classic Rock" tvg-logo="" group-title="Europa" tvg-country="IT",Virgin Radio Classic Rock
+#EXTINF:-1 tvg-id="Virgin Radio Classic Rock" tvg-name="Virgin Radio Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Virgin_Radio_logo.svg/300px-Virgin_Radio_logo.svg.png" tvg-country="IT" group-title="Rádios - Europa",Virgin Radio Classic Rock
 http://icy.unitedradio.it/VirginRockClassics.mp3
-#EXTINF:-1 radio="true" tvg-name="Heart 80s" tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="Europa" tvg-country="GB",Heart 80s
+#EXTINF:-1 tvg-id="Heart 80s" tvg-name="Heart 80s" tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" tvg-country="GB" group-title="Rádios - Europa",Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
-#EXTINF:-1 radio="true" tvg-name="Radio 24 il sole 24 ore" tvg-logo="https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" group-title="Europa" tvg-country="IT",Radio 24 il sole 24 ore
+#EXTINF:-1 tvg-id="Radio 24 il sole 24 ore" tvg-name="Radio 24 il sole 24 ore" tvg-logo="https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" tvg-country="IT" group-title="Rádios - Europa",Radio 24 il sole 24 ore
 http://shoutcast2.radio24.it:8000/;
-#EXTINF:-1 radio="true" tvg-name="Heart London 106.2" tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" group-title="Europa" tvg-country="GB",Heart London 106.2
+#EXTINF:-1 tvg-id="Heart London 106.2" tvg-name="Heart London 106.2" tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" tvg-country="GB" group-title="Rádios - Europa",Heart London 106.2
 http://ice-sov.musicradio.com/HeartLondonMP3
-#EXTINF:-1 radio="true" tvg-name="Radio 105 Network" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="Europa" tvg-country="IT",Radio 105 Network
+#EXTINF:-1 tvg-id="Radio 105 Network" tvg-name="Radio 105 Network" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" tvg-country="IT" group-title="Rádios - Europa",Radio 105 Network
 http://icecast.unitedradio.it/Radio105.mp3
-#EXTINF:-1 radio="true" tvg-name="100% Radio 80" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="Europa" tvg-country="FR",100% Radio 80
+#EXTINF:-1 tvg-id="100% Radio 80" tvg-name="100% Radio 80" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" tvg-country="FR" group-title="Rádios - Europa",100% Radio 80
 http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne - Heavy Metal" tvg-logo="http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico" group-title="Europa" tvg-country="DE",Rock Antenne - Heavy Metal
+#EXTINF:-1 tvg-id="Rock Antenne - Heavy Metal" tvg-name="Rock Antenne - Heavy Metal" tvg-logo="http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico" tvg-country="DE" group-title="Rádios - Europa",Rock Antenne - Heavy Metal
 http://mp3channels.webradio.rockantenne.de/heavy-metal
-#EXTINF:-1 radio="true" tvg-name="LOS 40 Principales España" tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="Europa" tvg-country="ES",LOS 40 Principales España
+#EXTINF:-1 tvg-id="LOS 40 Principales España" tvg-name="LOS 40 Principales España" tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" tvg-country="ES" group-title="Rádios - Europa",LOS 40 Principales España
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:-1 radio="true" tvg-name="LBC UK" tvg-logo="https://cdn-radiotime-logos.tunein.com/s220687q.png" group-title="Europa" tvg-country="GB",LBC UK
+#EXTINF:-1 tvg-id="LBC UK" tvg-name="LBC UK" tvg-logo="https://cdn-radiotime-logos.tunein.com/s220687q.png" tvg-country="GB" group-title="Rádios - Europa",LBC UK
 http://media-ice.musicradio.com/LBCUK
-#EXTINF:-1 radio="true" tvg-name="1LIVE" tvg-logo="https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png" group-title="Europa" tvg-country="DE",1LIVE
+#EXTINF:-1 tvg-id="1LIVE" tvg-name="1LIVE" tvg-logo="https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png" tvg-country="DE" group-title="Rádios - Europa",1LIVE
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 radio="true" tvg-name="Chocolate FM" tvg-logo="https://www.chocolatefm.com/__ovh/common/img/favicon.ico" group-title="Europa" tvg-country="ES",Chocolate FM
+#EXTINF:-1 tvg-id="Chocolate FM" tvg-name="Chocolate FM" tvg-logo="https://www.chocolatefm.com/__ovh/common/img/favicon.ico" tvg-country="ES" group-title="Rádios - Europa",Chocolate FM
 http://streaming5.elitecomunicacion.es:8082/live.mp3
-#EXTINF:-1 radio="true" tvg-name="La Grosse Radio Reggae" tvg-logo="https://www.lagrosseradio.com/favicon.ico" group-title="Europa" tvg-country="FR",La Grosse Radio Reggae
+#EXTINF:-1 tvg-id="La Grosse Radio Reggae" tvg-name="La Grosse Radio Reggae" tvg-logo="https://www.lagrosseradio.com/favicon.ico" tvg-country="FR" group-title="Rádios - Europa",La Grosse Radio Reggae
 http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3
-#EXTINF:-1 radio="true" tvg-name="Radio Meuh" tvg-logo="" group-title="Europa" tvg-country="FR",Radio Meuh
+#EXTINF:-1 tvg-id="Radio Meuh" tvg-name="Radio Meuh" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="FR" group-title="Rádios - Europa",Radio Meuh
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
-#EXTINF:-1 radio="true" tvg-name="Rai Radio 2" tvg-logo="" group-title="Europa" tvg-country="IT",Rai Radio 2
+#EXTINF:-1 tvg-id="Rai Radio 2" tvg-name="Rai Radio 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rai_Radio_2_logo_2017.svg/300px-Rai_Radio_2_logo_2017.svg.png" tvg-country="IT" group-title="Rádios - Europa",Rai Radio 2
 http://icestreaming.rai.it/2.mp3
-#EXTINF:-1 radio="true" tvg-name="Radio Nova" tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="Europa" tvg-country="FR",Radio Nova
+#EXTINF:-1 tvg-id="Radio Nova" tvg-name="Radio Nova" tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" tvg-country="FR" group-title="Rádios - Europa",Radio Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 radio="true" tvg-name="80s80s" tvg-logo="" group-title="Europa" tvg-country="DE",80s80s
-http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/
-#EXTINF:-1 radio="true" tvg-name="Cadena SER España" tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="Europa" tvg-country="ES",Cadena SER España
+#EXTINF:-1 tvg-id="Capital London (UK)" tvg-name="Capital London (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Capital_FM_logo.svg/320px-Capital_FM_logo.svg.png" tvg-country="GB" group-title="Rádios - Europa",Capital London (UK)
+https://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1 tvg-id="Cadena SER España" tvg-name="Cadena SER España" tvg-logo="https://cadenaser00.epimg.net/favicon.png" tvg-country="ES" group-title="Rádios - Europa",Cadena SER España
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 radio="true" tvg-name="Radio Stereocittà" tvg-logo="" group-title="Europa" tvg-country="IT",Radio Stereocittà
+#EXTINF:-1 tvg-id="Radio Stereocittà" tvg-name="Radio Stereocittà" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IT" group-title="Rádios - Europa",Radio Stereocittà
 http://onair11.xdevel.com:8134/;stream.mp3
-#EXTINF:-1 radio="true" tvg-name="Jazz Radio Classic Jazz" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="Europa" tvg-country="FR",Jazz Radio Classic Jazz
+#EXTINF:-1 tvg-id="Jazz Radio Classic Jazz" tvg-name="Jazz Radio Classic Jazz" tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" tvg-country="FR" group-title="Rádios - Europa",Jazz Radio Classic Jazz
 http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
-#EXTINF:-1 radio="true" tvg-name="Radio Swiss Jazz" tvg-logo="" group-title="Europa" tvg-country="CH",Radio Swiss Jazz
+#EXTINF:-1 tvg-id="Radio Swiss Jazz" tvg-name="Radio Swiss Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Radio_Swiss_Jazz.svg/320px-Radio_Swiss_Jazz.svg.png" tvg-country="CH" group-title="Rádios - Europa",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1 radio="true" tvg-name="1000 HITS 80s" tvg-logo="" group-title="Europa" tvg-country="ES",1000 HITS 80s
+#EXTINF:-1 tvg-id="1000 HITS 80s" tvg-name="1000 HITS 80s" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="ES" group-title="Rádios - Europa",1000 HITS 80s
 http://c2.auracast.net:8048/stream
-#EXTINF:-1 radio="true" tvg-name="Radio Romania Actualități" tvg-logo="" group-title="Europa" tvg-country="RO",Radio Romania Actualități
+#EXTINF:-1 tvg-id="Radio Romania Actualități" tvg-name="Radio Romania Actualități" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/35/Radio_Rom%C3%A2nia_Actualit%C4%83%C8%9Bi_logo.svg/300px-Radio_Rom%C3%A2nia_Actualit%C4%83%C8%9Bi_logo.svg.png" tvg-country="RO" group-title="Rádios - Europa",Radio Romania Actualități
 http://89.238.227.6:8006/;
-#EXTINF:-1 radio="true" tvg-name="90s90s Hits" tvg-logo="" group-title="Europa" tvg-country="DE",90s90s Hits
-http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
-#EXTINF:-1 radio="true" tvg-name="Smooth Radio" tvg-logo="http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Europa" tvg-country="GB",Smooth Radio
+#EXTINF:-1 tvg-id="Antenne Bayern" tvg-name="Antenne Bayern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Antenne_Bayern_logo_2019.svg/320px-Antenne_Bayern_logo_2019.svg.png" tvg-country="DE" group-title="Rádios - Europa",Antenne Bayern
+https://stream.antenne.de/antenne
+#EXTINF:-1 tvg-id="Smooth Radio" tvg-name="Smooth Radio" tvg-logo="http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" tvg-country="GB" group-title="Rádios - Europa",Smooth Radio
 http://media-the.musicradio.com/SmoothEastMids
 
-# ==========================================
-# ÁSIA (TOP 50 RÁDIOS MAIS OUVIDAS)
-# ==========================================
-
-#EXTINF:-1 radio="true" tvg-name="Fnf.Fm Hindi" tvg-logo="" group-title="Ásia" tvg-country="IN",Fnf.Fm Hindi
+# ========================================================
+# REGIÃO: ÁSIA (TOP 50)
+# ========================================================
+#EXTINF:-1 tvg-id="Fnf.Fm Hindi" tvg-name="Fnf.Fm Hindi" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c6mvd746h35z.png" tvg-country="IN" group-title="Rádios - Ásia",Fnf.Fm Hindi
 http://192.99.8.192:5032/;stream
-#EXTINF:-1 radio="true" tvg-name="Bollywood Gaane Purane" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg" group-title="Ásia" tvg-country="IN",Bollywood Gaane Purane
+#EXTINF:-1 tvg-id="Bollywood Gaane Purane" tvg-name="Bollywood Gaane Purane" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg" tvg-country="IN" group-title="Rádios - Ásia",Bollywood Gaane Purane
 https://stream.zeno.fm/6n6ewddtad0uv
-#EXTINF:-1 radio="true" tvg-name="MY RADIO DJ" tvg-logo="http://zeno.fm/favicon.ico" group-title="Ásia" tvg-country="IN",MY RADIO DJ
+#EXTINF:-1 tvg-id="MY RADIO DJ" tvg-name="MY RADIO DJ" tvg-logo="http://zeno.fm/favicon.ico" tvg-country="IN" group-title="Rádios - Ásia",MY RADIO DJ
 http://stream.zeno.fm/84h97t3ewg0uv
-#EXTINF:-1 radio="true" tvg-name="Arabesk FM" tvg-logo="" group-title="Ásia" tvg-country="TR",Arabesk FM
+#EXTINF:-1 tvg-id="Arabesk FM" tvg-name="Arabesk FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9f6x2s992m7s.png" tvg-country="TR" group-title="Rádios - Ásia",Arabesk FM
 http://yayin.arabeskfm.biz:8042/
-#EXTINF:-1 radio="true" tvg-name="Radio BollyFm" tvg-logo="" group-title="Ásia" tvg-country="IN",Radio BollyFm
+#EXTINF:-1 tvg-id="Radio BollyFm" tvg-name="Radio BollyFm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/y3g78c772n7m.png" tvg-country="IN" group-title="Rádios - Ásia",Radio BollyFm
 http://stream.radiobollyfm.in:8201/hd?t=1526570335
-#EXTINF:-1 radio="true" tvg-name="Goldy Evergreen" tvg-logo="" group-title="Ásia" tvg-country="IN",Goldy Evergreen
+#EXTINF:-1 tvg-id="Goldy Evergreen" tvg-name="Goldy Evergreen" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Goldy Evergreen
 https://stream.zeno.fm/n2fd0edh9k8uv
-#EXTINF:-1 radio="true" tvg-name="Virgin Radio Türkiye" tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" group-title="Ásia" tvg-country="TR",Virgin Radio Türkiye
+#EXTINF:-1 tvg-id="Virgin Radio Türkiye" tvg-name="Virgin Radio Türkiye" tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" tvg-country="TR" group-title="Rádios - Ásia",Virgin Radio Türkiye
 http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
-#EXTINF:-1 radio="true" tvg-name="Hits Of Bollywood" tvg-logo="" group-title="Ásia" tvg-country="IN",Hits Of Bollywood
+#EXTINF:-1 tvg-id="Hits Of Bollywood" tvg-name="Hits Of Bollywood" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/y3g78c772n7m.png" tvg-country="IN" group-title="Rádios - Ásia",Hits Of Bollywood
 http://stream.zeno.fm/8ty8szwpwfeuv
-#EXTINF:-1 radio="true" tvg-name="华语金曲500首" tvg-logo="" group-title="Ásia" tvg-country="CN",华语金曲500首
+#EXTINF:-1 tvg-id="华语金曲500首" tvg-name="华语金曲500首" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="CN" group-title="Rádios - Ásia",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-#EXTINF:-1 radio="true" tvg-name="2B! Radio Sangam Krishna" tvg-logo="" group-title="Ásia" tvg-country="IN",2B! Radio Sangam Krishna
+#EXTINF:-1 tvg-id="2B! Radio Sangam Krishna" tvg-name="2B! Radio Sangam Krishna" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",2B! Radio Sangam Krishna
 http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF:-1 radio="true" tvg-name="Vivid Bharti" tvg-logo="" group-title="Ásia" tvg-country="IN",Vivid Bharti
+#EXTINF:-1 tvg-id="Vivid Bharti" tvg-name="Vivid Bharti" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Vivid Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="DAMAR TURK FM" tvg-logo="https://www.damarturkfm.com/favicon.ico" group-title="Ásia" tvg-country="TR",DAMAR TURK FM
+#EXTINF:-1 tvg-id="DAMAR TURK FM" tvg-name="DAMAR TURK FM" tvg-logo="https://www.damarturkfm.com/favicon.ico" tvg-country="TR" group-title="Rádios - Ásia",DAMAR TURK FM
 https://live.radyositesihazir.com:10997/
-#EXTINF:-1 radio="true" tvg-name="Radyo 7" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png" group-title="Ásia" tvg-country="TR",Radyo 7
+#EXTINF:-1 tvg-id="Radyo 7" tvg-name="Radyo 7" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png" tvg-country="TR" group-title="Rádios - Ásia",Radyo 7
 http://46.20.3.250/;stream
-#EXTINF:-1 radio="true" tvg-name="Türkülerle Türkiye" tvg-logo="" group-title="Ásia" tvg-country="TR",Türkülerle Türkiye
+#EXTINF:-1 tvg-id="Türkülerle Türkiye" tvg-name="Türkülerle Türkiye" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",Türkülerle Türkiye
 http://37.247.98.8/stream/22/;
-#EXTINF:-1 radio="true" tvg-name="Hits Of Lata Mangeshkar" tvg-logo="" group-title="Ásia" tvg-country="IN",Hits Of Lata Mangeshkar
+#EXTINF:-1 tvg-id="Hits Of Lata Mangeshkar" tvg-name="Hits Of Lata Mangeshkar" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Hits Of Lata Mangeshkar
 http://stream.zeno.fm/g95zm67prfhvv
-#EXTINF:-1 radio="true" tvg-name="I-Radio Jakarta" tvg-logo="" group-title="Ásia" tvg-country="ID",I-Radio Jakarta
+#EXTINF:-1 tvg-id="I-Radio Jakarta" tvg-name="I-Radio Jakarta" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="ID" group-title="Rádios - Ásia",I-Radio Jakarta
 http://stream.radiojar.com/4ywdgup3bnzuv
-#EXTINF:-1 radio="true" tvg-name="CCTV-13新闻伴音" tvg-logo="" group-title="Ásia" tvg-country="CN",CCTV-13新闻伴音
+#EXTINF:-1 tvg-id="CCTV-13新闻伴音" tvg-name="CCTV-13新闻伴音" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="CN" group-title="Rádios - Ásia",CCTV-13新闻伴音
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-#EXTINF:-1 radio="true" tvg-name="MY CLUB REMIX" tvg-logo="http://zeno.fm/favicon.ico" group-title="Ásia" tvg-country="IN",MY CLUB REMIX
+#EXTINF:-1 tvg-id="MY CLUB REMIX" tvg-name="MY CLUB REMIX" tvg-logo="http://zeno.fm/favicon.ico" tvg-country="IN" group-title="Rádios - Ásia",MY CLUB REMIX
 http://stream.zeno.fm/u7eee0hyzp8uv
-#EXTINF:-1 radio="true" tvg-name="Radyo Şiran" tvg-logo="" group-title="Ásia" tvg-country="TR",Radyo Şiran
+#EXTINF:-1 tvg-id="Radyo Şiran" tvg-name="Radyo Şiran" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",Radyo Şiran
 https://live.radyositesihazir.com/8078/stream
-#EXTINF:-1 radio="true" tvg-name="Radio Mirchi Hindi" tvg-logo="https://onlineradiohub.com/wp-content/uploads/2023/05/radio-mirchi-hindi-fm.jpg" group-title="Ásia" tvg-country="IN",Radio Mirchi Hindi
+#EXTINF:-1 tvg-id="Radio Mirchi Hindi" tvg-name="Radio Mirchi Hindi" tvg-logo="https://onlineradiohub.com/wp-content/uploads/2023/05/radio-mirchi-hindi-fm.jpg" tvg-country="IN" group-title="Rádios - Ásia",Radio Mirchi Hindi
 https://eu8.fastcast4u.com/proxy/clyedupq/stream
-#EXTINF:-1 radio="true" tvg-name="2B! Radio Sangam Shri Ram" tvg-logo="" group-title="Ásia" tvg-country="IN",2B! Radio Sangam Shri Ram
+#EXTINF:-1 tvg-id="2B! Radio Sangam Shri Ram" tvg-name="2B! Radio Sangam Shri Ram" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",2B! Radio Sangam Shri Ram
 http://dard.out.airtime.pro:8000/dard_a
-#EXTINF:-1 radio="true" tvg-name="Mirchi Top 20" tvg-logo="http://mirchi.in/favicon-196x196.png" group-title="Ásia" tvg-country="IN",Mirchi Top 20
+#EXTINF:-1 tvg-id="Mirchi Top 20" tvg-name="Mirchi Top 20" tvg-logo="http://mirchi.in/favicon-196x196.png" tvg-country="IN" group-title="Rádios - Ásia",Mirchi Top 20
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
-#EXTINF:-1 radio="true" tvg-name="AIR Fm Gold Delhi" tvg-logo="https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png" group-title="Ásia" tvg-country="IN",AIR Fm Gold Delhi
+#EXTINF:-1 tvg-id="AIR Fm Gold Delhi" tvg-name="AIR Fm Gold Delhi" tvg-logo="https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png" tvg-country="IN" group-title="Rádios - Ásia",AIR Fm Gold Delhi
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
-#EXTINF:-1 radio="true" tvg-name="凤凰卫视资讯台" tvg-logo="http://d.ifengimg.com/w250_h160_q90_webp/x0.ifengimg.com/ucms/2021_23/4F53E3FD6DBDAF0374F35223C9F6316706F6A08F_size23_w250_h160.jpg" group-title="Ásia" tvg-country="CN",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="http://d.ifengimg.com/w250_h160_q90_webp/x0.ifengimg.com/ucms/2021_23/4F53E3FD6DBDAF0374F35223C9F6316706F6A08F_size23_w250_h160.jpg" tvg-country="CN" group-title="Rádios - Ásia",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 radio="true" tvg-name="Radio Aashiqanaa" tvg-logo="" group-title="Ásia" tvg-country="IN",Radio Aashiqanaa
+#EXTINF:-1 tvg-id="Radio Aashiqanaa" tvg-name="Radio Aashiqanaa" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Radio Aashiqanaa
 https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657
-#EXTINF:-1 radio="true" tvg-name="Hits Of Kishor Kumar" tvg-logo="" group-title="Ásia" tvg-country="IN",Hits Of Kishor Kumar
+#EXTINF:-1 tvg-id="Hits Of Kishor Kumar" tvg-name="Hits Of Kishor Kumar" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Hits Of Kishor Kumar
 http://stream.zeno.fm/pg6rqp8ztm0uv
-#EXTINF:-1 radio="true" tvg-name="Hits Of Mohammed Rafi" tvg-logo="" group-title="Ásia" tvg-country="IN",Hits Of Mohammed Rafi
+#EXTINF:-1 tvg-id="Hits Of Mohammed Rafi" tvg-name="Hits Of Mohammed Rafi" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Hits Of Mohammed Rafi
 http://stream.zeno.fm/0zkr7x8ztm0uv
-#EXTINF:-1 radio="true" tvg-name="Exclusively Pink Floyd" tvg-logo="" group-title="Ásia" tvg-country="AE",Exclusively Pink Floyd
+#EXTINF:-1 tvg-id="Exclusively Pink Floyd" tvg-name="Exclusively Pink Floyd" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="AE" group-title="Rádios - Ásia",Exclusively Pink Floyd
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
-#EXTINF:-1 radio="true" tvg-name="Metro FM" tvg-logo="https://metrofm.com.tr/favicon.ico" group-title="Ásia" tvg-country="TR",Metro FM
+#EXTINF:-1 tvg-id="Metro FM" tvg-name="Metro FM" tvg-logo="https://metrofm.com.tr/favicon.ico" tvg-country="TR" group-title="Rádios - Ásia",Metro FM
 http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
-#EXTINF:-1 radio="true" tvg-name="Power POP" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Ásia" tvg-country="TR",Power POP
+#EXTINF:-1 tvg-id="Power POP" tvg-name="Power POP" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" tvg-country="TR" group-title="Rádios - Ásia",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
-#EXTINF:-1 radio="true" tvg-name="Sky Arabia News TV" tvg-logo="http://www.skynewsarabia.com/apple-touch-icon-72x72.png" group-title="Ásia" tvg-country="AE",Sky Arabia News TV
+#EXTINF:-1 tvg-id="Sky Arabia News TV" tvg-name="Sky Arabia News TV" tvg-logo="http://www.skynewsarabia.com/apple-touch-icon-72x72.png" tvg-country="AE" group-title="Rádios - Ásia",Sky Arabia News TV
 http://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 radio="true" tvg-name="Radio 5 Turkey" tvg-logo="https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png" group-title="Ásia" tvg-country="TR",Radio 5 Turkey
+#EXTINF:-1 tvg-id="Radio 5 Turkey" tvg-name="Radio 5 Turkey" tvg-logo="https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png" tvg-country="TR" group-title="Rádios - Ásia",Radio 5 Turkey
 http://radyo.yayin.com.tr:4108/stream
-#EXTINF:-1 radio="true" tvg-name="NTV Radyo" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="Ásia" tvg-country="TR",NTV Radyo
+#EXTINF:-1 tvg-id="NTV Radyo" tvg-name="NTV Radyo" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" tvg-country="TR" group-title="Rádios - Ásia",NTV Radyo
 http://46.20.3.207/listen.pls
-#EXTINF:-1 radio="true" tvg-name="Mirchi Love" tvg-logo="http://mirchi.in/favicon-196x196.png" group-title="Ásia" tvg-country="IN",Mirchi Love
+#EXTINF:-1 tvg-id="Mirchi Love" tvg-name="Mirchi Love" tvg-logo="http://mirchi.in/favicon-196x196.png" tvg-country="IN" group-title="Rádios - Ásia",Mirchi Love
 https://nl4.mystreaming.net/uber/bollywoodlove/icecast.audio
-#EXTINF:-1 radio="true" tvg-name="RDI 97.1 FM" tvg-logo="https://i.imgur.com/4abdtyl.jpeg" group-title="Ásia" tvg-country="ID",RDI 97.1 FM
+#EXTINF:-1 tvg-id="RDI 97.1 FM" tvg-name="RDI 97.1 FM" tvg-logo="https://i.imgur.com/4abdtyl.jpeg" tvg-country="ID" group-title="Rádios - Ásia",RDI 97.1 FM
 http://202.147.199.99:8000/;stream/1
-#EXTINF:-1 radio="true" tvg-name="KRAL TÜRK FM" tvg-logo="" group-title="Ásia" tvg-country="TR",KRAL TÜRK FM
+#EXTINF:-1 tvg-id="KRAL TÜRK FM" tvg-name="KRAL TÜRK FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",KRAL TÜRK FM
 https://live.radyositesihazir.com/8032/stream
-#EXTINF:-1 radio="true" tvg-name="CNR-1 中国之声" tvg-logo="" group-title="Ásia" tvg-country="CN",CNR-1 中国之声
+#EXTINF:-1 tvg-id="CNR-1 中国之声" tvg-name="CNR-1 中国之声" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="CN" group-title="Rádios - Ásia",CNR-1 中国之声
 https://lhttp.qtfm.cn/live/15318317/64k.mp3
-#EXTINF:-1 radio="true" tvg-name="Goldy Cool" tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQz-qz9QkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="Ásia" tvg-country="IN",Goldy Cool
+#EXTINF:-1 tvg-id="Goldy Cool" tvg-name="Goldy Cool" tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQz-qz9QkMogEEemVubw/image/%3Fresize=500x500&v=1" tvg-country="IN" group-title="Rádios - Ásia",Goldy Cool
 https://stream.zeno.fm/3k1fb86tfm8uv
-#EXTINF:-1 radio="true" tvg-name="Alem FM" tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="Ásia" tvg-country="TR",Alem FM
+#EXTINF:-1 tvg-id="Alem FM" tvg-name="Alem FM" tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" tvg-country="TR" group-title="Rádios - Ásia",Alem FM
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="Suara Giri 98.4 FM" tvg-logo="" group-title="Ásia" tvg-country="ID",Suara Giri 98.4 FM
+#EXTINF:-1 tvg-id="Suara Giri 98.4 FM" tvg-name="Suara Giri 98.4 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="ID" group-title="Rádios - Ásia",Suara Giri 98.4 FM
 http://streaming.girifm.com:8010/
-#EXTINF:-1 radio="true" tvg-name="Wijaya FM 103.5 FM Surabaya" tvg-logo="https://radiowijayafm.com/wp-content/uploads/2017/10/favicon.png" group-title="Ásia" tvg-country="ID",Wijaya FM 103.5 FM Surabaya
+#EXTINF:-1 tvg-id="Wijaya FM 103.5 FM Surabaya" tvg-name="Wijaya FM 103.5 FM Surabaya" tvg-logo="https://radiowijayafm.com/wp-content/uploads/2017/10/favicon.png" tvg-country="ID" group-title="Rádios - Ásia",Wijaya FM 103.5 FM Surabaya
 http://wijayafm.onlivestreaming.net:9880/stream?
-#EXTINF:-1 radio="true" tvg-name="2B! Radio Sangam Devi Maa" tvg-logo="" group-title="Ásia" tvg-country="IN",2B! Radio Sangam Devi Maa
+#EXTINF:-1 tvg-id="2B! Radio Sangam Devi Maa" tvg-name="2B! Radio Sangam Devi Maa" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",2B! Radio Sangam Devi Maa
 http://ibadat.out.airtime.pro:8000/ibadat_a
-#EXTINF:-1 radio="true" tvg-name="Ankara Havalari" tvg-logo="" group-title="Ásia" tvg-country="TR",Ankara Havalari
+#EXTINF:-1 tvg-id="Ankara Havalari" tvg-name="Ankara Havalari" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",Ankara Havalari
 http://37.247.98.8/stream/30/;
-#EXTINF:-1 radio="true" tvg-name="Rafi hit songs" tvg-logo="" group-title="Ásia" tvg-country="IN",Rafi hit songs
+#EXTINF:-1 tvg-id="Rafi hit songs" tvg-name="Rafi hit songs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="IN" group-title="Rádios - Ásia",Rafi hit songs
 https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ
-#EXTINF:-1 radio="true" tvg-name="CNR-2 经济之声" tvg-logo="" group-title="Ásia" tvg-country="CN",CNR-2 经济之声
+#EXTINF:-1 tvg-id="CNR-2 经济之声" tvg-name="CNR-2 经济之声" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="CN" group-title="Rádios - Ásia",CNR-2 经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 radio="true" tvg-name="Retjo Buntung 99.4 FM" tvg-logo="" group-title="Ásia" tvg-country="ID",Retjo Buntung 99.4 FM
+#EXTINF:-1 tvg-id="Retjo Buntung 99.4 FM" tvg-name="Retjo Buntung 99.4 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="ID" group-title="Rádios - Ásia",Retjo Buntung 99.4 FM
 http://45.64.97.82:9940/
-#EXTINF:-1 radio="true" tvg-name="Baba Radyo" tvg-logo="" group-title="Ásia" tvg-country="TR",Baba Radyo
+#EXTINF:-1 tvg-id="Baba Radyo" tvg-name="Baba Radyo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",Baba Radyo
 http://46.20.7.116/
-#EXTINF:-1 radio="true" tvg-name="ALTIN SARKILAR" tvg-logo="" group-title="Ásia" tvg-country="TR",ALTIN SARKILAR
+#EXTINF:-1 tvg-id="ALTIN SARKILAR" tvg-name="ALTIN SARKILAR" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="TR" group-title="Rádios - Ásia",ALTIN SARKILAR
 http://37.247.98.8/stream/25/;
-#EXTINF:-1 radio="true" tvg-name="My 90s Bengali" tvg-logo="https://myradiodj4.blogspot.com/favicon.ico" group-title="Ásia" tvg-country="IN",My 90s Bengali
+#EXTINF:-1 tvg-id="My 90s Bengali" tvg-name="My 90s Bengali" tvg-logo="https://myradiodj4.blogspot.com/favicon.ico" tvg-country="IN" group-title="Rádios - Ásia",My 90s Bengali
 http://stream.zeno.fm/2k6xfu1pvs8uv
-#EXTINF:-1 radio="true" tvg-name="Jazz Sakura (asia dream radio)" tvg-logo="" group-title="Ásia" tvg-country="JP",Jazz Sakura (asia dream radio)
+#EXTINF:-1 tvg-id="Jazz Sakura (asia dream radio)" tvg-name="Jazz Sakura (asia dream radio)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3q2282276q4x.png" tvg-country="JP" group-title="Rádios - Ásia",Jazz Sakura (asia dream radio)
 http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
