@@ -6,25 +6,25 @@
 # ==========================================
 
 #EXTINF:-1 tvg-id="TVGlobo.br@RioDeJaneiro" tvg-name="TV Globo Rio de Janeiro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png" group-title="Brasil" tvg-country="BR",TV Globo Rio de Janeiro
-http://45.190.28.50/GLOBO_HD/index.m3u8
+http://hls1.sua.tv/live/globospfhd/s.m3u8
 #EXTINF:-1 tvg-id="SBT.br@Nacional" tvg-name="SBT Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SBT_logo.svg/960px-SBT_logo.svg.png" group-title="Brasil" tvg-country="BR",SBT Nacional
-http://45.190.28.50/SBT_HD/index.m3u8
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Brasil" tvg-country="BR",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Record_logo_2023.svg/960px-Record_logo_2023.svg.png" group-title="Brasil" tvg-country="BR",Record TV
-http://45.190.28.50/RECORD/index.m3u8
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Record_News_logo_2024.png/960px-Record_News_logo_2024.png" group-title="Brasil" tvg-country="BR",Record News
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rede_Bandeirantes_2018.svg/960px-Rede_Bandeirantes_2018.svg.png" group-title="Brasil" tvg-country="BR",Band HD
-http://45.190.28.50/BAND_HD/index.m3u8
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="CulturaFast.br@SD" tvg-name="TV Cultura (Cultura Fast)" tvg-logo="https://i.imgur.com/nm0jXMM.png" group-title="Brasil" tvg-country="BR",TV Cultura (Cultura Fast)
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/960px-CNN_Brasil_logo.svg.png" group-title="Brasil" tvg-country="BR",CNN Brasil
 http://45.162.64.114/CNN_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Brasil" tvg-country="BR",Jovem Pan News
-http://45.190.28.50/JP_NEWS/index.m3u8
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="RedeTV!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RedeTV%21_logo_2017.svg/960px-RedeTV%21_logo_2017.svg.png" group-title="Brasil" tvg-country="BR",RedeTV!
-http://45.190.28.50/REDE_TV_HD/index.m3u8
+http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="Brasil" tvg-country="BR",TV Brasil
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" group-title="Brasil" tvg-country="BR",Canal Futura
@@ -38,31 +38,31 @@ http://45.162.64.114/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/t3r56o1.png" group-title="Brasil" tvg-country="BR",AgroCanal
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Brasil" tvg-country="BR",A&E Brasil
-http://45.190.28.50/AE_HD/index.m3u8
+http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Brasil" tvg-country="BR",AXN Brasil
-http://45.190.28.50/AXN_HD/index.m3u8
+http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Brasil" tvg-country="BR",AMC Brasil
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-name="Adult Swim Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Brasil" tvg-country="BR",Adult Swim Brasil
-http://45.190.28.50/TRUTV_HD/index.m3u8
+http://45.162.64.114/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BandNews_TV_2018.svg/960px-BandNews_TV_2018.svg.png" group-title="Brasil" tvg-country="BR",BandNews TV
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV_Gazeta_logo.svg/960px-TV_Gazeta_logo.svg.png" group-title="Brasil" tvg-country="BR",TV Gazeta
 http://45.162.64.114/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Brasil" tvg-country="BR",ESPN Brasil
-http://45.190.28.50/ESPN_HD/index.m3u8
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.br@SD" tvg-name="Discovery Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/960px-Discovery_Channel_2019.svg.png" group-title="Brasil" tvg-country="BR",Discovery Channel Brasil
-http://45.190.28.50/DISCOVERY_HD/index.m3u8
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br@SD" tvg-name="Animal Planet Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_2018.svg/960px-Animal_Planet_2018.svg.png" group-title="Brasil" tvg-country="BR",Animal Planet Brasil
 http://45.162.64.114/ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" tvg-name="History Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png" group-title="Brasil" tvg-country="BR",History Channel Brasil
-http://45.190.28.50/HISTORY_HD/index.m3u8
+http://170.83.49.66:8083/HISTORYCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.br@SD" tvg-name="Warner Channel Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Warner_Channel_logo_2024.png/960px-Warner_Channel_logo_2024.png" group-title="Brasil" tvg-country="BR",Warner Channel Brasil
-http://45.190.28.50/WARNER_HD/index.m3u8
+http://170.83.49.66:8083/WARNERCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="Space.br@SD" tvg-name="Space Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Space_logo_2020.svg/960px-Space_logo_2020.svg.png" group-title="Brasil" tvg-country="BR",Space Brasil
-http://45.190.28.50/SPACE_HD/index.m3u8
+http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.br@SD" tvg-name="Cartoon Network Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Brasil" tvg-country="BR",Cartoon Network Brasil
-http://45.190.28.50/CARTOON_HD/index.m3u8
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 
 # ==========================================
 # ESTADOS UNIDOS (CANAIS MAIS ASSISTIDOS - 22)
@@ -123,8 +123,8 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="C5N.ar@SD" tvg-name="C5N (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C5N_logo_2023.svg/960px-C5N_logo_2023.svg.png" group-title="América Latina" tvg-country="AR",C5N (Argentina)
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-name="TN (Todo Noticias)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png" group-title="América Latina" tvg-country="AR",TN (Todo Noticias)
-http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="América TV (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Am%C3%A9rica_TV_logo_2020.svg/960px-Am%C3%A9rica_TV_logo_2020.svg.png" group-title="América Latina" tvg-country="AR",América TV (Argentina)
+http://45.134.141.161:2200/ARG/America_TV/index.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas TVN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/24_Horas_TVN_logo_2020.svg/960px-24_Horas_TVN_logo_2020.svg.png" group-title="América Latina" tvg-country="CL",24 Horas TVN Chile
 http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-name="El Trece HD (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_Trece_logo_2016.svg/960px-El_Trece_logo_2016.svg.png" group-title="América Latina" tvg-country="AR",El Trece HD (Argentina)
@@ -171,11 +171,11 @@ http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@SD" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/960px-BBC_News_2022.svg.png" group-title="Europa" tvg-country="UK",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk@SD" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sky_News_logo_2021.svg/960px-Sky_News_logo_2021.svg.png" group-title="Europa" tvg-country="UK",Sky News
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:SkyNewsWeatherLive_1001-200001_hls.stream/playlist.m3u8
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 Français HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png" group-title="Europa" tvg-country="FR",France 24 Français HD
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="France 24 Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png" group-title="Europa" tvg-country="FR",France 24 Español HD
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master.m3u8
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD" tvg-name="RTVE La 1 (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/La_1_de_RTVE_logo_2008.svg/960px-La_1_de_RTVE_logo_2008.svg.png" group-title="Europa" tvg-country="ES",RTVE La 1 (España)
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" tvg-name="RTVE La 2 (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/La_2_de_RTVE_logo_2008.svg/960px-La_2_de_RTVE_logo_2008.svg.png" group-title="Europa" tvg-country="ES",RTVE La 2 (España)
@@ -219,8 +219,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp@SD" tvg-name="Nippon TV (NTV Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nippon_Television_logo_2014.svg/960px-Nippon_Television_logo_2014.svg.png" group-title="Ásia" tvg-country="JP",Nippon TV (NTV Japão)
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="FujiTV.jp@SD" tvg-name="Fuji TV HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Fuji_Television_logo.svg/960px-Fuji_Television_logo.svg.png" group-title="Ásia" tvg-country="JP",Fuji TV HD (Japão)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" group-title="Ásia" tvg-country="JP",NHK World Japan HD
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp@SD" tvg-name="TV Asahi HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TV_Asahi_Logo.svg/960px-TV_Asahi_Logo.svg.png" group-title="Ásia" tvg-country="JP",TV Asahi HD (Japão)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="TBSTokyo.jp@SD" tvg-name="TBS Tokyo Broadcasting (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TBS_logo_2020.svg/960px-TBS_logo_2020.svg.png" group-title="Ásia" tvg-country="JP",TBS Tokyo Broadcasting (Japão)
@@ -228,7 +228,7 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp@SD" tvg-name="TV Tokyo HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TV_Tokyo_logo_2023.svg/960px-TV_Tokyo_logo_2023.svg.png" group-title="Ásia" tvg-country="JP",TV Tokyo HD (Japão)
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA Originals (Channel NewsAsia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNA_logo_2019.svg/960px-CNA_logo_2019.svg.png" group-title="Ásia" tvg-country="SG",CNA Originals (Channel NewsAsia)
-https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist/amg01082-cna-cna-rlaxxus/playlist.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World (Coreia do Sul)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KBS_World_logo.svg/960px-KBS_World_logo.svg.png" group-title="Ásia" tvg-country="KR",KBS World (Coreia do Sul)
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN (China Global Television)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CGTN_logo.svg/960px-CGTN_logo.svg.png" group-title="Ásia" tvg-country="CN",CGTN (China Global Television)
