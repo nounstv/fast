@@ -6,7 +6,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png",
       "tvg_id": "TVGlobo.br@RioDeJaneiro",
-      "url": "http://hls1.sua.tv/live/globospfhd/s.m3u8"
+      "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
     },
     {
       "name": "SBT Nacional",
@@ -70,7 +70,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
       "tvg_id": "JovemPanNews.br@SD",
-      "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
+      "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
     },
     {
       "name": "RedeTV!",
@@ -238,7 +238,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/GloboNews_logo_2021.svg/960px-GloboNews_logo_2021.svg.png",
       "tvg_id": "GloboNews.br@SD",
-      "url": "http://hls1.sua.tv/live/globonewsfhd/s.m3u8"
+      "url": "http://45.162.64.114/BAND_NEWS/index.m3u8"
     },
     {
       "name": "SporTV",
@@ -246,7 +246,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SporTV_2021.svg/960px-SporTV_2021.svg.png",
       "tvg_id": "SporTV.br@SD",
-      "url": "http://hls1.sua.tv/live/sportvfhd/s.m3u8"
+      "url": "http://45.162.64.114/ESPN_BRASIL/index.m3u8"
     },
     {
       "name": "Canal GOAT",
@@ -270,7 +270,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
       "tvg_id": "TNT.br@SD",
-      "url": "http://hls1.sua.tv/live/tntfhd/s.m3u8"
+      "url": "http://170.83.49.66:8083/WARNERCHANNELHD/index.m3u8"
     },
     {
       "name": "Megapix",
@@ -278,7 +278,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megapix_logo_2020.svg/960px-Megapix_logo_2020.svg.png",
       "tvg_id": "Megapix.br@SD",
-      "url": "http://hls1.sua.tv/live/megapixfhd/s.m3u8"
+      "url": "http://45.162.64.114/SPACE/index.m3u8"
     },
     {
       "name": "Sony One Cinema",
@@ -302,7 +302,7 @@
       "country": "BR",
       "logo": "https://i.imgur.com/Y4N0r1s.png",
       "tvg_id": "OnePiece.jp@SD",
-      "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     },
     {
       "name": "Naruto (24/7)",
@@ -310,7 +310,7 @@
       "country": "BR",
       "logo": "https://i.imgur.com/Y4N0r1s.png",
       "tvg_id": "Naruto.jp@SD",
-      "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     }
   ],
   "Estados Unidos": [
@@ -328,7 +328,7 @@
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News_24-7_logo.svg/960px-CBS_News_24-7_logo.svg.png",
       "tvg_id": "CBSNews.us@SD",
-      "url": "https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     },
     {
       "name": "NBC News NOW",
@@ -336,7 +336,7 @@
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NBC_News_NOW_2023.svg/960px-NBC_News_NOW_2023.svg.png",
       "tvg_id": "NBCNewsNOW.us@SD",
-      "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     },
     {
       "name": "Scripps News 24/7",
@@ -480,7 +480,7 @@
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/960px-NASA_logo.svg.png",
       "tvg_id": "NASATV.us@SD",
-      "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+      "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
     },
     {
       "name": "Bloomberg Quicktake",
@@ -496,7 +496,7 @@
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Smithsonian_Channel_logo_2013.svg/960px-Smithsonian_Channel_logo_2013.svg.png",
       "tvg_id": "SmithsonianChannel.us@SD",
-      "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     }
   ],
   "América Latina": [
@@ -700,7 +700,7 @@
       "country": "UK",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sky_News_logo_2021.svg/960px-Sky_News_logo_2021.svg.png",
       "tvg_id": "SkyNews.uk@SD",
-      "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=0b94dd8c-acc9-11f1-baa1-000d3ad34bdb&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=0baa5006-acc9-11f1-8ae2-02ebedabba0c&sid=0baa5006-acc9-11f1-8ae2-02ebedabba0c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI0MTc2N2ZiLWJiYTAtNDlmZC1hNzRjLTc4Nzc4NThlMjJhMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmFhNTAwNi1hY2M5LTExZjEtOGFlMi0wMmViZWRhYmJhMGMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiZndWY0lEMkNvcHBhIjoiMGI5NGRkOGMtYWNjOS0xMWYxLWJhYTEtMDAwZDNhZDM0YmRiIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwYjk0ZGQ4Yy1hY2M5LTExZjEtYmFhMS0wMDBkM2FkMzRiZGIiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5MDExNDkwOTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TUdJNU5HUmtPR010WVdOak9TMHhNV1l4TFdKaFlURXRNREF3WkROaFpETTBZbVJpIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTA5Nzg5MCwiaWF0IjoxNzg5MDExNDkwLCJqdGkiOiJmNGViNGQxMy1jMmViLTQzMTktYjU1ZS0xY2EzZDkxM2Y4MDkifQ.hEXkLUbmCS_dMGoWi5FTDOsOBWENaD3Hi4vUgoQoHOQ&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true"
     },
     {
       "name": "France 24 Français HD",

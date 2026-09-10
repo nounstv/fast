@@ -86,6 +86,10 @@ def check_stream_liveness(url, timeout=5.0, retries=1):
                 status = resp.status
                 content = resp.read(256)
                 ct = resp.headers.get("Content-Type", "").lower()
+                if "sua.tv" in url.lower():
+                    return False, status, "Scrambled TS (sua.tv)", elapsed
+                if content.startswith(b'{"code":') or content.startswith(b'{"error":'):
+                    return False, status, "JSON Error", elapsed
                 if status in (200, 206):
                     return True, status, f"OK ({elapsed:.0f}ms)", elapsed
                 return False, status, f"HTTP {status}", elapsed
@@ -339,9 +343,10 @@ def mine_substitute_streams(target_name, community_playlists):
     # Mapas de canais conhecidos
     known_seeds = {
         "globo": [
-            "http://hls1.sua.tv/live/globospfhd/s.m3u8",
-            "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
             "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
+        ],
+        "cultura": [
+            "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8"
         ],
         "sbt": [
             "https://media.cdntvms.com.br/sbt_sat/index.m3u8",
@@ -357,7 +362,6 @@ def mine_substitute_streams(target_name, community_playlists):
         ],
         "redetv": [
             "http://45.162.64.114/REDE_TV/index.m3u8",
-            "http://hls1.sua.tv/live/redetvfhd/s.m3u8",
             "http://170.83.49.66:8083/REDETVHD/index.m3u8"
         ],
         "warner": [
@@ -377,22 +381,17 @@ def mine_substitute_streams(target_name, community_playlists):
         ],
         "space": [
             "http://45.162.64.114/SPACE/index.m3u8",
-            "http://170.83.49.66:8083/SPACEHD/index.m3u8",
-            "http://hls1.sua.tv/live/spacefhd/s.m3u8"
+            "http://170.83.49.66:8083/SPACEHD/index.m3u8"
         ],
         "axn": [
-            "http://170.83.49.66:8083/AXNHD/index.m3u8",
-            "http://hls1.sua.tv/live/axnfhd/s.m3u8"
+            "http://170.83.49.66:8083/AXNHD/index.m3u8"
         ],
         "espn": [
             "http://45.162.64.114/ESPN_BRASIL/index.m3u8",
-            "http://170.83.49.66:8083/ESPNBRASILHD/index.m3u8",
-            "http://hls1.sua.tv/live/espnfhd/s.m3u8"
+            "http://170.83.49.66:8083/ESPNBRASILHD/index.m3u8"
         ],
         "jovempan": [
-            "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8",
-            "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
-            "http://hls1.sua.tv/live/jovempannewsfhd/s.m3u8"
+            "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
         ]
     }
 
@@ -451,8 +450,12 @@ def sync_all_files():
     pairs = [
         (TV_M3U_FAST, TV_M3U_PUBLIC),
         (TV_M3U_FAST, TV_M3U_DIST),
+        (TV_JSON_FAST, os.path.join(PUBLIC_DIR, "top100_curada_regioes.json")),
+        (TV_JSON_FAST, os.path.join(DIST_DIR, "top100_curada_regioes.json")),
         (RADIO_M3U_FAST, RADIO_M3U_PUBLIC),
-        (RADIO_M3U_FAST, RADIO_M3U_DIST)
+        (RADIO_M3U_FAST, RADIO_M3U_DIST),
+        (RADIO_JSON_FAST, os.path.join(PUBLIC_DIR, "top_radios_curadas.json")),
+        (RADIO_JSON_FAST, os.path.join(DIST_DIR, "top_radios_curadas.json"))
     ]
 
     for src, dst in pairs:
