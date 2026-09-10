@@ -2,7 +2,7 @@
   "Brasil": [
     {
       "name": "TV Globo Rio de Janeiro",
-      "category": "Aberta;Geral",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png",
       "tvg_id": "TVGlobo.br@RioDeJaneiro",
@@ -10,7 +10,7 @@
     },
     {
       "name": "SBT Nacional",
-      "category": "Aberta;Variedades",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SBT_logo.svg/960px-SBT_logo.svg.png",
       "tvg_id": "SBT.br@Nacional",
@@ -18,7 +18,7 @@
     },
     {
       "name": "SBT News",
-      "category": "Notícias",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
       "tvg_id": "SBTNews.br@SD",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Record TV",
-      "category": "Aberta;Geral",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Record_logo_2023.svg/960px-Record_logo_2023.svg.png",
       "tvg_id": "Record.br@SD",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Record News",
-      "category": "Notícias",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Record_News_logo_2024.png/960px-Record_News_logo_2024.png",
       "tvg_id": "RecordNews.br@SD",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Band HD",
-      "category": "Aberta;Geral",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rede_Bandeirantes_2018.svg/960px-Rede_Bandeirantes_2018.svg.png",
       "tvg_id": "Band.br@SD",
@@ -50,7 +50,7 @@
     },
     {
       "name": "TV Cultura (Cultura Fast)",
-      "category": "Cultura;Educativo",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://i.imgur.com/nm0jXMM.png",
       "tvg_id": "CulturaFast.br@SD",
@@ -58,7 +58,7 @@
     },
     {
       "name": "CNN Brasil",
-      "category": "Notícias 24h",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/960px-CNN_Brasil_logo.svg.png",
       "tvg_id": "CNNBrasil.br@SD",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Jovem Pan News",
-      "category": "Notícias",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
       "tvg_id": "JovemPanNews.br@SD",
@@ -74,7 +74,7 @@
     },
     {
       "name": "RedeTV!",
-      "category": "Aberta;Geral",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RedeTV%21_logo_2017.svg/960px-RedeTV%21_logo_2017.svg.png",
       "tvg_id": "RedeTV.br@SD",
@@ -82,7 +82,7 @@
     },
     {
       "name": "TV Brasil",
-      "category": "Pública;Educativo",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",
       "tvg_id": "TVBrasil.br@SD",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Canal Futura",
-      "category": "Educação;Cultura",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
       "tvg_id": "Futura.br@SD",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Canal UOL",
-      "category": "Notícias;Entretenimento",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
       "tvg_id": "CanalUOL.br@SD",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Arte 1 (Grupo Band)",
-      "category": "Arte;Cultura",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://i.imgur.com/kR1w2Wp.png",
       "tvg_id": "Arte1.br@SD",
@@ -114,7 +114,7 @@
     },
     {
       "name": "AgroMais (Grupo Band)",
-      "category": "Agronegócio;Economia",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://i.imgur.com/sYFfR4K.png",
       "tvg_id": "AgroMais.br@SD",
@@ -122,7 +122,7 @@
     },
     {
       "name": "AgroCanal",
-      "category": "Agronegócio",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://i.imgur.com/t3r56o1.png",
       "tvg_id": "AgroCanal.br@SD",
@@ -130,7 +130,7 @@
     },
     {
       "name": "A&E Brasil",
-      "category": "Séries;Documentários",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
       "tvg_id": "AELatinAmerica.us@Brazil",
@@ -138,7 +138,7 @@
     },
     {
       "name": "AXN Brasil",
-      "category": "Ação;Séries",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "tvg_id": "AXN.br@SD",
@@ -146,7 +146,7 @@
     },
     {
       "name": "AMC Brasil",
-      "category": "Cinema;Filmes",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
       "tvg_id": "AMCLatinAmerica.us@Brazil",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Adult Swim Brasil",
-      "category": "Animação Adulta",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
       "tvg_id": "AdultSwimLatinAmerica.us@Brazil",
@@ -162,7 +162,7 @@
     },
     {
       "name": "BandNews TV",
-      "category": "Notícias 24h",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BandNews_TV_2018.svg/960px-BandNews_TV_2018.svg.png",
       "tvg_id": "BandNews.br@SD",
@@ -170,7 +170,7 @@
     },
     {
       "name": "TV Gazeta",
-      "category": "Aberta;Geral",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV_Gazeta_logo.svg/960px-TV_Gazeta_logo.svg.png",
       "tvg_id": "TVGazeta.br@SD",
@@ -178,7 +178,7 @@
     },
     {
       "name": "ESPN Brasil",
-      "category": "Esportes",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
       "tvg_id": "ESPN.br@SD",
@@ -186,7 +186,7 @@
     },
     {
       "name": "Discovery Channel Brasil",
-      "category": "Documentários;Ciência",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/960px-Discovery_Channel_2019.svg.png",
       "tvg_id": "DiscoveryChannel.br@SD",
@@ -194,7 +194,7 @@
     },
     {
       "name": "Animal Planet Brasil",
-      "category": "Natureza;Animais",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_2018.svg/960px-Animal_Planet_2018.svg.png",
       "tvg_id": "AnimalPlanet.br@SD",
@@ -202,7 +202,7 @@
     },
     {
       "name": "History Channel Brasil",
-      "category": "História;Documentários",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png",
       "tvg_id": "History.br@SD",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Warner Channel Brasil",
-      "category": "Séries;Filmes",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Warner_Channel_logo_2024.png/960px-Warner_Channel_logo_2024.png",
       "tvg_id": "WarnerChannel.br@SD",
@@ -218,7 +218,7 @@
     },
     {
       "name": "Space Brasil",
-      "category": "Filmes;Ação",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Space_logo_2020.svg/960px-Space_logo_2020.svg.png",
       "tvg_id": "Space.br@SD",
@@ -226,17 +226,97 @@
     },
     {
       "name": "Cartoon Network Brasil",
-      "category": "Animação;Infantil",
+      "category": "Brasil",
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "tvg_id": "CartoonNetwork.br@SD",
       "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
+    },
+    {
+      "name": "GloboNews",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/GloboNews_logo_2021.svg/960px-GloboNews_logo_2021.svg.png",
+      "tvg_id": "GloboNews.br@SD",
+      "url": "http://hls1.sua.tv/live/globonewsfhd/s.m3u8"
+    },
+    {
+      "name": "SporTV",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SporTV_2021.svg/960px-SporTV_2021.svg.png",
+      "tvg_id": "SporTV.br@SD",
+      "url": "http://hls1.sua.tv/live/sportvfhd/s.m3u8"
+    },
+    {
+      "name": "Canal GOAT",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://i.imgur.com/7Y2x8tA.png",
+      "tvg_id": "CanalGOAT.br@SD",
+      "url": "https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8"
+    },
+    {
+      "name": "GE TV (Globo Esporte)",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Globoesporte.com_logo.svg/960px-Globoesporte.com_logo.svg.png",
+      "tvg_id": "GETV.br@SD",
+      "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8"
+    },
+    {
+      "name": "TNT",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+      "tvg_id": "TNT.br@SD",
+      "url": "http://hls1.sua.tv/live/tntfhd/s.m3u8"
+    },
+    {
+      "name": "Megapix",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megapix_logo_2020.svg/960px-Megapix_logo_2020.svg.png",
+      "tvg_id": "Megapix.br@SD",
+      "url": "http://hls1.sua.tv/live/megapixfhd/s.m3u8"
+    },
+    {
+      "name": "Sony One Cinema",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sony_Channel_logo_%282019%29.svg/960px-Sony_Channel_logo_%282019%29.svg.png",
+      "tvg_id": "SonyOneCinema.br@SD",
+      "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Qwest TV (by Quincy Jones)",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qwest_TV_logo.png/960px-Qwest_TV_logo.png",
+      "tvg_id": "QwestTV.us@SD",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8"
+    },
+    {
+      "name": "One Piece (24/7)",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://i.imgur.com/Y4N0r1s.png",
+      "tvg_id": "OnePiece.jp@SD",
+      "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+    },
+    {
+      "name": "Naruto (24/7)",
+      "category": "Brasil",
+      "country": "BR",
+      "logo": "https://i.imgur.com/Y4N0r1s.png",
+      "tvg_id": "Naruto.jp@SD",
+      "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
     }
   ],
   "Estados Unidos": [
     {
       "name": "ABC News Live",
-      "category": "News;Live",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ABC_News_Live_2021_logo.svg/960px-ABC_News_Live_2021_logo.svg.png",
       "tvg_id": "ABCNewsLive.us@SD",
@@ -244,7 +324,7 @@
     },
     {
       "name": "CBS News 24/7",
-      "category": "News;Live",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News_24-7_logo.svg/960px-CBS_News_24-7_logo.svg.png",
       "tvg_id": "CBSNews.us@SD",
@@ -252,7 +332,7 @@
     },
     {
       "name": "NBC News NOW",
-      "category": "News;Live",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NBC_News_NOW_2023.svg/960px-NBC_News_NOW_2023.svg.png",
       "tvg_id": "NBCNewsNOW.us@SD",
@@ -260,7 +340,7 @@
     },
     {
       "name": "Scripps News 24/7",
-      "category": "News;National",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/vH1N7xL.png",
       "tvg_id": "ScrippsNews.us@SD",
@@ -268,7 +348,7 @@
     },
     {
       "name": "Cheddar News",
-      "category": "Business;News",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/qDq5HjS.png",
       "tvg_id": "CheddarNews.us@SD",
@@ -276,7 +356,7 @@
     },
     {
       "name": "Yahoo! Finance Live",
-      "category": "Finance;Markets",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/2Xy5E4S.png",
       "tvg_id": "YahooFinance.us@SD",
@@ -284,7 +364,7 @@
     },
     {
       "name": "AccuWeather Now (1080p)",
-      "category": "Weather",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/X0kZ4k5.png",
       "tvg_id": "AccuWeatherNOW.us@SD",
@@ -292,7 +372,7 @@
     },
     {
       "name": "Fox Weather (720p)",
-      "category": "Weather;Live",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
       "tvg_id": "FoxWeather.us@SD",
@@ -300,7 +380,7 @@
     },
     {
       "name": "Law & Crime Network",
-      "category": "Legal;True Crime",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/pZzZ0uM.png",
       "tvg_id": "LawCrime.us@SD",
@@ -308,7 +388,7 @@
     },
     {
       "name": "Red Bull TV US (1080p)",
-      "category": "Sports;Action",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/X8D1Uf2.png",
       "tvg_id": "RedBullTV.us@SD",
@@ -316,7 +396,7 @@
     },
     {
       "name": "Reuters TV Global",
-      "category": "News;World",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/mEwO1lU.png",
       "tvg_id": "Reuters.us@SD",
@@ -324,7 +404,7 @@
     },
     {
       "name": "Newsmax 2 (1080p)",
-      "category": "News;Politics",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/vH9Z1iP.png",
       "tvg_id": "Newsmax2.us@SD",
@@ -332,7 +412,7 @@
     },
     {
       "name": "PBS Antiques Roadshow",
-      "category": "Culture;Appraisal",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/6UeK8kP.png",
       "tvg_id": "PBSAntiquesRoadshow.us@SD",
@@ -340,7 +420,7 @@
     },
     {
       "name": "CBS 48 Hours Live",
-      "category": "Documentary;Investigation",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/7o4c8zQ.png",
       "tvg_id": "CBS48Hours.us@SD",
@@ -348,7 +428,7 @@
     },
     {
       "name": "A&E US (720p)",
-      "category": "Entertainment;Reality",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
       "tvg_id": "AE.us@SD",
@@ -356,7 +436,7 @@
     },
     {
       "name": "History Hit US (1080p)",
-      "category": "History;Documentary",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/vH9Z1iP.png",
       "tvg_id": "HistoryHit.us@SD",
@@ -364,7 +444,7 @@
     },
     {
       "name": "FailArmy Official (1080p)",
-      "category": "Comedy;Viral",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/Y4N0r1s.png",
       "tvg_id": "FailArmy.us@SD",
@@ -372,7 +452,7 @@
     },
     {
       "name": "Weathernews Live (720p)",
-      "category": "Weather;World",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/sA5s1eS.png",
       "tvg_id": "Weathernews.us@SD",
@@ -380,7 +460,7 @@
     },
     {
       "name": "30A TV Classic Movies",
-      "category": "Movies;Classics",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/eE1Z1vL.png",
       "tvg_id": "30ATVClassicMovies.us@SD",
@@ -388,7 +468,7 @@
     },
     {
       "name": "30A Sidewalks Live",
-      "category": "Entertainment;Talk",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://i.imgur.com/eE1Z1vL.png",
       "tvg_id": "30ASidewalks.us@SD",
@@ -396,7 +476,7 @@
     },
     {
       "name": "NASA TV HD",
-      "category": "Science;Space;Education",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/960px-NASA_logo.svg.png",
       "tvg_id": "NASATV.us@SD",
@@ -404,17 +484,25 @@
     },
     {
       "name": "Bloomberg Quicktake",
-      "category": "News;Business;Tech",
+      "category": "Estados Unidos",
       "country": "US",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bloomberg_Quicktake_logo.svg/960px-Bloomberg_Quicktake_logo.svg.png",
       "tvg_id": "BloombergQuicktake.us@SD",
       "url": "https://bloomberg.com/media-manifest/streams/qt.m3u8"
+    },
+    {
+      "name": "Smithsonian Channel",
+      "category": "Estados Unidos",
+      "country": "US",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Smithsonian_Channel_logo_2013.svg/960px-Smithsonian_Channel_logo_2013.svg.png",
+      "tvg_id": "SmithsonianChannel.us@SD",
+      "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
     }
   ],
   "América Latina": [
     {
       "name": "Telefe Buenos Aires (1080p)",
-      "category": "General;Entretenimiento",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_logo_2018.svg/960px-Telefe_logo_2018.svg.png",
       "tvg_id": "Telefe.ar@BuenosAires",
@@ -422,7 +510,7 @@
     },
     {
       "name": "Canal 26 Noticias (Argentina)",
-      "category": "Noticias 24h",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://i.imgur.com/gO0tHjN.png",
       "tvg_id": "Canal26.ar@SD",
@@ -430,7 +518,7 @@
     },
     {
       "name": "C5N (Argentina)",
-      "category": "Noticias 24h",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C5N_logo_2023.svg/960px-C5N_logo_2023.svg.png",
       "tvg_id": "C5N.ar@SD",
@@ -438,7 +526,7 @@
     },
     {
       "name": "América TV (Argentina)",
-      "category": "Noticias 24h",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Am%C3%A9rica_TV_logo_2020.svg/960px-Am%C3%A9rica_TV_logo_2020.svg.png",
       "tvg_id": "AmericaTV.ar@SD",
@@ -446,7 +534,7 @@
     },
     {
       "name": "24 Horas TVN Chile",
-      "category": "Noticias;Pública",
+      "category": "América Latina",
       "country": "CL",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/24_Horas_TVN_logo_2020.svg/960px-24_Horas_TVN_logo_2020.svg.png",
       "tvg_id": "24Horas.cl@SD",
@@ -454,7 +542,7 @@
     },
     {
       "name": "El Trece HD (Argentina)",
-      "category": "General;Abierta",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_Trece_logo_2016.svg/960px-El_Trece_logo_2016.svg.png",
       "tvg_id": "ElTrece.ar@SD",
@@ -462,7 +550,7 @@
     },
     {
       "name": "ADN 40 (México)",
-      "category": "Noticias",
+      "category": "América Latina",
       "country": "MX",
       "logo": "https://i.imgur.com/7Y2x8tA.png",
       "tvg_id": "ADN40.mx@SD",
@@ -470,7 +558,7 @@
     },
     {
       "name": "Azteca Internacional (1080p)",
-      "category": "General;Entretenimiento",
+      "category": "América Latina",
       "country": "MX",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/TV_Azteca_logo_2020.svg/960px-TV_Azteca_logo_2020.svg.png",
       "tvg_id": "AztecaInternacional.mx@SD",
@@ -478,7 +566,7 @@
     },
     {
       "name": "Azteca Deportes Network (1080p)",
-      "category": "Deportes",
+      "category": "América Latina",
       "country": "MX",
       "logo": "https://i.imgur.com/7Y2x8tA.png",
       "tvg_id": "AztecaDeportes.mx@SD",
@@ -486,7 +574,7 @@
     },
     {
       "name": "Latina Televisión (Perú)",
-      "category": "General;Abierta",
+      "category": "América Latina",
       "country": "PE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Latina_Televisi%C3%B3n_logo_2019.svg/960px-Latina_Televisi%C3%B3n_logo_2019.svg.png",
       "tvg_id": "Latina.pe@SD",
@@ -494,7 +582,7 @@
     },
     {
       "name": "Latina Noticias 24/7 (1080p)",
-      "category": "Noticias",
+      "category": "América Latina",
       "country": "PE",
       "logo": "https://i.imgur.com/3N8f7yC.png",
       "tvg_id": "LatinaNoticias.pe@SD",
@@ -502,7 +590,7 @@
     },
     {
       "name": "A24 Noticias (Argentina)",
-      "category": "Noticias 24h",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A24_logo_2021.svg/960px-A24_logo_2021.svg.png",
       "tvg_id": "A24.ar@SD",
@@ -510,7 +598,7 @@
     },
     {
       "name": "TV Pública Fueguina (Argentina)",
-      "category": "Pública;Cultura",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://i.imgur.com/qE4l5bV.png",
       "tvg_id": "TVPublicaFueguina.ar@SD",
@@ -518,7 +606,7 @@
     },
     {
       "name": "Chile Channel TV (Chile)",
-      "category": "Variedades;Música",
+      "category": "América Latina",
       "country": "CL",
       "logo": "https://i.imgur.com/4gW5E3x.png",
       "tvg_id": "ChileChannel.cl@SD",
@@ -526,7 +614,7 @@
     },
     {
       "name": "Concepción TV (Chile)",
-      "category": "General;Regional",
+      "category": "América Latina",
       "country": "CL",
       "logo": "https://i.imgur.com/tY7r2oQ.png",
       "tvg_id": "ConcepcionTV.cl@SD",
@@ -534,7 +622,7 @@
     },
     {
       "name": "Argentinísima Satelital (Argentina)",
-      "category": "Cultura;Folclore",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://i.imgur.com/s6O7PqB.png",
       "tvg_id": "Argentinisima.ar@SD",
@@ -542,7 +630,7 @@
     },
     {
       "name": "Aire de Santa Fe (Argentina)",
-      "category": "General;Noticias",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://i.imgur.com/hR7v0wG.png",
       "tvg_id": "AireDeSantaFe.ar@SD",
@@ -550,7 +638,7 @@
     },
     {
       "name": "24/7 Canal de Noticias (Argentina)",
-      "category": "Noticias",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://i.imgur.com/vL5h7tA.png",
       "tvg_id": "Canal247.ar@SD",
@@ -558,7 +646,7 @@
     },
     {
       "name": "AXN Latin America South",
-      "category": "Series;Acción",
+      "category": "América Latina",
       "country": "AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "tvg_id": "AXNLatinAmerica.us@South",
@@ -566,7 +654,7 @@
     },
     {
       "name": "Zona Latina (Chile)",
-      "category": "Música;Jóvenes",
+      "category": "América Latina",
       "country": "CL",
       "logo": "https://i.imgur.com/4gW5E3x.png",
       "tvg_id": "ZonaLatina.cl@SD",
@@ -574,7 +662,7 @@
     },
     {
       "name": "Las Estrellas (México)",
-      "category": "General;Telenovelas",
+      "category": "América Latina",
       "country": "MX",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Las_Estrellas_logo.svg/960px-Las_Estrellas_logo.svg.png",
       "tvg_id": "LasEstrellas.mx@SD",
@@ -582,7 +670,7 @@
     },
     {
       "name": "Caracol Televisión HD (Colômbia)",
-      "category": "General;Entretenimiento",
+      "category": "América Latina",
       "country": "CO",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caracol_Televisi%C3%B3n_logo.svg/960px-Caracol_Televisi%C3%B3n_logo.svg.png",
       "tvg_id": "CaracolTV.co@SD",
@@ -590,7 +678,7 @@
     },
     {
       "name": "Canal RCN (Colômbia)",
-      "category": "General;Producción",
+      "category": "América Latina",
       "country": "CO",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_RCN_logo_2019.svg/960px-Canal_RCN_logo_2019.svg.png",
       "tvg_id": "CanalRCN.co@SD",
@@ -600,7 +688,7 @@
   "Europa": [
     {
       "name": "BBC News",
-      "category": "News;World",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/960px-BBC_News_2022.svg.png",
       "tvg_id": "BBCNews.uk@SD",
@@ -608,7 +696,7 @@
     },
     {
       "name": "Sky News",
-      "category": "News;Live",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sky_News_logo_2021.svg/960px-Sky_News_logo_2021.svg.png",
       "tvg_id": "SkyNews.uk@SD",
@@ -616,7 +704,7 @@
     },
     {
       "name": "France 24 Français HD",
-      "category": "Actualités;Monde",
+      "category": "Europa",
       "country": "FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png",
       "tvg_id": "France24.fr@French",
@@ -624,7 +712,7 @@
     },
     {
       "name": "France 24 Español HD",
-      "category": "Noticias;Mundo",
+      "category": "Europa",
       "country": "FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png",
       "tvg_id": "France24.fr@Spanish",
@@ -632,7 +720,7 @@
     },
     {
       "name": "RTVE La 1 (España)",
-      "category": "General;Pública",
+      "category": "Europa",
       "country": "ES",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/La_1_de_RTVE_logo_2008.svg/960px-La_1_de_RTVE_logo_2008.svg.png",
       "tvg_id": "La1.es@SD",
@@ -640,7 +728,7 @@
     },
     {
       "name": "RTVE La 2 (España)",
-      "category": "Cultura;Documentales",
+      "category": "Europa",
       "country": "ES",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/La_2_de_RTVE_logo_2008.svg/960px-La_2_de_RTVE_logo_2008.svg.png",
       "tvg_id": "La2.es@SD",
@@ -648,7 +736,7 @@
     },
     {
       "name": "RTP Internacional",
-      "category": "Pública;Geral",
+      "category": "Europa",
       "country": "PT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RTP_Internacional_2016.svg/960px-RTP_Internacional_2016.svg.png",
       "tvg_id": "RTPInternacional.pt@SD",
@@ -656,7 +744,7 @@
     },
     {
       "name": "Rai News 24 (Itália)",
-      "category": "Notizie;Mondo",
+      "category": "Europa",
       "country": "IT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rai_News_24_logo_%282017%29.svg/960px-Rai_News_24_logo_%282017%29.svg.png",
       "tvg_id": "RaiNews24.it@SD",
@@ -664,7 +752,7 @@
     },
     {
       "name": "Telemadrid HD (España)",
-      "category": "General;Noticias",
+      "category": "Europa",
       "country": "ES",
       "logo": "https://i.imgur.com/oA2p1eW.png",
       "tvg_id": "Telemadrid.es@SD",
@@ -672,7 +760,7 @@
     },
     {
       "name": "CNBC Europe Live HD",
-      "category": "Business;Markets",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://i.imgur.com/5U5h3cM.png",
       "tvg_id": "CNBCEurope.uk@SD",
@@ -680,7 +768,7 @@
     },
     {
       "name": "DW (Deutsche Welle) HD",
-      "category": "News;International",
+      "category": "Europa",
       "country": "DE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/960px-Deutsche_Welle_logo.svg.png",
       "tvg_id": "DW.de@SD",
@@ -688,7 +776,7 @@
     },
     {
       "name": "Euronews Français HD",
-      "category": "News;Europe",
+      "category": "Europa",
       "country": "FR",
       "logo": "https://i.imgur.com/yN9t3qC.png",
       "tvg_id": "Euronews.fr@French",
@@ -696,7 +784,7 @@
     },
     {
       "name": "Arte HD Europe",
-      "category": "Culture;Cinema",
+      "category": "Europa",
       "country": "FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Arte_logo_2017.svg/960px-Arte_logo_2017.svg.png",
       "tvg_id": "Arte.fr@SD",
@@ -704,7 +792,7 @@
     },
     {
       "name": "Autentic History HD",
-      "category": "History;Documentary",
+      "category": "Europa",
       "country": "DE",
       "logo": "https://i.imgur.com/vH9Z1iP.png",
       "tvg_id": "AutenticHistory.de@SD",
@@ -712,7 +800,7 @@
     },
     {
       "name": "Autentic Travel & Discovery HD",
-      "category": "Travel;Lifestyle",
+      "category": "Europa",
       "country": "DE",
       "logo": "https://i.imgur.com/3K4i4zP.png",
       "tvg_id": "AutenticTravel.de@SD",
@@ -720,7 +808,7 @@
     },
     {
       "name": "Adventure Earth HD",
-      "category": "Documentary;Nature",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://i.imgur.com/mO2v7zP.png",
       "tvg_id": "AdventureEarth.uk@SD",
@@ -728,7 +816,7 @@
     },
     {
       "name": "Get.Factual Documentaries HD",
-      "category": "Documentary;Science",
+      "category": "Europa",
       "country": "DE",
       "logo": "https://i.imgur.com/6UeK8kP.png",
       "tvg_id": "GetFactual.de@SD",
@@ -736,7 +824,7 @@
     },
     {
       "name": "Clubbing TV UK",
-      "category": "Music;Electronic",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://i.imgur.com/X8D1Uf2.png",
       "tvg_id": "ClubbingTV.uk@SD",
@@ -744,7 +832,7 @@
     },
     {
       "name": "Deadly Women Channel HD",
-      "category": "Crime;Investigation",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://i.imgur.com/7o4c8zQ.png",
       "tvg_id": "DeadlyWomen.uk@SD",
@@ -752,7 +840,7 @@
     },
     {
       "name": "FailArmy Europe HD",
-      "category": "Comedy;Viral",
+      "category": "Europa",
       "country": "UK",
       "logo": "https://i.imgur.com/Y4N0r1s.png",
       "tvg_id": "FailArmy.uk@SD",
@@ -760,7 +848,7 @@
     },
     {
       "name": "DW English HD (Deutsche Welle)",
-      "category": "News;International;Documentaries",
+      "category": "Europa",
       "country": "DE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/960px-Deutsche_Welle_logo.svg.png",
       "tvg_id": "DWEnglish.de@SD",
@@ -770,7 +858,7 @@
   "Ásia": [
     {
       "name": "NHK General TV HD (Japão)",
-      "category": "Pública;Notícias",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png",
       "tvg_id": "NHKGeneral.jp@SD",
@@ -778,7 +866,7 @@
     },
     {
       "name": "Nippon TV (NTV Japão)",
-      "category": "General;Entretenimento",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nippon_Television_logo_2014.svg/960px-Nippon_Television_logo_2014.svg.png",
       "tvg_id": "NipponTV.jp@SD",
@@ -786,7 +874,7 @@
     },
     {
       "name": "NHK World Japan HD",
-      "category": "General;Variedades",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png",
       "tvg_id": "NHKWorldJapan.jp@SD",
@@ -794,23 +882,23 @@
     },
     {
       "name": "TV Asahi HD (Japão)",
-      "category": "General;Anime",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TV_Asahi_Logo.svg/960px-TV_Asahi_Logo.svg.png",
       "tvg_id": "TVAsahi.jp@SD",
       "url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
     },
     {
-      "name": "TBS Tokyo Broadcasting (Japão)",
-      "category": "General;Drama",
+      "name": "Nippon TV (NTV Japão)",
+      "category": "Ásia",
       "country": "JP",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TBS_logo_2020.svg/960px-TBS_logo_2020.svg.png",
-      "tvg_id": "TBSTokyo.jp@SD",
-      "url": "https://tbs5.mov3.co/hls/tbs.m3u8"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nippon_TV_logo_2014.svg/960px-Nippon_TV_logo_2014.svg.png",
+      "tvg_id": "NTV.jp@SD",
+      "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
     },
     {
       "name": "TV Tokyo HD (Japão)",
-      "category": "Anime;Cultura Pop",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TV_Tokyo_logo_2023.svg/960px-TV_Tokyo_logo_2023.svg.png",
       "tvg_id": "TVTokyo.jp@SD",
@@ -818,7 +906,7 @@
     },
     {
       "name": "CNA Originals (Channel NewsAsia)",
-      "category": "News;Pan-Asia",
+      "category": "Ásia",
       "country": "SG",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNA_logo_2019.svg/960px-CNA_logo_2019.svg.png",
       "tvg_id": "CNA.sg@SD",
@@ -826,7 +914,7 @@
     },
     {
       "name": "KBS World (Coreia do Sul)",
-      "category": "General;Hallyu",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KBS_World_logo.svg/960px-KBS_World_logo.svg.png",
       "tvg_id": "KBSWorld.kr@SD",
@@ -834,7 +922,7 @@
     },
     {
       "name": "CGTN (China Global Television)",
-      "category": "News;International",
+      "category": "Ásia",
       "country": "CN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CGTN_logo.svg/960px-CGTN_logo.svg.png",
       "tvg_id": "CGTN.cn@SD",
@@ -842,7 +930,7 @@
     },
     {
       "name": "Al Jazeera English / Arabic",
-      "category": "News;Middle East",
+      "category": "Ásia",
       "country": "QA",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_English_logo.svg/960px-Al_Jazeera_English_logo.svg.png",
       "tvg_id": "AlJazeera.qa@SD",
@@ -850,7 +938,7 @@
     },
     {
       "name": "India Today Live",
-      "category": "News;South Asia",
+      "category": "Ásia",
       "country": "IN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/India_Today_logo.svg/960px-India_Today_logo.svg.png",
       "tvg_id": "IndiaToday.in@SD",
@@ -858,7 +946,7 @@
     },
     {
       "name": "Arirang TV Korea (HD)",
-      "category": "Notícias;K-Culture",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arirang_TV_logo.svg/960px-Arirang_TV_logo.svg.png",
       "tvg_id": "ArirangTV.kr@SD",
@@ -866,7 +954,7 @@
     },
     {
       "name": "Arirang World 1080p",
-      "category": "K-Pop;Cultura",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arirang_TV_logo.svg/960px-Arirang_TV_logo.svg.png",
       "tvg_id": "ArirangWorld.kr@SD",
@@ -874,7 +962,7 @@
     },
     {
       "name": "Weathernews Live HD (Japão)",
-      "category": "Clima;Informação",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://i.imgur.com/7D2x1vA.png",
       "tvg_id": "Weathernews.jp@SD",
@@ -882,7 +970,7 @@
     },
     {
       "name": "TBS Seoul (Coreia do Sul)",
-      "category": "General;Metropolitano",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://i.imgur.com/yK1v4rA.png",
       "tvg_id": "TBSSeoul.kr@SD",
@@ -890,7 +978,7 @@
     },
     {
       "name": "ABN TV Korea HD",
-      "category": "Notícias Regionais",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://i.imgur.com/yK1v4rA.png",
       "tvg_id": "ABNTV.kr@SD",
@@ -898,7 +986,7 @@
     },
     {
       "name": "Gugak TV Korean Arts HD",
-      "category": "Música Tradicional;Artes",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://i.imgur.com/s6O7PqB.png",
       "tvg_id": "GugakTV.kr@SD",
@@ -906,7 +994,7 @@
     },
     {
       "name": "CJ OnStyle Korea HD",
-      "category": "Moda;Lifestyle",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://i.imgur.com/hR7v0wG.png",
       "tvg_id": "CJOnStyle.kr@SD",
@@ -914,7 +1002,7 @@
     },
     {
       "name": "GS Shop Korea 1080p",
-      "category": "Compras;Tendências",
+      "category": "Ásia",
       "country": "KR",
       "logo": "https://i.imgur.com/tY7r2oQ.png",
       "tvg_id": "GSShop.kr@SD",
@@ -922,7 +1010,7 @@
     },
     {
       "name": "QVC Japan HD",
-      "category": "Compras;Casa",
+      "category": "Ásia",
       "country": "JP",
       "logo": "https://i.imgur.com/sA5s1eS.png",
       "tvg_id": "QVCJapan.jp@SD",

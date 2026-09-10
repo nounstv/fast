@@ -71,33 +71,39 @@ HEADERS = {
 # HELPERS DE REDE & PARSERS M3U
 # ==============================================================================
 
-def check_stream_liveness(url, timeout=4.5):
+def check_stream_liveness(url, timeout=5.0, retries=1):
     """
     Testa se uma URL de streaming de vídeo/áudio responde com sucesso.
     Retorna (alive: bool, status: int, message: str, elapsed_ms: float).
     """
     start = time.time()
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=timeout, context=SSL_CTX) as resp:
+    for attempt in range(retries + 1):
+        try:
+            cur_timeout = timeout + (2.0 if attempt > 0 else 0)
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=cur_timeout, context=SSL_CTX) as resp:
+                elapsed = (time.time() - start) * 1000
+                status = resp.status
+                content = resp.read(256)
+                ct = resp.headers.get("Content-Type", "").lower()
+                if status in (200, 206):
+                    return True, status, f"OK ({elapsed:.0f}ms)", elapsed
+                return False, status, f"HTTP {status}", elapsed
+        except urllib.error.HTTPError as e:
             elapsed = (time.time() - start) * 1000
-            status = resp.status
-            content = resp.read(256)
-            ct = resp.headers.get("Content-Type", "").lower()
-            if status in (200, 206):
-                return True, status, f"OK ({elapsed:.0f}ms)", elapsed
-            return False, status, f"HTTP {status}", elapsed
-    except urllib.error.HTTPError as e:
-        elapsed = (time.time() - start) * 1000
-        return False, e.code, f"HTTP {e.code}", elapsed
-    except Exception as e:
-        elapsed = (time.time() - start) * 1000
-        msg = str(e)
-        if "timed out" in msg.lower():
-            msg = "Timeout"
-        elif "nodename nor servname" in msg.lower():
-            msg = "DNS Fail"
-        return False, 0, msg[:30], elapsed
+            return False, e.code, f"HTTP {e.code}", elapsed
+        except Exception as e:
+            elapsed = (time.time() - start) * 1000
+            msg = str(e)
+            if "timed out" in msg.lower():
+                if attempt < retries:
+                    time.sleep(0.3)
+                    continue
+                msg = "Timeout"
+            elif "nodename nor servname" in msg.lower():
+                msg = "DNS Fail"
+            return False, 0, msg[:30], elapsed
+    return False, 0, "Timeout", (time.time() - start) * 1000
 
 def parse_m3u_file(filepath):
     """Lê um arquivo M3U e retorna lista de dicts com dados de cada item."""

@@ -2,7 +2,7 @@
 
 
 # ==========================================
-# BRASIL (CANAIS MAIS ASSISTIDOS - 29)
+# BRASIL (CANAIS MAIS ASSISTIDOS - 39)
 # ==========================================
 
 #EXTINF:-1 tvg-id="TVGlobo.br@RioDeJaneiro" tvg-name="TV Globo Rio de Janeiro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png" group-title="Brasil" tvg-country="BR",TV Globo Rio de Janeiro
@@ -64,8 +64,29 @@ http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.br@SD" tvg-name="Cartoon Network Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Brasil" tvg-country="BR",Cartoon Network Brasil
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-name="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/GloboNews_logo_2021.svg/960px-GloboNews_logo_2021.svg.png" group-title="Brasil" tvg-country="BR",GloboNews
+http://hls1.sua.tv/live/globonewsfhd/s.m3u8
+#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SporTV_2021.svg/960px-SporTV_2021.svg.png" group-title="Brasil" tvg-country="BR",SporTV
+http://hls1.sua.tv/live/sportvfhd/s.m3u8
+#EXTINF:-1 tvg-id="CanalGOAT.br@SD" tvg-name="Canal GOAT" tvg-logo="https://i.imgur.com/7Y2x8tA.png" group-title="Brasil" tvg-country="BR",Canal GOAT
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+#EXTINF:-1 tvg-id="GETV.br@SD" tvg-name="GE TV (Globo Esporte)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Globoesporte.com_logo.svg/960px-Globoesporte.com_logo.svg.png" group-title="Brasil" tvg-country="BR",GE TV (Globo Esporte)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="TNT.br@SD" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Brasil" tvg-country="BR",TNT
+http://hls1.sua.tv/live/tntfhd/s.m3u8
+#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megapix_logo_2020.svg/960px-Megapix_logo_2020.svg.png" group-title="Brasil" tvg-country="BR",Megapix
+http://hls1.sua.tv/live/megapixfhd/s.m3u8
+#EXTINF:-1 tvg-id="SonyOneCinema.br@SD" tvg-name="Sony One Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sony_Channel_logo_%282019%29.svg/960px-Sony_Channel_logo_%282019%29.svg.png" group-title="Brasil" tvg-country="BR",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTV.us@SD" tvg-name="Qwest TV (by Quincy Jones)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qwest_TV_logo.png/960px-Qwest_TV_logo.png" group-title="Brasil" tvg-country="BR",Qwest TV (by Quincy Jones)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="OnePiece.jp@SD" tvg-name="One Piece (24/7)" tvg-logo="https://i.imgur.com/Y4N0r1s.png" group-title="Brasil" tvg-country="BR",One Piece (24/7)
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+#EXTINF:-1 tvg-id="Naruto.jp@SD" tvg-name="Naruto (24/7)" tvg-logo="https://i.imgur.com/Y4N0r1s.png" group-title="Brasil" tvg-country="BR",Naruto (24/7)
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+
 # ==========================================
-# ESTADOS UNIDOS (CANAIS MAIS ASSISTIDOS - 22)
+# ESTADOS UNIDOS (CANAIS MAIS ASSISTIDOS - 23)
 # ==========================================
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ABC_News_Live_2021_logo.svg/960px-ABC_News_Live_2021_logo.svg.png" group-title="Estados Unidos" tvg-country="US",ABC News Live
@@ -112,6 +133,9 @@ https://30a-tv.com/sidewalks.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us@SD" tvg-name="Bloomberg Quicktake" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bloomberg_Quicktake_logo.svg/960px-Bloomberg_Quicktake_logo.svg.png" group-title="Estados Unidos" tvg-country="US",Bloomberg Quicktake
 https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@SD" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Smithsonian_Channel_logo_2013.svg/960px-Smithsonian_Channel_logo_2013.svg.png" group-title="Estados Unidos" tvg-country="US",Smithsonian Channel
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 
 # ==========================================
 # AMÉRICA LATINA (CANAIS MAIS ASSISTIDOS - 23)
@@ -223,8 +247,8 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp@SD" tvg-name="TV Asahi HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TV_Asahi_Logo.svg/960px-TV_Asahi_Logo.svg.png" group-title="Ásia" tvg-country="JP",TV Asahi HD (Japão)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="TBSTokyo.jp@SD" tvg-name="TBS Tokyo Broadcasting (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TBS_logo_2020.svg/960px-TBS_logo_2020.svg.png" group-title="Ásia" tvg-country="JP",TBS Tokyo Broadcasting (Japão)
-https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="NTV.jp@SD" tvg-name="Nippon TV (NTV Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nippon_TV_logo_2014.svg/960px-Nippon_TV_logo_2014.svg.png" group-title="Ásia" tvg-country="JP",Nippon TV (NTV Japão)
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp@SD" tvg-name="TV Tokyo HD (Japão)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TV_Tokyo_logo_2023.svg/960px-TV_Tokyo_logo_2023.svg.png" group-title="Ásia" tvg-country="JP",TV Tokyo HD (Japão)
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA Originals (Channel NewsAsia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNA_logo_2019.svg/960px-CNA_logo_2019.svg.png" group-title="Ásia" tvg-country="SG",CNA Originals (Channel NewsAsia)
