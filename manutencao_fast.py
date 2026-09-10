@@ -206,10 +206,10 @@ def run_mongo_eval(js_code):
     cmd = [
         "ssh", "-o", "ConnectTimeout=5", "-o", "BatchMode=yes",
         SSH_SERVER,
-        f"mongosh '{MONGO_URI}' --quiet --eval '{js_code}'"
+        f"mongosh '{MONGO_URI}' --quiet --file /dev/stdin"
     ]
     try:
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=15)
+        res = subprocess.run(cmd, input=js_code, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=20)
         if res.returncode == 0:
             return res.stdout.strip()
         print(f"{CLR_RED}Erro SSH/Mongo: {res.stderr.strip()}{CLR_RESET}")
@@ -260,11 +260,12 @@ def resolve_official_reports_in_mongo():
 def remove_dead_or_reported_playlist(list_url):
     """Remove uma lista pública morta ou denunciada do MongoDB."""
     print(f"\n{CLR_YELLOW}Removendo playlist comunitária: {list_url}{CLR_RESET}")
-    escaped_url = list_url.replace("'", "\\'")
+    target_url = json.dumps(list_url)
     js = f"""
-    const delList = db.fast_lists.deleteMany({{ url: '{escaped_url}' }});
+    const targetUrl = {target_url};
+    const delList = db.fast_lists.deleteMany({{ url: targetUrl }});
     const updRep = db.fast_reports.updateMany(
-        {{ listUrl: '{escaped_url}', status: 'pending' }},
+        {{ listUrl: targetUrl, status: 'pending' }},
         {{ $set: {{ status: 'resolved', description: 'Lista removida da comunidade por indisponibilidade/denúncia.' }} }}
     );
     print(JSON.stringify({{ deletedLists: delList.deletedCount, resolvedReports: updRep.modifiedCount }}));
