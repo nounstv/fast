@@ -507,15 +507,48 @@ def interactive_menu():
                         remove_dead_or_reported_playlist(dl.get("url"))
         elif choice == "5":
             reports = get_reports_from_mongo()
-            print(f"\nTotal de denúncias no MongoDB: {len(reports)}")
+            print(f"\n{CLR_CYAN}{CLR_BOLD}=== GESTÃO DE DENÚNCIAS NO MONGODB (fast_reports) ==={CLR_RESET}")
+            print(f"Total de denúncias no banco: {len(reports)}")
             pending = [r for r in reports if r.get("status") == "pending"]
             print(f"Denúncias pendentes: {len(pending)}")
-            for p in pending:
-                print(f"  - [{p.get('reason')}] {p.get('listUrl')} ({p.get('createdAt')[:10]})")
             
-            sub_c = input(f"\nDeseja resolver denúncias das listas oficiais (top100/iptvlist)? (s/n): ").strip().lower()
-            if sub_c == "s":
-                resolve_official_reports_in_mongo()
+            # Separar por listas oficiais vs listas da comunidade
+            official_regex = re.compile(r"top100|iptvlist|iptvradios", re.IGNORECASE)
+            official_pending = [r for r in pending if official_regex.search(r.get("listUrl", ""))]
+            community_pending = [r for r in pending if not official_regex.search(r.get("listUrl", ""))]
+            
+            if community_pending:
+                print(f"\n{CLR_YELLOW}{CLR_BOLD}Playlists da Comunidade Denunciadas ({len(community_pending)}):{CLR_RESET}")
+                seen_comm = set()
+                for p in community_pending:
+                    u = p.get("listUrl", "")
+                    if u not in seen_comm:
+                        seen_comm.add(u)
+                        print(f"  - [{p.get('reason')}] {u} ({p.get('createdAt', '')[:10]})")
+                
+                sub_del = input(f"\n{CLR_RED}Deseja REMOVER essas playlists da comunidade do MongoDB (fast_lists) e encerrar as denúncias? (s/n): {CLR_RESET}").strip().lower()
+                if sub_del == "s":
+                    for u in seen_comm:
+                        remove_dead_or_reported_playlist(u)
+            
+            if official_pending:
+                print(f"\n{CLR_CYAN}{CLR_BOLD}Denúncias de Listas Oficiais (top100/iptvlist - {len(official_pending)}):{CLR_RESET}")
+                for p in official_pending:
+                    print(f"  - [{p.get('reason')}] {p.get('listUrl')} ({p.get('createdAt', '')[:10]})")
+                
+                sub_off = input(f"\nDeseja marcar como resolvidas as denúncias das listas oficiais? (s/n): ").strip().lower()
+                if sub_off == "s":
+                    resolve_official_reports_in_mongo()
+            
+            if not pending:
+                print(f"{CLR_GREEN}✓ Nenhuma denúncia pendente no MongoDB.{CLR_RESET}")
+            
+            # Opção de remoção manual avulsa de qualquer lista por URL
+            manual_rem = input(f"\nDeseja remover manualmente alguma playlist por URL agora? (s/n): ").strip().lower()
+            if manual_rem == "s":
+                target_u = input("Cole a URL da lista que deseja excluir do MongoDB: ").strip()
+                if target_u:
+                    remove_dead_or_reported_playlist(target_u)
         elif choice == "6":
             sync_all_files()
         elif choice == "0":
