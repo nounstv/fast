@@ -6,7 +6,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png",
       "tvg_id": "TVGlobo.br@RioDeJaneiro",
-      "url": "http://45.190.28.50/GLOBO_HD/index.m3u8"
+      "url": "http://hls1.sua.tv/live/globospfhd/s.m3u8"
     },
     {
       "name": "SBT Nacional",
@@ -14,7 +14,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SBT_logo.svg/960px-SBT_logo.svg.png",
       "tvg_id": "SBT.br@Nacional",
-      "url": "http://45.190.28.50/SBT_HD/index.m3u8"
+      "url": "https://media.cdntvms.com.br/sbt_sat/index.m3u8"
     },
     {
       "name": "SBT News",
@@ -30,7 +30,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Record_logo_2023.svg/960px-Record_logo_2023.svg.png",
       "tvg_id": "Record.br@SD",
-      "url": "http://45.190.28.50/RECORD/index.m3u8"
+      "url": "https://media.cdntvms.com.br/record_nacional_sat/index.m3u8"
     },
     {
       "name": "Record News",
@@ -46,7 +46,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rede_Bandeirantes_2018.svg/960px-Rede_Bandeirantes_2018.svg.png",
       "tvg_id": "Band.br@SD",
-      "url": "http://45.190.28.50/BAND_HD/index.m3u8"
+      "url": "https://media.cdntvms.com.br/band_sat/index.m3u8"
     },
     {
       "name": "TV Cultura (Cultura Fast)",
@@ -70,7 +70,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
       "tvg_id": "JovemPanNews.br@SD",
-      "url": "http://45.190.28.50/JP_NEWS/index.m3u8"
+      "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
     },
     {
       "name": "RedeTV!",
@@ -78,7 +78,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RedeTV%21_logo_2017.svg/960px-RedeTV%21_logo_2017.svg.png",
       "tvg_id": "RedeTV.br@SD",
-      "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
+      "url": "http://45.162.64.114/REDE_TV/index.m3u8"
     },
     {
       "name": "TV Brasil",
@@ -134,7 +134,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
       "tvg_id": "AELatinAmerica.us@Brazil",
-      "url": "http://45.190.28.50/AE_HD/index.m3u8"
+      "url": "http://170.83.16.50/AeE/index.m3u8"
     },
     {
       "name": "AXN Brasil",
@@ -142,7 +142,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "tvg_id": "AXN.br@SD",
-      "url": "http://45.190.28.50/AXN_HD/index.m3u8"
+      "url": "http://170.83.49.66:8083/AXNHD/index.m3u8"
     },
     {
       "name": "AMC Brasil",
@@ -158,7 +158,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
       "tvg_id": "AdultSwimLatinAmerica.us@Brazil",
-      "url": "http://45.190.28.50/TRUTV_HD/index.m3u8"
+      "url": "http://45.162.64.114/ADULT_SWIM/index.m3u8"
     },
     {
       "name": "BandNews TV",
@@ -182,7 +182,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
       "tvg_id": "ESPN.br@SD",
-      "url": "http://45.190.28.50/ESPN_HD/index.m3u8"
+      "url": "http://45.162.64.114/ESPN_BRASIL/index.m3u8"
     },
     {
       "name": "Discovery Channel Brasil",
@@ -190,7 +190,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/960px-Discovery_Channel_2019.svg.png",
       "tvg_id": "DiscoveryChannel.br@SD",
-      "url": "http://45.190.28.50/DISCOVERY_HD/index.m3u8"
+      "url": "http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8"
     },
     {
       "name": "Animal Planet Brasil",
@@ -206,7 +206,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/960px-History_Logo.svg.png",
       "tvg_id": "History.br@SD",
-      "url": "http://45.190.28.50/HISTORY_HD/index.m3u8"
+      "url": "http://170.83.49.66:8083/HISTORYCHANNELHD/index.m3u8"
     },
     {
       "name": "Warner Channel Brasil",
@@ -214,7 +214,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Warner_Channel_logo_2024.png/960px-Warner_Channel_logo_2024.png",
       "tvg_id": "WarnerChannel.br@SD",
-      "url": "http://45.190.28.50/WARNER_HD/index.m3u8"
+      "url": "http://170.83.49.66:8083/WARNERCHANNELHD/index.m3u8"
     },
     {
       "name": "Space Brasil",
@@ -222,7 +222,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Space_logo_2020.svg/960px-Space_logo_2020.svg.png",
       "tvg_id": "Space.br@SD",
-      "url": "http://45.190.28.50/SPACE_HD/index.m3u8"
+      "url": "http://45.162.64.114/SPACE/index.m3u8"
     },
     {
       "name": "Cartoon Network Brasil",
@@ -230,7 +230,7 @@
       "country": "BR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "tvg_id": "CartoonNetwork.br@SD",
-      "url": "http://45.190.28.50/CARTOON_HD/index.m3u8"
+      "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
     }
   ],
   "Estados Unidos": [
@@ -437,12 +437,12 @@
       "url": "http://45.134.141.161:2200/ARG/C5N/index.m3u8"
     },
     {
-      "name": "TN (Todo Noticias)",
+      "name": "América TV (Argentina)",
       "category": "Noticias 24h",
       "country": "AR",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/960px-TN_todo_noticias_logo.svg.png",
-      "tvg_id": "TN.ar@SD",
-      "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Am%C3%A9rica_TV_logo_2020.svg/960px-Am%C3%A9rica_TV_logo_2020.svg.png",
+      "tvg_id": "AmericaTV.ar@SD",
+      "url": "http://45.134.141.161:2200/ARG/America_TV/index.m3u8"
     },
     {
       "name": "24 Horas TVN Chile",
@@ -612,7 +612,7 @@
       "country": "UK",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sky_News_logo_2021.svg/960px-Sky_News_logo_2021.svg.png",
       "tvg_id": "SkyNews.uk@SD",
-      "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:SkyNewsWeatherLive_1001-200001_hls.stream/playlist.m3u8"
+      "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
     },
     {
       "name": "France 24 Français HD",
@@ -628,7 +628,7 @@
       "country": "FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_24_logo_2013.svg/960px-France_24_logo_2013.svg.png",
       "tvg_id": "France24.fr@Spanish",
-      "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master.m3u8"
+      "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8"
     },
     {
       "name": "RTVE La 1 (España)",
@@ -785,12 +785,12 @@
       "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
     },
     {
-      "name": "Fuji TV HD (Japão)",
+      "name": "NHK World Japan HD",
       "category": "General;Variedades",
       "country": "JP",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Fuji_Television_logo.svg/960px-Fuji_Television_logo.svg.png",
-      "tvg_id": "FujiTV.jp@SD",
-      "url": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png",
+      "tvg_id": "NHKWorldJapan.jp@SD",
+      "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8"
     },
     {
       "name": "TV Asahi HD (Japão)",
@@ -822,7 +822,7 @@
       "country": "SG",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNA_logo_2019.svg/960px-CNA_logo_2019.svg.png",
       "tvg_id": "CNA.sg@SD",
-      "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist/amg01082-cna-cna-rlaxxus/playlist.m3u8"
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
     },
     {
       "name": "KBS World (Coreia do Sul)",
