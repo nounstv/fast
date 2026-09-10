@@ -245,13 +245,13 @@ def get_reports_from_mongo():
     return []
 
 def resolve_official_reports_in_mongo():
-    """Marca como resolvidas denúncias pendentes das listas oficiais recuperadas."""
+    """Marca como resolvidas denúncias pendentes das listas oficiais recuperadas (iptvpublic)."""
     print(f"\n{CLR_CYAN}Resolvendo denúncias de listas oficiais no MongoDB...{CLR_RESET}")
     js = """
     const res = db.fast_reports.updateMany(
         { 
             status: "pending", 
-            listUrl: { $regex: "top100|iptvlist|iptvradios", $options: "i" } 
+            listUrl: { $regex: "iptvpublic\\\\.github\\\\.io/iptv/iptv", $options: "i" } 
         },
         { $set: { status: "resolved", description: "Links auditados e atualizados pela ferramenta de manutenção FAST." } }
     );
@@ -265,12 +265,24 @@ def remove_dead_or_reported_playlist(list_url):
     """Remove uma lista pública morta ou denunciada do MongoDB."""
     print(f"\n{CLR_YELLOW}Removendo playlist comunitária: {list_url}{CLR_RESET}")
     target_url = json.dumps(list_url)
+    is_nounstv = "nounstv" in list_url.lower() or "gist.github" in list_url.lower()
+    
     js = f"""
     const targetUrl = {target_url};
-    const delList = db.fast_lists.deleteMany({{ url: targetUrl }});
+    const query = {{"$or": [{{ url: targetUrl }}]}};
+    if ({str(is_nounstv).lower()}) {{
+        query["$or"].push({{ url: {{ $regex: "nounstv", $options: "i" }} }});
+        query["$or"].push({{ url: {{ $regex: "gist.githubusercontent.com", $options: "i" }} }});
+    }}
+    const delList = db.fast_lists.deleteMany(query);
     const updRep = db.fast_reports.updateMany(
-        {{ listUrl: targetUrl, status: 'pending' }},
-        {{ $set: {{ status: 'resolved', description: 'Lista removida da comunidade por indisponibilidade/denúncia.' }} }}
+        {{ 
+            $or: [
+                {{ listUrl: targetUrl, status: 'pending' }},
+                ...( {str(is_nounstv).lower()} ? [{{ listUrl: {{ $regex: 'nounstv|gist', $options: 'i' }}, status: 'pending' }}] : [] )
+            ]
+        }},
+        {{ $set: {{ status: 'resolved', description: 'Lista removida da comunidade por indisponibilidade, denúncia ou conformidade de marca.' }} }}
     );
     print(JSON.stringify({{ deletedLists: delList.deletedCount, resolvedReports: updRep.modifiedCount }}));
     """
@@ -311,6 +323,12 @@ def audit_community_playlists():
         url = l.get("url", "")
         count = l.get("count", 0)
         l_type = l.get("type", "tv")
+        is_forbidden = "nounstv" in url.lower() or "gist.github" in url.lower()
+        if is_forbidden:
+            print(f" {CLR_RED}✗ [{l_type.upper():5s} | {count:4d} views]{CLR_RESET} {url[:65]} -> {CLR_RED}PROIBIDA (marca nounstv/gist){CLR_RESET}")
+            dead_lists.append(l)
+            continue
+
         status_color = CLR_GREEN if alive else CLR_RED
         symbol = "✓" if alive else "✗"
         print(f" {status_color}{symbol} [{l_type.upper():5s} | {count:4d} views]{CLR_RESET} {url[:65]} -> {status_color}{msg}{CLR_RESET}")
@@ -514,10 +532,8 @@ def interactive_menu():
             
             def is_official(url):
                 u = (url or "").lower()
-                if "gist.github" in u:
-                    return False
-                if "nounstv.com" in u and "top100" in u:
-                    return True
+                # As únicas listas oficiais são do repositório neutro iptvpublic.github.io
+                # Nenhuma URL com 'nounstv' ou 'gist' é oficial.
                 if "iptvpublic.github.io" in u and ("iptvlist" in u or "iptvradios" in u):
                     return True
                 return False
