@@ -512,10 +512,18 @@ def interactive_menu():
             pending = [r for r in reports if r.get("status") == "pending"]
             print(f"Denúncias pendentes: {len(pending)}")
             
-            # Separar por listas oficiais vs listas da comunidade
-            official_regex = re.compile(r"top100|iptvlist|iptvradios", re.IGNORECASE)
-            official_pending = [r for r in pending if official_regex.search(r.get("listUrl", ""))]
-            community_pending = [r for r in pending if not official_regex.search(r.get("listUrl", ""))]
+            def is_official(url):
+                u = (url or "").lower()
+                if "gist.github" in u:
+                    return False
+                if "nounstv.com" in u and "top100" in u:
+                    return True
+                if "iptvpublic.github.io" in u and ("iptvlist" in u or "iptvradios" in u):
+                    return True
+                return False
+
+            official_pending = [r for r in pending if is_official(r.get("listUrl", ""))]
+            community_pending = [r for r in pending if not is_official(r.get("listUrl", ""))]
             
             if community_pending:
                 print(f"\n{CLR_YELLOW}{CLR_BOLD}Playlists da Comunidade Denunciadas ({len(community_pending)}):{CLR_RESET}")
